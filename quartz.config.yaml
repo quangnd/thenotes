@@ -157,6 +157,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      display: desktop-only
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -165,11 +166,13 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
+      display: desktop-only
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
       position: right
       priority: 30
+      display: desktop-only
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -202,6 +205,7 @@ plugins:
       position: left
       priority: 35
       group: toolbar
+      display: desktop-only
   - source: github:quartz-community/breadcrumbs
     enabled: false
     layout:
