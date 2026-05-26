@@ -1,0 +1,69 @@
+---
+aliases:
+  - §Hệ thống viết ghi chú
+---
+
+- Các nguyên tắc:
+	- [[Evergreen note-writing as fundamental unit of knowledge work|Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
+		- [[“Better note-taking” misses the point; what matters is “better thinking”|"Ghi chú tốt hơn" không đúng trọng tâm; điều quan trọng là "tư duy tốt hơn"]]
+		- [[Knowledge work should accrete|Công việc tri thức nên tích lũy]]
+	- [[Note-writing practices are generally ineffective|Cách viết ghi chú thông thường không hiệu quả]]
+		- [[Note-writing practices provide weak feedback|Cách viết ghi chú thường cho phản hồi yếu]]
+- Đọc và viết ghi chú
+	- [[Write about what you read|Viết về thứ mình đọc]]
+		- [[Evergreen note-writing helps reading efforts accumulate|Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
+			- [[Collecting material feels more useful than it usually is|Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
+		- [[Do your own thinking|Tự suy nghĩ đi]]
+			- [[Understanding requires effortful engagement|Muốn hiểu thì phải bỏ công]]
+			- [[Writing forces sharper understanding|Viết buộc ta hiểu sắc hơn]]
+	- [[How to collect observations while reading|Cách thu thập quan sát khi đọc]]
+		- [[Literature notes are secondary and separate|Ghi chú văn liệu là thứ yếu và tách biệt]]
+	- [[How to process reading annotations into evergreen notes|Cách xử lý chú thích đọc thành ghi chú thường xanh]]
+		- [[Pocket memo pad to capture into writing inbox while out|Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]]
+	- [[A writing inbox for transient and incomplete notes|Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
+	- [[A reading inbox to capture possibly-useful references|Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]
+		- [[Inboxes shouldn't be split into multiple places|Hộp thư không nên chia thành nhiều nơi]]
+		- [[Beware automatic import into the reading inbox|Cẩn thận khi tự động đưa vào hộp thư đọc]]
+		- [[Use phones to collect and triage, not (usually) to read|Dùng điện thoại để thu thập và phân loại, không phải để đọc]]
+- Suy nghĩ và viết ghi chú
+	- [[Evergreen note-writing helps insight accumulate|Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
+		- [[Spaced repetition may be a helpful tool to incrementally develop inklings|Dùng lặp lại ngắt quãng để nuôi dần những ý tưởng mơ hồ]]
+		- [[Leaps of insight emerge from prior thought|Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]
+	- [[Brainstorming may often substitute for missing insight accretion systems|Động não thường là thứ thay thế cho hệ thống tích lũy hiểu biết sâu sắc còn thiếu]]
+	- [[Evergreen notes are a safe place to develop wild ideas|Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]]
+	- [[Evergreen notes can increase conversational bandwidth|Ghi chú thường xanh giúp tăng băng thông hội thoại]]
+		- [[Conversations incorporating multiple discussants' evergreen notes may promote collaborative sense-making|Trò chuyện kết hợp ghi chú thường xanh của nhiều người có thể thúc đẩy kiến tạo ý nghĩa chung]]
+- Viết và viết ghi chú
+	- [[Executable strategy for writing|Chiến lược thực thi cho việc viết]]
+		- [[Create speculative outlines while you write|Tạo dàn ý suy đoán trong khi viết]]
+		- [[Evergreen notes lower the emotional stakes in editing manuscripts|Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]]
+		- [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)|Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết ("viết gia tăng")]]
+- Cấu trúc của các ghi chú
+	- [[Evergreen notes|Ghi chú thường xanh]]
+		- [[Most people take only transient notes|Hầu hết mọi người chỉ ghi chú tạm thời]]
+		- [[Evergreen note maintenance approximates spaced repetition|Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]
+	- [[Evergreen notes should be concept-oriented|Ghi chú thường xanh nên hướng khái niệm]]
+		- [[Evergreen notes should be atomic|Ghi chú thường xanh nên atomic]]
+		- [[Evergreen note titles are like APIs|Tiêu đề ghi chú thường xanh giống như API]]
+			- [[Prefer positive note titles to promote systematic theory|Ưu tiên tiêu đề ghi chú tích cực để xây lý thuyết có hệ thống]]
+			- [[Prefer note titles with complete phrases to sharpen claims|Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm]]
+	- [[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]
+	- [[Notes should surprise you|Ghi chú nên làm bạn ngạc nhiên]]
+- Cấu trúc liên kết trong các hệ thống quản lý kiến thức cá nhân (PKM)
+	- [[Prefer associative ontologies to hierarchical taxonomies|Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
+	- [[Tags are an ineffective association structure|Thẻ là cấu trúc liên kết kém hiệu quả]]
+		- [[Indexed references vs. tags|Tài liệu tham khảo được lập chỉ mục so với thẻ]]
+- Ý nghĩa
+- Mối quan hệ với hệ thống tài liệu tham khảo
+	- Tạo siêu liên kết đến kho lưu trữ tài liệu tham khảo của tôi
+	- [[Advantages and disadvantages of using notes to form associations in content|Ưu và nhược điểm của việc dùng ghi chú để tạo liên kết trong nội dung]]
+- Công cụ
+	- [[Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making|Hệ thống ghi chú số chỉ chăm chăm vào từng ghi chú riêng lẻ, bỏ quên việc tạo nghĩa giữa các ghi chú]]
+	- Giá trị của văn bản thuần túy
+	- ID văn bản thuần túy để liên kết nội dung
+	- Là kết nối con người trong một hệ thống không có ứng dụng
+- Lịch sử / cộng đồng
+	- [[Zettelkasten]]
+	- Luhmann
+	- Christian và Sascha
+	- [[How to Take Smart Notes - Ahrens]]
