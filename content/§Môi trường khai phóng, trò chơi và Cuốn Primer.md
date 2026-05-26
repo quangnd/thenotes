@@ -1,6 +1,6 @@
 ---
 aliases:
-  - §Môi trường khai phóng, trò chơi và Cuốn Primer
+  - §Enabling environments, games, and the Primer
 ---
 
 Tôi nghĩ có một cách đóng khung mạnh hơn việc đặt Cuốn Primer làm trọng tâm: đặt trọng tâm bài luận vào việc mở rộng các môi trường tăng trưởng cao.

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Viết về thứ mình đọc
+  - Write about what you read
 ---
 
 Hãy viết về thứ mình đọc:

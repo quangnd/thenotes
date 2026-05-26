@@ -1,6 +1,6 @@
 ---
 aliases:
-  - §Coi trọng công việc tri thức (bài nói tại Stripe, 2019-12-12)
+  - §Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)
 ---
 
 ### Dàn ý bài nói

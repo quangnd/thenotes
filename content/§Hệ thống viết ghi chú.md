@@ -1,6 +1,6 @@
 ---
 aliases:
-  - §Hệ thống viết ghi chú
+  - §Note-writing systems
 ---
 
 - Các nguyên tắc:

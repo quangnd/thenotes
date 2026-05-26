@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tự viết thẻ lặp lại ngắt quãng của mình dường như thúc đẩy sự hiểu biết
+  - Writing one’s own spaced repetition prompts seems to promote understanding
 ---
 
 ==TODO==

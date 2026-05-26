@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó
+  - Writing good spaced repetition memory prompts is hard
 ---
 
 Mọi người coi thẻ ghi nhớ là thứ gì đó tầm thường từ thời đi học, vì vậy họ không coi việc viết thẻ một cách nghiêm túc. Nhưng viết các thẻ tốt cho [[Hệ thống ghi nhớ lặp lại ngắt quãng]] thực sự rất khó. Ví dụ, các thẻ tốt:

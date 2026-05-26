@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn
+  - “Better note-taking” misses the point; what matters is “better thinking”
 ---
 
 Rất nhiều người viết về cách giải quyết vấn đề [[Cách viết ghi chú thông thường không hiệu quả]]. Phần lớn các bài viết đó mắc kẹt trong một khung nhìn thiển cận kiểu "life hack", chỉ xoay quanh những câu hỏi như: "tôi nên tổ chức ghi chú thế nào?", "nên dùng loại sổ tay nào?", "làm sao để dễ dàng lưu lại các đoạn trích từ thứ tôi đọc?", v.v.

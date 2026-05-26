@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ý tưởng đến từ đâu?
+  - Where do ideas come from_
 ---
 
 - [[Đổi mới mạnh mẽ thường tạo ra mô hình mới, không phải giải vấn đề của bối cảnh hiện tại]]

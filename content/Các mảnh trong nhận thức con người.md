@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Các mảnh trong nhận thức con người
+  - “Chunks” in human cognition
 ---
 
 Khi xem xét khả năng xử lý thông tin của con người, [[Dung lượng bộ nhớ làm việc phần lớn độc lập với độ phức tạp của mục]], vì vậy chúng ta phải phân biệt giữa *số lượng* mục đang được xử lý (một **"mảnh"**, bị giới hạn bởi [[Khoảng bộ nhớ làm việc]]) và *độ phức tạp* của mỗi mục (bị giới hạn riêng bởi [[Khoảng phán đoán tuyệt đối]]).

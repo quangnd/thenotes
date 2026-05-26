@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Tìm điều thú vị
+  - “Find the fun”
 ---
 
 Hoạt động trung tâm trong thiết kế trò chơi: "tìm điều thú vị" ("find the fun"). Mọi nguyên tắc, khung lý thuyết, hay quy trình đều chỉ là thứ yếu so với mục tiêu này. Tôi nghe cụm này lần đầu từ Daniel Cook.
