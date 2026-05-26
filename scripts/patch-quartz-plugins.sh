@@ -14,23 +14,34 @@ GRAPH_DIST_FILES=(
   "$ROOT/.quartz/plugins/graph/dist/components/index.js"
 )
 
-SEARCH='let u=window.location.pathname;'
-REPLACE='let u=decodeURIComponent(window.location.pathname);'
-
-for f in "${GRAPH_DIST_FILES[@]}"; do
+apply_patch() {
+  local f="$1" search="$2" replace="$3" label="$4"
   if [[ ! -f "$f" ]]; then
-    echo "skip (not found): $f"
-    continue
+    echo "skip $label (not found): $f"
+    return
   fi
-  if grep -qF "$REPLACE" "$f"; then
-    echo "already patched: $f"
-    continue
+  if grep -qF "$replace" "$f"; then
+    echo "already patched ($label): $f"
+    return
   fi
-  if ! grep -qF "$SEARCH" "$f"; then
-    echo "WARNING: search pattern not found in $f - upstream may have changed; review needed" >&2
+  if ! grep -qF "$search" "$f"; then
+    echo "WARNING: $label search pattern not found in $f - upstream may have changed" >&2
     exit 1
   fi
-  # Use Perl to avoid sed escaping quirks across BSD/GNU
-  perl -i -pe "s|\Q$SEARCH\E|$REPLACE|g" "$f"
-  echo "patched: $f"
+  perl -i -pe "s|\Q$search\E|$replace|g" "$f"
+  echo "patched $label: $f"
+}
+
+for f in "${GRAPH_DIST_FILES[@]}"; do
+  # 1) Decode percent-encoded URL pathnames so non-ASCII slugs resolve in the graph.
+  apply_patch "$f" \
+    'let u=window.location.pathname;' \
+    'let u=decodeURIComponent(window.location.pathname);' \
+    'url-decode'
+
+  # 2) Make node labels visible by default (Obsidian-style) instead of only on hover.
+  apply_patch "$f" \
+    'au.anchor.set(.5,1.2),au.alpha=0' \
+    'au.anchor.set(.5,1.2),au.alpha=1' \
+    'labels-always-visible'
 done
