@@ -1,8 +1,3 @@
----
-aliases:
-  - Execute Program
----
-
 https://www.executeprogram.com
 
 Execute Program cung cấp các bài học tương tác về các công cụ lập trình bởi [[Gary Bernhardt]]. Các bài học xen kẽ văn xuôi với các bài toán lập trình trực tiếp. Tương tự như [[Phương tiện ghi nhớ]], trang web tích hợp một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] để lặp lại các nhiệm vụ của bài học theo thời gian.

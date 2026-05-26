@@ -1,7 +1,3 @@
----
-aliases:
-  - RemNote
----
 [RemNote](https://www.remnote.io/homepage) là một [[Hệ thống viết ghi chú]] dựa trên web với mô hình tri thức có cấu trúc và các thao tác hạng nhất để chuyển đổi ghi chú thành [[Hệ thống ghi nhớ lặp lại ngắt quãng]], theo kiểu [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]].
 
 Nó cố gắng hiện thực hóa một mô hình tri thức rất cố chấp, nhưng nó quá theo nghĩa đen: mô hình có một tính hình thức mãnh liệt, áp đặt. Các ghi chú kết quả hoạt động cho các câu hỏi SRS, nhưng không phù hợp lắm cho văn xuôi.

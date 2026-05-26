@@ -1,7 +1,3 @@
----
-aliases:
-  - How to Take Smart Notes - Ahrens
----
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
 Một cuốn sách nền tảng về cách làm [[§Hệ thống viết ghi chú]]. Sönke tập trung chủ yếu vào lợi ích của Zettelkasten cho quy trình viết học thuật. Một trong những ý tưởng cốt lõi: viết sáng tạo có thể trở nên tương đối có dạng đóng và khả thi để hành động. Nó có thể thực thi được, theo kiểu GTD, qua một chuỗi các bước dựa trên hệ thống ghi chú liên kết dày đặc.

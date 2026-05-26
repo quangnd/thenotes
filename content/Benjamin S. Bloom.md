@@ -1,8 +1,3 @@
----
-aliases:
-  - Benjamin S. Bloom
----
-
 #### Liên kết ngược (Backlinks)
 - [[Mô hình phát triển tài năng ba giai đoạn của Bloom]]
 

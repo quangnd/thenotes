@@ -1,7 +1,3 @@
----
-aliases:
-  - Readwise
----
 Readwise là một dịch vụ cố gắng giúp bạn duy trì sự gắn kết với những ý tưởng thú vị mà bạn đã đọc. Nó trích xuất các đoạn đánh dấu từ Kindle, dịch vụ "đọc sau", sách giấy qua ảnh + OCR, v.v. Sau đó nó gửi cho bạn một email hàng ngày với một tập hợp ngẫu nhiên các đoạn đánh dấu đó để chúng được làm mới định kỳ trong tâm trí bạn.
 
 #### Chức năng giống Lặp lại ngắt quãng (SRS)

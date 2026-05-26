@@ -1,8 +1,3 @@
----
-aliases:
-  - Mochi
----
-
 [Mochi](https://mochi.cards/) là một [[Hệ thống viết ghi chú]] dựa trên web, lấy Markdown làm trung tâm, tích hợp [[Hệ thống ghi nhớ lặp lại ngắt quãng]]
 
 Theo một nghĩa hạn chế, Mochi cố gắng thực hiện các ý tưởng được mô tả trong [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]].

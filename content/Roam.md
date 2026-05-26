@@ -1,6 +1,1 @@
----
-aliases:
-  - Roam
----
-
 Trang trống.

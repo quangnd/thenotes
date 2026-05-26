@@ -1,7 +1,3 @@
----
-aliases:
-  - reMarkable
----
 reMarkable là một máy tính bảng sử dụng mực điện tử được thiết kế để đọc và viết.
 - Đọc và chú thích PDF trên bãi biển thực sự tuyệt vời. Đây là điểm quan trọng nhất.
 ![](https://notes.andymatuschak.org/BearImages/25462F15-C5A1-4F86-8399-4E9DC7C4B7F9-22496-0004AD0BB40E93A3/EBC2E7F5-F633-47CD-9CBA-D4F459350B27_1_105_c.jpeg)

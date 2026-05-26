@@ -1,6 +1,1 @@
----
-aliases:
-  - Piotr Wozniak
----
-
 Người tạo ra [[Supermemo]] và người phổ biến [[Hệ thống ghi nhớ lặp lại ngắt quãng]] và [[Đọc gia tăng]].

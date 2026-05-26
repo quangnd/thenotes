@@ -1,8 +1,3 @@
----
-aliases:
-  - Wu wei
----
-
 "Wu wei" là một khái niệm Trung Hoa, dịch đại ý là "hành động vô vi" (Wu wei is a Chinese concept which roughly translates to "effortless action.")
 
 Trong bối cảnh lịch sử, nó thường được dùng theo nghĩa tâm linh, mô tả một người hành xử với sự hài hòa, tự nhiên, dễ dàng. Nhưng tôi thấy đây là một đặc tính thú vị để theo đuổi trong thiết kế phần mềm.

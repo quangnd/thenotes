@@ -1,8 +1,3 @@
----
-aliases:
-  - Kawara
----
-
 [Kawara](https://www.kawara.app/) là một ứng dụng iOS được tạo ra vào đầu năm 2020, thu thập và trình bày nội dung định kỳ theo thời gian trong các phiên xem hàng ngày. Đây là một loại [[Lặp lại ngắt quãng cho mọi thứ]], không có bất kỳ hành động tương tác cụ thể nào với các mục — bạn chỉ xem một thứ và tiếp tục sang thứ tiếp theo.
 
 Giải thích một câu cho báo chí của họ:

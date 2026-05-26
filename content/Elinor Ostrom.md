@@ -1,8 +1,3 @@
----
-aliases:
-  - Elinor Ostrom
----
-
 --------
 
 #### Tài liệu tham khảo
