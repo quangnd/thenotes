@@ -343,9 +343,6 @@ export function renderPage(
     componentData.ctx.argv.serve || !cfg.baseUrl
       ? ""
       : new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
-  process.stderr.write(
-    `[debug-renderPage] serve=${componentData.ctx.argv.serve} baseUrl=${cfg.baseUrl} basePath=${basePath}\n`,
-  )
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
