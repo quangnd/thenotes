@@ -12,7 +12,7 @@ reMarkable là một máy tính bảng sử dụng mực điện tử được t
 - Để đưa sách vào thiết bị cần sử dụng máy tính và phá DRM.
 - Thiết kế hình dạng tuyệt vời: nhẹ, kích thước tốt, vật liệu tốt.
 - Thời lượng pin kém nhưng chấp nhận được.
-- Khá đắt ở mức $500... nhưng đã được giảm giá còn $279 vào tháng 5 năm 2020! Tôi đã trả lại của mình nhưng mua cái khác với giá thấp hơn.
+- Khá đắt ở mức \$500... nhưng đã được giảm giá còn \$279 vào tháng 5 năm 2020! Tôi đã trả lại của mình nhưng mua cái khác với giá thấp hơn.
 
 #### Đồng bộ hóa
 Tôi rất muốn đồng bộ thư viện trên ổ đĩa của mình với reMarkable. Tôi nghĩ mình sẽ phải dành ra một hai ngày và chỉ xây dựng chức năng đó.

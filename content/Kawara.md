@@ -16,7 +16,7 @@ Nhưng đó hoàn toàn không phải cách Kawara tự giới thiệu với ng�
 
 Đây là về trí nhớ, theo một nghĩa nào đó, nhưng theo cách nhẹ nhàng: "kawara doesn't let me {forget}, but doesn't {pressure} me to {remember}." (kawara không để tôi {quên}, nhưng cũng không {ép buộc} tôi phải {nhớ}.) Xem [[Cơ chế lặp lại ngắt quãng tạo ra cảm giác dễ dàng]].
 
-Nó được tạo ra bởi {Jon-Kyle Mohr}, một nghệ sĩ-công nghệ có trụ sở tại {Los Angeles}. Mô hình kinh doanh là đăng ký ${2}/tháng. Có vẻ như đây là một dự án phụ nhỏ của tác giả.
+Nó được tạo ra bởi {Jon-Kyle Mohr}, một nghệ sĩ-công nghệ có trụ sở tại {Los Angeles}. Mô hình kinh doanh là đăng ký \${2}/tháng. Có vẻ như đây là một dự án phụ nhỏ của tác giả.
 
 #### Cơ chế hoạt động (Mechanics)
 

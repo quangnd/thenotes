@@ -18,10 +18,10 @@ Tôi cũng dùng tập giấy này để [[Viết về thứ mình đọc]]. Khi
 Tập giấy gọn, bỏ túi dễ, bìa vinyl bền, nên tôi luôn mang theo một cái cùng với bút.
 
 Mua ở đâu
-- https://www.amazon.com/gp/product/B00T9CHYZO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 ($22,99 / 10, miễn phí vận chuyển với Prime)
-- [Maruman Mnemosyne N193A Memo Pad - Twin Ring - Modified A7 - 5 mm Rule | JetPens](https://www.jetpens.com/Maruman-Mnemosyne-N193A-Memo-Pad-Twin-Ring-Modified-A7-5-mm-Rule/pd/11413) ($2,10 / cái, phí vận chuyển đắt)
+- https://www.amazon.com/gp/product/B00T9CHYZO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 (\$22,99 / 10, miễn phí vận chuyển với Prime)
+- [Maruman Mnemosyne N193A Memo Pad - Twin Ring - Modified A7 - 5 mm Rule | JetPens](https://www.jetpens.com/Maruman-Mnemosyne-N193A-Memo-Pad-Twin-Ring-Modified-A7-5-mm-Rule/pd/11413) (\$2,10 / cái, phí vận chuyển đắt)
 
-Mỗi tập có 50 tờ, tính ra 4,5 xu một tờ. Không hẳn là rẻ. Một cuốn sách hay có thể tốn $2 để xử lý. Chấp nhận được.
+Mỗi tập có 50 tờ, tính ra 4,5 xu một tờ. Không hẳn là rẻ. Một cuốn sách hay có thể tốn \$2 để xử lý. Chấp nhận được.
 
 Tôi dùng bút Uni-ball Signo UM-151, giá khoảng một đô. Cầm cân, nắp chắc, bền, mực ra đều.
 

@@ -43,6 +43,6 @@ Vào ngày 2019/11/18, đã thêm một tính năng cho phép nhúng trực ti�
 
 #### Mô hình kinh doanh (Business model)
 
-Sản phẩm miễn phí khi sử dụng dưới dạng ứng dụng desktop. Đồng bộ hóa và ứng dụng web (để sử dụng trên thiết bị di động) có giá $3/tháng (danh nghĩa giảm từ $5/tháng, mặc dù đã ở mức giá này trong nhiều tháng). Một mô hình kinh doanh khó khăn: anh ấy cần 3K người dùng tích cực để đạt $100K ARR.
+Sản phẩm miễn phí khi sử dụng dưới dạng ứng dụng desktop. Đồng bộ hóa và ứng dụng web (để sử dụng trên thiết bị di động) có giá \$3/tháng (danh nghĩa giảm từ \$5/tháng, mặc dù đã ở mức giá này trong nhiều tháng). Một mô hình kinh doanh khó khăn: anh ấy cần 3K người dùng tích cực để đạt \$100K ARR.
 
 Tác giả là {Matthew Steedman}. Có trụ sở tại New York, chủ yếu làm việc tại các agency (bao gồm Code and Theory). Bằng BFA một phần về quảng cáo/thiết kế đồ họa.
