@@ -14,4 +14,4 @@ Chúng ta có thể gọi những văn bản có chiều thời gian được t�
 ---
 
 #### Tài liệu tham khảo (References)
-[[2020-07-28 - Văn bản theo thời gian]]
+[[Văn bản theo thời gian]]

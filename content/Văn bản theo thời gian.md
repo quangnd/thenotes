@@ -2,6 +2,7 @@
 aliases:
   - 2020-07-28 - Timeful texts
 ---
+## Văn bản theo thời gian (2020-07-28)
 
 Những cuốn sách mạnh mẽ nhất vượt khỏi trang giấy, vượt khỏi vài giờ đọc, và thay đổi vĩnh viễn cách người đọc nghiêm túc nhìn thế giới. Ít cuốn đạt được tầm ảnh hưởng đó, nhưng với giới hạn vật lý của mình, việc có cuốn nào làm được đã là đáng kinh ngạc. Là một phương tiện, sách không có cách trực tiếp nào để trò chuyện với người đọc theo thời gian. Văn bản vật lý mắc kẹt trên trang giấy, thường được đọc tuyến tính và liên tục trong vài lần ngồi xuống.
 

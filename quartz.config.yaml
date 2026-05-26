@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: ✍️ The notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -203,7 +203,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -217,7 +217,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -244,7 +244,7 @@ plugins:
         - description
         - tags
         - aliases
-      excludedProperties: []
+      excludedProperties: [aliases]
       hidePropertiesView: false
       delimiters: ---
       language: yaml

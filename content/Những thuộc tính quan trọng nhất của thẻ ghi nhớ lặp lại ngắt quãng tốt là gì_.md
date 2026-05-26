@@ -16,7 +16,7 @@ Ghi chú này tổng hợp các ý tưởng về cách mã hóa kiến thức v�
     - [[Tránh các câu nhắc có-không trong hệ thống ghi nhớ lặp lại ngắt quãng]]
 - [[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]]
 
-Liên quan: [[Ẩn dụ _bài luận phản chiếu_ cho mục tiêu của phương tiện ghi nhớ]]
+Liên quan: [[Ẩn dụ về bài luận phản chiếu cho mục tiêu của phương tiện ghi nhớ]]
 
 ---
 

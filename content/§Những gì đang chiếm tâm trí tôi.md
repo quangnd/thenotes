@@ -14,5 +14,5 @@ Giống như một [trang /now](https://sivers.org/nowff), nhưng với khung th
 - Coi trọng công việc tri thức
 	- [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]
 	- [[Công việc tri thức hiếm khi bao gồm luyện tập có chủ đích]]
-	- [[§Coi trọng công việc tri thức (bài nói tại Stripe, 2019-12-12)]]
+	- [[§Coi trọng công việc tri thức]]
 - [[Làm thế nào chúng ta có thể đặt công cụ tư duy trong những bối cảnh có ý nghĩa nội tại_]]
