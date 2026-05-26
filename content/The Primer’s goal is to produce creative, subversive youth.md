@@ -18,7 +18,7 @@ Người ta hay nhớ Cuốn Primer trong *The Diamond Age* như một thiết b
 
 Ông than rằng trường học của họ đang đào tạo ra một thế hệ đồng nhất, tẻ nhạt. Khát vọng của ông: "để nuôi dưỡng một thế hệ trẻ em có thể đạt đến tiềm năng đầy đủ của mình, chúng ta phải tìm cách làm cho cuộc sống của chúng thú vị." (tr. 24) Ngay sau đó, khi giao cho Hackworth tạo ra Cuốn Primer, chỉ dẫn chính của ông là: "Tôi muốn anh về nhà và suy ngẫm về ý nghĩa của từ *nổi loạn*." (tr. 81)
 
-Có một sự mỉa mai ở đây. Hầu hết mọi người nhớ Cuốn Primer vì các tính năng giáo dục của nó và quên mất mục tiêu thật sự. Nhưng theo một nghĩa nào đó, chính Cuốn Primer cũng quên mục tiêu thật sự của mình. Như được mô tả, [[The Primer is fundamentally an educational game|Cuốn Primer về bản chất là một trò chơi giáo dục]]. [[The Primer’s explicit learning quests teach Nell to delegate her curiosity and interest|Các nhiệm vụ học tập tường minh của Cuốn Primer dạy Nell ủy thác sự tò mò và hứng thú của mình]]. [[Nell doesn’t do any original thinking inside the Primer|Nell không suy nghĩ độc lập gì bên trong Cuốn Primer]].
+Có một sự mỉa mai ở đây. Hầu hết mọi người nhớ Cuốn Primer vì các tính năng giáo dục của nó và quên mất mục tiêu thật sự. Nhưng theo một nghĩa nào đó, chính Cuốn Primer cũng quên mục tiêu thật sự của mình. Như được mô tả, [[Cuốn Primer về cơ bản là một trò chơi giáo dục]]. [[Các nhiệm vụ học tập tường minh của Cuốn Primer dạy Nell ủy thác sự tò mò và hứng thú của mình]]. [[Nell không thực hiện bất kỳ suy nghĩ gì nguyên bản trong cuốn Primer]].
 
 ---
 

@@ -2,7 +2,7 @@
 aliases:
   - Lặp lại ngắt quãng mang lại lợi ích theo hàm mũ cho những gia tăng nhỏ trong nỗ lực
 ---
-[[Spaced repetition memory systems are extremely efficient|Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]], nhưng cụm từ đó không truyền đạt được bản chất của hiệu quả. Có rất nhiều thứ bạn có thể thử để cải thiện bản thân — đọc nhiều sách hơn, nói chuyện với chuyên gia, v.v. Những điều này tất nhiên sẽ giúp ích, nhưng chúng cũng mang lại lợi ích giảm dần khá nhanh. Lặp lại ngắt quãng không hoạt động như vậy. Nếu bạn dành thêm vài phút ôn tập các câu nhắc về thứ gì đó bạn đã đọc, bạn sẽ thu được nhiều hơn rất nhiều từ tài liệu. Từ điểm đó, đạt được khả năng nhớ gần như vĩnh viễn chỉ đòi hỏi nỗ lực thêm rất ít.
+[[Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]], nhưng cụm từ đó không truyền đạt được bản chất của hiệu quả. Có rất nhiều thứ bạn có thể thử để cải thiện bản thân — đọc nhiều sách hơn, nói chuyện với chuyên gia, v.v. Những điều này tất nhiên sẽ giúp ích, nhưng chúng cũng mang lại lợi ích giảm dần khá nhanh. Lặp lại ngắt quãng không hoạt động như vậy. Nếu bạn dành thêm vài phút ôn tập các câu nhắc về thứ gì đó bạn đã đọc, bạn sẽ thu được nhiều hơn rất nhiều từ tài liệu. Từ điểm đó, đạt được khả năng nhớ gần như vĩnh viễn chỉ đòi hỏi nỗ lực thêm rất ít.
 
 ----------
 

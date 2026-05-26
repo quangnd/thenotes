@@ -3,11 +3,11 @@ aliases:
   - Các hệ thống lặp lại ngắt quãng hiện tại không khuyến khích ghi chú thường xanh
 ---
 
-Mặc dù các ghi chú trong [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] có tính nguyên tử giống như [[Evergreen notes|Ghi chú thường xanh]] ([[Evergreen notes should be atomic|Ghi chú thường xanh nên atomic]]), chúng theo nhiều cách là *quá* nguyên tử hóa ([[Traditional spaced repetition memory prompts are atomized|Prompt ghi nhớ lặp lại ngắt quãng truyền thống bị tách rời]]). Hình thức này không khuyến khích tổng hợp và chưng cất gia tăng.
+Mặc dù các ghi chú trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có tính nguyên tử giống như [[Ghi chú thường xanh]] ([[Ghi chú thường xanh nên atomic]]), chúng theo nhiều cách là *quá* nguyên tử hóa ([[Prompt ghi nhớ lặp lại ngắt quãng truyền thống bị tách rời]]). Hình thức này không khuyến khích tổng hợp và chưng cất gia tăng.
 
-Các câu hỏi trôi nổi trong một đám sương mù không phân biệt, tách rời khỏi bất kỳ bối cảnh có ý nghĩa nội tại nào và không liên kết với các láng giềng liên quan ([[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]), và không đặc biệt nhằm để truy cập ngoài trải nghiệm ôn tập. Chúng không nhằm là các đơn vị bền vững, phát triển; chúng nhằm là mảnh vụn dùng xong bỏ. Tất cả điều này có thể ổn, nếu chúng có mối quan hệ rõ ràng với một hệ thống riêng biệt cho [[Evergreen notes|Ghi chú thường xanh]], nhưng chúng không có.
+Các câu hỏi trôi nổi trong một đám sương mù không phân biệt, tách rời khỏi bất kỳ bối cảnh có ý nghĩa nội tại nào và không liên kết với các láng giềng liên quan ([[Ghi chú thường xanh nên liên kết dày đặc]]), và không đặc biệt nhằm để truy cập ngoài trải nghiệm ôn tập. Chúng không nhằm là các đơn vị bền vững, phát triển; chúng nhằm là mảnh vụn dùng xong bỏ. Tất cả điều này có thể ổn, nếu chúng có mối quan hệ rõ ràng với một hệ thống riêng biệt cho [[Ghi chú thường xanh]], nhưng chúng không có.
 
-May mắn thay: [[The mnemonic medium can be extended to one’s personal notes|Phương tiện ghi nhớ có thể được mở rộng đến ghi chú cá nhân]].
+May mắn thay: [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]].
 
 ----------
 

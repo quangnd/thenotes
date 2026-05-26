@@ -3,9 +3,9 @@ aliases:
   - Làm việc với cửa nhà để xe mở
 ---
 
-Một trong những cách yêu thích của tôi mà những người sáng tạo giao tiếp là "làm việc với cửa nhà để xe mở," để mượn cụm từ của Robin Sloan. Đây là điều ngược lại với tài khoản Twitter chủ yếu đăng thông báo về các công việc đã hoàn thành: đó là [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en); đó là việc đưa ra một bài giảng về những vấn đề bạn đang suy nghĩ trong lúc tắm; đó là suy nghĩ to tiếng về những cách mà dự án của bạn hoàn toàn không hoạt động. Đó là rất nhiều Twitch. Tôi muốn thấy quá trình. Tôi muốn thấy bạn tỉa atiso. Tôi muốn thấy bạn chọn bảng màu. [[Anti-marketing|Phản tiếp thị]].
+Một trong những cách yêu thích của tôi mà những người sáng tạo giao tiếp là "làm việc với cửa nhà để xe mở," để mượn cụm từ của Robin Sloan. Đây là điều ngược lại với tài khoản Twitter chủ yếu đăng thông báo về các công việc đã hoàn thành: đó là [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en); đó là việc đưa ra một bài giảng về những vấn đề bạn đang suy nghĩ trong lúc tắm; đó là suy nghĩ to tiếng về những cách mà dự án của bạn hoàn toàn không hoạt động. Đó là rất nhiều Twitch. Tôi muốn thấy quá trình. Tôi muốn thấy bạn tỉa atiso. Tôi muốn thấy bạn chọn bảng màu. [[Phản tiếp thị]].
 
-Cá nhân tôi yêu thích kiểu giao tiếp này, nhưng tôi nghi ngờ nó cũng tạo ra những người theo dõi đầu tư và thú vị hơn về lâu dài. Hiệu ứng đó có lẽ liên quan đến [[Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds|Làm việc trên các dự án ngách, có ý nghĩa cá nhân mang lại những kết nối kỳ lạ hơn, tình cờ hơn]]. Đây cũng là cách để tránh các vấn đề được mô tả trong [[Pitching out corrupts within|Việc thổi phồng làm hỏng từ bên trong]].
+Cá nhân tôi yêu thích kiểu giao tiếp này, nhưng tôi nghi ngờ nó cũng tạo ra những người theo dõi đầu tư và thú vị hơn về lâu dài. Hiệu ứng đó có lẽ liên quan đến [[Làm việc trên các dự án ngách, có ý nghĩa cá nhân mang lại những kết nối kỳ lạ hơn, tình cờ hơn]]. Đây cũng là cách để tránh các vấn đề được mô tả trong [[Quảng bá ra ngoài làm hỏng bên trong]].
 
 ---
 
@@ -23,4 +23,4 @@ Cá nhân tôi yêu thích kiểu giao tiếp này, nhưng tôi nghi ngờ nó c
 
 - Nếu bạn có thể đeo kính internet ma thuật cho phép bạn nhìn thấu qua sự thiên vị lựa chọn xấu xí này và nhìn thấy thành phần của thực tế một cách công bằng, chính xác—thì hãy chỉ đến đi dạo quanh Emeryville và West Berkeley. Nó sẽ trông như thế! Tất cả sự hỗn độn của Twitter sẽ thu nhỏ lại thành một quán cà phê kỳ lạ—chỉ là một đốm nhỏ, trong một thành phố khổng lồ hoàn toàn được tạo thành từ những người đang làm việc lặng lẽ. (If you could put on magic internet goggles that enabled you to see through this gnarly selection bias and view the composition of reality fairly, correctly—well, just come walk around Emeryville and West Berkeley. It would look like that! All the tumult of Twitter would shrink into a single weird cafe—just a speck, in an enormous city made up entirely of people quietly working.)
 
-Thú vị khi lưu ý rằng theo một cách nào đó, Robin đang tìm kiếm [[Peripheral vision|tầm nhìn ngoại vi]] trong khát vọng này. (Interesting to note that in a way, Robin's looking for [[Peripheral vision]] in this aspiration.)
+Thú vị khi lưu ý rằng theo một cách nào đó, Robin đang tìm kiếm [[Tầm nhìn ngoại vi]] trong khát vọng này. (Interesting to note that in a way, Robin's looking for [[Tầm nhìn ngoại vi]] in this aspiration.)

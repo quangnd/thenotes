@@ -3,7 +3,7 @@ aliases:
   - Tài liệu tham khảo được lập chỉ mục so với thẻ
 ---
 
-Gắn thẻ phổ biến trong các hệ thống thông tin hiện đại, nhưng [[Tags are an ineffective association structure|Thẻ là cấu trúc liên kết kém hiệu quả]]. Một tiền lệ hiệu quả hơn trong ngành xuất bản là *chỉ mục* (index).
+Gắn thẻ phổ biến trong các hệ thống thông tin hiện đại, nhưng [[Thẻ là cấu trúc liên kết kém hiệu quả]]. Một tiền lệ hiệu quả hơn trong ngành xuất bản là *chỉ mục* (index).
 
 Chỉ mục không cố gắng liệt kê *mọi* số trang liên quan đến một thuật ngữ. Nó chỉ giữ vài tham chiếu quan trọng nhất. Ngược lại, danh sách các mục gắn cùng một thẻ thường phình to và khó dùng.
 
@@ -13,7 +13,7 @@ Cả mục chỉ mục lẫn hệ thống gắn thẻ tinh vi đều có thể c
 
 Trong Zettelkasten, Luhmann quản lý các thẻ chỉ mục rất chặt. Chúng chủ yếu đóng vai trò điểm khởi đầu. Các liên kết giữa các ghi chú mới là phần quan trọng hơn.
 
-[[How should note tagging practices change with ranked link visualization?|Cách làm gắn thẻ ghi chú nên thay đổi thế nào khi có trực quan hóa liên kết được xếp hạng?]]
+[[Thực hành gắn thẻ ghi chú nên thay đổi như thế nào với trực quan hóa liên kết xếp hạng_]]
 
 ---
 

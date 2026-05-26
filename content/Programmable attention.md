@@ -2,11 +2,11 @@
 aliases:
   - Sự chú ý có thể lập trình
 ---
-Phiên ôn tập của [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] không chỉ giúp bạn nhớ. Nó điều phối sự chú ý lặp lại của bạn theo thời gian qua hàng trăm nhiệm vụ nhỏ, nhiều tới mức không thể quản lý thủ công. Hệ thống kiểu này là một dạng *sự chú ý có thể lập trình* (programmable attention). Bạn đang dùng các dạng đơn giản hơn của nó mỗi ngày: hộp thư đến với tính năng tạm ẩn và báo lại, các bot nhắc việc, [[Twitter is a kind of programmable attention|Twitter là một dạng sự chú ý có thể lập trình]]. Thuộc tính cốt lõi của những hệ thống này là gì? Phạm vi tiềm năng của chúng tới đâu?
+Phiên ôn tập của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] không chỉ giúp bạn nhớ. Nó điều phối sự chú ý lặp lại của bạn theo thời gian qua hàng trăm nhiệm vụ nhỏ, nhiều tới mức không thể quản lý thủ công. Hệ thống kiểu này là một dạng *sự chú ý có thể lập trình* (programmable attention). Bạn đang dùng các dạng đơn giản hơn của nó mỗi ngày: hộp thư đến với tính năng tạm ẩn và báo lại, các bot nhắc việc, [[Twitter là một loại chú ý có thể lập trình]]. Thuộc tính cốt lõi của những hệ thống này là gì? Phạm vi tiềm năng của chúng tới đâu?
 
 Hệ thống kiểu này thường tập trung vào năng suất, nhưng tôi tin chúng còn dùng được để hỗ trợ công việc sáng tạo: đọc, suy nghĩ, diễn đạt, giải quyết vấn đề.
 
-Tìm hiểu thêm, áp dụng qua lặp lại ngắt quãng: [[Spaced repetition systems can be used to program attention|Dùng lặp lại ngắt quãng để lập trình sự chú ý]]
+Tìm hiểu thêm, áp dụng qua lặp lại ngắt quãng: [[Dùng lặp lại ngắt quãng để lập trình sự chú ý]]
 
 Thuật ngữ này gợi hình, nhưng nó có hàm ý đáng tiếc về sự rô-bốt hóa và xa cách. Có lẽ cuối cùng tôi sẽ muốn tìm một tên khác.
 

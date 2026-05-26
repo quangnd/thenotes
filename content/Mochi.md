@@ -3,9 +3,9 @@ aliases:
   - Mochi
 ---
 
-[Mochi](https://mochi.cards/) là một [[Note-writing system|Hệ thống viết ghi chú]] dựa trên web, lấy Markdown làm trung tâm, tích hợp [[Spaced repetition memory system|Hệ thống bộ nhớ lặp lại ngắt quãng]]
+[Mochi](https://mochi.cards/) là một [[Hệ thống viết ghi chú]] dựa trên web, lấy Markdown làm trung tâm, tích hợp [[Hệ thống ghi nhớ lặp lại ngắt quãng]]
 
-Theo một nghĩa hạn chế, Mochi cố gắng thực hiện các ý tưởng được mô tả trong [[The mnemonic medium can be extended to one’s personal notes|Phương tiện ghi nhớ có thể được mở rộng sang các ghi chú cá nhân]].
+Theo một nghĩa hạn chế, Mochi cố gắng thực hiện các ý tưởng được mô tả trong [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]].
 
 Nó được đánh bóng khá đẹp về mặt hình ảnh, mặc dù vẫn còn khá chưa hoàn chỉnh như một sản phẩm. Dự án bắt đầu vào tháng 2 năm 2019 và đang được phát triển tích cực với các bản phát hành thường xuyên tính đến tháng 3 năm 2020.
 
@@ -29,7 +29,7 @@ side 3 (etc)
 
 Thật không may, sự tích hợp giữa hệ thống lặp lại ngắt quãng và các ghi chú không liền mạch. "Tạo thẻ từ ghi chú" là một thao tác thủ công, không idempotent. Nếu bạn thêm một thẻ mới vào ghi chú, sau đó nhấp lại vào nút "tạo thẻ từ ghi chú", nó sẽ tạo ra thẻ trùng lặp. Thẻ trùng lặp sẽ không có trạng thái; nó sẽ được coi là "chưa học."
 
-Theo những gì tôi có thể nói, cách tiếp cận kết nối giữa ghi chú và lời nhắc lặp lại ngắt quãng này chỉ hoạt động một lần. Bạn có thể viết một ghi chú mới, sau đó tạo các lời nhắc, nhưng các chỉnh sửa trong tương lai sẽ gây ra vấn đề. Cách tiếp cận này làm cho [[Evergreen notes|Ghi chú thường xanh]] trở nên không thể.
+Theo những gì tôi có thể nói, cách tiếp cận kết nối giữa ghi chú và lời nhắc lặp lại ngắt quãng này chỉ hoạt động một lần. Bạn có thể viết một ghi chú mới, sau đó tạo các lời nhắc, nhưng các chỉnh sửa trong tương lai sẽ gây ra vấn đề. Cách tiếp cận này làm cho [[Ghi chú thường xanh]] trở nên không thể.
 
 #### Triển khai SRS (SRS implementation)
 

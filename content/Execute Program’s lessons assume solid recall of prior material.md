@@ -3,7 +3,7 @@ aliases:
   - Các bài học của Execute Program giả định việc nhớ lại vững chắc tài liệu trước đó
 ---
 
-Các bài học trong [[Execute Program]] chứa ít nhắc nhở về tài liệu trước đó: chúng ngắn gọn và tập trung. Mỗi bài học được viết với giả định rằng người đọc đã học _và ghi nhớ_ tài liệu từ tất cả các bài tiên quyết. Và giả định này được thực thi bởi môi trường đọc: [[Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites|Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]].
+Các bài học trong [[Execute Program]] chứa ít nhắc nhở về tài liệu trước đó: chúng ngắn gọn và tập trung. Mỗi bài học được viết với giả định rằng người đọc đã học _và ghi nhớ_ tài liệu từ tất cả các bài tiên quyết. Và giả định này được thực thi bởi môi trường đọc: [[Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]].
 
 Tôi đã hỏi [[Gary Bernhardt]] về chi tiết cách giả định này định hình cách viết của anh ấy. Điều này hơi không rõ ràng: Gary đã thích viết theo phong cách này từ trước — Execute Program chỉ hệ thống hóa nó.
 
@@ -14,4 +14,4 @@ Theo giao diện của họ: "Giả định đó cho phép chúng tôi viết c�
 ---
 
 Q. Các bài học của Execute Program thực thi giả định rằng học viên nhớ tất cả tài liệu trước đó bằng cách nào?
-A. [[Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites|Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]]
+A. [[Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]]

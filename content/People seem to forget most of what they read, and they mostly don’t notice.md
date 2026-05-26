@@ -9,9 +9,9 @@ Sau vài tuần, hầu hết mọi người chỉ nhớ được vài ý chung c
 
 Tôi chưa tìm được dữ liệu thực nghiệm cứng về chuyện này, nên đây phần lớn là nhận định dựa trên quan sát. Có một bằng chứng nhẹ từ Amlund và cộng sự, cho thấy khả năng nhớ lại tự do tụt xuống dưới 50% chỉ vài phút sau khi đọc, kể cả khi người đọc biết trước sẽ bị kiểm tra.
 
-Điều này đáng tiếc vì nhiều lý do, trong đó có: [[Deep understanding requires detailed knowledge of fundamentals|Hiểu sâu cần kiến thức chi tiết về nền tảng]] và [[Complex ideas may be hard to learn in part because their components overflow working memory|Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]].
+Điều này đáng tiếc vì nhiều lý do, trong đó có: [[Hiểu sâu cần kiến thức chi tiết về nền tảng]] và [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]].
 
-Về các phản biện thường gặp, xem: [[Many people view memory as unimportant to deep creative work|Nhiều người coi trí nhớ là không quan trọng với công việc sáng tạo sâu]].
+Về các phản biện thường gặp, xem: [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]].
 
 ---
 

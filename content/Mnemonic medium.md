@@ -3,61 +3,61 @@ aliases:
   - Phương tiện ghi nhớ
 ---
 
-Phương tiện ghi nhớ nhúng một [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Spaced repetition memory systems make memory a choice|Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
+Phương tiện ghi nhớ nhúng một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
 
 Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hiện đang làm việc để mở rộng đáng kể phạm vi của nó.
 
 - Thuộc tính thiết kế chính:
-	- [[The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts|Phương tiện ghi nhớ tạo cấu trúc cho các câu hỏi lặp lại ngắt quãng thường bị phân mảnh]]
-	- [[The mnemonic medium supplies expert-authored prompts|Phương tiện ghi nhớ cung cấp các câu hỏi do chuyên gia viết]]
-	- [[The mnemonic medium may help scaffold prompt-writing through author-provided prompts|Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu hỏi thông qua các câu hỏi do tác giả cung cấp]]
-	- [[The mnemonic medium’s design relies on light-weight prompts|Thiết kế của phương tiện ghi nhớ dựa vào các câu hỏi nhẹ]]
-	- [[The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents|Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]]
+	- [[Phương tiện ghi nhớ tạo cấu trúc cho các câu hỏi ghi nhớ lặp lại ngắt quãng vốn thường bị phân mảnh]]
+	- [[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]]
+	- [[Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu nhắc thông qua các câu nhắc do tác giả cung cấp]]
+	- [[Thiết kế của phương tiện ghi nhớ dựa vào các câu nhắc nhẹ]]
+	- [[Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]]
 - Tác động
-	- [[Effects of the mnemonic medium on reader memory|Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]]
-	- [[What's the big-picture impact of the mnemonic medium on readers?|Tác động toàn cảnh của phương tiện ghi nhớ lên người đọc là gì?]]
-	- [[The mnemonic medium keeps readers in contact with material over time|Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]
+	- [[Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]]
+	- [[Tác động toàn cảnh của phương tiện ghi nhớ đối với người đọc là gì_]]
+	- [[Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]
 - Giả thuyết/câu hỏi
 	- Mở rộng phạm vi / quy mô:
-		- [[How does the mnemonic medium's efficacy vary across platform-knowledge-style topics?|Hiệu quả của phương tiện ghi nhớ thay đổi như thế nào giữa các chủ đề dạng kiến thức nền tảng?]]
-		- [[How might the mnemonic medium enable readers in genres outside platform knowledge?|Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào?]]
-		- [[How might the mnemonic medium adapt to readers' differing backgrounds and goals?|Phương tiện ghi nhớ có thể thích ứng với nền tảng và mục tiêu khác nhau của người đọc như thế nào?]]
-		- [[How might spaced repetition memory systems intervene when the student struggles with material?|Hệ thống ghi nhớ lặp lại ngắt quãng có thể can thiệp như thế nào khi học viên gặp khó khăn với tài liệu?]]
+		- [[Phương tiện ghi nhớ hiệu quả như thế nào trên các chủ đề kiến thức nền tảng khác nhau_]]
+		- [[Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào_]]
+		- [[Phương tiện ghi nhớ có thể thích nghi với nền tảng và mục tiêu khác nhau của độc giả như thế nào_]]
+		- [[Hệ thống ghi nhớ lặp lại ngắt quãng có thể can thiệp thế nào khi học viên gặp khó khăn với tài liệu_]]
 	- Tác động ngoài trí nhớ:
-		- [[The mnemonic medium’s in-text prompts may support active reading|Các câu hỏi trong văn bản của phương tiện ghi nhớ có thể hỗ trợ đọc chủ động]]
-		- [[The mnemonic medium may push readers to read more slowly and attentively|Phương tiện ghi nhớ có thể thúc đẩy người đọc đọc chậm hơn và chú ý hơn]]
-		- [[What if the mnemonic medium were reframed as a means to engage more deeply with a text?|Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được định hình lại như một phương tiện để tương tác sâu hơn với văn bản?]]
+		- [[Các câu nhắc trong văn bản của phương tiện ghi nhớ có thể hỗ trợ đọc chủ động]]
+		- [[Phương tiện ghi nhớ có thể thúc đẩy người đọc đọc chậm hơn và chú ý hơn]]
+		- [[Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được đóng khung lại như một phương tiện để tham gia sâu hơn với văn bản_]]
 	- Các loại hiểu biết khác nhau
-		- [[The mnemonic medium can help readers apply what they’ve learned through simple application prompts|Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì đã học qua prompt ứng dụng đơn giản]]
-		- [[How might the mnemonic medium support readers in building more complex understanding?|Phương tiện ghi nhớ có thể hỗ trợ người đọc xây dựng sự hiểu biết phức tạp hơn như thế nào?]]
+		- [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]
+		- [[Phương tiện ghi nhớ có thể hỗ trợ người đọc xây dựng hiểu biết phức tạp hơn như thế nào_]]
 	- Hướng tới sử dụng thuần thục:
-		- [[What are the most important attributes of good spaced repetition memory prompts?|Các thuộc tính quan trọng nhất của câu hỏi ghi nhớ lặp lại ngắt quãng tốt là gì?]]
-		- [[What might constitute canonical uses of the mnemonic medium?|Các trường hợp sử dụng kinh điển của phương tiện ghi nhớ có thể là gì?]]
-		- [[Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers|Các mẫu câu hỏi nhúng có thể chủ động dựng giàn giáo cho việc viết câu hỏi cho người đọc phương tiện ghi nhớ]]
+		- [[Những thuộc tính quan trọng nhất của thẻ ghi nhớ lặp lại ngắt quãng tốt là gì_]]
+		- [[Những ứng dụng chuẩn mực của phương tiện ghi nhớ có thể là gì_]]
+		- [[Các mẫu câu hỏi nhúng có thể chủ động hỗ trợ việc viết câu hỏi cho độc giả phương tiện ghi nhớ]]
 	- Lợi ích cho tác giả:
-		- [[Question-writing in the mnemonic medium may help the writer think about their topic|Viết câu hỏi trong phương tiện ghi nhớ có thể giúp người viết suy nghĩ về chủ đề của họ]]
+		- [[Viết câu hỏi trong phương tiện ghi nhớ có thể giúp người viết suy nghĩ về chủ đề của họ]]
 	- Tối ưu hóa:
 		- Các bộ ôn tập của phương tiện ghi nhớ nên được giãn cách như thế nào?
 - Hướng đi tương lai
-	- [[Taking emotion seriously|Coi trọng cảm xúc]]: [[How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection?|Chúng ta có thể áp dụng những hiểu biết từ phương tiện ghi nhớ vào các hình thức tập trung vào kết nối cảm xúc sâu sắc như thế nào?]]
-	- [[Timeful text|Văn bản có thời gian]]: [[The mnemonic medium can be adapted to author an experience which unfolds over time|Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]
-	- [[The mnemonic medium can surface “proof of memory” social signals|Phương tiện ghi nhớ có thể hiển thị tín hiệu xã hội "bằng chứng trí nhớ"]]
-	- [[OS-level spaced repetition system|Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]]
-		- [[Turning any web page into the mnemonic medium|Biến trang web bất kỳ thành phương tiện ghi nhớ]]
-		- [[How might we adapt existing texts to the mnemonic medium, without participation of the author?|Chúng ta có thể điều chỉnh các văn bản hiện có sang phương tiện ghi nhớ mà không cần sự tham gia của tác giả như thế nào?]]
-		- [[Spaced everything|Giãn cách mọi thứ]]: [[The mnemonic medium can be extended to one’s personal notes|Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]]
+	- [[Coi trọng cảm xúc]]: [[Làm thế nào chúng ta có thể áp dụng các hiểu biết từ phương tiện ghi nhớ vào các hình thức tập trung vào kết nối cảm xúc sâu sắc_]]
+	- [[Văn bản có chiều thời gian]]: [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]
+	- [[Phương tiện ghi nhớ có thể làm nổi bật các tín hiệu xã hội _bằng chứng về trí nhớ]]
+	- [[Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]]
+		- [[Biến trang web bất kỳ thành phương tiện ghi nhớ]]
+		- [[Làm thế nào chúng ta có thể điều chỉnh các văn bản hiện có cho phương tiện ghi nhớ mà không cần sự tham gia của tác giả_]]
+		- [[Lặp lại ngắt quãng cho mọi thứ]]: [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]]
 	- Các loại phương tiện chủ khác
-		- [[Mnemonic video may present a smoother on-ramp to mass adoption than mnemonic text|Video ghi nhớ có thể là lối vào mượt hơn cho việc áp dụng đại trà so với văn bản ghi nhớ]]
-		- [[Twitter threads could be an interesting context for the mnemonic medium|Các chuỗi Twitter có thể là một bối cảnh thú vị cho phương tiện ghi nhớ]]
+		- [[Video ghi nhớ có thể là lối vào mượt hơn cho việc áp dụng đại trà so với văn bản ghi nhớ]]
+		- [[Các luồng Twitter có thể là bối cảnh thú vị cho phương tiện ghi nhớ]]
 - Thách thức
 	- ... đối với việc áp dụng bởi người dùng cuối:
-		- [[Many people view memory as unimportant to deep creative work|Nhiều người coi trí nhớ là không quan trọng đối với công việc sáng tạo sâu]]
-		- [[Mnemonic medium onboarding depends on a critical mass of content|Làm quen ban đầu với phương tiện ghi nhớ phụ thuộc vào lượng nội dung đủ ngưỡng]]
-			- [[Spaced repetition review sessions often become boring and detached without a steady stream of new prompts|Các phiên ôn tập lặp lại ngắt quãng thường trở nên nhàm chán và rời rạc nếu không có nguồn câu hỏi mới liên tục]]
-		- [[Mass adoption of the mnemonic medium seems to require mass adoption of web publishing|Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]]
-			- [[Reading texts on computers is unpleasant|Đọc văn bản trên máy tính không dễ chịu]]
-		- [[Regular spaced repetition memory practice is an onerous habit to adopt|Thực hành ghi nhớ lặp lại ngắt quãng thường xuyên là một thói quen khó hình thành]]
+		- [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]]
+		- [[Làm quen ban đầu với phương tiện ghi nhớ phụ thuộc vào lượng nội dung đủ ngưỡng]]
+			- [[Các phiên ôn tập lặp lại ngắt quãng thường trở nên nhàm chán và tách rời nếu không có dòng câu nhắc mới đều đặn]]
+		- [[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]]
+			- [[Đọc văn bản trên máy tính là không dễ chịu]]
+		- [[Thực hành ghi nhớ lặp lại ngắt quãng thường xuyên là một thói quen nặng nề để áp dụng]]
 	- ... đối với các nhà thiết kế:
-		- [[The dominant culture around spaced repetition memory systems is fixated on meaningless goals|Văn hóa chủ đạo xung quanh hệ thống ghi nhớ lặp lại ngắt quãng bị cố định vào các mục tiêu vô nghĩa]]
-		- [[Quantum Country lacks a coherent spatial representation of the mnemonic medium’s cards as objects|Quantum Country thiếu một biểu diễn không gian mạch lạc về các thẻ của phương tiện ghi nhớ như các đối tượng]]
-		- [[Aggressively scaling the mnemonic medium in early 2020 is premature|Mở rộng quy mô mạnh mẽ phương tiện ghi nhớ vào đầu năm 2020 là quá sớm]]
+		- [[Văn hóa chủ đạo xung quanh hệ thống ghi nhớ lặp lại ngắt quãng bị ám ảnh bởi các mục tiêu vô nghĩa]]
+		- [[Quantum Country thiếu một biểu diễn không gian nhất quán về các thẻ của phương tiện ghi nhớ như là các đối tượng]]
+		- [[Mở rộng phương tiện ghi nhớ một cách mạnh mẽ vào đầu năm 2020 là quá sớm]]

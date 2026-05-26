@@ -3,7 +3,7 @@ aliases:
   - Giao diện phần mềm hay khung các thao tác hủy/xóa thành quyết định cuối cùng, thay vì lựa chọn tạm thời
 ---
 
-[[Inboxes only work if you trust how they’re drained|Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], và thường điều đó đòi hỏi loại bỏ chủ động những mục ít ưu tiên. Vài ví dụ:
+[[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], và thường điều đó đòi hỏi loại bỏ chủ động những mục ít ưu tiên. Vài ví dụ:
 
 - Lưu trữ email ít quan trọng để hộp thư đến dễ nhìn
 - Bỏ qua các mục to-do còn sót lại
@@ -16,7 +16,7 @@ Mấy thao tác hủy/xóa kiểu này thường không khớp với điều ta 
 
 Tương tự, khi bạn biên tập một bài luận, có thể bạn vướng một đoạn văn thú vị nhưng không thuộc về đó. Xóa đi thì thấy nặng tay, mà chuyển sang phần "nghĩa địa" thì lại không tin mình sẽ còn quay lại với nó.
 
-Các hệ thống phần mềm thường quá cứng nhắc. Chúng nhấn mạnh tính dứt khoát, dù người dùng thực ra nghĩ theo lối ưu tiên tương đối, tùy ngữ cảnh. Mặt khác, những hệ thống cố gắng hiện rõ "ưu tiên" và "ngữ cảnh" thường lại quá phức tạp, không dùng nổi. Cần một "động từ cốt lõi" tốt hơn. Một hướng giải khả thi: [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations|Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]].
+Các hệ thống phần mềm thường quá cứng nhắc. Chúng nhấn mạnh tính dứt khoát, dù người dùng thực ra nghĩ theo lối ưu tiên tương đối, tùy ngữ cảnh. Mặt khác, những hệ thống cố gắng hiện rõ "ưu tiên" và "ngữ cảnh" thường lại quá phức tạp, không dùng nổi. Cần một "động từ cốt lõi" tốt hơn. Một hướng giải khả thi: [[Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]].
 
 ---
 

@@ -2,10 +2,10 @@
 aliases:
   - Đọc văn bản trên máy tính là không dễ chịu
 ---
-- [[Continuous-scroll digital reading uncomfortably disrupts object permanence|Đọc kỹ thuật số cuộn liên tục gây khó chịu khi phá vỡ tính bền vững của đối tượng]]
-- [[Poor performance disrupts nonlinear reading in digital reading|Hiệu suất kém cản trở việc đọc phi tuyến tính trong đọc kỹ thuật số]]
-- [[Maintaining multiple reading positions is difficult when reading digitally|Duy trì nhiều vị trí đọc là khó khăn khi đọc kỹ thuật số]]
-- [[Parallel reading is mostly impossible in digital reading|Đọc song song gần như không thể trong đọc kỹ thuật số]]
-- [[Backlit displays limit computers to interiors|Màn hình có đèn nền giới hạn máy tính ở trong nhà]]
+- [[Đọc kỹ thuật số cuộn liên tục gây khó chịu khi phá vỡ tính bền vững đối tượng]]
+- [[Hiệu suất kém làm gián đoạn đọc phi tuyến tính trong đọc sách kỹ thuật số]]
+- [[Duy trì nhiều vị trí đọc là khó khăn khi đọc kỹ thuật số]]
+- [[Đọc song song gần như không thể trong đọc sách kỹ thuật số]]
+- [[Màn hình có đèn nền giới hạn máy tính ở không gian trong nhà]]
 
-Đây là một vấn đề quan trọng vì [[Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers|Việc áp dụng rộng rãi phương tiện viết với các hỗ trợ nhận thức mới đòi hỏi việc áp dụng rộng rãi đọc trên máy tính]].
+Đây là một vấn đề quan trọng vì [[Việc áp dụng đại trà phương tiện viết với hỗ trợ nhận thức mới lạ đòi hỏi áp dụng đại trà đọc trên máy tính]].

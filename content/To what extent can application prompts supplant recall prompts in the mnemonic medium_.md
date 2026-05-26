@@ -3,9 +3,9 @@ aliases:
   - Đến mức độ nào thì các câu hỏi ứng dụng có thể thay thế câu hỏi gợi nhớ trong phương tiện ghi nhớ?
 ---
 
-[[The mnemonic medium can help readers apply what they’ve learned through simple application prompts|Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì đã học qua prompt ứng dụng đơn giản]]. Với các câu hỏi như vậy được triển khai, đến mức độ nào người ta cũng cần các câu hỏi gợi nhớ nguyên tử truyền thống?
+[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Với các câu hỏi như vậy được triển khai, đến mức độ nào người ta cũng cần các câu hỏi gợi nhớ nguyên tử truyền thống?
 
-Hãy tưởng tượng chúng ta đang trong một khóa học giải tích trung học, và bạn vừa học rằng e là hàm có đạo hàm bằng chính nó. Nếu bài học đó được viết theo [[Mnemonic medium|phương tiện ghi nhớ]], chúng ta có thể hỏi những câu hỏi gợi nhớ này:
+Hãy tưởng tượng chúng ta đang trong một khóa học giải tích trung học, và bạn vừa học rằng e là hàm có đạo hàm bằng chính nó. Nếu bài học đó được viết theo [[Phương tiện ghi nhớ]], chúng ta có thể hỏi những câu hỏi gợi nhớ này:
 
 H. Hàm nào có đạo hàm bằng chính nó?
 Đ. `e`
@@ -17,7 +17,7 @@ Nhưng chúng ta cũng có thể tưởng tượng đóng khung điều này nh�
 H. Đạo hàm của `e^8x` là gì?
 Đ. `8e^8x` Giải thích: đạo hàm của `e^x` bằng chính nó
 
-Nếu chúng ta chỉ hỏi một câu hỏi duy nhất này, tôi không nhất thiết kỳ vọng kiến thức khai báo của họ về `e` sẽ trở nên vững chắc: họ có thể sẽ ghi nhớ câu trả lời cho câu hỏi này. [[Application prompts should vary when repeated|Các câu hỏi ứng dụng nên thay đổi khi được lặp lại]], vì vậy hãy tưởng tượng thay vào đó chúng ta cũng hỏi một số biến thể như:
+Nếu chúng ta chỉ hỏi một câu hỏi duy nhất này, tôi không nhất thiết kỳ vọng kiến thức khai báo của họ về `e` sẽ trở nên vững chắc: họ có thể sẽ ghi nhớ câu trả lời cho câu hỏi này. [[Câu hỏi ứng dụng nên thay đổi khi lặp lại]], vì vậy hãy tưởng tượng thay vào đó chúng ta cũng hỏi một số biến thể như:
 
 H. Cho `f(x) = 14e^[x]`. `df/dx` là bao nhiêu?
 Đ. `14e^[x]` Giải thích: đạo hàm của `e^x` bằng chính nó
@@ -30,8 +30,8 @@ Bây giờ, chúng ta có kỳ vọng độc giả có thể trả lời câu h�
 
 Điều này có nghĩa là câu hỏi gợi nhớ này không cần thiết khi có những câu hỏi ứng dụng đó không? Hãy xem xét: nếu độc giả *không* trả lời được các câu hỏi ứng dụng đó một cách nhất quán thì sao? Biến thể đầu tiên cũng đòi hỏi áp dụng quy tắc dây chuyền (và kiến thức rằng `d[kx]/dx = kx`). Biến thể thứ hai đòi hỏi hiểu cú pháp `df/dx`. Đây là những vấn đề phức tạp hơn.
 
-Khi một độc giả quên câu trả lời cho một câu hỏi gợi nhớ, họ nhìn vào câu trả lời và cố nhớ lại nó cho lần sau. Nếu các câu hỏi nguyên tử và lịch trình được hiệu chỉnh tốt, điều này thường sẽ có tác dụng! Nhưng nếu một độc giả không trả lời được câu hỏi ứng dụng, họ không thể chỉ nhìn vào câu trả lời và cố nhớ lại nó cho lần sau: [[Answers to application prompts shouldn’t be drawn from memory|Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Họ phải phân tích câu trả lời (có thể bao gồm giải thích của nó), nhận ra điều họ không nhớ, và cố gắng nhớ lại phần đó lần sau. Điều này khó hơn nhiều so với những gì cần thiết cho một câu hỏi gợi nhớ. Một độc giả vẫn còn mơ hồ về quy tắc dây chuyền có thể không chú ý đến sự bất lực của họ trong việc nhớ lại đạo hàm của `e^x`. Không có các câu hỏi hướng đến gợi nhớ riêng biệt, câu trả lời của họ trên câu hỏi ứng dụng này có thể vẫn không đáng tin cậy trong một thời gian dài.
+Khi một độc giả quên câu trả lời cho một câu hỏi gợi nhớ, họ nhìn vào câu trả lời và cố nhớ lại nó cho lần sau. Nếu các câu hỏi nguyên tử và lịch trình được hiệu chỉnh tốt, điều này thường sẽ có tác dụng! Nhưng nếu một độc giả không trả lời được câu hỏi ứng dụng, họ không thể chỉ nhìn vào câu trả lời và cố nhớ lại nó cho lần sau: [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Họ phải phân tích câu trả lời (có thể bao gồm giải thích của nó), nhận ra điều họ không nhớ, và cố gắng nhớ lại phần đó lần sau. Điều này khó hơn nhiều so với những gì cần thiết cho một câu hỏi gợi nhớ. Một độc giả vẫn còn mơ hồ về quy tắc dây chuyền có thể không chú ý đến sự bất lực của họ trong việc nhớ lại đạo hàm của `e^x`. Không có các câu hỏi hướng đến gợi nhớ riêng biệt, câu trả lời của họ trên câu hỏi ứng dụng này có thể vẫn không đáng tin cậy trong một thời gian dài.
 
 Sẽ rất thú vị nếu thực hiện các thí nghiệm thực nghiệm về chủ đề này! Độ chính xác câu hỏi ứng dụng của độc giả bị ảnh hưởng như thế nào khi các câu hỏi gợi nhớ liên quan bị loại bỏ?
 
-Một ví dụ thực nghiệm thú vị là [[Execute Program]]: [[Execute Program’s prompts act both as application prompts and recall prompts|Các câu hỏi của Execute Program hoạt động vừa như câu hỏi ứng dụng vừa như câu hỏi gợi nhớ]].
+Một ví dụ thực nghiệm thú vị là [[Execute Program]]: [[Các câu hỏi của Execute Program hoạt động vừa như câu hỏi ứng dụng vừa như câu hỏi nhớ lại]].

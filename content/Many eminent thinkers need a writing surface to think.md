@@ -3,7 +3,7 @@ aliases:
   - Nhiều nhà tư tưởng lỗi lạc cần một bề mặt viết để suy nghĩ
 ---
 
-Nhiều người làm việc hiệu quả nhất mà tôi biết, cả còn sống và đã mất, dường như không thể tư duy nghiêm túc mà không có bề mặt viết trước mặt. Nó có vẻ mở rộng nhận thức kiểu nào đó. Có thể nó mở rộng hiệu quả [[Span of working memory|phạm vi bộ nhớ làm việc]] của một người, hoặc có thể chính việc di chuyển ngón tay đã đóng góp vào tư duy.
+Nhiều người làm việc hiệu quả nhất mà tôi biết, cả còn sống và đã mất, dường như không thể tư duy nghiêm túc mà không có bề mặt viết trước mặt. Nó có vẻ mở rộng nhận thức kiểu nào đó. Có thể nó mở rộng hiệu quả [[Khoảng bộ nhớ làm việc]] của một người, hoặc có thể chính việc di chuyển ngón tay đã đóng góp vào tư duy.
 
 Ví dụ, trong một cuộc phỏng vấn với Charles Weiner, Richard Feynman nói rằng với ông (1973), giấy không chỉ là bản ghi công việc đã làm trong đầu:
 

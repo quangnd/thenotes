@@ -3,22 +3,22 @@ aliases:
   - Thiết kế hệ thống hiệu quả cần insight từ bối cảnh sử dụng thật
 ---
 
-Nguyên mẫu thô sơ rất tốt: nó cho phép lặp nhanh, đánh giá nhanh. Nhưng nhiều insight quan trọng chỉ xuất hiện trong bối cảnh của một bài toán sáng tạo nghiêm túc, không phải bài toán về chính cái hệ thống đó. Đây là luận điểm chính của [[Insight through making|Hiểu biết sâu sắc qua việc làm]].
+Nguyên mẫu thô sơ rất tốt: nó cho phép lặp nhanh, đánh giá nhanh. Nhưng nhiều insight quan trọng chỉ xuất hiện trong bối cảnh của một bài toán sáng tạo nghiêm túc, không phải bài toán về chính cái hệ thống đó. Đây là luận điểm chính của [[Hiểu biết sâu sắc qua việc làm]].
 
-Nghe thì giống thực hành tiêu chuẩn: tất nhiên hệ thống phải được đánh giá. Nhưng phần lớn người thiết kế hệ thống không xem "nghiêm túc" một cách nghiêm túc: [[Tool-makers usually lack connection to a serious context of use|người tạo công cụ thường thiếu kết nối với bối cảnh sử dụng nghiêm túc]].
+Nghe thì giống thực hành tiêu chuẩn: tất nhiên hệ thống phải được đánh giá. Nhưng phần lớn người thiết kế hệ thống không xem "nghiêm túc" một cách nghiêm túc: [[Những người tạo công cụ thường thiếu kết nối với một bối cảnh sử dụng nghiêm túc]].
 
 Quan sát cách lý thuyết của bạn (được thể hiện qua hệ thống) va chạm với thực tế có thể đem lại insight cải thiện chính lý thuyết đó. Chất lượng của insight phụ thuộc vào bối cảnh hệ thống được dùng. Nếu hệ thống không được sử dụng nghiêm túc, insight thu được sẽ na ná thứ mà một nhà lý thuyết thuần túy cũng có thể nghĩ ra, không cần dựng hệ thống làm gì.
 
-Pixar là ví dụ hay về một tổ chức tự tạo ra bối cảnh sử dụng nghiêm túc, và bối cảnh đó dẫn dắt thiết kế hệ thống: [[Pixar’s movies and technology development act as coupled flywheels|phim và phát triển công nghệ ở Pixar hoạt động như hai bánh đà ghép cặp]].
+Pixar là ví dụ hay về một tổ chức tự tạo ra bối cảnh sử dụng nghiêm túc, và bối cảnh đó dẫn dắt thiết kế hệ thống: [[Phim và phát triển công nghệ của Pixar hoạt động như các bánh đà kết nối]].
 
 Thách thức thường gặp:
-- [[Great tool-makers are often not great tool-users, and vice-versa|Người tạo công cụ giỏi thường không phải người dùng công cụ giỏi, và ngược lại]]
-- [[Groups researching tools for thought need enough capacity to build prototypes suitable for serious work|Nhóm nghiên cứu công cụ tư duy cần đủ năng lực để xây nguyên mẫu dùng được cho công việc nghiêm túc]]
+- [[Những người tạo công cụ giỏi thường không phải người sử dụng công cụ giỏi, và ngược lại]]
+- [[Nhóm nghiên cứu công cụ tư duy cần đủ năng lực để xây nguyên mẫu dùng được cho công việc nghiêm túc]]
 
 Lý thuyết liên quan:
-- [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes|Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]]
-- [[Authored environments are significantly colored by authors’ motivations|Môi trường do tác giả tạo ra bị nhuốm màu rõ rệt bởi động lực của tác giả]]
-- [[Powerful enabling environments focus on expert use|Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]
+- [[Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]]
+- [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]]
+- [[Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]
 
 ---
 

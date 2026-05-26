@@ -2,7 +2,7 @@
 aliases:
   - Cách thu thập quan sát khi đọc
 ---
-Quan trọng là phải [[Write about what you read|Viết về thứ mình đọc]], nhưng chuyển qua chuyển lại giữa đọc và viết ghi chú hoàn chỉnh rất phân tâm. Thay vào đó, hãy ghi lại các quan sát một cách nhẹ nhàng trong lúc đọc. Bỏ chúng vào [[A writing inbox for transient and incomplete notes|Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Việc đó [[Close open loops|Đóng các vòng lặp còn mở]], và bạn sẽ xử lý chúng sau (xem [[How to process reading annotations into evergreen notes|Cách xử lý chú thích đọc thành ghi chú thường xanh]]).
+Quan trọng là phải [[Viết về thứ mình đọc]], nhưng chuyển qua chuyển lại giữa đọc và viết ghi chú hoàn chỉnh rất phân tâm. Thay vào đó, hãy ghi lại các quan sát một cách nhẹ nhàng trong lúc đọc. Bỏ chúng vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Việc đó [[Đóng các vòng lặp còn mở]], và bạn sẽ xử lý chúng sau (xem [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]).
 
 Bản thân các chú thích, kể cả ghi chú bên lề kèm suy nghĩ của bạn, có giá trị thông tin rất thấp. Chúng rời rạc, không liên kết với nhau, không cộng dồn thành cái gì, cực kỳ cô đọng, và phần lớn chưa được biên tập. Không sao cả. Hãy coi chúng như một lời nhắc. Chúng nói "này, nhìn lại đoạn này đi", kèm vài từ ngữ cảnh để gợi nhớ về nội dung của đoạn văn.
 
@@ -13,7 +13,7 @@ Khi xử lý các quan sát này, bạn sẽ cần nhìn được bức tranh t�
 Cụ thể, đây là cách tôi đang thử:
 
 - Sách giấy:
-	- Viết vài từ suy nghĩ lên mẩu giấy A7 ([[Pocket memo pad to capture into writing inbox while out|Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]])
+	- Viết vài từ suy nghĩ lên mẩu giấy A7 ([[Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]])
 	- Vẽ chấm hoặc gạch ở lề các đoạn thú vị và gấp góc trang.
 - Bài viết web:
 	- Copy-paste các đoạn trích thú vị vào một ghi chú làm việc duy nhất trong hộp thư viết.

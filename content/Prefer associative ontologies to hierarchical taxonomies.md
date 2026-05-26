@@ -9,11 +9,11 @@ Hệ thống tệp, sơ đồ tổ chức và thư viện làm ta tưởng rằn
 
 Tệ hơn, khi phân loại mọi thứ sẵn vào các danh mục có ranh giới rõ ràng, ta đã tự làm mờ các cạnh thật của chúng. Mọi thứ không phải lúc nào cũng khớp *chính xác*. Có khi gom đủ ý tưởng mới rồi thì một danh mục mới sẽ ló dạng... nhưng ta không thấy nổi hình dạng đó vì mọi thứ đã bị xếp loại xong xuôi. Và vì đã xếp loại xong xuôi, muốn phân loại lại thì phải tháo dỡ cấu trúc hiện tại.
 
-Tốt hơn là để các mạng lưới ý tưởng liên quan dần dần lộ ra, không cần nhãn: [[Let ideas and beliefs emerge organically|Hãy để ý tưởng và niềm tin xuất hiện một cách tự nhiên]]. Khi đã nhìn ra hình dạng rồi, mới đến lúc nghĩ về đặc tính của nó. Đây là một lý do [[Evergreen notes are a safe place to develop wild ideas|Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]].
+Tốt hơn là để các mạng lưới ý tưởng liên quan dần dần lộ ra, không cần nhãn: [[Hãy để ý tưởng và niềm tin nảy sinh một cách tự nhiên]]. Khi đã nhìn ra hình dạng rồi, mới đến lúc nghĩ về đặc tính của nó. Đây là một lý do [[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]].
 
-Nhưng cẩn thận: [[Tags are an ineffective association structure|Thẻ là cấu trúc liên kết kém hiệu quả]].
+Nhưng cẩn thận: [[Thẻ là cấu trúc liên kết kém hiệu quả]].
 
-Một hệ quả của lời khuyên này: [[It’s hard to navigate to unlinked “neighbors” in associative note systems|Thật khó để điều hướng đến các "hàng xóm" không được liên kết trong các hệ thống ghi chú liên kết]].
+Một hệ quả của lời khuyên này: [[Khó điều hướng đến các “láng giềng” chưa được liên kết trong hệ thống ghi chú liên kết]].
 
 ---
 

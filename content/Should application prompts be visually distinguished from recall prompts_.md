@@ -3,9 +3,9 @@ aliases:
   - Câu hỏi ứng dụng có nên được phân biệt trực quan với câu hỏi gợi nhớ không?
 ---
 
-Chúng tôi khá không chắc chắn về điều này khi ra mắt các câu hỏi ứng dụng (xem [[The mnemonic medium can help readers apply what they’ve learned through simple application prompts|Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì đã học qua prompt ứng dụng đơn giản]]). Tôi vẫn chưa chắc.
+Chúng tôi khá không chắc chắn về điều này khi ra mắt các câu hỏi ứng dụng (xem [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]). Tôi vẫn chưa chắc.
 
-**Mục tiêu của việc luyện tập là khác nhau: người dùng không nên cố nhớ câu trả lời cho các câu hỏi ứng dụng.** Khi bạn thấy câu trả lời cho câu hỏi gợi nhớ, mục tiêu của bạn là ghi nhớ câu trả lời đó. Nhưng hành vi đó thường lãng phí thời gian với các câu hỏi ứng dụng (và tệ nhất, nó thực sự phản tác dụng: [[Answers to application prompts shouldn’t be drawn from memory|Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]). Câu trả lời cho câu hỏi ứng dụng cần một kiểu tương tác khác — giống như nhận ra sự bất ngờ hơn. Một chỉ báo nào đó về loại câu hỏi sẽ giúp mọi người tương tác phù hợp.
+**Mục tiêu của việc luyện tập là khác nhau: người dùng không nên cố nhớ câu trả lời cho các câu hỏi ứng dụng.** Khi bạn thấy câu trả lời cho câu hỏi gợi nhớ, mục tiêu của bạn là ghi nhớ câu trả lời đó. Nhưng hành vi đó thường lãng phí thời gian với các câu hỏi ứng dụng (và tệ nhất, nó thực sự phản tác dụng: [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]). Câu trả lời cho câu hỏi ứng dụng cần một kiểu tương tác khác — giống như nhận ra sự bất ngờ hơn. Một chỉ báo nào đó về loại câu hỏi sẽ giúp mọi người tương tác phù hợp.
 
 **Nhưng trong đời thực, các câu hỏi không có nhãn.** Bạn cần tự tìm ra liệu nên nhớ câu trả lời hay suy luận ra nó. Có lẽ một chỉ báo sẽ là một chiếc nạng vô ích.
 

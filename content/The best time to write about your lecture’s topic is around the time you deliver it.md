@@ -3,16 +3,16 @@ aliases:
   - Thời điểm tốt nhất để viết về chủ đề bài giảng của bạn là xung quanh thời điểm bạn trình bày nó
 ---
 
-[[Talks and classes provide pressure and emotional fuel for understanding|Các buổi nói chuyện và lớp học tạo áp lực và nhiên liệu cảm xúc cho sự hiểu biết]], nhưng bản thân một bài giảng thường có tác động khá hạn chế. Lý tưởng nhất là bạn sẽ tổng hợp sự hiểu biết mới tìm được thành một số ghi chú có thể xuất bản hoặc một cuốn sách để mở rộng tầm ảnh hưởng của mình.
+[[Các buổi nói chuyện và lớp học tạo áp lực và nhiên liệu cảm xúc cho sự hiểu biết]], nhưng bản thân một bài giảng thường có tác động khá hạn chế. Lý tưởng nhất là bạn sẽ tổng hợp sự hiểu biết mới tìm được thành một số ghi chú có thể xuất bản hoặc một cuốn sách để mở rộng tầm ảnh hưởng của mình.
 
-Trong nhiều trường hợp, tốt nhất là thực hiện điều này ngay trước hoặc sau buổi nói chuyện: kết nối cảm xúc của bạn đặc biệt cao vào thời điểm đó, và tất cả các tài liệu đều đang được nạp vào tâm trí bạn. Vì làm song song hai việc này là khó, chiến lược rõ ràng hơn là viết văn bản có thể xuất bản *sau* khi giảng xong, nhưng khi đó bạn có thể thấy tài liệu tương đối nhàm chán và ít hứng thú với việc ôn lại. [[It’s difficult to maintain emotional connection to a creative project across delays and breaks|Thật khó để duy trì kết nối cảm xúc với một dự án sáng tạo qua các khoảng trống và gián đoạn]]
+Trong nhiều trường hợp, tốt nhất là thực hiện điều này ngay trước hoặc sau buổi nói chuyện: kết nối cảm xúc của bạn đặc biệt cao vào thời điểm đó, và tất cả các tài liệu đều đang được nạp vào tâm trí bạn. Vì làm song song hai việc này là khó, chiến lược rõ ràng hơn là viết văn bản có thể xuất bản *sau* khi giảng xong, nhưng khi đó bạn có thể thấy tài liệu tương đối nhàm chán và ít hứng thú với việc ôn lại. [[Khó duy trì kết nối cảm xúc với một dự án sáng tạo qua những gián đoạn và nghỉ ngơi]]
 
 #### Liên kết ngược
 
-- [[It’s difficult to maintain emotional connection to a creative project across delays and breaks|Thật khó để duy trì kết nối cảm xúc với một dự án sáng tạo qua các khoảng trống và gián đoạn]]
-    - Liên quan: [[The best time to write about your lecture’s topic is around the time you deliver it|Thời điểm tốt nhất để viết về chủ đề bài giảng của bạn là xung quanh thời điểm bạn trình bày nó]]
-- [[Talks and classes provide pressure and emotional fuel for understanding|Các buổi nói chuyện và lớp học tạo áp lực và nhiên liệu cảm xúc cho sự hiểu biết]]
-    - Liên quan: [[The best time to write about your lecture’s topic is around the time you deliver it|Thời điểm tốt nhất để viết về chủ đề bài giảng của bạn là xung quanh thời điểm bạn trình bày nó]]
+- [[Khó duy trì kết nối cảm xúc với một dự án sáng tạo qua những gián đoạn và nghỉ ngơi]]
+    - Liên quan: [[Thời điểm tốt nhất để viết về chủ đề bài giảng của bạn là xung quanh thời điểm bạn trình bày nó]]
+- [[Các buổi nói chuyện và lớp học tạo áp lực và nhiên liệu cảm xúc cho sự hiểu biết]]
+    - Liên quan: [[Thời điểm tốt nhất để viết về chủ đề bài giảng của bạn là xung quanh thời điểm bạn trình bày nó]]
 
 ---
 

@@ -3,7 +3,7 @@ aliases:
   - Mỏ neo khái niệm, theo Alexander
 ---
 
-"Mỏ neo khái niệm" (concept handle) là một cụm danh từ dễ nhớ, đóng vai trò điểm bám cho một chủ đề phức tạp và thường trừu tượng. Ví dụ: "thế lưỡng nan của tù nhân" (prisoner's dilemma), "cửa sổ Overton" (Overton window), "niềm tin vào niềm tin" (belief in belief), v.v. Trong các bài viết của tôi, có thể kể đến [[Enabling environment|Môi trường khai phóng]], [[Enacted experience|Trải nghiệm thể hiện]], v.v. Bản thân "mỏ neo khái niệm" cũng chính là một mỏ neo khái niệm, do [[Scott Alexander]] đặt ra.
+"Mỏ neo khái niệm" (concept handle) là một cụm danh từ dễ nhớ, đóng vai trò điểm bám cho một chủ đề phức tạp và thường trừu tượng. Ví dụ: "thế lưỡng nan của tù nhân" (prisoner's dilemma), "cửa sổ Overton" (Overton window), "niềm tin vào niềm tin" (belief in belief), v.v. Trong các bài viết của tôi, có thể kể đến [[Môi trường khai phóng]], [[Trải nghiệm thể hiện]], v.v. Bản thân "mỏ neo khái niệm" cũng chính là một mỏ neo khái niệm, do [[Scott Alexander]] đặt ra.
 
 Một mỏ neo khái niệm tốt có thể khuếch đại sức mạnh của một ý tưởng mơ hồ, thứ mà nhiều người cảm nhận lờ mờ nhưng không gọi tên được để trao đổi. Khi bạn gắn cho ý tưởng đó một cái tên rõ ràng và hấp dẫn, bạn mở khóa rất nhiều cuộc trò chuyện và suy ngẫm xoay quanh nó. Theo Alexander:
 
@@ -11,7 +11,7 @@ Tôi không có khả năng phát hiện ra một hiện tượng xã hội hoà
 
 Nếu bạn tìm ra điều gì đó thú vị và nhét được nó vào đầu người khác chỉ trong vài từ, đừng phí phạm! Hãy gắn cho nó một mỏ neo khái niệm đẹp để họ nhớ và dùng lại được khi giải quyết những vấn đề khác.
 
-Một cách khác để hình dung mỏ neo khái niệm là xem nó như "API cho các khái niệm". Theo nghĩa này, ý tưởng ấy gắn liền với suy nghĩ của tôi trong [[Evergreen note titles are like APIs|Tiêu đề ghi chú thường xanh giống như API]].
+Một cách khác để hình dung mỏ neo khái niệm là xem nó như "API cho các khái niệm". Theo nghĩa này, ý tưởng ấy gắn liền với suy nghĩ của tôi trong [[Tiêu đề ghi chú thường xanh giống như API]].
 
 ---
 

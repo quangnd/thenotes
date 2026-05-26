@@ -3,13 +3,13 @@ aliases:
   - Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức
 ---
 
-Nếu phải chọn duy nhất một chỉ số dẫn dắt để tự đánh giá bản thân với vai trò người làm công việc tri thức, chỉ số tốt nhất tôi biết có lẽ là số [[Evergreen notes|Ghi chú thường xanh]] viết được mỗi ngày. [[Note-writing can be a virtuosic skill|Viết ghi chú có thể là một kỹ năng điêu luyện]], nhưng [[Most people use notes as a bucket for storage or scratch thoughts|Hầu hết mọi người chỉ coi ghi chú như cái thùng chứa để lưu trữ hoặc nháp ý tưởng]], và [[Note-writing practices are generally ineffective|Cách viết ghi chú thông thường không hiệu quả]].
+Nếu phải chọn duy nhất một chỉ số dẫn dắt để tự đánh giá bản thân với vai trò người làm công việc tri thức, chỉ số tốt nhất tôi biết có lẽ là số [[Ghi chú thường xanh]] viết được mỗi ngày. [[Viết ghi chú có thể là một kỹ năng điêu luyện]], nhưng [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]], và [[Cách viết ghi chú thông thường không hiệu quả]].
 
-- [[Evergreen note-writing helps insight accumulate|Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
-- [[Evergreen note-writing helps reading efforts accumulate|Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
-- Viết ghi chú giúp tích lũy chính việc viết: chúng là nhiên liệu cho [[Executable strategy for writing|Chiến lược thực thi cho việc viết]], nhất là khi bạn [[Create speculative outlines while you write|Tạo dàn ý suy đoán trong khi viết]].
+- [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
+- [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
+- Viết ghi chú giúp tích lũy chính việc viết: chúng là nhiên liệu cho [[Chiến lược thực thi cho việc viết]], nhất là khi bạn [[Tạo dàn ý suy đoán trong khi viết]].
 
-Một lưu ý: [[“Better note-taking” misses the point; what matters is “better thinking”|"Ghi chú tốt hơn" không đúng trọng tâm; điều quan trọng là "tư duy tốt hơn"]]
+Một lưu ý: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]
 
 ---
 

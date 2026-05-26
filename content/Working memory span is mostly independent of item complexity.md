@@ -3,9 +3,9 @@ aliases:
   - Dung lượng bộ nhớ làm việc phần lớn độc lập với độ phức tạp của mục
 ---
 
-Có nhiều chữ cái trong bảng chữ cái hơn gấp đôi so với các chữ số, vì vậy bạn có thể mong đợi rằng chúng ta có thể nhớ các chuỗi chữ số dài hơn khoảng gấp đôi so với chuỗi chữ cái. Nhưng thực tế, [[Span of working memory|dung lượng bộ nhớ làm việc]] thông thường là khoảng {sáu} chữ cái và khoảng {bảy} chữ số (ví dụ: Crannell và Parrish, 1957).
+Có nhiều chữ cái trong bảng chữ cái hơn gấp đôi so với các chữ số, vì vậy bạn có thể mong đợi rằng chúng ta có thể nhớ các chuỗi chữ số dài hơn khoảng gấp đôi so với chuỗi chữ cái. Nhưng thực tế, [[Khoảng bộ nhớ làm việc]] thông thường là khoảng {sáu} chữ cái và khoảng {bảy} chữ số (ví dụ: Crannell và Parrish, 1957).
 
-Xem: [[“Chunks” in human cognition|"Khối" trong nhận thức con người]]
+Xem: [[Các mảnh trong nhận thức con người]]
 
 ---
 
@@ -13,4 +13,4 @@ Xem: [[“Chunks” in human cognition|"Khối" trong nhận thức con người
 
 Crannell, C. W., & Parrish, J. M. (1957). A Comparison of Immediate Memory Span for Digits, Letters, and Words. The Journal of Psychology, 44(2), 319–327. https://doi.org/10.1080/00223980.1957.9713089
 
-Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. *Psychological Review, 63(2)*, 81–97. https://doi.org/10.1037/h0043158 [[Miller - The magical number seven, plus or minus two]]
+Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. *Psychological Review, 63(2)*, 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]

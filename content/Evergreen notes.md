@@ -3,24 +3,24 @@ aliases:
   - Ghi chú thường xanh
 ---
 
-*Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. Cách viết ghi chú này khá khác thường: [[Most people take only transient notes|Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[“Better note-taking” misses the point; what matters is “better thinking”|"Ghi chú tốt hơn" không đúng trọng tâm; điều quan trọng là "tư duy tốt hơn"]]. Làm tốt thì những ghi chú này rất giá trị: [[Evergreen note-writing as fundamental unit of knowledge work|Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
+*Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. Cách viết ghi chú này khá khác thường: [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]. Làm tốt thì những ghi chú này rất giá trị: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 
 Viết ra ghi chú đáng để bồi đắp lâu dài không dễ. Mấy nguyên tắc sau giúp ích:
 
-- [[Evergreen notes should be atomic|Ghi chú thường xanh nên atomic]]
-- [[Evergreen notes should be concept-oriented|Ghi chú thường xanh nên hướng khái niệm]]
-- [[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]
-- [[Prefer associative ontologies to hierarchical taxonomies|Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
+- [[Ghi chú thường xanh nên atomic]]
+- [[Ghi chú thường xanh nên hướng khái niệm]]
+- [[Ghi chú thường xanh nên liên kết dày đặc]]
+- [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
 
-Khái niệm này lớn lên phần nhiều từ [[Zettelkasten]] của Niklas Luhmann. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Similarities and differences between evergreen note-writing and Zettelkasten|Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]]
+Khái niệm này lớn lên phần nhiều từ [[Hộp phiếu Zettelkasten của Luhmann]] của Niklas Luhmann. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]]
 
 #### Triển khai cách làm ghi chú thường xanh
 
 Xem:
-- [[Write about what you read|Viết về thứ mình đọc]]
-- [[A reading inbox to capture possibly-useful references|Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]
-- [[A writing inbox for transient and incomplete notes|Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
-- [[Executable strategy for writing|Chiến lược thực thi cho việc viết]]
+- [[Viết về thứ mình đọc]]
+- [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]
+- [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
+- [[Chiến lược thực thi cho việc viết]]
 
 ---
 

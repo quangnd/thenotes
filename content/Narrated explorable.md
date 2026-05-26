@@ -3,7 +3,7 @@ aliases:
   - Khám phá có tường thuật
 ---
 
-Thuật ngữ tôi sử dụng để mô tả các phương tiện tương tự như [[Explorable explanations|Giải thích khám phá]] nhưng tích hợp trải nghiệm tường thuật vào môi trường tương tác, thay vì tách biệt chúng như thường thấy.
+Thuật ngữ tôi sử dụng để mô tả các phương tiện tương tự như [[Giải thích khám phá]] nhưng tích hợp trải nghiệm tường thuật vào môi trường tương tác, thay vì tách biệt chúng như thường thấy.
 
 Ví dụ:
 
@@ -12,7 +12,7 @@ Ví dụ:
 	- mở rộng quy mô: [Scrimba](https://scrimba.com/)
 - [Cantor](https://early.khanacademy.org/cantor/)
 
-Liên quan: [[Dynamic mediums usually lack an authored time dimension|Phương tiện động thường thiếu chiều thời gian do tác giả tạo]]
+Liên quan: [[Phương tiện động thường thiếu chiều thời gian do tác giả tạo]]
 
 ---
 

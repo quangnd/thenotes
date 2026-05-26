@@ -3,7 +3,7 @@ aliases:
   - Tài trợ bậc hai cho hàng hóa công cộng
 ---
 
-Vitalik Buterin và Glen Weyl đề xuất rằng [[Quadratic voting|Bỏ phiếu bậc hai]] có thể được sử dụng để xác định hiệu quả giá trị của một hàng hóa công cộng, từ đó có thể hướng dẫn việc giải ngân quỹ từ thiện hoặc công. Matt Clancy đặt cho khái niệm này một cái tên dễ thương: "Optimal Kickstarter" (Kickstarter tối ưu).
+Vitalik Buterin và Glen Weyl đề xuất rằng [[Bỏ phiếu bậc hai]] có thể được sử dụng để xác định hiệu quả giá trị của một hàng hóa công cộng, từ đó có thể hướng dẫn việc giải ngân quỹ từ thiện hoặc công. Matt Clancy đặt cho khái niệm này một cái tên dễ thương: "Optimal Kickstarter" (Kickstarter tối ưu).
 
 [[GitCoin]] đã thử nghiệm triển khai thủ tục này bằng cách sử dụng quỹ do Ethereum Foundation cung cấp.
 

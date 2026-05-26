@@ -2,11 +2,11 @@
 aliases:
   - Hệ thống ghi nhớ lặp lại ngắt quãng có thể tăng tốc giai đoạn đầu khó chịu khi học một chủ đề
 ---
-Khi bạn lần đầu tiếp xúc với một chủ đề mới, rất khó để thực hiện bất kỳ bước có ý nghĩa nào: ít nhất trong một thời gian, bạn thường không thể giữ đủ các thuật ngữ và ý tưởng mới trong đầu đồng thời đủ lâu để làm bất cứ điều gì có ý nghĩa. Trong bối cảnh này, một [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] có thể giúp bằng cách tăng tốc bạn qua giai đoạn khó xử, khó chịu này đến điểm mà bạn thực sự có thể có trải nghiệm có ý nghĩa với tài liệu (liên quan: [[Enabling environments’ activities directly serve an intrinsically meaningful purpose|Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).
+Khi bạn lần đầu tiếp xúc với một chủ đề mới, rất khó để thực hiện bất kỳ bước có ý nghĩa nào: ít nhất trong một thời gian, bạn thường không thể giữ đủ các thuật ngữ và ý tưởng mới trong đầu đồng thời đủ lâu để làm bất cứ điều gì có ý nghĩa. Trong bối cảnh này, một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có thể giúp bằng cách tăng tốc bạn qua giai đoạn khó xử, khó chịu này đến điểm mà bạn thực sự có thể có trải nghiệm có ý nghĩa với tài liệu (liên quan: [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).
 
 Ví dụ, một cách có ý nghĩa để học tiếng Pháp có thể là trò chuyện với người nói tiếng Pháp. Nhưng nếu bạn mới bắt đầu, bạn không biết đủ ngôn ngữ để có một cuộc trò chuyện thực sự — hoặc ít nhất, trải nghiệm có thể khó chịu đến mức bạn sẽ không lặp lại nó. Hệ thống ghi nhớ có thể giúp bạn nhanh chóng bỏ qua giai đoạn đó để đến giai đoạn học tập mà một cuộc trò chuyện có ý nghĩa trở nên khả thi.
 
-Đây là một phản bác tốt cho [[Many people view memory as unimportant to deep creative work|Nhiều người coi trí nhớ là không quan trọng đối với công việc sáng tạo sâu]].
+Đây là một phản bác tốt cho [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]].
 
 ---
 

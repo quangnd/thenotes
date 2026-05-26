@@ -3,9 +3,9 @@ aliases:
   - Trò chuyện kết hợp ghi chú thường xanh của nhiều người có thể thúc đẩy kiến tạo ý nghĩa chung
 ---
 
-[[Evergreen notes can increase conversational bandwidth|Ghi chú thường xanh giúp tăng băng thông hội thoại]], nhưng điều thú vị nhất xảy ra khi nhiều người cùng đã viết [[Evergreen notes|Ghi chú thường xanh]] liên quan tới một chủ đề. Thay vì "so sánh ghi chú" theo nghĩa ẩn dụ trong lúc nói chuyện, những người tham gia có thể *thực sự* so sánh ghi chú quanh một ý tưởng. Mỗi người chia nhỏ ghi chú theo cách khác nhau, nên gần như không bao giờ có sự tương ứng 1:1, và đó chính là điểm hay. Mỗi người tiếp cận ý tưởng từ một góc riêng, thấy những hàm ý khác nhau, đặt nó vào những bối cảnh khác nhau.
+[[Ghi chú thường xanh giúp tăng băng thông hội thoại]], nhưng điều thú vị nhất xảy ra khi nhiều người cùng đã viết [[Ghi chú thường xanh]] liên quan tới một chủ đề. Thay vì "so sánh ghi chú" theo nghĩa ẩn dụ trong lúc nói chuyện, những người tham gia có thể *thực sự* so sánh ghi chú quanh một ý tưởng. Mỗi người chia nhỏ ghi chú theo cách khác nhau, nên gần như không bao giờ có sự tương ứng 1:1, và đó chính là điểm hay. Mỗi người tiếp cận ý tưởng từ một góc riêng, thấy những hàm ý khác nhau, đặt nó vào những bối cảnh khác nhau.
 
-Bản năng lúc đó là kết nối luôn các hệ thống lại với nhau, nhưng [[Collaborative knowledge management systems tend to decay|Các hệ thống quản lý tri thức cộng tác có xu hướng suy thoái]].
+Bản năng lúc đó là kết nối luôn các hệ thống lại với nhau, nhưng [[Các hệ thống quản lý tri thức cộng tác có xu hướng suy thoái]].
 
 Đây chủ yếu là quan sát lý thuyết. Tôi chưa có đủ cuộc trò chuyện kiểu này để thực sự hiểu chúng.
 

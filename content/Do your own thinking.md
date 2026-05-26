@@ -15,7 +15,7 @@ Theo Kant:
 
 *Khai sáng là sự xuất hiện của con người từ sự chưa trưởng thành do chính mình gây ra. Chưa trưởng thành* là sự không có khả năng sử dụng sự hiểu biết của chính mình mà không có sự hướng dẫn từ người khác. Sự chưa trưởng thành này là *do chính mình gây ra* khi nguyên nhân của nó không nằm ở sự thiếu hiểu biết mà ở sự thiếu quyết tâm và can đảm để sử dụng nó mà không có sự hướng dẫn từ người khác. *Sapere aude!* Dám khôn ngoan!
 
-Một liều thuốc giải chính: [[Write about what you read|Viết về thứ mình đọc]]
+Một liều thuốc giải chính: [[Viết về thứ mình đọc]]
 
 ---
 

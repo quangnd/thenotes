@@ -13,12 +13,12 @@ Kể từ khi tôi bắt đầu làm việc độc lập từ nhà vào đầu n
 	- Thiền
 	- Pha cà phê nhỏ (10g / 150mL)
 - Buổi làm việc đầu tiên (~7:30 – 10)
-	- Bắt đầu một [[Daily working log|Nhật ký làm việc hàng ngày]], viết trong một phút hoặc hơn về cảm giác của tôi và ý định cho ngày hôm đó
-	- Thực hiện [[My morning writing practice|Thực hành viết buổi sáng của tôi]], thường cho đến khoảng 10:00
+	- Bắt đầu một [[Nhật ký làm việc hàng ngày]], viết trong một phút hoặc hơn về cảm giác của tôi và ý định cho ngày hôm đó
+	- Thực hiện [[Thực hành viết buổi sáng của tôi]], thường cho đến khoảng 10:00
 		- Tôi luân phiên giữa các giai đoạn 35 phút tập trung làm một việc và 5 phút nghỉ giải lao, trong đó tôi đi lại quanh nhà và dọn dẹp, chuẩn bị mise en place cho bữa tối, v.v.
 	- Pha cà phê nhỏ (10g / 150 mL)
 
-Tôi không để mình sử dụng internet trước thời điểm này trong ngày. Nó làm phân tán sự chú ý của tôi, nhưng quan trọng hơn, tôi thấy rằng lấp đầy đầu mình bằng giọng nói của người khác làm trầm trọng thêm [[It’s hard to hear yourself think|Khó lắng nghe chính mình suy nghĩ]].
+Tôi không để mình sử dụng internet trước thời điểm này trong ngày. Nó làm phân tán sự chú ý của tôi, nhưng quan trọng hơn, tôi thấy rằng lấp đầy đầu mình bằng giọng nói của người khác làm trầm trọng thêm [[Khó lắng nghe chính mình suy nghĩ]].
 
 Vào cuối tuần, tôi thường ngừng tuân theo thói quen tại thời điểm này. Vào các ngày trong tuần, các hoạt động của tôi ít nhất quán hơn từ đây, nhưng cấu trúc thời gian thì đều đặn:
 

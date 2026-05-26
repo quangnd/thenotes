@@ -9,4 +9,4 @@ Tương tự, khi giải thích một khái niệm mới, thường hữu ích k
 
 Trong trò chơi điện tử, người chơi thường bắt đầu với một tập nhỏ các khả năng, hoặc trong một môi trường nơi một số loại thách thức không bao giờ xuất hiện. Điều này làm cho trò chơi dễ tiếp cận hơn lúc đầu.
 
-Ràng buộc là một cách để xây dựng các tiến trình nhiệm vụ chi tiết (xem [[Fine-grained task progressions as cognitive scaffolding|Tiến trình nhiệm vụ chi tiết như giàn giáo nhận thức]]), nhưng chúng không nhất thiết phải được sử dụng theo cách này. Ví dụ, một nhiếp ảnh gia tập sự có thể dành một năm chụp ảnh với khẩu độ, tiêu cự và ISO cố định, chỉ điều chỉnh tốc độ màn trập một cách có hiệu quả.
+Ràng buộc là một cách để xây dựng các tiến trình nhiệm vụ chi tiết (xem [[Các tiến trình nhiệm vụ chi tiết như là giàn giáo nhận thức]]), nhưng chúng không nhất thiết phải được sử dụng theo cách này. Ví dụ, một nhiếp ảnh gia tập sự có thể dành một năm chụp ảnh với khẩu độ, tiêu cự và ISO cố định, chỉ điều chỉnh tốc độ màn trập một cách có hiệu quả.

@@ -20,7 +20,7 @@ Một chủ đề nhất quán với tất cả các thao tác này là chúng g
 
 Tệ hơn, có thể có những rào cản thể chế khó khăn: người đào tạo có thể bị đánh giá bởi hiệu suất tức thời (không phải dài hạn); hoặc họ có thể không có cơ hội quan sát hiệu suất dài hạn.
 
-Ngoài sự đảo ngược ngắn hạn này, học viên có thể tránh "khó khăn đáng mong muốn" vì họ tin rằng trí nhớ/hiểu biết của mình mạnh hơn thực tế. Bjork gợi ý rằng "đào tạo thường không tối ưu vì nó không kết hợp sự biến đổi, sự trì hoãn, sự không chắc chắn, và các thách thức khác mà người học có thể gặp phải trong một bối cảnh công việc thực tế nào đó" (xem thêm [[Transfer learning|Chuyển giao học tập]]).
+Ngoài sự đảo ngược ngắn hạn này, học viên có thể tránh "khó khăn đáng mong muốn" vì họ tin rằng trí nhớ/hiểu biết của mình mạnh hơn thực tế. Bjork gợi ý rằng "đào tạo thường không tối ưu vì nó không kết hợp sự biến đổi, sự trì hoãn, sự không chắc chắn, và các thách thức khác mà người học có thể gặp phải trong một bối cảnh công việc thực tế nào đó" (xem thêm [[Học chuyển giao]]).
 
 ---
 

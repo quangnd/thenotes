@@ -9,7 +9,7 @@ Nghiên cứu sáng tạo đòi hỏi khám phá các không gian có cấu trú
 
 > Tôi không điều hành CDG, tôi ghé thăm nó. Người sáng lập Xerox PARC Robert Taylor không muốn thuê bất kỳ ai cần được quản lý. Không phải cách nó hoạt động. Tôi có những người trong danh sách đã đang di chuyển theo những hướng tuyệt vời, theo tầm nhìn nội tại riêng của họ. Tôi không cần giải thích cho những người này họ sẽ làm gì, bởi vì họ đã đang làm rồi. Bret Victor đã thuê bốn người mà tôi không biết. Tôi muốn có người để tài trợ, không phải quản lý. (I don't run CDG, I visit it. Xerox PARC founder Robert Taylor didn't want to hire anyone who needed to be managed.)
 
-Liên quan: [[Fund people, not projects|Tài trợ cho con người, không phải dự án]].
+Liên quan: [[Đầu tư vào người, không phải dự án]].
 
 ----------
 

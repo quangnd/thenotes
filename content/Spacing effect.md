@@ -6,7 +6,7 @@ Bạn sẽ nhớ chắc hơn nếu học một tài liệu rải ra nhiều lầ
 
 Khả năng quên của bạn đi theo đường cong suy giảm hàm mũ, do Ebbinghaus mô tả lần đầu vào giữa thế kỷ 19. Ôn ngay lập tức không giúp được nhiều, vì bạn chưa kịp quên. Đợi một thời gian rồi mới ôn thì hiệu quả hơn, bởi lúc đó bạn nhiều khả năng đã quên.
 
-Mỗi lần ôn lại làm đường cong quên thoải hơn, nên khoảng cách giữa các lần ôn có thể giãn ra dần. Cơ chế của hiệu ứng làm thoải này chưa được mô tả rõ (xem [[Two-component model of memory|mô hình trí nhớ hai thành phần]] để biết một cách lý giải), nhưng các thuật toán [[Spaced repetition memory system|hệ thống ghi nhớ lặp lại ngắt quãng]] đã dùng hệ số cố định và đạt kết quả khá tốt, tạo ra chuỗi khoảng cách ôn tăng theo cấp số nhân, ví dụ 5 ngày, 2 tuần, 1 tháng, 2 tháng, 4 tháng, v.v.
+Mỗi lần ôn lại làm đường cong quên thoải hơn, nên khoảng cách giữa các lần ôn có thể giãn ra dần. Cơ chế của hiệu ứng làm thoải này chưa được mô tả rõ (xem [[Mô hình hai thành phần của trí nhớ]] để biết một cách lý giải), nhưng các thuật toán [[Hệ thống ghi nhớ lặp lại ngắt quãng]] đã dùng hệ số cố định và đạt kết quả khá tốt, tạo ra chuỗi khoảng cách ôn tăng theo cấp số nhân, ví dụ 5 ngày, 2 tuần, 1 tháng, 2 tháng, 4 tháng, v.v.
 
 ---
 

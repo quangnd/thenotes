@@ -3,14 +3,14 @@ aliases:
   - Phương tiện đại chúng hầu như thiếu chiều thời gian được tác giả thiết kế vượt quá một ngày
 ---
 
-Các nhà làm phim, nhà soạn nhạc, và nhà viết kịch cẩn thận thiết kế chiều thời gian trong tác phẩm của họ. Một khoảng lặng đầy ý nghĩa, một xung đột âm ỉ, và một đoạn tăng tốc mang lại cảm giác như vậy vì cách chúng được người xem trải nghiệm theo thời gian. Những phương tiện đó thể hiện trải nghiệm diễn biến qua vài giờ — nhưng còn ngày, tháng, năm thì sao? Các thiết chế văn hóa thường thiết kế trải nghiệm của họ theo những thang thời gian đó (ví dụ: nghi lễ trưởng thành tôn giáo kéo dài nhiều năm), nhưng phương tiện đại chúng hiếm khi làm vậy. Đó là một hạn chế đáng tiếc: phương tiện đại chúng mang đến cho tác giả phạm vi tiếp cận rộng lớn. (xem thêm [[Enacted experiences are hard to distribute|Trải nghiệm thể hiện rất khó nhân rộng]])
+Các nhà làm phim, nhà soạn nhạc, và nhà viết kịch cẩn thận thiết kế chiều thời gian trong tác phẩm của họ. Một khoảng lặng đầy ý nghĩa, một xung đột âm ỉ, và một đoạn tăng tốc mang lại cảm giác như vậy vì cách chúng được người xem trải nghiệm theo thời gian. Những phương tiện đó thể hiện trải nghiệm diễn biến qua vài giờ — nhưng còn ngày, tháng, năm thì sao? Các thiết chế văn hóa thường thiết kế trải nghiệm của họ theo những thang thời gian đó (ví dụ: nghi lễ trưởng thành tôn giáo kéo dài nhiều năm), nhưng phương tiện đại chúng hiếm khi làm vậy. Đó là một hạn chế đáng tiếc: phương tiện đại chúng mang đến cho tác giả phạm vi tiếp cận rộng lớn. (xem thêm [[Trải nghiệm thể hiện rất khó nhân rộng]])
 
-Triển vọng này là điều tôi gọi là [[Timeful text|Văn bản có thời gian]].
+Triển vọng này là điều tôi gọi là [[Văn bản có chiều thời gian]].
 
 ### Sách có chiều thời gian dài hơn, nhưng nhìn chung không được thiết kế
-Sách thường mất nhiều tuần hoặc tháng để đọc. Nhưng sách hầu như không bao giờ có chiều thời gian *được thiết kế* như phim hay kịch. Các ngày, tuần, và tháng thường không được tác giả chỉ định theo cách mà các phút được nhà làm phim chỉ định. Nhiều ý tưởng cần thời gian để thấm: ngoài [[Spacing effect|Hiệu ứng ngắt quãng]], mọi người phải tiếp xúc với chúng nhiều lần trước khi ý nghĩa thực sự trở nên rõ ràng.
+Sách thường mất nhiều tuần hoặc tháng để đọc. Nhưng sách hầu như không bao giờ có chiều thời gian *được thiết kế* như phim hay kịch. Các ngày, tuần, và tháng thường không được tác giả chỉ định theo cách mà các phút được nhà làm phim chỉ định. Nhiều ý tưởng cần thời gian để thấm: ngoài [[Hiệu ứng ngắt quãng]], mọi người phải tiếp xúc với chúng nhiều lần trước khi ý nghĩa thực sự trở nên rõ ràng.
 
-Hãy xem xét mối quan hệ chuyên gia-học trò thực sự. Chuyên gia có thể giới thiệu một ý tưởng, sau đó quan sát nó nở rộ trong học trò qua những tuần tiếp theo, có lẽ tham chiếu đến nó một vài lần theo nhiều cách khác nhau để thúc đẩy sự phát triển của nó. Sau khi học trò đã có đủ thời gian để hấp thụ triệt để ý tưởng, chuyên gia có thể giới thiệu hệ quả nào đó của ý tưởng đó vào thời điểm tạo tác động lớn nhất. Đây không chỉ là về các vấn đề được mô tả trong [[Most explanatory media make participants run their own feedback loops|Hầu hết phương tiện giải thích bắt người tham gia tự chạy vòng phản hồi]]: chuyên gia đang sắp xếp thành phần thời gian trong trải nghiệm của học trò.
+Hãy xem xét mối quan hệ chuyên gia-học trò thực sự. Chuyên gia có thể giới thiệu một ý tưởng, sau đó quan sát nó nở rộ trong học trò qua những tuần tiếp theo, có lẽ tham chiếu đến nó một vài lần theo nhiều cách khác nhau để thúc đẩy sự phát triển của nó. Sau khi học trò đã có đủ thời gian để hấp thụ triệt để ý tưởng, chuyên gia có thể giới thiệu hệ quả nào đó của ý tưởng đó vào thời điểm tạo tác động lớn nhất. Đây không chỉ là về các vấn đề được mô tả trong [[Hầu hết phương tiện giải thích bắt người tham gia tự chạy vòng phản hồi]]: chuyên gia đang sắp xếp thành phần thời gian trong trải nghiệm của học trò.
 
 Ngược lại, nếu tác giả muốn giới thiệu cả ý tưởng và hệ quả tinh tế nào đó của ý tưởng đó, hai điểm này chỉ có thể cách nhau bằng các trang trong gáy sách. Đôi khi tác giả viết ghi chú như "đừng đọc chương này cho đến khi…" nhưng cách tiếp cận này rõ ràng khá hạn chế.
 
@@ -29,8 +29,8 @@ Tương tự, các MOOG như World of Warcraft cẩn thận biên đạo các đ
 
 Một số trò chơi tường thuật một người chơi mất 50-100 giờ để hoàn thành, nhưng chúng được đối xử giống như phim: trải nghiệm không liên quan có ý nghĩa đến việc ngày hoặc tuần có thể đang trôi qua đối với người chơi.
 
-Trò chơi là bất thường ở khía cạnh này: [[Dynamic mediums usually lack an authored time dimension|Phương tiện động thường thiếu chiều thời gian do tác giả tạo]].
+Trò chơi là bất thường ở khía cạnh này: [[Phương tiện động thường thiếu chiều thời gian do tác giả tạo]].
 
 ---
 
-Thú vị là: [[The mnemonic medium can be adapted to author an experience which unfolds over time|Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]
+Thú vị là: [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]

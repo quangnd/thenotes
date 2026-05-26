@@ -6,9 +6,9 @@ Một cách để điều hướng nghịch lý vốn có trong [[Prefer linear 
 
 Ví dụ, trên bảng trắng hoặc trong sổ tay, nếu bạn đang phát triển một danh sách gạch đầu dòng hoặc sơ đồ "chính" và điều gì đó xuất hiện trong đầu bạn không hoàn toàn phù hợp, bạn chỉ cần viết nó sang bên cạnh và có thể vẽ một mũi tên.
 
-Tương tự, trong một hệ thống [[Hypertext|Siêu văn bản]] [[Note-writing system|Hệ thống viết ghi chú]], những suy nghĩ ngoài lề luôn có thể được ghi lại trong một ghi chú khác và liên kết vào: [[Evergreen notes lower the emotional stakes in editing manuscripts|Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]]. Nhưng lợi ích này không nhất thiết là về việc xây dựng một bản thể luận được kết nối tốt (như được mô tả trong [[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]); nó thiên về việc duy trì sự gọn gàng và sự chú ý.
+Tương tự, trong một hệ thống [[Siêu văn bản]] [[Hệ thống viết ghi chú]], những suy nghĩ ngoài lề luôn có thể được ghi lại trong một ghi chú khác và liên kết vào: [[Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]]. Nhưng lợi ích này không nhất thiết là về việc xây dựng một bản thể luận được kết nối tốt (như được mô tả trong [[Ghi chú thường xanh nên liên kết dày đặc]]); nó thiên về việc duy trì sự gọn gàng và sự chú ý.
 
-Các môi trường viết tuyến tính như trình xử lý văn bản buộc tác giả tạo ra các bong bóng phi tuyến tính bên trong tác phẩm tuyến tính của họ, ví dụ bằng cách tạo phụ lục hoặc các phần "ghi chú lạc" màu sắc hoặc sử dụng Google Comments. Những cách tiếp cận này đều cảm thấy gượng gạo và không tự nhiên: [[Tyranny of formality in interfaces|Sự chuyên chế của tính hình thức trong giao diện]]
+Các môi trường viết tuyến tính như trình xử lý văn bản buộc tác giả tạo ra các bong bóng phi tuyến tính bên trong tác phẩm tuyến tính của họ, ví dụ bằng cách tạo phụ lục hoặc các phần "ghi chú lạc" màu sắc hoặc sử dụng Google Comments. Những cách tiếp cận này đều cảm thấy gượng gạo và không tự nhiên: [[Sự chuyên quyền của sự cứng nhắc trong giao diện]]
 
 Theo Ted Nelson ([nguồn](https://www.youtube.com/watch?v=En_2T7KH6RA), [qua Mark Knight](https://twitter.com/mjknght/status/1309769444592431113)):
 

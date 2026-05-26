@@ -3,7 +3,7 @@ aliases:
   - Tác động nhân quả của các phiên ôn tập trong phương tiện ghi nhớ đến khả năng ghi nhớ của người đọc là gì?
 ---
 
-[[Quantum Country readers reliably develop detailed retention|Người đọc Quantum Country phát triển khả năng ghi nhớ chi tiết một cách đáng tin cậy]], nhưng dữ liệu đó mang tính tương quan. Tác động nhân quả là gì?
+[[Người đọc Quantum Country phát triển khả năng giữ lại thông tin chi tiết một cách đáng tin cậy]], nhưng dữ liệu đó mang tính tương quan. Tác động nhân quả là gì?
 
 Hiện tại chúng tôi đang tiến hành một thí nghiệm lớn về câu hỏi này: loại bỏ hoàn toàn một bộ câu hỏi ôn tập.
 

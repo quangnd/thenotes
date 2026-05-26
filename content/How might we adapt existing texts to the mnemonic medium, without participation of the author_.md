@@ -2,7 +2,7 @@
 aliases:
   - Làm thế nào chúng ta có thể điều chỉnh các văn bản hiện có cho phương tiện ghi nhớ mà không cần sự tham gia của tác giả?
 ---
-[[Mass adoption of the mnemonic medium seems to require mass adoption of web publishing|Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi việc áp dụng đại trà xuất bản web]]. Hơn nữa: rất nhiều cuốn sách quan trọng hoàn toàn không có sẵn ở dạng kỹ thuật số; nhiều người thích sách giấy và máy đọc e-ink. Đối tượng kỹ thuật sẽ tiếp tục sử dụng PDF trong thời gian dài. Còn [[Audiobooks|Sách nói]] và video thì sao? Sẽ rất mạnh mẽ nếu chúng ta có thể "nâng" các phương tiện truyền thông hiện có vào phương tiện mà không làm mất đi sức mạnh của nó.
+[[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]]. Hơn nữa: rất nhiều cuốn sách quan trọng hoàn toàn không có sẵn ở dạng kỹ thuật số; nhiều người thích sách giấy và máy đọc e-ink. Đối tượng kỹ thuật sẽ tiếp tục sử dụng PDF trong thời gian dài. Còn [[Sách nói]] và video thì sao? Sẽ rất mạnh mẽ nếu chúng ta có thể "nâng" các phương tiện truyền thông hiện có vào phương tiện mà không làm mất đi sức mạnh của nó.
 
 Không có cách tiếp cận nào dưới đây thực sự tốt, nhưng có lẽ các phiên bản lặp lại của chúng có thể tốt hơn?
 
@@ -12,7 +12,7 @@ Bạn mở một cuốn sách giấy trước mặt; bạn đặt điện thoạ
 
 Cách tiếp cận này là một giải pháp chắp vá lớn. Nó yêu cầu người đọc phải nhớ nơi họ phải dừng lại, theo dõi điểm đó, và chuyển đổi qua lại giữa hai phương tiện. Nghe có vẻ phiền phức. Tôi nghi ngờ tỷ lệ tuân thủ sẽ thấp hơn nhiều so với trên [[Quantum Country]].
 
-Nhưng đây là một cách tiếp cận rất linh hoạt có thể được điều chỉnh cho hầu hết mọi hình thức phương tiện trước đó. Nó không yêu cầu sự hợp tác của tác giả/nhà xuất bản, và các câu hỏi có thể được lấy từ nhiều nguồn sản xuất khác nhau (liên quan: [[Audiobooks are produced under a wide variety of business models|Sách nói được sản xuất theo nhiều mô hình kinh doanh khác nhau]]).
+Nhưng đây là một cách tiếp cận rất linh hoạt có thể được điều chỉnh cho hầu hết mọi hình thức phương tiện trước đó. Nó không yêu cầu sự hợp tác của tác giả/nhà xuất bản, và các câu hỏi có thể được lấy từ nhiều nguồn sản xuất khác nhau (liên quan: [[Sách nói được sản xuất trong nhiều mô hình kinh doanh khác nhau]]).
 
 Ngoài ra, kênh phân phối rất tệ: ai đó đang đọc sách phải quyết định tìm kiếm riêng tài liệu bổ sung xung quanh nó, kiểm tra ứng dụng của chúng tôi để được hỗ trợ, và có thể phải trả tiền riêng cho tài liệu đó. Cuộc thảo luận về sách/PDF trên Twitter không hướng mọi người đến ứng dụng đồng hành này. Không có bất kỳ hiệu ứng mạng lưới có ý nghĩa nào.
 
@@ -24,7 +24,7 @@ Làm điều này cho EPUB không thực sự khả thi khi DRM vẫn còn phổ
 
 Điều này sẽ tốn rất nhiều công sức. Có những vấn đề lớn về kênh phân phối ở đây.
 
-Thành thật mà nói, cách tiếp cận tốt hơn cho PDF có lẽ là thông qua một trong vô số công cụ "PDF-sang-trang-web". Lấy PDF học thuật; chuyển nó thành ấn phẩm web; *sau đó* nâng cấp nó (ví dụ thông qua [[Turning any web page into the mnemonic medium|Biến trang web bất kỳ thành phương tiện ghi nhớ]]).
+Thành thật mà nói, cách tiếp cận tốt hơn cho PDF có lẽ là thông qua một trong vô số công cụ "PDF-sang-trang-web". Lấy PDF học thuật; chuyển nó thành ấn phẩm web; *sau đó* nâng cấp nó (ví dụ thông qua [[Biến trang web bất kỳ thành phương tiện ghi nhớ]]).
 
 #### Kính AR
 

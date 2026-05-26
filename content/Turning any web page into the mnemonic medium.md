@@ -3,9 +3,9 @@ aliases:
   - Biến trang web bất kỳ thành phương tiện ghi nhớ
 ---
 
-[[Quantum Country]] là trang web xây riêng; cơ chế ghi nhớ ăn sâu vào cách trình bày bài luận. Nhưng các tương tác cốt lõi của [[Mnemonic medium|phương tiện ghi nhớ]] đủ tách bạch để có thể nhúng vào trang web bất kỳ chỉ bằng HTML đơn giản.
+[[Quantum Country]] là trang web xây riêng; cơ chế ghi nhớ ăn sâu vào cách trình bày bài luận. Nhưng các tương tác cốt lõi của [[Phương tiện ghi nhớ]] đủ tách bạch để có thể nhúng vào trang web bất kỳ chỉ bằng HTML đơn giản.
 
-Đây là một mảnh ghép cốt lõi trong tầm nhìn của tôi về một [[OS-level spaced repetition system|Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]].
+Đây là một mảnh ghép cốt lõi trong tầm nhìn của tôi về một [[Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]].
 
 #### Web Components
 Ta có thể định nghĩa đặc tả cho câu hỏi ghi nhớ qua các thẻ HTML mới (ví dụ `<card>`). Sau đó cung cấp một thư viện Javascript (có thể mã nguồn mở), khi được thêm vào trang sẽ "kích hoạt" các thành phần này bằng cách thay chúng bằng DOM node lúc chạy. Các [web component](https://www.webcomponents.org/) kiểu này hiện được hỗ trợ tốt trên mọi trình duyệt hiện đại, trừ Edge, và hình như đã có polyfill cho Edge.
@@ -35,4 +35,4 @@ Apple và Mozilla đã tạo Storage Access API cho phép nội dung bên thứ 
 #### Phân tích và thay thế khối văn bản
 Một số quy trình không cho phép tác giả thêm thẻ HTML tùy ý. Ví dụ, họ tạo trang qua phần mềm blog tùy chỉnh chỉ có WYSIWYG.
 
-Trong các trường hợp này, giả sử việc chèn script vẫn khả thi, ta có thể cho phép tác giả thêm câu hỏi theo kiểu giống [[My implementation of a personal mnemonic medium|Triển khai phương tiện ghi nhớ cá nhân của tôi]], dưới dạng văn bản thuần, script sẽ phân tích và trích xuất lúc chạy.
+Trong các trường hợp này, giả sử việc chèn script vẫn khả thi, ta có thể cho phép tác giả thêm câu hỏi theo kiểu giống [[Cách tôi triển khai phương tiện ghi nhớ cá nhân]], dưới dạng văn bản thuần, script sẽ phân tích và trích xuất lúc chạy.

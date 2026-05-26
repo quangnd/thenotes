@@ -3,9 +3,9 @@ aliases:
   - Video ghi nhớ có thể là lối vào mượt hơn cho việc áp dụng đại trà so với văn bản ghi nhớ
 ---
 
-Khi đánh giá các con đường đến phổ biến cho phương tiện ghi nhớ, chúng tôi gặp khó khăn trong việc tìm cách tiếp cận rõ ràng để xuất bản các văn bản ghi nhớ có tác động lớn. Để điều chỉnh các tác phẩm kinh điển hiện có, chúng tôi phải hoặc đối mặt với các phụ thuộc đối tác đầy thách thức, hoặc trả lời [[How might we adapt existing texts to the mnemonic medium, without participation of the author?|Chúng ta có thể điều chỉnh các văn bản hiện có sang phương tiện ghi nhớ mà không cần sự tham gia của tác giả như thế nào?]]. Nếu viết các tác phẩm mới, phương tiện ghi nhớ có thể vẫn là thị trường ngách trong khá lâu.
+Khi đánh giá các con đường đến phổ biến cho phương tiện ghi nhớ, chúng tôi gặp khó khăn trong việc tìm cách tiếp cận rõ ràng để xuất bản các văn bản ghi nhớ có tác động lớn. Để điều chỉnh các tác phẩm kinh điển hiện có, chúng tôi phải hoặc đối mặt với các phụ thuộc đối tác đầy thách thức, hoặc trả lời [[Làm thế nào chúng ta có thể điều chỉnh các văn bản hiện có cho phương tiện ghi nhớ mà không cần sự tham gia của tác giả_]]. Nếu viết các tác phẩm mới, phương tiện ghi nhớ có thể vẫn là thị trường ngách trong khá lâu.
 
-Ngược lại, YouTube hấp dẫn vì tính phi trung gian của nó. Các video kinh điển thường do một cá nhân kiểm soát, và các nhà sáng tạo có xu hướng dễ tiếp nhận phương tiện thử nghiệm hơn. Video đã ưu tiên web, trong khi văn bản thường vẫn ưu tiên in, nên video ghi nhớ không yêu cầu giải quyết các vấn đề được mô tả trong [[Mass adoption of the mnemonic medium seems to require mass adoption of web publishing|Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]].
+Ngược lại, YouTube hấp dẫn vì tính phi trung gian của nó. Các video kinh điển thường do một cá nhân kiểm soát, và các nhà sáng tạo có xu hướng dễ tiếp nhận phương tiện thử nghiệm hơn. Video đã ưu tiên web, trong khi văn bản thường vẫn ưu tiên in, nên video ghi nhớ không yêu cầu giải quyết các vấn đề được mô tả trong [[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]].
 
 #### Nâng cấp video kỹ thuật số dễ hơn nhiều so với nâng cấp sách
 

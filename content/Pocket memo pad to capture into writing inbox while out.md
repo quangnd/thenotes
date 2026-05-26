@@ -5,13 +5,13 @@ aliases:
 
 Tôi dùng một tập giấy A7 có dòng kẻ (Maruman Mnemosyne N193A) để ghi nhanh khi ra ngoài. Ý tưởng hay từ các cuộc trò chuyện, ý tưởng lúc đi bộ, v.v. đều ghi vào đây. Tôi thường thêm chút ngữ cảnh để sau dễ định vị: ngày, địa điểm, người liên quan.
 
-Những ghi chú này không ở lại trong tập giấy. Nó là một hộp thư nạp vào [[A writing inbox for transient and incomplete notes|Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Định kỳ, trong [[My morning writing practice|Thực hành viết buổi sáng của tôi]], tôi xử lý các ghi chú từ tập giấy: phát triển chúng thành [[Evergreen notes|Ghi chú thường xanh]], chuyển vào hộp thư viết, hoặc bỏ đi.
+Những ghi chú này không ở lại trong tập giấy. Nó là một hộp thư nạp vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Định kỳ, trong [[Thực hành viết buổi sáng của tôi]], tôi xử lý các ghi chú từ tập giấy: phát triển chúng thành [[Ghi chú thường xanh]], chuyển vào hộp thư viết, hoặc bỏ đi.
 
 **Tôi xé tờ ngay khi xử lý xong, nên luôn biết trạng thái của tập giấy: trang nào còn chữ là trang chưa xử lý.**
 
-Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Evergreen notes should be atomic|Ghi chú thường xanh nên atomic]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi tâm thế xử lý rất khác nhau.
+Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Ghi chú thường xanh nên atomic]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi tâm thế xử lý rất khác nhau.
 
-Tôi cũng dùng tập giấy này để [[Write about what you read|Viết về thứ mình đọc]]. Khi đọc sách, tôi ghi lại những điểm thú vị vào đây. Mỗi ý tưởng một trang, như trên. Tôi thêm cả số trang và ngày.
+Tôi cũng dùng tập giấy này để [[Viết về thứ mình đọc]]. Khi đọc sách, tôi ghi lại những điểm thú vị vào đây. Mỗi ý tưởng một trang, như trên. Tôi thêm cả số trang và ngày.
 
 ![](https://notes.andymatuschak.org/BearImages/7E529679-D8E0-4196-A54F-F16DA1813F35-381-00001E868353475D/09985A95-428D-49C6-B1B9-9A9126FFC900.png)
 

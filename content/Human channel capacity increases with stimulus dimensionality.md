@@ -2,7 +2,7 @@
 aliases:
   - Dung lượng kênh của con người tăng theo số chiều kích thích
 ---
-Đối với các kích thích đơn chiều, [[Channel capacity of humans as information processors|Dung lượng kênh của con người như bộ xử lý thông tin]] chỉ vài bit, nhưng trong cuộc sống hàng ngày, dường như chúng ta thường xuyên tái tạo các kích thích phức tạp hơn nhiều so với mức đó. Một giải thích cho sự khác biệt này là dung lượng kênh của con người {tăng} theo {số chiều} của kích thích.
+Đối với các kích thích đơn chiều, [[Dung lượng kênh của con người với tư cách bộ xử lý thông tin]] chỉ vài bit, nhưng trong cuộc sống hàng ngày, dường như chúng ta thường xuyên tái tạo các kích thích phức tạp hơn nhiều so với mức đó. Một giải thích cho sự khác biệt này là dung lượng kênh của con người {tăng} theo {số chiều} của kích thích.
 
 Ví dụ, phân tích của Miller (1956, tr. 85-87) về dữ liệu từ Hake và Garner (1951) và Coonan và Klemmer (trao đổi chưa xuất bản với Miller) cho thấy dung lượng kênh của con người cho các điểm trên một đường thẳng nằm giữa {3,2 và 3,9 bit (10-15 danh mục)}, trong khi dữ liệu từ Klemmer và Frick (1953) cho thấy dung lượng kênh của con người cho các điểm trong hình vuông khoảng {4,6 bit (~24 danh mục)}.
 
@@ -27,4 +27,4 @@ Halford, G. S., Wilson, W. H., & Phillips, S. (1998). Processing capacity define
 
 Klemmer, E. T., & Frick, F. C. (1953). Assimilation of information from dot and matrix patterns. Journal of Experimental Psychology, 45(1), 15–19. https://doi.org/10.1037/h0060868
 
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - The magical number seven, plus or minus two]]
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]

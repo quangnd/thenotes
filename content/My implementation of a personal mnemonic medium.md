@@ -3,13 +3,13 @@ aliases:
   - Cách tôi triển khai phương tiện ghi nhớ cá nhân
 ---
 
-Tôi đã triển khai [[The mnemonic medium can be extended to one’s personal notes|Phương tiện ghi nhớ có thể được mở rộng sang các ghi chú cá nhân]] trong [[Note-writing system|Hệ thống viết ghi chú]] của riêng mình.
+Tôi đã triển khai [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]] trong [[Hệ thống viết ghi chú]] của riêng mình.
 
 Hệ thống hoạt động bằng cách liên tục quét một tập hợp các tệp Markdown để tìm các lời nhắc được nhúng (xem cú pháp bên dưới). Các lời nhắc sau đó được coi là một phần của bộ làm việc của tôi cho các buổi ôn tập lặp lại ngắt quãng. Tôi cũng đã triển khai một thành phần liên tục đồng bộ hóa các lời nhắc được trích xuất đó sang Anki.
 
 Một số ghi chú ví dụ bao gồm tính năng này:
-- [[Channel capacity of humans as information processors|Dung lượng kênh của con người như những bộ xử lý thông tin]]
-- [[Human channel capacity increases with bits-per-chunk|Dung lượng kênh của con người tăng theo bits-per-chunk]]
+- [[Dung lượng kênh của con người với tư cách bộ xử lý thông tin]]
+- [[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]]
 
 Để xem triển khai, hãy xem [https://github.com/andymatuschak/computer-supported-thinking](https://github.com/andymatuschak/computer-supported-thinking).
 

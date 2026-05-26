@@ -12,32 +12,32 @@ Năm xuất bản: {2016}
 
 ### 1. Sức mạnh của luyện tập có mục đích
 
-- [[The bar for virtuosity has risen precipitously in many fields|Tiêu chuẩn cho sự điêu luyện đã tăng vọt trong nhiều lĩnh vực]]
-- [[Naive approaches to practice rapidly plateau|Các phương pháp luyện tập ngây thơ nhanh chóng đạt ngưỡng bình nguyên]]
-	- Ngược lại, [[Purposeful practice, after Ericsson and Pool|Luyện tập có mục đích, theo Ericsson và Pool]] có thể đạt xa hơn
-	- [[Performance plateaus often require a change in approach to surmount|Ngưỡng bình nguyên hiệu suất thường đòi hỏi thay đổi phương pháp để vượt qua]]
+- [[Tiêu chuẩn để đạt được sự xuất sắc đã tăng vọt trong nhiều lĩnh vực]]
+- [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]]
+	- Ngược lại, [[Luyện tập có mục đích, theo Ericsson và Pool]] có thể đạt xa hơn
+	- [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]
 
 ### 2. Khai thác tính thích nghi
 
-- [[Human physical and cognitive capacity can be expanded surprisingly far with practice|Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên qua luyện tập]]
-	- Luyện tập dựa vào tính linh hoạt: [[Practicing cognitive skills can expand associated neurological capacity|Luyện tập kỹ năng nhận thức mở rộng năng lực thần kinh tương ứng]]
-- [[Skill development requires challenging homeostasis|Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]]
+- [[Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên thông qua luyện tập]]
+	- Luyện tập dựa vào tính linh hoạt: [[Luyện tập kỹ năng nhận thức mở rộng năng lực thần kinh tương ứng]]
+- [[Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]]
 
 ### 3. Biểu diễn tâm thần
 
-- Khái niệm trung tâm: [[Mental representations, after Ericsson and Pool|Biểu diễn tâm thần, theo Ericsson và Pool]]
-	- Cách đặt tên này xây dựng dựa trên "chunk" ([[“Chunks” in human cognition|"Chunks" trong nhận thức con người]]). Xem ghi chú chi tiết trong [[Miller - The magical number seven, plus or minus two]].
-- Luận điểm trung tâm: [[Expertise requires building sophisticated chunk recoding schemes|Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại chunk tinh vi]]
-	- (vì [[Complex ideas may be hard to learn in part because their components overflow working memory|Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]])
-	- ví dụ để thảo luận chi tiết về chuyên môn cờ vua, xem [[Chase and Simon - Perception in chess]]
-- Tất cả là về luyện tập: [[Good practice encodes more effective chunk recoding schemes|Luyện tập tốt mã hóa các lược đồ mã hóa lại chunk hiệu quả hơn]]
-	- [[Efficient chunk schemas usually encode domain-specific attributes|Các lược đồ chunk hiệu quả thường mã hóa các thuộc tính đặc thù của lĩnh vực]]
+- Khái niệm trung tâm: [[Biểu diễn tinh thần, theo Ericsson và Pool]]
+	- Cách đặt tên này xây dựng dựa trên "chunk" ([[Các mảnh trong nhận thức con người]]). Xem ghi chú chi tiết trong [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]].
+- Luận điểm trung tâm: [[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]]
+	- (vì [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]])
+	- ví dụ để thảo luận chi tiết về chuyên môn cờ vua, xem [[Chase và Simon - Nhận thức trong cờ vua]]
+- Tất cả là về luyện tập: [[Luyện tập tốt mã hóa các sơ đồ tái mã hóa khối hiệu quả hơn]]
+	- [[Các lược đồ khối hiệu quả thường mã hóa các thuộc tính đặc thù theo lĩnh vực]]
 - Hiệu suất thể chất chuyên gia cũng phụ thuộc vào các biểu diễn tâm thần tinh vi (tr. 82-83)
-- "… khi chúng tôi tìm cách làm cho thông điệp của mình rõ ràng hơn với độc giả, chúng tôi sẽ nghĩ ra những cách mới để suy nghĩ về luyện tập có chủ đích. Các nhà nghiên cứu gọi loại viết này là 'chuyển đổi kiến thức'… vì quá trình viết thay đổi và bổ sung vào kiến thức mà người viết có khi bắt đầu." (75-76). [[Writing forces sharper understanding|Viết buộc ta hiểu sắc hơn]], [[Insight through making|Hiểu biết sâu sắc qua việc làm]]
+- "… khi chúng tôi tìm cách làm cho thông điệp của mình rõ ràng hơn với độc giả, chúng tôi sẽ nghĩ ra những cách mới để suy nghĩ về luyện tập có chủ đích. Các nhà nghiên cứu gọi loại viết này là 'chuyển đổi kiến thức'… vì quá trình viết thay đổi và bổ sung vào kiến thức mà người viết có khi bắt đầu." (75-76). [[Viết buộc ta hiểu sắc hơn]], [[Hiểu biết sâu sắc qua việc làm]]
 
 ### 4. Tiêu chuẩn vàng
 
-Chương này (thực ra là toàn bộ cuốn sách, nhưng đặc biệt chương này) chủ yếu là tóm tắt đại chúng của [[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]].
+Chương này (thực ra là toàn bộ cuốn sách, nhưng đặc biệt chương này) chủ yếu là tóm tắt đại chúng của [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]].
 
 - Một số loại luyện tập có mục đích hiệu quả hơn nhiều so với những loại khác. Các tác giả cho rằng loại hiệu quả nhất là "luyện tập có chủ đích" (deliberate practice)
 	- Phải có đo lường hiệu suất khách quan

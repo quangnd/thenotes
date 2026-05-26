@@ -5,7 +5,7 @@ aliases:
 
 Các bài học trên [[Execute Program]] có bốn trạng thái:
 
-1. Khóa (khi một hoặc nhiều bài tiên quyết chưa ở trạng thái Đã học; xem [[Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites|Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]])
+1. Khóa (khi một hoặc nhiều bài tiên quyết chưa ở trạng thái Đã học; xem [[Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]])
 2. Mở khóa (khi tất cả bài tiên quyết ở trạng thái Đã học nhưng bạn chưa làm qua bài đó)
 3. Đang hoạt động (khi bạn đã làm qua bài học nhưng chưa ôn tập)
 4. Đã học (khi bạn đã ôn tập bài học ít nhất một lần)

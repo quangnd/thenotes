@@ -18,7 +18,7 @@ Nhân nên đậm vị và cô đọng. Tôi thường thích nhân rau, không 
 	- kiểu "Florentine" (rau bina xào và hành khô)
 	- cải kale héo
 	- ớt chuông hầm
-	- [[Leek|Tỏi tây]] nấu mềm tan
+	- [[Tỏi tây]] nấu mềm tan
 - Nhân không hợp:
 	- đậu fava (quá nhạt)
 	- hành tây confit dùng riêng (hơi nhạt, cần thêm độ tương phản về kết cấu)

@@ -3,7 +3,7 @@ aliases:
   - Luyện tập kỹ năng nhận thức mở rộng năng lực thần kinh tương ứng
 ---
 
-Khi bạn luyện chơi một bản nhạc khó hoặc giải các bài toán phức tạp, dễ hình dung rằng sự tiến bộ chỉ là việc mã hóa sâu hơn các kiến thức liên quan (vận động, khái niệm, v.v.). Nhưng ít nhất ở một số lĩnh vực, luyện tập không chỉ giúp bạn học một kỹ năng nhận thức. Nó còn {mở rộng năng lực của bạn cho kỹ năng đó} bằng cách {*mở rộng vật lý các vùng não liên quan*}. Đây có lẽ là một phần lý do tại sao [[Human physical and cognitive capacity can be expanded surprisingly far with practice|Năng lực thể chất và nhận thức của con người mở rộng xa đáng ngạc nhiên nhờ luyện tập]].
+Khi bạn luyện chơi một bản nhạc khó hoặc giải các bài toán phức tạp, dễ hình dung rằng sự tiến bộ chỉ là việc mã hóa sâu hơn các kiến thức liên quan (vận động, khái niệm, v.v.). Nhưng ít nhất ở một số lĩnh vực, luyện tập không chỉ giúp bạn học một kỹ năng nhận thức. Nó còn {mở rộng năng lực của bạn cho kỹ năng đó} bằng cách {*mở rộng vật lý các vùng não liên quan*}. Đây có lẽ là một phần lý do tại sao [[Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên thông qua luyện tập]].
 
 Ericsson và Pool (2016) tóm gọn hiệu ứng này: "với luyện tập có chủ đích … mục tiêu không phải là chạm tới tiềm năng của bạn, mà là xây dựng tiềm năng đó." (tr. 48)
 
@@ -30,7 +30,7 @@ Aydin, K., Ucar, A., Oguz, K. K., Okur, O. O., Agayev, A., Unal, Z., Yilmaz, S.,
 
 Bengtsson, S. L., Nagy, Z., Skare, S., Forsman, L., Forssberg, H., & Ullén, F. (2005). Extensive piano practicing has regionally specific effects on white matter development. *Nature Neuroscience*, 8(9), 1148-1150.
 
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson and Pool]]
+Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
 
 Gaser, C., & Schlaug, G. (2003). Brain Structures Differ between Musicians and Non-Musicians. Journal of Neuroscience, 23(27), 9240-9245. https://doi.org/10.1523/JNEUROSCI.23-27-09240.2003
 

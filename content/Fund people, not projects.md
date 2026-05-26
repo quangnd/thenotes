@@ -3,9 +3,9 @@ aliases:
   - Đầu tư vào người, không phải dự án
 ---
 
-Câu nói của Alan Kay này tóm tắt quan điểm rằng [[Talented people are the high-order bit|Người tài năng là yếu tố quan trọng nhất]], vì vậy nếu bạn là người quản lý tuyển dụng hoặc nhà tài trợ, bạn nên ưu tiên lựa chọn *người* mà bạn muốn thuê/tài trợ—và đừng lo lắng quá nhiều về các chi tiết cụ thể của một dự án nhất định.
+Câu nói của Alan Kay này tóm tắt quan điểm rằng [[Người tài năng là yếu tố quan trọng nhất]], vì vậy nếu bạn là người quản lý tuyển dụng hoặc nhà tài trợ, bạn nên ưu tiên lựa chọn *người* mà bạn muốn thuê/tài trợ—và đừng lo lắng quá nhiều về các chi tiết cụ thể của một dự án nhất định.
 
-Liên quan: [[Talented researchers should be funded, not managed|Các nhà nghiên cứu tài năng cần được tài trợ, không phải quản lý]].
+Liên quan: [[Các nhà nghiên cứu tài năng nên được tài trợ, không phải quản lý]].
 
 #### Tài liệu tham khảo (References)
 

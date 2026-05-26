@@ -9,6 +9,6 @@ Ngoài các tổ chức giáo dục, việc học thường là một mục tiê
 
 Ngược lại, một số hành vi học tập chủ yếu được điều chỉnh bởi các lực lượng bên ngoài. "Học máy sẽ là một thứ lớn trong lĩnh vực của tôi, vì vậy tôi đoán tôi nên học về nó." "Với tư cách là một người được cho là trí thức, tôi cảm thấy mình nên biết về các lập luận của Plato." "Tôi nghe nhiều người nói về cuốn sách này; tôi đoán tôi nên đọc nó!" Việc học sẽ dừng khi cảm giác nghĩa vụ dừng. Dù bổ ích hay đau đớn, những hoạt động này nhường quyền tự chủ trí tuệ cho các lực lượng bên ngoài. Đây là hành vi tự phủ nhận.
 
-Đây là một lý do tại sao [[Enabling environments’ activities directly serve an intrinsically meaningful purpose|Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]].
+Đây là một lý do tại sao [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]].
 
-Xem thêm [[Educational objectives often subvert themselves|Mục tiêu giáo dục thường phản tác dụng chính nó]].
+Xem thêm [[Mục tiêu giáo dục thường phản tác dụng chính nó]].

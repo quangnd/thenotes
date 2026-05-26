@@ -3,7 +3,7 @@ aliases:
   - Học chuyển giao
 ---
 
-Xem thêm [[Desirable difficulties, after Bjork|Những khó khăn mong muốn, theo Bjork]]
+Xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]
 
 ---
 

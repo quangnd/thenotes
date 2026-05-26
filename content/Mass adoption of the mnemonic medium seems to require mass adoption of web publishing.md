@@ -3,14 +3,14 @@ aliases:
   - Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web
 ---
 
-Chiến lược đơn giản nhất để mở rộng phương tiện ghi nhớ — [[Turning any web page into the mnemonic medium|Biến trang web bất kỳ thành phương tiện ghi nhớ]] — không thể áp dụng cho hầu hết các văn bản (ngay cả những văn bản mới) vì chúng không được xuất bản dưới dạng [[Web books|sách web]].
+Chiến lược đơn giản nhất để mở rộng phương tiện ghi nhớ — [[Biến trang web bất kỳ thành phương tiện ghi nhớ]] — không thể áp dụng cho hầu hết các văn bản (ngay cả những văn bản mới) vì chúng không được xuất bản dưới dạng [[Sách web]].
 
 Các nhà xuất bản hiện đại đã quen với việc chuẩn bị các ấn phẩm cho nhiều đích đến (bố cục in, EPUB, bản định dạng Kindle), nhưng ít người xuất bản chúng dưới dạng trang web. Những ai cung cấp đọc trực tuyến thường làm như vậy qua trình đọc EPUB trên web (rất tệ). O'Reilly là một ngoại lệ thú vị — họ trình bày sách trực tuyến dưới dạng trang web thông thường.
 
 Tuy nhiên, EPUB *là* các trang web bị giới hạn, nên bất kỳ ai đang chuẩn bị EPUB đều không quá xa so với xuất bản web.
 
 ### Rào cản có thể đối với việc áp dụng đại trà xuất bản web
-Xem các nhận xét chung trong [[Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers|Việc áp dụng đại trà phương tiện viết với hỗ trợ nhận thức mới lạ đòi hỏi áp dụng đại trà đọc trên máy tính]].
+Xem các nhận xét chung trong [[Việc áp dụng đại trà phương tiện viết với hỗ trợ nhận thức mới lạ đòi hỏi áp dụng đại trà đọc trên máy tính]].
 
 #### Kiếm tiền
 Nếu bạn tạo EPUB, Amazon xử lý phân phối. Nếu bạn xuất bản sách web, *bạn* xử lý phân phối. Tôi hình dung đó là rào cản đối với nhiều người.

@@ -9,4 +9,4 @@ Khi tôi đọc một cuốn sách giấy, nếu thấy mình bị lạc, tôi c
 
 Nếu xuất bản web trở nên phổ biến, chúng ta sẽ cần một giải pháp thay thế cho việc cuộn liên tục qua một khối văn bản khổng lồ, không phân biệt.
 
-Liên quan: [[Applications don’t reliably maintain scroll positions|Các ứng dụng không duy trì vị trí cuộn một cách đáng tin cậy]]
+Liên quan: [[Các ứng dụng không duy trì vị trí cuộn một cách đáng tin cậy]]

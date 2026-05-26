@@ -54,7 +54,7 @@ H. Vì sao hình dạng một đám mây lại mơ hồ?
 
 [A credibility revolution in the post-truth era | Meaningness](https://meaningness.com/eggplant/credibility-post-truth)
 
-Một cách giải thích cho [[Scientific progress appears to be slowing down|Tiến bộ khoa học có vẻ đang chậm lại]] là việc nhấn mạnh lý tính hệ thống đã làm sáng tạo trở nên hiếm. Các động lực có xu hướng kéo người ta về phía quay tay cơ học, không phản tư về ý nghĩa của thứ đang được tạo ra, về cách nên tạo ra, về vấn đề nào đáng giải.
+Một cách giải thích cho [[Tiến bộ khoa học dường như đang chậm lại]] là việc nhấn mạnh lý tính hệ thống đã làm sáng tạo trở nên hiếm. Các động lực có xu hướng kéo người ta về phía quay tay cơ học, không phản tư về ý nghĩa của thứ đang được tạo ra, về cách nên tạo ra, về vấn đề nào đáng giải.
 
 > Sáng tạo bắt nguồn từ ngạc nhiên, tò mò, vui chơi, thích thú. Những điều này nổi bật trong tiểu sử các nhà khoa học và nhà phát minh vĩ đại. Các sắp đặt thể chế hiện tại không khuyến khích chúng, mà ưu tiên áp lực cạnh tranh liên tục cho năng suất thường ngày, vô tư.
 
@@ -70,7 +70,7 @@ Văn hóa ngày nay ("hậu hiện đại") đã nhận ra rằng các hệ th�
 
 [Rationality, rationalism, and alternatives | Meaningness](https://meaningness.com/eggplant/rationalism-definitions)
 
-**Lý tính** (rationality) nhấn mạnh "các cách suy nghĩ và hành động chính thức, có hệ thống, rõ ràng, kỹ thuật, trừu tượng, phi điển hình, phi hiển nhiên." Chapman cũng lưu ý rằng có thể nghĩ về một hệ thống chính thức như một thủ tục có thể in trong sách và làm theo (giống [[Executable strategy|Chiến lược có thể thực thi]]). Lý tính khao khát tính phổ quát.
+**Lý tính** (rationality) nhấn mạnh "các cách suy nghĩ và hành động chính thức, có hệ thống, rõ ràng, kỹ thuật, trừu tượng, phi điển hình, phi hiển nhiên." Chapman cũng lưu ý rằng có thể nghĩ về một hệ thống chính thức như một thủ tục có thể in trong sách và làm theo (giống [[Chiến lược thực thi]]). Lý tính khao khát tính phổ quát.
 
 Chapman đặt ra từ {"chủ nghĩa lý tính"} (rationalism) để mô tả niềm tin vào {hiệu lực phổ quát của lý tính} (the universal efficacy of rationality).
 

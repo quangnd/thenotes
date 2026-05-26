@@ -9,7 +9,7 @@ Thông thường, ta chỉ bắt đầu dàn ý khi khởi động một dự á
 
 Duy trì các ghi chú đã viết trong một dàn ý khá nhẹ nhàng: chỉ cần đặt hai ghi chú cạnh nhau và hỏi cái nào đến trước (Pirsig).
 
-Hơn nữa, khởi đầu một dự án với dàn ý trống đòi hỏi ta phải có sẵn chủ đề và góc nhìn. Ta có thể [[Use notes to avoid preconceived conclusions|Sử dụng ghi chú để tránh kết luận định sẵn]].
+Hơn nữa, khởi đầu một dự án với dàn ý trống đòi hỏi ta phải có sẵn chủ đề và góc nhìn. Ta có thể [[Dùng ghi chú để tránh kết luận định sẵn]].
 
 ---
 

@@ -3,7 +3,7 @@ aliases:
   - Luyện tập tốt mã hóa các sơ đồ tái mã hóa khối hiệu quả hơn
 ---
 
-[[Expertise requires building sophisticated chunk recoding schemes|Chuyên môn đòi hỏi xây dựng các sơ đồ tái mã hóa khối tinh vi]], điều này có thể đạt được thông qua luyện tập hiệu quả (ví dụ: [[Purposeful practice, after Ericsson and Pool|Luyện tập có mục đích, theo Ericsson và Pool]]).
+[[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]], điều này có thể đạt được thông qua luyện tập hiệu quả (ví dụ: [[Luyện tập có mục đích, theo Ericsson và Pool]]).
 
 Quá trình này dường như có phần tự động, ở chỗ các chuyên gia thường không nghĩ "Tôi cần phát triển các khối tốt hơn." Thay vào đó, học tập ở giới hạn năng lực của bạn có nghĩa là đạt tiến bộ *bằng cách* mã hóa các khối lớn hơn — ít nhất là ở một mức độ nào đó.
 
@@ -18,4 +18,4 @@ Ericsson và Pool (2016) thảo luận khẳng định này một cách chi ti�
 ---
 
 #### Tài liệu tham khảo
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson and Pool]]
+Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

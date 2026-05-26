@@ -3,7 +3,7 @@ aliases:
   - Phương tiện ghi nhớ có thể làm nổi bật các tín hiệu xã hội "bằng chứng về trí nhớ"
 ---
 
-Một "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Mnemonic medium|Phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
+Một "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
 
 Những tín hiệu như vậy cũng có thể tạo ra những áp lực xã hội thú vị: nếu một số người đang thảo luận về một vấn đề khí hậu phức tạp, và bạn có thể thấy rằng tất cả họ đã ghi nhớ bền vững hàng trăm dữ kiện nền tảng về chủ đề đó, bạn có thể có nhiều khả năng tiếp thu kiến thức nền tảng đó trước khi tham gia.
 

@@ -7,8 +7,8 @@ Bẩm sinh hay nuôi dưỡng?
 
 Chủ đề này nặng tính chính trị, rất khó tìm bài viết công bằng. Phần lớn ta chỉ đo được các chỉ số gián tiếp, nên cẩn thận phân biệt giữa cái đang được đo và cái đang được tuyên bố. Ví dụ, Ericsson et al (1993, tr. 364, 365) chỉ ra nhiều điểm không tương quan giữa bài kiểm tra năng lực và chuyên môn, nhưng đó hoàn toàn khác với việc chứng minh tính di truyền.
 
-- [[Exceptional ability usually can't be predicted by general ability tests|Năng lực phi thường thường không thể dự đoán qua các bài kiểm tra năng lực chung]]
-- [[Exceptional ability may correlate with personality traits|Năng lực phi thường có thể tương quan với đặc điểm tính cách]] (vốn có thể di truyền một phần)
+- [[Khả năng xuất chúng thường không thể dự đoán được bằng các bài kiểm tra năng lực chung]]
+- [[Khả năng xuất chúng có thể tương quan với các đặc điểm tính cách]] (vốn có thể di truyền một phần)
 - Các thuộc tính thể chất như chiều cao và mật độ cơ bắp có thể di truyền, nên năng lực thể thao phi thường ít nhất di truyền một phần.
 - Khác biệt nhỏ có thể di truyền về năng lực có thể dẫn tới hiệu suất tự nhiên cao hơn từ nhỏ, kéo theo luyện tập nhiều hơn, tạo thành vòng xoáy tích cực (lập luận của Ericsson et al, 1993; luận điểm trung tâm trong Coyle, 2009).
 
@@ -29,4 +29,4 @@ H. Các biến thể nhỏ di truyền về năng lực có thể được khu�
 #### Tài liệu tham khảo (References)
 Coyle, D. (2009). *The Talent Code*. Bantam Books.
 
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]

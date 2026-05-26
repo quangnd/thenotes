@@ -2,9 +2,9 @@
 aliases:
   - Qian và cộng sự - Vượt ra ngoài iTunes cho Bài báo - Tái định nghĩa Đơn vị Tương tác trong Công cụ Tổng quan Tài liệu
 ---
-Zotero và các phần mềm tương tự định hướng tổng quan tài liệu và tổng hợp tri thức quanh {bài báo} như đơn vị cơ bản, nhưng {[[Grounded claims, after Qian et al|Luận điểm có căn cứ, theo Qian và cộng sự]]} có thể là nguyên tử phù hợp hơn cho các hỗ trợ nhận thức.
+Zotero và các phần mềm tương tự định hướng tổng quan tài liệu và tổng hợp tri thức quanh {bài báo} như đơn vị cơ bản, nhưng {[[Các khẳng định có cơ sở, theo Qian và cộng sự]]} có thể là nguyên tử phù hợp hơn cho các hỗ trợ nhận thức.
 
-[[Syntopic reading|Đọc tổng hợp]] đòi hỏi người đọc phải xử lý và tổng hợp các luận điểm qua nhiều bài báo; vì phần mềm lấy bài báo làm đơn vị chính, nó bỏ lỡ cơ hội hỗ trợ việc tạo kết nối giữa các luận điểm *bên trong* các bài báo. Việc thao tác với các luận điểm có căn cứ rất tốn kém khi bài báo là đơn vị chính, vì người đọc phải {dự đoán trước những luận điểm nào sẽ hữu ích} và chủ động trích xuất chúng (cùng với ngữ cảnh liên quan) sang một không gian chung khác (ví dụ: trình soạn thảo văn bản).
+[[Đọc tổng hợp]] đòi hỏi người đọc phải xử lý và tổng hợp các luận điểm qua nhiều bài báo; vì phần mềm lấy bài báo làm đơn vị chính, nó bỏ lỡ cơ hội hỗ trợ việc tạo kết nối giữa các luận điểm *bên trong* các bài báo. Việc thao tác với các luận điểm có căn cứ rất tốn kém khi bài báo là đơn vị chính, vì người đọc phải {dự đoán trước những luận điểm nào sẽ hữu ích} và chủ động trích xuất chúng (cùng với ngữ cảnh liên quan) sang một không gian chung khác (ví dụ: trình soạn thảo văn bản).
 
 Các tác giả đã tạo nguyên mẫu một hệ thống phần mềm, *Knowledge Compressor* ([video](https://vimeo.com/354474886)), tập trung vào các luận điểm có căn cứ thay vì bài báo. Nó tăng cường trải nghiệm đọc PDF với một công cụ cho phép người đọc tóm tắt một đoạn trích bằng một luận điểm ngắn, sau đó kết nối những luận điểm đó (giờ đóng vai trò như các tay nắm) với các luận điểm liên quan từ các bài báo khác.
 

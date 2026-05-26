@@ -3,11 +3,11 @@ aliases:
   - Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu nhắc thông qua các câu nhắc do tác giả cung cấp
 ---
 
-[[The mnemonic medium supplies expert-authored prompts|Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]], điều này giúp giảm nhẹ [[Writing good spaced repetition memory prompts is hard|Viết câu nhắc ghi nhớ lặp lại ngắt quãng tốt là khó]]. Nhưng bằng cách bao gồm các câu nhắc, chúng ta cũng giúp những người đọc muốn tự viết một số câu nhắc. Họ được xem các ví dụ chuyên gia về việc viết câu nhắc, mà họ có thể sử dụng như mẫu cho các câu nhắc của riêng mình.
+[[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]], điều này giúp giảm nhẹ [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]]. Nhưng bằng cách bao gồm các câu nhắc, chúng ta cũng giúp những người đọc muốn tự viết một số câu nhắc. Họ được xem các ví dụ chuyên gia về việc viết câu nhắc, mà họ có thể sử dụng như mẫu cho các câu nhắc của riêng mình.
 
 Một số độc giả [[Quantum Country]] đã cho chúng tôi biết rằng họ đã thử và từ bỏ Anki trước khi đọc Quantum Country, nhưng từ đó họ đã quay lại vì giờ họ đã có ý tưởng rõ ràng hơn về cách viết câu nhắc.
 
-Một biến thể chủ động hơn: [[Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers|Các mẫu câu nhắc nhúng có thể chủ động dựng giàn giáo cho việc viết câu nhắc cho người đọc phương tiện ghi nhớ]]
+Một biến thể chủ động hơn: [[Các mẫu câu hỏi nhúng có thể chủ động hỗ trợ việc viết câu hỏi cho độc giả phương tiện ghi nhớ]]
 
 #### Phản hồi người dùng về hiệu ứng này
 

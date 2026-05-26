@@ -5,22 +5,22 @@ aliases:
 
 Hãy viết về thứ mình đọc:
 
-- vì [[Understanding requires effortful engagement|Muốn hiểu thì phải bỏ công]]
-	- cụ thể là [[Writing forces sharper understanding|Viết buộc ta hiểu sắc hơn]]
-	- và nhớ rằng [[Collecting material feels more useful than it usually is|Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-- vì nếu không thì sẽ không [[Do your own thinking|Tự suy nghĩ đi]]
-- vì [[Knowledge work should accrete|Công việc tri thức nên tích lũy]], và [[Evergreen note-writing helps reading efforts accumulate|Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
-- thực tế là [[Most people read ineffectively|Hầu hết mọi người đọc không hiệu quả]]
+- vì [[Muốn hiểu thì phải bỏ công]]
+	- cụ thể là [[Viết buộc ta hiểu sắc hơn]]
+	- và nhớ rằng [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
+- vì nếu không thì sẽ không [[Tự suy nghĩ đi]]
+- vì [[Công việc tri thức nên tích lũy]], và [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
+- thực tế là [[Hầu hết mọi người đọc không hiệu quả]]
 
-Gạch chân hay ghi chú bên lề sách thôi không đủ. Không có áp lực để tổng hợp, nối các ý lại, hay đào tới gốc rễ. Chúng cũng không cộng dồn thành cái gì khi bạn đọc thêm sách mới. Thay vào đó, hãy viết [[Evergreen notes|Ghi chú thường xanh]] trong lúc đọc.
+Gạch chân hay ghi chú bên lề sách thôi không đủ. Không có áp lực để tổng hợp, nối các ý lại, hay đào tới gốc rễ. Chúng cũng không cộng dồn thành cái gì khi bạn đọc thêm sách mới. Thay vào đó, hãy viết [[Ghi chú thường xanh]] trong lúc đọc.
 
-Cũng nên lưu ý mặt khác: [[The most effective readers and thinkers I know don’t take notes when reading|Những người đọc và tư duy hiệu quả nhất mà tôi biết không ghi chú khi đọc]]. Riêng với tôi, kinh nghiệm cho thấy mình cần thêm điểm tựa để bám sát nội dung đang đọc.
+Cũng nên lưu ý mặt khác: [[Những người đọc và tư duy hiệu quả nhất tôi biết không ghi chú khi đọc]]. Riêng với tôi, kinh nghiệm cho thấy mình cần thêm điểm tựa để bám sát nội dung đang đọc.
 
 #### Phương pháp
 Cách làm chung là một vòng lặp xen kẽ:
 
-1. **Thu thập** các đoạn văn thú vị và những suy nghĩ bật ra khi đọc: [[How to collect observations while reading|Cách thu thập quan sát khi đọc]]
-2. **Xử lý** các cụm đoạn và suy nghĩ đó thành ghi chú lâu dài: [[How to process reading annotations into evergreen notes|Cách xử lý chú thích đọc thành ghi chú thường xanh]]
+1. **Thu thập** các đoạn văn thú vị và những suy nghĩ bật ra khi đọc: [[Cách thu thập quan sát khi đọc]]
+2. **Xử lý** các cụm đoạn và suy nghĩ đó thành ghi chú lâu dài: [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]
 
 ---
 

@@ -12,7 +12,7 @@ Những câu chuyện, thực hành và giá trị mang lại cấu trúc và ý
 
 Thuật ngữ được [đặt ra](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need) bởi Neil Postman trong The End of Education.
 
-Xem thêm: [[Communities of action often form around media artifacts|Các cộng đồng hành động thường hình thành xung quanh các hiện vật truyền thông]].
+Xem thêm: [[Cộng đồng hành động thường hình thành xung quanh các sản phẩm truyền thông]].
 
 Liên quan: [[Ikigai]]
 

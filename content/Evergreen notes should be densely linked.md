@@ -3,13 +3,13 @@ aliases:
   - Ghi chú thường xanh nên liên kết dày đặc
 ---
 
-Ép bản thân tạo thêm liên kết giữa các ghi chú buộc ta phải nghĩ rộng ra: còn khái niệm nào khác liên quan đến điều mình đang nghĩ? Nó tạo sức ép để cân nhắc kỹ cách các ý tưởng gắn với nhau (xem [[Understanding requires effortful engagement|Muốn hiểu thì phải bỏ công]] và [[Evergreen notes should be concept-oriented|Ghi chú thường xanh nên hướng khái niệm]]). Nó cũng giúp ta nội hóa ý tưởng sâu hơn nhờ [[Elaborative encoding|Mã hóa tinh chế]].
+Ép bản thân tạo thêm liên kết giữa các ghi chú buộc ta phải nghĩ rộng ra: còn khái niệm nào khác liên quan đến điều mình đang nghĩ? Nó tạo sức ép để cân nhắc kỹ cách các ý tưởng gắn với nhau (xem [[Muốn hiểu thì phải bỏ công]] và [[Ghi chú thường xanh nên hướng khái niệm]]). Nó cũng giúp ta nội hóa ý tưởng sâu hơn nhờ [[Mã hóa tinh chế]].
 
-Tìm đúng liên kết đòi hỏi đọc lại các ghi chú cũ, nên đây cũng là cơ chế tự nhiên để ôn lại ghi chú theo từng khoảng thời gian ([[Evergreen note maintenance approximates spaced repetition|Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]). Việc này có thể dẫn tới những phát hiện bất ngờ ([[Notes should surprise you|Ghi chú nên làm bạn ngạc nhiên]]).
+Tìm đúng liên kết đòi hỏi đọc lại các ghi chú cũ, nên đây cũng là cơ chế tự nhiên để ôn lại ghi chú theo từng khoảng thời gian ([[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]). Việc này có thể dẫn tới những phát hiện bất ngờ ([[Ghi chú nên làm bạn ngạc nhiên]]).
 
-Ghi lại các kết nối cũng là cách lưu lại lối tư duy đã dẫn ta tới kết luận, hữu ích cho chính ta (hoặc đồng nghiệp) về sau. Càng làm được nhiều càng tốt, nên [[Prefer fine-grained associations|Ưu tiên liên kết chi tiết]]. Ngược lại, [[Tags are an ineffective association structure|Thẻ là cấu trúc liên kết kém hiệu quả]].
+Ghi lại các kết nối cũng là cách lưu lại lối tư duy đã dẫn ta tới kết luận, hữu ích cho chính ta (hoặc đồng nghiệp) về sau. Càng làm được nhiều càng tốt, nên [[Ưu tiên các liên kết chi tiết]]. Ngược lại, [[Thẻ là cấu trúc liên kết kém hiệu quả]].
 
-Khi lướt qua ghi chú, các kết nối mở ra nhiều lối đi xuyên qua không gian ý tưởng. Ta hay bị cám dỗ điều hướng theo phân cấp, nhưng liên kết thì cắt ngang lĩnh vực và chủ đề. [[Prefer associative ontologies to hierarchical taxonomies|Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
+Khi lướt qua ghi chú, các kết nối mở ra nhiều lối đi xuyên qua không gian ý tưởng. Ta hay bị cám dỗ điều hướng theo phân cấp, nhưng liên kết thì cắt ngang lĩnh vực và chủ đề. [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
 
 Luhmann thậm chí lập luận rằng...
 
@@ -17,9 +17,9 @@ Luhmann thậm chí lập luận rằng...
 >
 > (In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary.)
 
-Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Backlinks can be used to implicitly define nodes in knowledge management systems|Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Phải dừng lại viết một ghi chú mới mỗi lần cần thì cảm giác rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều. (xem thêm [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)|Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết ("viết gia tăng")]]).
+Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Phải dừng lại viết một ghi chú mới mỗi lần cần thì cảm giác rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều. (xem thêm [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]]).
 
-Ngoài giá trị lâu dài của các liên kết đã ghi lại, chúng còn giúp dẫn dắt sự chú ý khi viết nháp: [[Release valves for non-linear thought may support improved linear output|Van xả cho tư duy phi tuyến tính có thể hỗ trợ đầu ra tuyến tính tốt hơn]].
+Ngoài giá trị lâu dài của các liên kết đã ghi lại, chúng còn giúp dẫn dắt sự chú ý khi viết nháp: [[Van xả cho tư duy phi tuyến tính có thể hỗ trợ đầu ra tuyến tính tốt hơn]].
 
 ---
 

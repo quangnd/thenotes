@@ -5,7 +5,7 @@ aliases:
 
 Trong [một cuộc khảo sát Pew năm 2018](https://www.pewresearch.org/fact-tank/2019/09/25/one-in-five-americans-now-listen-to-audiobooks/), phần lớn những người được hỏi chỉ đọc sách in. Khoảng 3/4 người được hỏi đã đọc bất kỳ cuốn sách nào trong năm qua; chỉ 1/4 đọc sách điện tử trong năm qua. Xu hướng là ổn định đến đi xuống. Nhưng sách nói đang trên đà tăng trưởng.
 
-Nguyên nhân có thể: [[Reading texts on computers is unpleasant|Đọc văn bản trên máy tính thật khó chịu]].
+Nguyên nhân có thể: [[Đọc văn bản trên máy tính là không dễ chịu]].
 
 ---
 

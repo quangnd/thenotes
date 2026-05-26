@@ -3,15 +3,15 @@ aliases:
   - Công việc tri thức nên tích lũy
 ---
 
-Phần lớn hoạt động trong [[Knowledge work|Công việc tri thức]] có vẻ giống những nỗ lực phù du: kết quả của chúng hầu hết bị bỏ đi ngay sau khi hoàn thành.
+Phần lớn hoạt động trong [[Công việc tri thức]] có vẻ giống những nỗ lực phù du: kết quả của chúng hầu hết bị bỏ đi ngay sau khi hoàn thành.
 
 Sáng nay bạn mở hộp thư và thấy một email khó, rồi nhận ra nó liên quan đến vấn đề mình đã ngẫm nghĩ một thời gian. Bạn dành cả tiếng để viết câu trả lời cẩn thận, ghi lại những suy nghĩ mới nhất. Và rồi... nó nằm im trong thư mục "đã gửi", lưu lại thoáng qua trong ký ức của bạn và đồng nghiệp. Nỗ lực ấy chỉ tích lũy ở mức nó âm thầm ảnh hưởng đến cách suy nghĩ của bạn và đồng nghiệp theo thời gian.
 
-Tương tự, [[Most people take only transient notes|Hầu hết mọi người chỉ ghi chú tạm thời]], dù với phương pháp đúng, ghi chú hoàn toàn có thể trở thành nền tảng thiết yếu; xem [[Evergreen note-writing as fundamental unit of knowledge work|Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
+Tương tự, [[Hầu hết mọi người chỉ ghi chú tạm thời]], dù với phương pháp đúng, ghi chú hoàn toàn có thể trở thành nền tảng thiết yếu; xem [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 
 Chúng ta nên cố gắng thiết kế các hệ thống thực hành mang lại lợi nhuận kép từ nỗ lực của mình khi chúng tích lũy theo thời gian.
 
-[[Spaced repetition memory system|Hệ thống bộ nhớ lặp lại ngắt quãng]] làm được điều này cho trí nhớ: khi gặp thông tin hữu ích, bạn đầu tư một chút công sức để đảm bảo mình luôn nhớ nó. Theo thời gian, thư viện lặp lại ngắt quãng của một người tích lũy được hàng nghìn câu hỏi, và (tôi mạnh mẽ ngờ rằng) khối kiến thức đó giúp việc trở thành người làm công việc tri thức hiệu quả về sau dễ dàng hơn nhiều.
+[[Hệ thống ghi nhớ lặp lại ngắt quãng]] làm được điều này cho trí nhớ: khi gặp thông tin hữu ích, bạn đầu tư một chút công sức để đảm bảo mình luôn nhớ nó. Theo thời gian, thư viện lặp lại ngắt quãng của một người tích lũy được hàng nghìn câu hỏi, và (tôi mạnh mẽ ngờ rằng) khối kiến thức đó giúp việc trở thành người làm công việc tri thức hiệu quả về sau dễ dàng hơn nhiều.
 
 Hamming minh họa điều này một cách sống động:
 

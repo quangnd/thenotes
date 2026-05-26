@@ -3,17 +3,17 @@ aliases:
   - Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại
 ---
 
-Chương trình Apollo là một [[Enabling environment|Môi trường khai phóng]] cực kỳ mạnh mẽ, nhưng nó không xuất hiện từ một dự án nhằm cho các nhà khoa học nhiều cơ hội phát triển bản thân. Nó là về việc đưa người lên Mặt Trăng (và, ừ, cứu thế giới khỏi Liên Xô). Môi trường khai phóng là sản phẩm phụ của nỗ lực có ý nghĩa sâu sắc đó.
+Chương trình Apollo là một [[Môi trường khai phóng]] cực kỳ mạnh mẽ, nhưng nó không xuất hiện từ một dự án nhằm cho các nhà khoa học nhiều cơ hội phát triển bản thân. Nó là về việc đưa người lên Mặt Trăng (và, ừ, cứu thế giới khỏi Liên Xô). Môi trường khai phóng là sản phẩm phụ của nỗ lực có ý nghĩa sâu sắc đó.
 
-Tương tự, khi Pixar tạo ra các công cụ hoạt hình cách mạng, đã có nhiều nhóm khác làm việc về đồ họa máy tính trong nhiều năm, nhưng hệ thống của Pixar nảy sinh từ sự theo đuổi nhiệt thành giấc mơ kể chuyện: [[Pixar’s movies and technology development act as coupled flywheels|phim và phát triển công nghệ của Pixar hoạt động như các bánh đà ghép nối]].
+Tương tự, khi Pixar tạo ra các công cụ hoạt hình cách mạng, đã có nhiều nhóm khác làm việc về đồ họa máy tính trong nhiều năm, nhưng hệ thống của Pixar nảy sinh từ sự theo đuổi nhiệt thành giấc mơ kể chuyện: [[Phim và phát triển công nghệ của Pixar hoạt động như các bánh đà kết nối]].
 
 Nhà thờ lớn. Các phòng thí nghiệm nghiên cứu đại học. Mathematica. Tất cả đều theo mô hình này.
 
-Về mặt thực tế, những bối cảnh như vậy cung cấp phản hồi có ý nghĩa sâu sắc: [[Effective system design requires insights drawn from serious contexts of use|Thiết kế hệ thống hiệu quả cần insight từ bối cảnh sử dụng thật]]. Chúng cũng tránh được các vấn đề được mô tả trong [[Authored environments are significantly colored by authors’ motivations|môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]]. Nhưng có lẽ quan trọng hơn, các dự án này cũng tạo ra kết nối cá nhân sâu sắc, điều kiện cần để công việc tuyệt vời trở nên khả thi.
+Về mặt thực tế, những bối cảnh như vậy cung cấp phản hồi có ý nghĩa sâu sắc: [[Thiết kế hệ thống hiệu quả cần insight từ bối cảnh sử dụng thật]]. Chúng cũng tránh được các vấn đề được mô tả trong [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]]. Nhưng có lẽ quan trọng hơn, các dự án này cũng tạo ra kết nối cá nhân sâu sắc, điều kiện cần để công việc tuyệt vời trở nên khả thi.
 
 Một số hệ quả:
-- [[Powerful enabling environments focus on expert use|Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]
-- [[Enabling environments focus on doing what’s enabled|Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]]
+- [[Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]
+- [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]]
 
 Liệu có thể đảo chiều, để cái đuôi vẫy con chó? Khởi xướng một dự án theo đuổi mục đích có ý nghĩa nội tại *để* thu hoạch những môi trường khai phóng xuất hiện trong bối cảnh đó? Điều này chưa rõ. Cách thất bại có khả năng nhất là dự án kết quả sẽ không *thực sự* tạo ra kết nối cá nhân sâu sắc cần thiết. Nhưng đó là điều chúng tôi đang thử với Ladder.
 

@@ -12,11 +12,11 @@ Nếu muốn tạo ra một dạng tường thuật siêu việt thế tục, cu
 Các cách đóng khung tốt hơn bao gồm:
 
 - mỗi thế hệ tạo ra được bao nhiêu trần nhà Nhà nguyện Sistine? (theo Alan)
-- tạo ra [[The Primer++|Cuốn Primer++]] hoặc Dynabook++
-- tạo ra các môi trường khai phóng có tốc độ tăng trưởng cực cao, kèm theo các cầu nối dẫn đến hành động dựa trên sự tăng trưởng đó ([[Enabling environments focus on creating opportunities for growth and action, not on skill-building|Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]])
-- [[Designing new enabling environments can be framed as designing a University++|Thiết kế môi trường khai phóng mới như thiết kế một Đại học++]]
+- tạo ra [[Cuốn Primer++]] hoặc Dynabook++
+- tạo ra các môi trường khai phóng có tốc độ tăng trưởng cực cao, kèm theo các cầu nối dẫn đến hành động dựa trên sự tăng trưởng đó ([[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]])
+- [[Thiết kế môi trường khai phóng mới như thiết kế một Đại học++]]
 
-Theo nghĩa này, "[[Tools for thought|Công cụ tư duy]]" là một thuật ngữ hơi gây hiểu lầm. Nó khiến ta nghĩ "tư duy" là đích đến cuối cùng. Thật ra cái ta đang xây dựng là "bối cảnh cho ý nghĩa". Một điểm phụ đáng lưu ý: một "bối cảnh" hoàn toàn có thể là một bài luận theo lối truyền thống.
+Theo nghĩa này, "[[Công cụ tư duy]]" là một thuật ngữ hơi gây hiểu lầm. Nó khiến ta nghĩ "tư duy" là đích đến cuối cùng. Thật ra cái ta đang xây dựng là "bối cảnh cho ý nghĩa". Một điểm phụ đáng lưu ý: một "bối cảnh" hoàn toàn có thể là một bài luận theo lối truyền thống.
 
 ---
 

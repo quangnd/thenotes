@@ -3,7 +3,7 @@ aliases:
   - Huấn luyện viên chuyên gia hỗ trợ luyện tập có chủ đích hiệu quả
 ---
 
-[[Practice efficacy is highly sensitive to method design|Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]]; qua một mức hiệu suất nhất định, [[Deliberate practice, after Ericsson|Luyện tập có chủ đích, theo Ericsson]] hiệu quả thường đòi hỏi kiến thức của huấn luyện viên chuyên gia về phương pháp luyện tập, cũng như sự giám sát và phản hồi của họ. Ví dụ, một huấn luyện viên chuyên gia (thường cũng là hoặc từng là người thực hành chuyên gia) sẽ phát minh các bài tập mới (dựa trên kiến thức của họ về phương pháp luyện tập) để khắc phục điểm yếu.
+[[Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]]; qua một mức hiệu suất nhất định, [[Luyện tập có chủ đích, theo Ericsson]] hiệu quả thường đòi hỏi kiến thức của huấn luyện viên chuyên gia về phương pháp luyện tập, cũng như sự giám sát và phản hồi của họ. Ví dụ, một huấn luyện viên chuyên gia (thường cũng là hoặc từng là người thực hành chuyên gia) sẽ phát minh các bài tập mới (dựa trên kiến thức của họ về phương pháp luyện tập) để khắc phục điểm yếu.
 
 Các học viên nghiêm túc có thể dành hàng chục giờ luyện tập mỗi tuần, nhưng vì hướng dẫn 1-1 rất tốn kém, phần lớn thời gian đó có lẽ sẽ là tự luyện hoặc trong các nhóm. Vì vậy, vai trò chính của huấn luyện viên chuyên gia là hướng dẫn việc luyện tập cá nhân của học viên: học viên gặp huấn luyện viên một hoặc hai lần mỗi tuần trong vài giờ, và huấn luyện viên sẽ đề xuất những gì học viên nên dành 20 giờ còn lại trong tuần để làm.
 
@@ -24,4 +24,4 @@ A. Kiến thức về phương pháp giảng dạy
 ---
 
 #### Tài liệu tham khảo
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363. [[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]

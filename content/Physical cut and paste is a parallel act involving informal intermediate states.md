@@ -11,7 +11,7 @@ Các thao tác "cắt" và "dán" kinh điển của Larry Tesler được đặ
 
 Thao tác cắt và dán kỹ thuật số tiêu chuẩn ngăn cản tính linh hoạt của quy trình vật lý. Tệ hơn, thậm chí không có phần mềm "cấp chuyên gia" nào cho phép một thứ giống như hành vi ban đầu cho các trường hợp sử dụng tinh vi. Một cách tiếp cận như của LiquidText có thể hiệu quả, nhưng dường như có nhiều vấn đề chưa được giải quyết trong lĩnh vực đó.
 
-Điều này liên quan mơ hồ đến [[Peripheral vision|Tầm nhìn ngoại vi]]: bạn muốn có thể nhìn và thao tác toàn thể và các phần đồng thời ở đây, nhưng bạn không thể.
+Điều này liên quan mơ hồ đến [[Tầm nhìn ngoại vi]]: bạn muốn có thể nhìn và thao tác toàn thể và các phần đồng thời ở đây, nhưng bạn không thể.
 
 ---
 

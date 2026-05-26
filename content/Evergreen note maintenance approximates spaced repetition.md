@@ -3,13 +3,13 @@ aliases:
   - Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng
 ---
 
-Viết [[Evergreen notes|Ghi chú thường xanh]] với cấu trúc liên kết dày đặc (xem [[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]) buộc ta phải đọc lại và chỉnh sửa những gì đã viết trước đó. Kiểu ghi chú này, vì vậy, tương tự lặp lại ngắt quãng.
+Viết [[Ghi chú thường xanh]] với cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]) buộc ta phải đọc lại và chỉnh sửa những gì đã viết trước đó. Kiểu ghi chú này, vì vậy, tương tự lặp lại ngắt quãng.
 
 Cụ thể, việc lặp lại này bám theo mối quan tâm hiện tại của ta. Ngừng đọc hay viết về một chủ đề thì hầu như sẽ không quay lại nó nữa. Đang đọc hay viết về chủ đề nào, ta xem lại tài liệu cũ về chủ đề đó khá thường xuyên.
 
 Đây không phải kiểu lặp lại ngắt quãng tối ưu cho trí nhớ. Ta không tận dụng được hiệu ứng tạo sinh. Nhưng nó là lăng kính hữu ích để nghĩ về cách phân bổ sự chú ý qua kho ý tưởng tích lũy theo thời gian. Phương pháp này đẩy ta liên tục để mắt đến các ý tưởng cũ có liên quan đến việc đang làm. Và vì ta thường chỉnh sửa luôn ghi chú về những ý tưởng cũ đó, sự chú ý ở đây khá tốn công.
 
-Hiệu ứng tương tự cũng xảy ra khi duy trì các hệ thống liên quan đến [[Transclusion is limited by the data model’s composability|Nhúng nội dung bị giới hạn bởi tính kết hợp của mô hình dữ liệu]].
+Hiệu ứng tương tự cũng xảy ra khi duy trì các hệ thống liên quan đến [[Transclusion bị giới hạn bởi khả năng kết hợp của mô hình dữ liệu]].
 
 ---
 

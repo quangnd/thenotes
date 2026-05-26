@@ -7,6 +7,6 @@ Môi trường giáo dục thường bao gồm các hoạt động có kết qu�
 
 Nếu mục tiêu của môi trường giáo dục là giúp học sinh theo đuổi hoạt động trí tuệ độc lập và có ý nghĩa cá nhân, thì quan sát này mâu thuẫn với mục tiêu đó. Làm sao có thể kỳ vọng chuẩn bị cho học sinh tư duy nguyên bản thông qua các hoạt động không bao giờ yêu cầu họ nghĩ ra điều gì mới mẻ—thậm chí thường ngăn cản tư duy nguyên bản?
 
-Đây có vẻ là một hạn chế quan trọng của việc sử dụng [[Enacted experience|Trải nghiệm thể hiện]] để giảng dạy.
+Đây có vẻ là một hạn chế quan trọng của việc sử dụng [[Trải nghiệm thể hiện]] để giảng dạy.
 
-Xem thêm: [[Nell doesn’t do any original thinking inside the Primer|Nell không tư duy nguyên bản bên trong cuốn Primer]]
+Xem thêm: [[Nell không thực hiện bất kỳ suy nghĩ gì nguyên bản trong cuốn Primer]]

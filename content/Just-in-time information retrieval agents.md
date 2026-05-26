@@ -9,7 +9,7 @@ Ví dụ, *Remembrance Agent* là một tiện ích mở rộng Emacs xem xét n
 
 *Margin Notes* là một tác nhân chú thích các trang web với các liên kết đến các tập tin cá nhân có thể liên quan.
 
-Liên quan: [[Peripheral vision|Tầm nhìn ngoại vi]]
+Liên quan: [[Tầm nhìn ngoại vi]]
 
 ---
 

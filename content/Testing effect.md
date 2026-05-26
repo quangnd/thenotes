@@ -11,7 +11,7 @@ Về bản chất giống với "hiệu ứng tạo ra" (generation effect).
 
 ==viết nhanh để tham chiếu từ các ghi chú khác, chưa tra tài liệu hay bổ sung chi tiết== (quickly written to reference from other notes, without looking up references or filling in details)
 
-xem thêm [[Desirable difficulties, after Bjork|Những khó khăn đáng mong muốn, theo Bjork]]
+xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]
 
 ---
 

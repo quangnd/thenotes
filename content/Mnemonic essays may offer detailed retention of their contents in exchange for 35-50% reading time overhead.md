@@ -7,7 +7,7 @@ aliases:
 
 Nó giống như một món thêm. Muốn thêm bơ vào bánh mì kẹp với giá thêm 2 đô không? Việc ghi nhớ chi tiết hoạt động đúng kiểu đó, ít nhất là với QCVC. Sẽ thế nào nếu bạn "mua thêm" được cho bất cứ thứ gì mình đọc? Hoặc dành thêm 10% thời gian để nhớ riêng những chi tiết bạn thấy đáng giá nhất?
 
-Tính tất yếu đi kèm đề xuất này chính là thứ biến phương tiện ghi nhớ thành một [[Executable strategy|chiến lược khả thi]] để giải quyết [[People seem to forget most of what they read, and they mostly don't notice|Người ta quên gần hết những gì đã đọc mà không hề hay biết]].
+Tính tất yếu đi kèm đề xuất này chính là thứ biến phương tiện ghi nhớ thành một [[Chiến lược thực thi]] để giải quyết [[Người ta quên gần hết những gì đã đọc mà không hề hay biết]].
 
 Có thể kéo chi phí đó xuống bao nhiêu? So sánh độc giả [[QCVC]] nửa đầu 2019 với nửa cuối 2019 (nhóm sau có lịch ôn tập tích cực hơn), có vẻ chúng tôi đã hạ được xuống 25%.
 

@@ -5,11 +5,11 @@ aliases:
 
 Mỗi ghi chú chỉ nên nói về một thứ, nhưng hãy nắm trọn thứ đó hết mức có thể.
 
-Làm vậy thì việc nối các ý xuyên chủ đề và bối cảnh dễ hơn nhiều. Nếu ghi chú quá rộng, lúc gặp một ý mới liên quan đến một trong các khái niệm bên trong, bạn sẽ không nhận ra, và các liên kết đến ghi chú đó cũng bị lẫn lộn. Nếu ghi chú quá vụn, mạng lưới liên kết cũng vụn theo, khiến một số kết nối khó thấy. [[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]
+Làm vậy thì việc nối các ý xuyên chủ đề và bối cảnh dễ hơn nhiều. Nếu ghi chú quá rộng, lúc gặp một ý mới liên quan đến một trong các khái niệm bên trong, bạn sẽ không nhận ra, và các liên kết đến ghi chú đó cũng bị lẫn lộn. Nếu ghi chú quá vụn, mạng lưới liên kết cũng vụn theo, khiến một số kết nối khó thấy. [[Ghi chú thường xanh nên liên kết dày đặc]]
 
 Không có phép thử rõ ràng hay đáp án đúng ở đây. Chỉ có một loạt đánh đổi.
 
-Ý này khá giống nguyên tắc *tách biệt mối quan tâm* (separation of concerns) trong kỹ thuật phần mềm: mỗi module chỉ nên "về" một thứ để dễ tái sử dụng. Nhưng cũng tương tự, chẻ module quá nhỏ thì tính gắn kết kém. Theo nghĩa đó, [[Evergreen note titles are like APIs|Tiêu đề ghi chú thường xanh giống như API]].
+Ý này khá giống nguyên tắc *tách biệt mối quan tâm* (separation of concerns) trong kỹ thuật phần mềm: mỗi module chỉ nên "về" một thứ để dễ tái sử dụng. Nhưng cũng tương tự, chẻ module quá nhỏ thì tính gắn kết kém. Theo nghĩa đó, [[Tiêu đề ghi chú thường xanh giống như API]].
 
 ---
 

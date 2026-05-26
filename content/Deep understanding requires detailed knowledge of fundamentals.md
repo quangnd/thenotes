@@ -3,7 +3,7 @@ aliases:
   - Hiểu sâu cần kiến thức chi tiết về nền tảng
 ---
 
-Đáp lại [[People seem to forget most of what they read, and they mostly don’t notice|Người ta quên gần hết những gì đã đọc mà không hề hay biết]], nhiều người lập luận rằng họ không *muốn* nhớ chi tiết. Họ đọc "để nắm bức tranh tổng thể", hoặc "chỉ để hiểu khái niệm". Đôi khi điều đó hợp lý, nhưng trong rất nhiều trường hợp, không thể thực sự hiểu một khái niệm mà không nắm các chi tiết tạo nên nó.
+Đáp lại [[Người ta quên gần hết những gì đã đọc mà không hề hay biết]], nhiều người lập luận rằng họ không *muốn* nhớ chi tiết. Họ đọc "để nắm bức tranh tổng thể", hoặc "chỉ để hiểu khái niệm". Đôi khi điều đó hợp lý, nhưng trong rất nhiều trường hợp, không thể thực sự hiểu một khái niệm mà không nắm các chi tiết tạo nên nó.
 
 Lập luận trực quan:
 
@@ -12,7 +12,7 @@ Lập luận trực quan:
 
 Một lập luận cụ thể hơn: hiểu biết khái niệm về bản chất là hiểu các kết nối. Nghĩa là biết các yếu tố liên hệ với nhau ra sao, đâu là nguyên nhân, kết quả, hàm ý, ràng buộc, xu hướng, v.v. Bạn không thể nắm được các mối quan hệ bậc cao này nếu không quen với các thành phần tạo nên chúng.
 
-Còn một lập luận khác đến từ cách con người xử lý thông tin: [[Expertise requires building sophisticated chunk recoding schemes|Chuyên môn đòi hỏi xây dựng các sơ đồ mã hóa khối tinh vi]].
+Còn một lập luận khác đến từ cách con người xử lý thông tin: [[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]].
 
 ---
 

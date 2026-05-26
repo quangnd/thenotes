@@ -2,17 +2,17 @@
 aliases:
   - Các câu nhắc ghi nhớ lặp lại ngắt quãng thường nên tập trung vào một ý tưởng
 ---
-Nếu bạn vừa học một cách mới để nấu đậu, bạn có thể viết một câu nhắc cho [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] như: "H. Làm thế nào để nấu đậu sous vide?" "Đ. 18 phút ở 70°C". Nhưng tôi nhận thấy rằng những câu hỏi như thế này thường là một cuộc vật lộn — tôi thường xuyên quên câu trả lời. Những câu hỏi dựa trên nhiều ý tưởng độc lập dường như vấp phải vấn đề này.
+Nếu bạn vừa học một cách mới để nấu đậu, bạn có thể viết một câu nhắc cho [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như: "H. Làm thế nào để nấu đậu sous vide?" "Đ. 18 phút ở 70°C". Nhưng tôi nhận thấy rằng những câu hỏi như thế này thường là một cuộc vật lộn — tôi thường xuyên quên câu trả lời. Những câu hỏi dựa trên nhiều ý tưởng độc lập dường như vấp phải vấn đề này.
 
 Tại sao việc câu hỏi tập trung vào một ý tưởng lại quan trọng? Michael Nielsen (2018) gợi ý:
 
 > Tôi nghi ngờ một phần là do sự tập trung. Khi tôi mắc lỗi với câu hỏi kết hợp, tôi thường hơi mơ hồ về chính xác lỗi sai nằm ở đâu. Điều đó có nghĩa là tôi không tập trung đủ sắc bén vào lỗi sai, và do đó không học được nhiều từ thất bại của mình. Khi tôi thất bại với các câu hỏi nguyên tử, tâm trí tôi biết chính xác nơi cần tập trung.
 
-Điều gì cấu thành "một ý tưởng"? Điều đó phụ thuộc vào bối cảnh kiến thức trước đó của bạn; "một ý tưởng" dường như bao gồm một bước trên nền tảng bất kỳ kiến thức nào bạn đã nội hóa sâu sắc. Một cách nhìn khác có thể liên quan đến [[“Chunks” in human cognition|"Các khối" trong nhận thức con người]]: một ý tưởng đơn lẻ được biểu đạt trong một "khối", bất kể điều đó có nghĩa gì với bạn.
+Điều gì cấu thành "một ý tưởng"? Điều đó phụ thuộc vào bối cảnh kiến thức trước đó của bạn; "một ý tưởng" dường như bao gồm một bước trên nền tảng bất kỳ kiến thức nào bạn đã nội hóa sâu sắc. Một cách nhìn khác có thể liên quan đến [[Các mảnh trong nhận thức con người]]: một ý tưởng đơn lẻ được biểu đạt trong một "khối", bất kể điều đó có nghĩa gì với bạn.
 
-Cách khắc phục trong những trường hợp như vậy rất đơn giản: chia câu hỏi thành nhiều câu hỏi đơn giản hơn. Sau đó, có thể thêm một câu hỏi khác tích hợp hai câu hỏi đơn giản đó. (Điều này có vẻ là cơ hội cho [[Spaced repetition and knowledge modeling|Lặp lại ngắt quãng và mô hình hóa kiến thức]]). Quá trình viết câu hỏi tập trung chính xác vào một ý tưởng dường như giúp mài giũa sự tập trung của tôi vào các yếu tố chính của một chủ đề (một góc nhìn về [[Writing one’s own spaced repetition prompts seems to promote understanding|Việc tự viết các câu nhắc lặp lại ngắt quãng dường như thúc đẩy sự hiểu biết]]).
+Cách khắc phục trong những trường hợp như vậy rất đơn giản: chia câu hỏi thành nhiều câu hỏi đơn giản hơn. Sau đó, có thể thêm một câu hỏi khác tích hợp hai câu hỏi đơn giản đó. (Điều này có vẻ là cơ hội cho [[Lặp lại ngắt quãng và mô hình hóa tri thức]]). Quá trình viết câu hỏi tập trung chính xác vào một ý tưởng dường như giúp mài giũa sự tập trung của tôi vào các yếu tố chính của một chủ đề (một góc nhìn về [[Tự viết thẻ lặp lại ngắt quãng của mình dường như thúc đẩy sự hiểu biết]]).
 
-Wozniak (1999) cung cấp một ví dụ tốt (cũng minh họa [[Spaced repetition memory prompts should be concise|Các câu nhắc ghi nhớ lặp lại ngắt quãng nên ngắn gọn]]):
+Wozniak (1999) cung cấp một ví dụ tốt (cũng minh họa [[Các câu hỏi ghi nhớ lặp lại ngắt quãng nên ngắn gọn]]):
 
 > **Kiến thức được hình thành kém - Phức tạp và dài dòng**
 > H: Đặc điểm của Biển Chết là gì?

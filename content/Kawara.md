@@ -3,7 +3,7 @@ aliases:
   - Kawara
 ---
 
-[Kawara](https://www.kawara.app/) là một ứng dụng iOS được tạo ra vào đầu năm 2020, thu thập và trình bày nội dung định kỳ theo thời gian trong các phiên xem hàng ngày. Đây là một loại [[Spaced everything|Lặp lại mọi thứ]], không có bất kỳ hành động tương tác cụ thể nào với các mục — bạn chỉ xem một thứ và tiếp tục sang thứ tiếp theo.
+[Kawara](https://www.kawara.app/) là một ứng dụng iOS được tạo ra vào đầu năm 2020, thu thập và trình bày nội dung định kỳ theo thời gian trong các phiên xem hàng ngày. Đây là một loại [[Lặp lại ngắt quãng cho mọi thứ]], không có bất kỳ hành động tương tác cụ thể nào với các mục — bạn chỉ xem một thứ và tiếp tục sang thứ tiếp theo.
 
 Giải thích một câu cho báo chí của họ:
 
@@ -14,7 +14,7 @@ Nhưng đó hoàn toàn không phải cách Kawara tự giới thiệu với ng�
 
 ![](https://notes.andymatuschak.org/BearImages/6BD81879-3C0A-4C62-8F38-95DEBDC179A0-441-00004BFAFA09EDF0/03661BA3-8673-4271-8B8D-6A586C3472FE.png)
 
-Đây là về trí nhớ, theo một nghĩa nào đó, nhưng theo cách nhẹ nhàng: "kawara doesn't let me {forget}, but doesn't {pressure} me to {remember}." (kawara không để tôi {quên}, nhưng cũng không {ép buộc} tôi phải {nhớ}.) Xem [[Spaced repetition mechanics create a sense of effortlessness|Cơ chế lặp lại ngắt quãng tạo cảm giác dễ dàng]].
+Đây là về trí nhớ, theo một nghĩa nào đó, nhưng theo cách nhẹ nhàng: "kawara doesn't let me {forget}, but doesn't {pressure} me to {remember}." (kawara không để tôi {quên}, nhưng cũng không {ép buộc} tôi phải {nhớ}.) Xem [[Cơ chế lặp lại ngắt quãng tạo ra cảm giác dễ dàng]].
 
 Nó được tạo ra bởi {Jon-Kyle Mohr}, một nghệ sĩ-công nghệ có trụ sở tại {Los Angeles}. Mô hình kinh doanh là đăng ký ${2}/tháng. Có vẻ như đây là một dự án phụ nhỏ của tác giả.
 
@@ -31,7 +31,7 @@ A. Chúng được người dùng chỉ định thủ công tại thời điểm
 
 #### Trình bày (Presentation)
 
-Trang web marketing trình bày ứng dụng theo phong cách rất "millennial". Nó đang ngồi trên ghế bãi biển, đeo kính mát và quần shorts, và hơi lơ mơ một chút. Nó hơi điệu quá theo gu của tôi, nhưng thực sự thành công trong việc tách biệt định dạng này khỏi "hiệu quả bộ nhớ" kiểu Spockian. Hầu hết các ví dụ marketing tập trung vào tài liệu thẩm mỹ, cảm hứng sáng tạo, v.v. Một cách có ý nghĩa, nó có tích hợp are.na. Không phải mục đích, mà là "để xem những thứ hay." Đây là một giải pháp thú vị cho [[Current conception of Orbit is overly memory-focused; where's the poetry?|Quan niệm hiện tại về Orbit quá tập trung vào bộ nhớ; còn tính thơ ca thì sao?]].
+Trang web marketing trình bày ứng dụng theo phong cách rất "millennial". Nó đang ngồi trên ghế bãi biển, đeo kính mát và quần shorts, và hơi lơ mơ một chút. Nó hơi điệu quá theo gu của tôi, nhưng thực sự thành công trong việc tách biệt định dạng này khỏi "hiệu quả bộ nhớ" kiểu Spockian. Hầu hết các ví dụ marketing tập trung vào tài liệu thẩm mỹ, cảm hứng sáng tạo, v.v. Một cách có ý nghĩa, nó có tích hợp are.na. Không phải mục đích, mà là "để xem những thứ hay." Đây là một giải pháp thú vị cho [[Quan niệm hiện tại về Orbit quá tập trung vào trí nhớ; thơ ca ở đâu_]].
 
 Việc nhấn mạnh vào việc quay lại những thứ bạn thấy thú vị, nhưng không có hình thức tương tác cụ thể nào, khá giống với [[Readwise]]. Danh sách highlights đơn giản của Readwise không phù hợp với tôi: mắt tôi lướt qua, rồi tôi lưu trữ email mà không thực sự tương tác. Nhưng có lẽ tài liệu hình ảnh thực sự khác nhau.
 

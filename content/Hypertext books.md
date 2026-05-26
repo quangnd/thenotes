@@ -3,7 +3,7 @@ aliases:
   - Sách siêu văn bản
 ---
 
-Tập hợp danh sách các cuốn sách được "viết bằng" [[Hypertext|Siêu văn bản]]:
+Tập hợp danh sách các cuốn sách được "viết bằng" [[Siêu văn bản]]:
 
 - [Lean Logic](https://leanlogic.online/) của David Fleming
 	- Ghi chú: viết như một cuốn sách in (kỳ lạ), sau đó được chuyển thành dạng siêu văn bản

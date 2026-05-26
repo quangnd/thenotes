@@ -3,7 +3,7 @@ aliases:
   - Có cách nào để phát hiện các câu hỏi ghi nhớ lặp lại ngắt quãng có khả năng được trả lời qua đối sánh mẫu không?
 ---
 
-Xem [[Spaced repetition memory prompts should be written to discourage shallow “pattern matching”|Các câu hỏi ghi nhớ lặp lại ngắt quãng nên được viết để ngăn cản "đối sánh mẫu" nông cạn]].
+Xem [[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]].
 
 Có lẽ thông qua thời gian phản hồi?
 

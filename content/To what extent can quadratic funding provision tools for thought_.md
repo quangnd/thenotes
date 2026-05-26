@@ -3,12 +3,12 @@ aliases:
   - Tài trợ bậc hai có thể cung cấp công cụ tư duy đến mức độ nào?
 ---
 
-[[Tools for thought|Công cụ tư duy]] khó tài trợ, phần lớn vì [[Novel user interface ideas are public goods|Các ý tưởng giao diện người dùng mới lạ là hàng hóa công cộng]]. Liệu [[Quadratic funding of public goods|Tài trợ bậc hai cho hàng hóa công cộng]] có thể giúp ích không?
+[[Công cụ tư duy]] khó tài trợ, phần lớn vì [[Các ý tưởng giao diện người dùng mới lạ là hàng hóa công]]. Liệu [[Tài trợ bậc hai cho hàng hóa công cộng]] có thể giúp ích không?
 
 Cơ chế này có vẻ hứa hẹn cho việc tài trợ giai đoạn triển khai và bảo trì của các dự án, nhưng tôi có một số lo ngại:
 
-- [[The crowd probably can’t reliably assess early-stage research|Đám đông có thể không thể đánh giá đáng tin cậy các nghiên cứu ở giai đoạn đầu]]
-- [[Quadratic funding lacks incentives to compensate researchers for pre-proposal speculative work|Tài trợ bậc hai thiếu động lực để đền bù các nhà nghiên cứu cho công việc suy đoán trước đề xuất]]
+- [[Đám đông có lẽ không thể đánh giá đáng tin cậy nghiên cứu ở giai đoạn đầu]]
+- [[Tài trợ bậc hai thiếu động lực để đền bù cho các nhà nghiên cứu về công việc đầu cơ trước đề xuất]]
 
 ---
 

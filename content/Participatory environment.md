@@ -5,9 +5,9 @@ aliases:
 
 Trong một số môi trường, hoạt động cốt lõi tự thân nó đã mang tính chủ động, phần lớn trải nghiệm được tạo ra nhờ chính nỗ lực của người tham gia. Tôi gọi những môi trường này là *môi trường tham dự*.
 
-Môi trường tham dự có thể được dựng có chủ ý hoặc không. Môi trường truyền thông gần như luôn được dựng có chủ ý, nhưng nhiều môi trường xã hội và tự nhiên thì không. Một phần trải nghiệm trong môi trường tham dự có tác giả có thể là một [[Enacted experience|Trải nghiệm thể hiện]].
+Môi trường tham dự có thể được dựng có chủ ý hoặc không. Môi trường truyền thông gần như luôn được dựng có chủ ý, nhưng nhiều môi trường xã hội và tự nhiên thì không. Một phần trải nghiệm trong môi trường tham dự có tác giả có thể là một [[Trải nghiệm thể hiện]].
 
-[[Participatory environments support learning|Môi trường tham dự hỗ trợ việc học]]
+[[Môi trường tham dự hỗ trợ việc học]]
 
 #### Ví dụ và phản ví dụ
 
@@ -19,7 +19,7 @@ Một bữa tối ăn chung thường là môi trường tham dự. Một bức 
 
 Phần lớn giao diện phần mềm tạo ra môi trường tham dự. Một nhóm ngoại lệ phổ biến là các trình phát đa phương tiện: VLC, Pandora, Kindle, v.v. Phần mềm kiểu này chỉ trình bày nội dung mà bản thân nó không tạo ra môi trường tham dự.
 
-Dù có nhiều tham vọng, hầu hết tài liệu khám phá và [[Executable books|Sách thực thi]] vẫn không tạo ra môi trường tham dự. Mặc định, người tham gia chỉ cuộn trang và đọc.
+Dù có nhiều tham vọng, hầu hết tài liệu khám phá và [[Sách thực thi]] vẫn không tạo ra môi trường tham dự. Mặc định, người tham gia chỉ cuộn trang và đọc.
 
 #### Đính chính, ghi nhận
 

@@ -3,9 +3,9 @@ aliases:
   - Duy trì nhiều vị trí đọc là khó khăn khi đọc kỹ thuật số
 ---
 
-Khi đọc sách giấy (đặc biệt trong quá trình [[Inspectional reading|đọc kiểm tra]]), một người đọc thành thạo tự nhiên duy trì vị trí đọc của mình ở nhiều phần của cuốn sách cùng lúc. Ví dụ, đây có thể là thao tác "ngăn xếp" (giữ chỗ trong khi tham khảo phần khác), thao tác "gấp trang" (tích lũy một tập hợp các vị trí cần tập trung; xem Askwall), hoặc thao tác đọc song song (so sánh nhiều đoạn văn). Các thiết bị đọc kỹ thuật số khiến loại thao tác này rất khó thực hiện.
+Khi đọc sách giấy (đặc biệt trong quá trình [[Đọc khảo sát]]), một người đọc thành thạo tự nhiên duy trì vị trí đọc của mình ở nhiều phần của cuốn sách cùng lúc. Ví dụ, đây có thể là thao tác "ngăn xếp" (giữ chỗ trong khi tham khảo phần khác), thao tác "gấp trang" (tích lũy một tập hợp các vị trí cần tập trung; xem Askwall), hoặc thao tác đọc song song (so sánh nhiều đoạn văn). Các thiết bị đọc kỹ thuật số khiến loại thao tác này rất khó thực hiện.
 
-Vì màn hình thường lớn hơn sách giấy, người ta có thể sử dụng nhiều cửa sổ để quản lý điều này, nhưng [[Parallel reading is mostly impossible in digital reading|Đọc song song hầu như không thể trong đọc kỹ thuật số]]. Ngay cả trên hệ điều hành máy tính để bàn, hầu hết các ứng dụng đọc kỹ thuật số thậm chí không cho phép bạn mở cửa sổ thứ hai xem cùng một tài liệu. Hạn chế này bị trầm trọng thêm bởi các vấn đề được mô tả trong [[Poor performance disrupts nonlinear reading in digital reading|Hiệu suất kém làm gián đoạn việc đọc phi tuyến tính trong đọc kỹ thuật số]].
+Vì màn hình thường lớn hơn sách giấy, người ta có thể sử dụng nhiều cửa sổ để quản lý điều này, nhưng [[Đọc song song gần như không thể trong đọc sách kỹ thuật số]]. Ngay cả trên hệ điều hành máy tính để bàn, hầu hết các ứng dụng đọc kỹ thuật số thậm chí không cho phép bạn mở cửa sổ thứ hai xem cùng một tài liệu. Hạn chế này bị trầm trọng thêm bởi các vấn đề được mô tả trong [[Hiệu suất kém làm gián đoạn đọc phi tuyến tính trong đọc sách kỹ thuật số]].
 
 Thay vào đó, người ta có thể sử dụng đánh dấu trang hoặc cấu trúc rõ ràng trong hệ thống để quản lý các vị trí đọc. Nhưng tính năng đánh dấu trang của các thiết bị đọc kỹ thuật số — khi có — luôn quá nặng nề.
 

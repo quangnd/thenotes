@@ -3,9 +3,9 @@ aliases:
   - Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết ("viết gia tăng")
 ---
 
-Kích thước nguyên tử của ghi chú thường xanh ([[Evergreen notes should be atomic|Ghi chú thường xanh nên atomic]]) cùng cấu trúc liên kết ([[Evergreen notes should be densely linked|Ghi chú thường xanh nên liên kết dày đặc]]) khiến việc dừng và tiếp tục công việc trở nên dễ dàng. Nhờ vậy ta [[Close open loops|Đóng các vòng lặp còn mở]].
+Kích thước nguyên tử của ghi chú thường xanh ([[Ghi chú thường xanh nên atomic]]) cùng cấu trúc liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) khiến việc dừng và tiếp tục công việc trở nên dễ dàng. Nhờ vậy ta [[Đóng các vòng lặp còn mở]].
 
-Mỗi ghi chú nhỏ, khép kín là một điểm kiểm tra. Viết một ghi chú chỉ mất vài phút, nhưng vì nó là [[Evergreen notes|Ghi chú thường xanh]], mỗi ghi chú là nền tảng vững chắc để đứng lên, khá hoàn chỉnh trong khái niệm riêng của nó ([[Evergreen notes should be concept-oriented|Ghi chú thường xanh nên hướng khái niệm]]). Tất nhiên theo thời gian ta sẽ quay lại tinh chỉnh nội dung, nhưng sau mỗi lần như vậy, ghi chú vẫn là một đơn vị khép kín, gần như hoàn chỉnh.
+Mỗi ghi chú nhỏ, khép kín là một điểm kiểm tra. Viết một ghi chú chỉ mất vài phút, nhưng vì nó là [[Ghi chú thường xanh]], mỗi ghi chú là nền tảng vững chắc để đứng lên, khá hoàn chỉnh trong khái niệm riêng của nó ([[Ghi chú thường xanh nên hướng khái niệm]]). Tất nhiên theo thời gian ta sẽ quay lại tinh chỉnh nội dung, nhưng sau mỗi lần như vậy, ghi chú vẫn là một đơn vị khép kín, gần như hoàn chỉnh.
 
 Ngược lại, khi đang làm việc trên một bản thảo dở dang lớn, ta phải tung hứng nhiều ý tưởng ở các mức độ hoàn thiện khác nhau. Các phần của tài liệu có độ chi tiết lệch nhau. Tài liệu đủ lớn để dễ lạc hướng hoặc quên mất các điểm liên quan nằm ở đâu khi quay lại. Bắt đầu và kết thúc một ngày làm việc trở thành chuyện nặng nề, tốn nhiều bộ nhớ làm việc.
 

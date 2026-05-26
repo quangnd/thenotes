@@ -10,7 +10,7 @@ aliases:
 	- [Observable – Use data to think, together. / Observable](https://observablehq.com/)
 	- [Structure and Interpretation of Classical Mechanics](https://groups.csail.mit.edu/mac/users/gjs/6946/sicm-html/book.html)
 	- [Stripe payments integration builder](https://stripe.com/docs/payments/integration-builder)
-- [[Executable books emphasize understanding pre-existing code, not writing new code|Sách thực thi tập trung vào việc hiểu code có sẵn, không phải viết code mới]]
+- [[Sách thực thi nhấn mạnh việc hiểu code có sẵn, không phải viết code mới]]
 
 ---
 

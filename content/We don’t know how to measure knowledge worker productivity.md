@@ -3,7 +3,7 @@ aliases:
   - Năng suất công việc tri thức rất khó đo lường
 ---
 
-Không thể đếm số "sản phẩm" của [[Knowledge work|Công việc tri thức]] như đếm sản phẩm ở nhà máy. Cùng lắm chỉ đo được các chỉ báo trễ kiểu OKR, nhưng những thứ đó tách rời khỏi bản thân công việc.
+Không thể đếm số "sản phẩm" của [[Công việc tri thức]] như đếm sản phẩm ở nhà máy. Cùng lắm chỉ đo được các chỉ báo trễ kiểu OKR, nhưng những thứ đó tách rời khỏi bản thân công việc.
 
 ---
 

@@ -2,7 +2,7 @@
 aliases:
   - Phương tiện ghi nhớ có thể hiển thị tín hiệu xã hội "bằng chứng ghi nhớ"
 ---
-Một nút "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó mà tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Mnemonic medium|Phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
+Một nút "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó mà tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
 
 Những tín hiệu như vậy cũng có thể tạo ra áp lực xã hội thú vị: nếu một số người đang thảo luận về một vấn đề khí hậu phức tạp, và bạn có thể thấy rằng tất cả họ đã ghi nhớ bền vững hàng trăm dữ kiện nền tảng về chủ đề đó, bạn có thể sẽ có xu hướng đi tìm hiểu kiến thức nền tảng đó trước khi tham gia thảo luận.
 

@@ -5,4 +5,4 @@ aliases:
 
 Xem ví dụ trong *Understanding by Design*
 
-Điều này liên quan một phần đến [[Elaborative encoding|Mã hóa chi tiết]].
+Điều này liên quan một phần đến [[Mã hóa tinh chế]].

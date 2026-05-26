@@ -3,7 +3,7 @@ aliases:
   - Trải nghiệm thể hiện tồn tại trên một dải phổ về mức độ tham gia và kiểm soát tác giả
 ---
 
-Bất kỳ [[Enacted experience|Trải nghiệm thể hiện]] nào cũng có thể bao gồm một phạm vi rộng về mức độ tham gia và kiểm soát tác giả.
+Bất kỳ [[Trải nghiệm thể hiện]] nào cũng có thể bao gồm một phạm vi rộng về mức độ tham gia và kiểm soát tác giả.
 
 Ví dụ:
 

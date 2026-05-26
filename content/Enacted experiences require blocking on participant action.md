@@ -3,7 +3,7 @@ aliases:
   - Trải nghiệm thể hiện đòi hỏi phải chặn lại chờ hành động của người tham gia
 ---
 
-Tính ngẫu nhiên có điều kiện rất quan trọng trong việc tạo ra một [[Enacted experience|Trải nghiệm thể hiện]].
+Tính ngẫu nhiên có điều kiện rất quan trọng trong việc tạo ra một [[Trải nghiệm thể hiện]].
 
 "Trạng thái mặc định" của một trò chơi là trạng thái *chặn lại chờ hành động của người chơi*. Câu chuyện, trận chiến, việc xây dựng, v.v. đơn giản là *sẽ không tiến triển* cho đến khi người chơi thực hiện một hành động. Thỉnh thoảng, trò chơi có thể "nắm quyền kiểm soát" và mở ra tường thuật mà không cần đầu vào của người chơi, nhưng nó không thể làm điều này quá lâu trước khi phá vỡ cảm giác thể hiện.
 

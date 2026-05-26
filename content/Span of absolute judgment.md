@@ -8,7 +8,7 @@ Nói cách khác, bạn có thể phân biệt đáng tin cậy bao nhiêu danh 
 
 {Miller} (1956) gọi ngưỡng này là *khoảng phán đoán tuyệt đối*, và tổng quan tài liệu của ông gợi ý rằng giá trị của nó khoảng {bảy}, với sự biến thiên ít đáng ngạc nhiên giữa các loại kích thích.
 
-Đại lượng này quan trọng vì nó đại diện cho một giới hạn cơ bản trong xử lý thông tin của con người: [[Channel capacity of humans as information processors|Dung lượng kênh của con người như bộ xử lý thông tin]]
+Đại lượng này quan trọng vì nó đại diện cho một giới hạn cơ bản trong xử lý thông tin của con người: [[Dung lượng kênh của con người với tư cách bộ xử lý thông tin]]
 
 ---
 
@@ -27,4 +27,4 @@ H. Con người chỉ có thể phân biệt đáng tin cậy một kích thích
 ---
 
 #### Tài liệu tham khảo
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - The magical number seven, plus or minus two]]
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]

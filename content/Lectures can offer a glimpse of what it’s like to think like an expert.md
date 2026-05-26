@@ -11,7 +11,7 @@ Theo Rota:
 >
 > (Cái người ta thực sự học được trong lớp chính là cái người ta không biết tại thời điểm đang học. Người đứng giảng cho chúng tôi chính là hiện thân của logic. Những khoảng dừng, những lúc do dự, nhấn mạnh, những khoảnh khắc hiếm hoi để lộ cảm xúc, cùng vô số hiện tượng phi ngôn ngữ khác đã dạy chúng tôi nhiều logic hơn bất kỳ văn bản viết nào. Chúng tôi học cách tư duy cùng nhịp với ông khi ông nói, như thể đang theo dõi một huấn luyện viên thể dục biểu diễn động tác. Khóa của Church đã cải thiện vĩnh viễn độ chặt chẽ trong lập luận của chúng tôi.)
 
-Đây là một câu trả lời cho [[In what senses are lectures effective?|Bài giảng hiệu quả theo những nghĩa nào?]]
+Đây là một câu trả lời cho [[Theo nghĩa nào các bài giảng hiệu quả_]]
 
 ---
 

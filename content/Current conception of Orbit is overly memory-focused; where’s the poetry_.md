@@ -3,10 +3,10 @@ aliases:
   - Quan niệm hiện tại về Orbit quá tập trung vào trí nhớ; thơ ca ở đâu?
 ---
 
-- [[What if the mnemonic medium were reframed as a means to engage more deeply with a text?|Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được tái định hình như một cách để tương tác sâu hơn với văn bản?]]
-- [[The dominant culture around spaced repetition memory systems is fixated on meaningless goals|Văn hóa chủ đạo xung quanh hệ thống trí nhớ lặp lại ngắt quãng bị ám ảnh với các mục tiêu vô nghĩa]]
-- [[Think harder about social graph and Orbit|Suy nghĩ kỹ hơn về đồ thị xã hội và Orbit]]
-- [[Taking emotion seriously|Coi trọng cảm xúc]]
+- [[Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được đóng khung lại như một phương tiện để tham gia sâu hơn với văn bản_]]
+- [[Văn hóa chủ đạo xung quanh hệ thống ghi nhớ lặp lại ngắt quãng bị ám ảnh bởi các mục tiêu vô nghĩa]]
+- [[Suy nghĩ kỹ hơn về đồ thị xã hội và Orbit]]
+- [[Coi trọng cảm xúc]]
 
 [[Kawara]] là một tham chiếu rất thú vị—một sản phẩm "lặp lại ngắt quãng mọi thứ" tập trung vào cảm hứng, bạn bè, v.v.
 

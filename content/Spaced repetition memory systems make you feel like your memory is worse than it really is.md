@@ -2,15 +2,15 @@
 aliases:
   - Hệ thống ghi nhớ lặp lại ngắt quãng khiến bạn cảm thấy trí nhớ của mình tệ hơn thực tế
 ---
-Một thách thức đối với việc áp dụng và trải nghiệm hàng ngày của [[Spaced repetition memory system|Hệ thống ghi nhớ lặp lại ngắt quãng]] là bạn sẽ dành gần như toàn bộ thời gian ôn tập cho tài liệu mà bạn thấy khó nhớ. Tài liệu dễ nhớ sẽ nhanh chóng tăng lên khoảng cách nhiều tháng, nên bạn sẽ dành ít thời gian cho chúng, so với một câu nhắc bị mắc kẹt ở khoảng cách hàng ngày hoặc hàng tuần. Tỷ lệ chính xác kỳ vọng trên toàn bộ bộ sưu tập của bạn có thể là 95+%, nhưng tỷ lệ chính xác trong một phiên cụ thể có thể thấp hơn nhiều.
+Một thách thức đối với việc áp dụng và trải nghiệm hàng ngày của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là bạn sẽ dành gần như toàn bộ thời gian ôn tập cho tài liệu mà bạn thấy khó nhớ. Tài liệu dễ nhớ sẽ nhanh chóng tăng lên khoảng cách nhiều tháng, nên bạn sẽ dành ít thời gian cho chúng, so với một câu nhắc bị mắc kẹt ở khoảng cách hàng ngày hoặc hàng tuần. Tỷ lệ chính xác kỳ vọng trên toàn bộ bộ sưu tập của bạn có thể là 95+%, nhưng tỷ lệ chính xác trong một phiên cụ thể có thể thấp hơn nhiều.
 
 Hiện tượng này dẫn đến nhận thức sai lầm rằng lặp lại ngắt quãng không "hoạt động" tốt lắm. Và điều đó hợp lý! Phản hồi trực tiếp duy nhất mà học sinh nhận được về hiệu quả của quá trình là khả năng (hoặc sự thiếu khả năng) nhớ các câu hỏi được hỏi, và trong SRS phản hồi đó sẽ khá lẫn lộn.
 
 Có lẽ điều này có thể được giải quyết một phần thông qua thông tin được trình bày ở cuối các phiên ôn tập, nhưng tôi lo rằng nơi đó sẽ có tác động ít mạnh mẽ hơn: đó (có lẽ) chỉ là thứ mọi người sẽ đọc, trái ngược với phản hồi mà họ *trải nghiệm.*
 
-Một giải pháp khác có thể nằm ở việc thường xuyên thêm tài liệu mới, ít nhất sẽ dịch chuyển tỷ lệ các phiên ôn tập về phía tài liệu có tỷ lệ chính xác có thể cao hơn. Liên quan: [[Spaced repetition review sessions often become boring and detached without a steady stream of new prompts|Các phiên ôn tập lặp lại ngắt quãng thường trở nên nhàm chán và tách rời nếu không có dòng câu nhắc mới đều đặn]]
+Một giải pháp khác có thể nằm ở việc thường xuyên thêm tài liệu mới, ít nhất sẽ dịch chuyển tỷ lệ các phiên ôn tập về phía tài liệu có tỷ lệ chính xác có thể cao hơn. Liên quan: [[Các phiên ôn tập lặp lại ngắt quãng thường trở nên nhàm chán và tách rời nếu không có dòng câu nhắc mới đều đặn]]
 
-Xem [[Desirable difficulties, after Bjork|Khó khăn đáng mong muốn, theo Bjork]]
+Xem [[Những khó khăn đáng mong muốn, theo Bjork]]
 
 #### Một số ví dụ thực nghiệm
 

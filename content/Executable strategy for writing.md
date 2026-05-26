@@ -5,28 +5,28 @@ aliases:
 
 Cách viết ngây thơ thường bắt đầu với một ý tưởng mơ hồ và một trang giấy trắng. Để nhích được vài bước, bạn cần lượng năng lượng khởi động và sức nghĩ rất lớn. Không có gì sẵn bên ngoài, nên phải nhồi nhét mọi thứ trong đầu cùng lúc.
 
-Ngược lại, nếu đã có sẵn nhiều [[Evergreen notes|Ghi chú thường xanh]] xoay quanh chủ đề, công việc giống biên tập hơn là sáng tác. Chỉ cần xáo trộn các tiêu đề ghi chú để dựng dàn ý, viết bù những phần còn thiếu, rồi gọt giũa thành một câu chuyện liền mạch. Thực ra, vì bạn đã [[Create speculative outlines while you write|Tạo dàn ý suy đoán trong khi viết]], bước đầu tiên có khi đã xong từ lâu. Việc viết từng ghi chú cũng không nặng nề: [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)|Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết ("viết gia tăng")]].
+Ngược lại, nếu đã có sẵn nhiều [[Ghi chú thường xanh]] xoay quanh chủ đề, công việc giống biên tập hơn là sáng tác. Chỉ cần xáo trộn các tiêu đề ghi chú để dựng dàn ý, viết bù những phần còn thiếu, rồi gọt giũa thành một câu chuyện liền mạch. Thực ra, vì bạn đã [[Tạo dàn ý suy đoán trong khi viết]], bước đầu tiên có khi đã xong từ lâu. Việc viết từng ghi chú cũng không nặng nề: [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]].
 
-Thay vì đối mặt với nhiệm vụ kiểu "viết dàn ý cho chương đầu", bạn có nhiệm vụ kiểu "tìm các ghi chú liên quan". Mỗi bước đều khả thi. Đây là một chiến lược thực thi (xem [[Executable strategy|Chiến lược thực thi]]).
+Thay vì đối mặt với nhiệm vụ kiểu "viết dàn ý cho chương đầu", bạn có nhiệm vụ kiểu "tìm các ghi chú liên quan". Mỗi bước đều khả thi. Đây là một chiến lược thực thi (xem [[Chiến lược thực thi]]).
 
 Có hai cách tiếp cận: bản **không định hướng**, khi các dự án viết tự nảy sinh từ công việc hàng ngày; và bản **có định hướng**, khi cần viết về một chủ đề cụ thể.
 
 #### Bản không định hướng:
-1. Viết ghi chú thường xanh liên tục trong lúc đọc và suy nghĩ. ([[Evergreen note-writing as fundamental unit of knowledge work|Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]])
-2. Mỗi khi thêm một ghi chú, gắn liên kết của nó vào một dàn ý, tạo dàn ý mới nếu cần ([[Create speculative outlines while you write|Tạo dàn ý suy đoán trong khi viết]]).
-3. Sớm muộn sẽ có một dàn ý làm bạn hứng thú muốn phát triển. ([[Let ideas and beliefs emerge organically|Để ý tưởng và niềm tin xuất hiện tự nhiên]])
+1. Viết ghi chú thường xanh liên tục trong lúc đọc và suy nghĩ. ([[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]])
+2. Mỗi khi thêm một ghi chú, gắn liên kết của nó vào một dàn ý, tạo dàn ý mới nếu cần ([[Tạo dàn ý suy đoán trong khi viết]]).
+3. Sớm muộn sẽ có một dàn ý làm bạn hứng thú muốn phát triển. ([[Hãy để ý tưởng và niềm tin nảy sinh một cách tự nhiên]])
 4. Viết ghi chú mới để lấp các chỗ trống của dàn ý.
 5. Ghép các đoạn văn từ ghi chú lại thành bản thảo đầu tiên.
 6. Viết lại.
 
 #### Bản có định hướng:
-1. Xem lại các ghi chú liên quan đến chủ đề, lan thêm một hai bước ra ngoài ([[Notes should surprise you|Ghi chú nên làm bạn ngạc nhiên]]).
+1. Xem lại các ghi chú liên quan đến chủ đề, lan thêm một hai bước ra ngoài ([[Ghi chú nên làm bạn ngạc nhiên]]).
 2. Dựng dàn ý.
 3. Gắn các ghi chú sẵn có vào từng mục; viết ghi chú mới khi thiếu.
 4. Ghép các đoạn văn lại thành bản thảo đầu tiên.
 5. Viết lại.
 
-Một lợi ích khác của cách làm này: [[Evergreen notes lower the emotional stakes in editing manuscripts|Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]].
+Một lợi ích khác của cách làm này: [[Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]].
 
 ---
 

@@ -6,7 +6,7 @@ reMarkable là một máy tính bảng sử dụng mực điện tử được t
 - Đọc và chú thích PDF trên bãi biển thực sự tuyệt vời. Đây là điểm quan trọng nhất.
 ![](https://notes.andymatuschak.org/BearImages/25462F15-C5A1-4F86-8399-4E9DC7C4B7F9-22496-0004AD0BB40E93A3/EBC2E7F5-F633-47CD-9CBA-D4F459350B27_1_105_c.jpeg)
 - Thật tuyệt vời khi có thể đọc và chú thích PDF toàn trang thay vì EPUB.
-- Thiết bị cực kỳ chậm, làm trầm trọng thêm [[Poor performance disrupts nonlinear reading in digital reading|Hiệu suất kém cản trở việc đọc phi tuyến tính trong đọc kỹ thuật số]]
+- Thiết bị cực kỳ chậm, làm trầm trọng thêm [[Hiệu suất kém làm gián đoạn đọc phi tuyến tính trong đọc sách kỹ thuật số]]
 - Quy trình làm việc để làm bất cứ điều gì với các chú thích được tạo trên thiết bị là tồi tệ. Trên thiết bị, người ta không thể tìm kiếm hoặc điều hướng nhanh chóng giữa chúng. Trên máy tính, chúng chỉ đơn giản được làm phẳng vào PDF. Và không có đồng bộ tự động nào cả. Tệ đến kinh ngạc.
 - Trình đọc EPUB thực sự tệ: cực kỳ chậm, điều hướng đau đớn, v.v.
 - Để đưa sách vào thiết bị cần sử dụng máy tính và phá DRM.

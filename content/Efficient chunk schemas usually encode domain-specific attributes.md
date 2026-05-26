@@ -3,7 +3,7 @@ aliases:
   - Các lược đồ khối hiệu quả thường mã hóa các thuộc tính đặc thù theo lĩnh vực
 ---
 
-Khi con người phát triển các khối hiệu quả hơn cho một lĩnh vực nào đó ([[“Chunks” in human cognition|"Các khối" trong nhận thức con người]], [[Recoding can increase chunk size|Mã hóa lại giúp tăng kích thước khối]]), họ thường tích hợp các thuộc tính trừu tượng, đặc thù theo lĩnh vực vào các mã hóa của mình. Ví dụ, một kiện tướng cờ vua nhận thức bàn cờ theo kiểu "Chuỗi tốt" và "Cột tấn công" (Chase và Simon, 1973, trang 80) — thay vì một đống vị trí quân cờ. Biểu diễn tinh thần của họ về trạng thái một ván cờ là trừu tượng, có phương sai cao, nhiều chiều, và tương đối khó hiểu đối với người mới. Một nhạc sĩ ngẫu hứng có thể nghĩ theo thuật ngữ "căng thẳng" và "kỳ vọng."
+Khi con người phát triển các khối hiệu quả hơn cho một lĩnh vực nào đó ([[Các mảnh trong nhận thức con người]], [[Mã hóa lại giúp tăng kích thước khối]]), họ thường tích hợp các thuộc tính trừu tượng, đặc thù theo lĩnh vực vào các mã hóa của mình. Ví dụ, một kiện tướng cờ vua nhận thức bàn cờ theo kiểu "Chuỗi tốt" và "Cột tấn công" (Chase và Simon, 1973, trang 80) — thay vì một đống vị trí quân cờ. Biểu diễn tinh thần của họ về trạng thái một ván cờ là trừu tượng, có phương sai cao, nhiều chiều, và tương đối khó hiểu đối với người mới. Một nhạc sĩ ngẫu hứng có thể nghĩ theo thuật ngữ "căng thẳng" và "kỳ vọng."
 
 Những sự trừu tượng hóa này làm cho các biểu diễn {ít tổng quát hơn} và {khó truyền đạt hơn}, để đổi lấy việc {nắm bắt nhiều thông tin hơn trong một lĩnh vực cụ thể}.
 
@@ -16,6 +16,6 @@ Ericsson và Pool sử dụng quan sát này để đưa ra một khái quát h�
 ---
 
 #### Tài liệu tham khảo
-Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81. [[Chase and Simon - Perception in chess]]
+Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81. [[Chase và Simon - Nhận thức trong cờ vua]]
 
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson and Pool]]
+Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

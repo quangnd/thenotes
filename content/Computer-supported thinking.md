@@ -7,6 +7,6 @@ aliases:
 
 ví dụ:
 
-- [[Mnemonic medium|Phương tiện ghi nhớ]]
-- [[Evergreen note-writing as fundamental unit of knowledge work|Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
-- [[Knowledge work should accrete|Công việc tri thức nên tích lũy]]
+- [[Phương tiện ghi nhớ]]
+- [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
+- [[Công việc tri thức nên tích lũy]]
