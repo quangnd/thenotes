@@ -1,3 +1,35 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// The quartz-themes default theme forces `font-family: ui-sans-serif, ...` on
+// <p>, <blockquote>, <table>, etc., but leaves <li>/<ul>/<ol> inheriting from
+// <body> (where Quartz sets var(--bodyFont)). The result is paragraphs in the
+// system sans-serif and list items in Be Vietnam Pro, most visible on
+// Safari/iOS where the mismatch is sharp.
+// Force the same system sans-serif stack on list items (and a few other text
+// elements the theme misses) so all body text matches the theme's paragraphs.
+$systemSans:
+  ui-sans-serif,
+  -apple-system,
+  BlinkMacSystemFont,
+  system-ui,
+  "Segoe UI",
+  "Google Sans Flex",
+  Roboto,
+  "Inter Variable",
+  Inter,
+  "Apple Color Emoji",
+  "Segoe UI Emoji",
+  "Segoe UI Symbol",
+  sans-serif;
+
+body li,
+body ul,
+body ol {
+  font-family: $systemSans;
+}
+
+// The theme zeros out blockquote padding, leaving text flush against the
+// left border. Restore breathing room.
+body blockquote {
+  padding-left: 1rem;
+}
