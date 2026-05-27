@@ -4,7 +4,6 @@ aliases:
   - About these notes
   - Về những ghi chú này
 ---
-
 Xin chào 👋! Tôi là [Quang](https://quangnd.com/), người tổng hợp và biên dịch sang tiếng Việt các ghi chú của [Andy Matuschak](https://andymatuschak.org/), dưới sự cho phép của tác giả.
 
 Trong quá trình dịch thuật tôi đã tiến hành chỉnh sửa nội dung cho phù hợp với văn phong của người Việt để các bạn dễ theo dõi. Hi vọng bản dịch này sẽ có ích trong công cuộc tìm kiếm cách ghi chú hiệu quả của các bạn ❤️

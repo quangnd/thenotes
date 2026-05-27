@@ -33,3 +33,20 @@ body ol {
 body blockquote {
   padding-left: 1rem;
 }
+
+// The quartz-themes default theme hides `.page-title` on mobile. Bring it back
+// next to the hamburger menu so visitors have a one-tap way back to the home
+// page. Explorer uses `order: -1` on mobile, so the title naturally lands
+// right after the hamburger button.
+@media all and (max-width: 800px) {
+  .page-title {
+    display: block;
+    font-size: 0.8rem;
+    margin: 0 0 0 0.5rem;
+    line-height: 1;
+
+    a {
+      color: var(--dark);
+    }
+  }
+}
