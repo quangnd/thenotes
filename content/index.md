@@ -4,9 +4,11 @@ aliases:
   - About these notes
   - Về những ghi chú này
 ---
-Xin chào 👋! Tôi là [Quang](https://quangnd.com/), người tổng hợp và biên dịch sang tiếng Việt các ghi chú của [Andy Matuschak](https://andymatuschak.org/), dưới sự cho phép của tác giả.
+Xin chào 👋! Mình là [Mun](https://quangnd.com/), người tổng hợp và biên dịch sang tiếng Việt các ghi chú của [Andy Matuschak](https://andymatuschak.org/), dưới sự cho phép của tác giả.
 
-Trong quá trình dịch thuật tôi đã tiến hành chỉnh sửa nội dung cho phù hợp với văn phong của người Việt để các bạn dễ theo dõi. Hi vọng bản dịch này sẽ có ích trong công cuộc tìm kiếm cách ghi chú hiệu quả của các bạn ❤️
+Mục đích của bản dịch là đóng góp vào công cuộc tìm kiếm cách ghi chú hiệu quả của người Việt, cũng như cộng đồng "ham học hỏi" nói chung. Trong quá trình dịch thuật mình đã tiến hành chỉnh sửa nội dung cho phù hợp với văn phong của người Việt để các bạn dễ theo dõi. Tuy nhiên, vì năng lực chuyên môn còn hạn chế, sẽ không tránh khỏi nhiều khiếm khuyết. Nếu bạn có phản hồi hoặc chia sẻ, hãy email cho mình theo địa chỉ quangnd.edu@gmail.com 💌
+
+Bản dịch này sẽ được chỉnh sửa cũng như thêm thắt các ví dụ thực tế từ trải nghiệm của cá nhân. Hi vọng các bạn sẽ có thêm các góc nhìn mới, qua đó làm giàu thêm kho kiến thức của chính mình 🤓
 
 Có hai file tổng hợp mà bạn nên quan tâm:
 - [[§Hệ thống viết ghi chú]] (đây là các **khái niệm cốt lõi** của toàn bộ dự án này).

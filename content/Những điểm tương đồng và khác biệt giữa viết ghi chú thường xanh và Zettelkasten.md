@@ -10,7 +10,7 @@ Thực hành viết [[Ghi chú thường xanh]] của tôi được truyền c�
 - tính nguyên tử ([[Ghi chú thường xanh nên atomic]])
 - nhấn mạnh liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]])
 - sự tình cờ như một giá trị ([[Ghi chú nên làm bạn ngạc nhiên]])
-- **tính trung tâm của ý tưởng riêng và sự phát triển của chúng theo thời gian, thay vì chỉ tích lũy tóm tắt ý tưởng của người khác** ([[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Tự suy nghĩ đi]], trái ngược với [[Sổ tay trích dẫn]])
+- **tính trung tâm của ý tưởng riêng và sự phát triển của chúng theo thời gian, thay vì chỉ tích lũy tóm tắt ý tưởng của người khác** ([[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Hãy tự mình suy ngẫm]], trái ngược với [[Sổ tay trích dẫn]])
 	- nhấn mạnh sử dụng ngôn từ của riêng mình, ngay cả khi mô tả ý tưởng của người khác ([[Viết về thứ mình đọc]])
 
 #### Những khác biệt chính:

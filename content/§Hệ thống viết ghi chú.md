@@ -13,7 +13,7 @@ aliases:
 	- [[Viết về thứ mình đọc]]
 		- [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-		- [[Tự suy nghĩ đi]]
+		- [[Hãy tự mình suy ngẫm]]
 			- [[Muốn hiểu thì phải bỏ công]]
 			- [[Viết buộc ta hiểu sắc hơn]]
 	- [[Cách thu thập quan sát khi đọc]]

@@ -3,7 +3,7 @@ aliases:
   - Let ideas and beliefs emerge organically
 ---
 
-Cẩn thận với những quan niệm có sẵn. [[Tự suy nghĩ đi]].
+Cẩn thận với những quan niệm có sẵn. [[Hãy tự mình suy ngẫm]].
 
 - Tạo ra sản phẩm nhanh hơn bằng cách sử dụng công trình hiện có
 	- [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]

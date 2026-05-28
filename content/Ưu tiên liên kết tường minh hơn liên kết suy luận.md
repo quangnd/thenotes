@@ -7,7 +7,7 @@ Khi xây dựng cơ sở kiến thức cá nhân được kết nối với nhau
 
 Các công cụ như vậy có thể hữu ích để hỗ trợ quá trình liên kết, và chúng có thể phục vụ như một nơi thứ hai để tìm kiếm các liên kết, nhưng chúng ta không nên dựa vào chúng để làm tất cả công việc.
 
-Thứ nhất: quá trình suy nghĩ về các mối quan hệ giữa các mục là một phần của cách bạn có thể [[Tự suy nghĩ đi]]. Nó buộc bạn phải tương tác sâu hơn với tài liệu mới.
+Thứ nhất: quá trình suy nghĩ về các mối quan hệ giữa các mục là một phần của cách bạn có thể [[Hãy tự mình suy ngẫm]]. Nó buộc bạn phải tương tác sâu hơn với tài liệu mới.
 
 Thứ hai: bạn muốn các liên kết của mình có tín hiệu cao để bạn không phải cố gắng đánh giá một số danh sách liên kết không có thứ tự. Có thể nhanh chóng đánh giá một danh sách như vậy mà không cần điều hướng giữa các mục đòi hỏi bạn phải nhớ những gì tất cả các mục đó chứa. Các liên kết được chọn lọc chặt chẽ sẽ có tín hiệu cao hơn.
 

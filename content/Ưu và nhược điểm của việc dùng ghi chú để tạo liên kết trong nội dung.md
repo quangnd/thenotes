@@ -7,7 +7,7 @@ Khi đang đọc một trang web và thấy nó liên quan đến một file PDF
 
 Cách này khác với hình dung memex (Bush, 1945), vốn cho phép liên kết trực tiếp giữa các tài liệu thuộc bất kỳ loại nào, của mình hoặc của người khác.
 
-Viết ghi chú có cái lợi là buộc ta phải [[Tự suy nghĩ đi]], nhưng cũng hơi nặng vì [[Ghi chú thường xanh nên hướng khái niệm]]. Để viết ghi chú, ta phải trích xuất liên kết khái niệm giữa hai thứ, đặt tên cho nó, và sắp xếp sao cho dễ thu hút các liên kết sau này.
+Viết ghi chú có cái lợi là buộc ta phải [[Hãy tự mình suy ngẫm]], nhưng cũng hơi nặng vì [[Ghi chú thường xanh nên hướng khái niệm]]. Để viết ghi chú, ta phải trích xuất liên kết khái niệm giữa hai thứ, đặt tên cho nó, và sắp xếp sao cho dễ thu hút các liên kết sau này.
 
 Khi [[Viết về thứ mình đọc]], ta có hai tầng ghi chú: ghi chú nhẹ về bản thân bài đọc trong thư viện tham khảo, và [[Ghi chú thường xanh]] với độ trung thực cao hơn trong kho ghi chú. Có thể cũng nên áp dụng hai tầng tương tự cho độ trung thực của liên kết. Ta tạo các liên kết nhẹ giữa các tài liệu trước, rồi mã hóa những quan sát giá trị thành ghi chú bền vững theo thời gian.
 

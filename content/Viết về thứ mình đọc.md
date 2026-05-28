@@ -8,7 +8,7 @@ Hãy viết về thứ mình đọc:
 - vì [[Muốn hiểu thì phải bỏ công]]
 	- cụ thể là [[Viết buộc ta hiểu sắc hơn]]
 	- và nhớ rằng [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-- vì nếu không thì sẽ không [[Tự suy nghĩ đi]]
+- vì nếu không thì sẽ không [[Hãy tự mình suy ngẫm]]
 - vì [[Công việc tri thức nên tích lũy]], và [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 - thực tế là [[Hầu hết mọi người đọc không hiệu quả]]
 

@@ -20,7 +20,7 @@ Giao diện chi tiết để quản lý các khoảng cách của các cuốn s�
 
 Readwise cũng cung cấp các tính năng tổ chức ghi chú: bạn có thể gắn thẻ và thêm ghi chú vào các đoạn đánh dấu.
 
-Nhìn chung, tôi lo rằng việc lựa chọn tổ chức mọi thứ xung quanh sách vi phạm [[Tự suy nghĩ đi]] và [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]. Bạn đang đọc các đoạn đánh dấu này, và bạn có thể ghi chú về một đoạn đánh dấu riêng lẻ, nhưng sản phẩm khiến việc kết hợp những hiểu biết đó thành thứ gì đó lớn hơn trở nên khó khăn. Để làm điều đó, quy trình là xuất các đoạn đánh dấu sang một môi trường khác (Notion, Evernote, v.v). Nhưng không có kết nối nào (theo như tôi thấy) giữa quy trình ôn tập và môi trường đó.
+Nhìn chung, tôi lo rằng việc lựa chọn tổ chức mọi thứ xung quanh sách vi phạm [[Hãy tự mình suy ngẫm]] và [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]. Bạn đang đọc các đoạn đánh dấu này, và bạn có thể ghi chú về một đoạn đánh dấu riêng lẻ, nhưng sản phẩm khiến việc kết hợp những hiểu biết đó thành thứ gì đó lớn hơn trở nên khó khăn. Để làm điều đó, quy trình là xuất các đoạn đánh dấu sang một môi trường khác (Notion, Evernote, v.v). Nhưng không có kết nối nào (theo như tôi thấy) giữa quy trình ôn tập và môi trường đó.
 
 #### Tổ chức
 
