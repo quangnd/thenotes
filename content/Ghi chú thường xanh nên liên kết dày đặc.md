@@ -17,7 +17,7 @@ Luhmann thậm chí lập luận rằng...
 >
 > (In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary.)
 
-Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Phải dừng lại viết một ghi chú mới mỗi lần cần thì cảm giác rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều. (xem thêm [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]]).
+Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Phải dừng lại viết một ghi chú mới mỗi lần cần thì cảm giác rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều. (xem thêm [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]).
 
 Ngoài giá trị lâu dài của các liên kết đã ghi lại, chúng còn giúp dẫn dắt sự chú ý khi viết nháp: [[Van xả cho tư duy phi tuyến tính có thể hỗ trợ đầu ra tuyến tính tốt hơn]].
 

@@ -21,6 +21,11 @@ Xem:
 - [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]
 - [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
 - [[Chiến lược thực thi cho việc viết]]
+  
+
+> [!tip]
+> Nếu bạn tự hỏi, khái niệm "Ghi chú thường xanh", hay Evergreen notes này phức tạp với tôi thì đấy là chuyện rất bình thường. Hãy tiếp tục đọc mà không cần phải cố gắng hiểu khái niệm. Khái niệm tự nó sẽ rõ ràng sau một thời gian trải nghiệm.
+> Ngoài ra thì, nếu bạn cần ví dụ về Ghi chú thường xanh thì xin mời: **tất cả những ghi chú ở trong trang web này về cơ bản chính là Evergreen notes.**
 
 ---
 

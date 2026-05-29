@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.ext == "md"
+    - 'file.mtime > now() - duration("2 days")'
+formulas:
+  last_modified: file.mtime.relative()
+properties:
+  file.name:
+    displayName: Note
+  formula.last_modified:
+    displayName: Updated
+views:
+  - type: list
+    name: Recently Updated
+    order:
+      - file.name
+      - formula.last_modified
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.last_modified
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 420

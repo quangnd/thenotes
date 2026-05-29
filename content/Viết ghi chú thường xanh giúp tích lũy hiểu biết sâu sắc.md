@@ -9,7 +9,7 @@ Phần lớn suy nghĩ hàng ngày trong công việc sáng tạo bị mất đi
 
 Hãy hình dung một bước nhảy hiểu biết sâu sắc mà bạn muốn đạt tới. Để đến được đó, thường cần phát triển song song nhiều ý tưởng độc lập, mỗi ý hình thành một phần, cho đến khi chúng đột ngột hội tụ trong khoảnh khắc lóe sáng. Khi phải xoay vài mảnh ghép cùng lúc, giữ tất cả trong đầu là gần như không thể.
 
-Ngược lại, vì [[Ghi chú thường xanh nên atomic]], mỗi ghi chú đủ nhỏ để bắt đầu và hoàn thành trong dưới nửa giờ (xem [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]]). Mỗi ghi chú viết ra là một bước tiến trong tư duy về ý tưởng đó, đồng thời làm dày thêm mạng lưới liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]). Vì là [[Ghi chú thường xanh]], lần sau quay lại bạn có một điểm tựa rõ ràng để tiếp tục đào sâu ý tưởng cụ thể đó.
+Ngược lại, vì [[Ghi chú thường xanh nên atomic]], mỗi ghi chú đủ nhỏ để bắt đầu và hoàn thành trong dưới nửa giờ (xem [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]). Mỗi ghi chú viết ra là một bước tiến trong tư duy về ý tưởng đó, đồng thời làm dày thêm mạng lưới liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]). Vì là [[Ghi chú thường xanh]], lần sau quay lại bạn có một điểm tựa rõ ràng để tiếp tục đào sâu ý tưởng cụ thể đó.
 
 Các ghi chú này sẽ tương tác với những gì bạn đọc ([[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]) và tạo nền tảng cho những bản thảo mới ([[Chiến lược thực thi cho việc viết]]).
 

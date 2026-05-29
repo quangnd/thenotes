@@ -78,7 +78,7 @@ Cách làm ghi chú có thể biến việc viết thành quy trình dự đoán
 [[Đóng các vòng lặp còn mở]]
 - Chỉ khi không còn gì lảng vảng trong bộ nhớ làm việc và chiếm tài nguyên tinh thần quý giá, ta mới trải nghiệm được điều Allen gọi là "tâm trí như nước". Trạng thái có thể tập trung vào công việc ngay trước mặt mà không bị các suy nghĩ cạnh tranh kéo đi.
 
-[[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]]
+[[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]
 - Khi kết quả của mỗi nhiệm vụ được viết ra và các kết nối trở nên rõ ràng, việc tiếp tục công việc bất cứ lúc nào tại điểm dừng trở nên dễ dàng, không cần phải giữ nó trong đầu suốt.
 - Tất cả những điều này cho phép tiếp tục nhiệm vụ chính xác tại điểm dừng mà không cần "ghi nhớ" rằng vẫn còn việc phải làm. Đó là một lợi thế chính của suy nghĩ bằng văn bản: mọi thứ đều được ngoại hóa.
 

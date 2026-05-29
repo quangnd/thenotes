@@ -37,7 +37,7 @@ aliases:
 	- [[Chiến lược thực thi cho việc viết]]
 		- [[Tạo dàn ý suy đoán trong khi viết]]
 		- [[Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]]
-		- [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]]
+		- [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]
 - Cấu trúc của các ghi chú
 	- [[Ghi chú thường xanh]]
 		- [[Hầu hết mọi người chỉ ghi chú tạm thời]]

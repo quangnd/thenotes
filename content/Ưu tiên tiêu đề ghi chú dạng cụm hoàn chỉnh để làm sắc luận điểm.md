@@ -2,7 +2,7 @@
 aliases:
   - Prefer note titles with complete phrases to sharpen claims
 ---
-Khi viết [[Ghi chú thường xanh]], tôi thấy dùng cụm từ hoàn chỉnh làm tiêu đề giúp giữ được tính hướng khái niệm ([[Ghi chú thường xanh nên hướng khái niệm]]). Ví dụ: [[Mục tiêu giáo dục thường phản tác dụng chính nó]], [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (_viết gia tăng_)]].
+Khi viết [[Ghi chú thường xanh]], tôi thấy dùng cụm từ hoàn chỉnh làm tiêu đề giúp giữ được tính hướng khái niệm ([[Ghi chú thường xanh nên hướng khái niệm]]). Ví dụ: [[Mục tiêu giáo dục thường phản tác dụng chính nó]], [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]].
 
 Đây thường là câu khẳng định hoặc mệnh lệnh nêu ra một luận điểm mạnh. Cách đặt này tạo áp lực buộc tôi phải chứng minh đầy đủ luận điểm trong phần thân. Nếu viết xong một ghi chú mà khó cô lại thành tiêu đề sắc nét, đó thường là dấu hiệu suy nghĩ còn lờ mờ, hoặc ghi chú đang nói về nhiều chủ đề cùng lúc (đi ngược lại [[Ghi chú thường xanh nên atomic]]). Cả hai trường hợp, cách xử lý là tách các ý ra và viết phần mình hiểu rõ nhất trước.
 
