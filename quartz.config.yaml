@@ -131,6 +131,15 @@ plugins:
       mobileBreakpoint: 800
       showSpines: true
       animateTransitions: true
+  - source: ./plugins/stacked-notes
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
+    options:
+      maxColumns: 8
+      mobileBreakpoint: 800
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index

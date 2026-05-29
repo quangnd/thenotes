@@ -1,0 +1,55 @@
+{
+  "name": "stacked-notes",
+  "version": "0.1.0",
+  "description": "Andy-style horizontally stacked notes (columns) for Quartz v5.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "sideEffects": false,
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "stacked-notes",
+    "displayName": "Stacked Notes",
+    "description": "Open internal links as horizontally stacked, side-by-side note columns.",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "maxColumns": 8,
+      "mobileBreakpoint": 800
+    },
+    "optionSchema": {
+      "maxColumns": {
+        "type": "number"
+      },
+      "mobileBreakpoint": {
+        "type": "number"
+      }
+    },
+    "components": {
+      "StackedNotes": {
+        "displayName": "Stacked Notes",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 50
+      }
+    }
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
