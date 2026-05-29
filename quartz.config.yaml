@@ -140,6 +140,13 @@ plugins:
     options:
       maxColumns: 8
       mobileBreakpoint: 800
+  - source: ./plugins/sidebar-toggle
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+      display: desktop-only
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -214,7 +221,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35

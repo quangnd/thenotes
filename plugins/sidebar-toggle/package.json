@@ -1,0 +1,43 @@
+{
+  "name": "sidebar-toggle",
+  "version": "0.1.0",
+  "description": "A persistent toggle to collapse/show the left sidebar.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "sideEffects": false,
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "sidebar-toggle",
+    "displayName": "Sidebar Toggle",
+    "description": "Let visitors collapse the left sidebar to widen the reading area.",
+    "category": "component",
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 40,
+    "defaultEnabled": true,
+    "components": {
+      "SidebarToggle": {
+        "displayName": "Sidebar Toggle",
+        "defaultPosition": "left",
+        "defaultPriority": 35
+      }
+    }
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

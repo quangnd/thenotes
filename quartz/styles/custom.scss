@@ -50,3 +50,54 @@ body blockquote {
     }
   }
 }
+
+// ── Hover preview (popover) ───────────────────────────────────────────────
+// The default popover sits flush and feels cramped. Give it a padded card look
+// and clamp it to the viewport (minus a gap on every edge) so it never spills
+// off the left/right/top/bottom of the window. floating-ui still anchors it to
+// the link and flips/shifts to whichever side has room.
+.popover > .popover-inner {
+  width: 32rem;
+  max-width: min(32rem, calc(100vw - 2rem));
+  max-height: min(22rem, calc(100vh - 2rem));
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
+
+  // tighten the top so the padding reads evenly with the note title
+  & > .popover-hint > *:first-child,
+  & > *:first-child {
+    margin-top: 0;
+  }
+}
+
+// ── Hovered-link signal ───────────────────────────────────────────────────
+// Make it obvious which link the preview belongs to: a soft highlight pill
+// around the link currently under the cursor.
+.center a.internal {
+  border-radius: 3px;
+  transition:
+    background-color 0.12s ease,
+    box-shadow 0.12s ease;
+}
+.center a.internal:hover {
+  background-color: var(--highlight);
+  box-shadow: 0 0 0 0.22em var(--highlight);
+  text-decoration-color: var(--secondary);
+  text-underline-offset: 3px;
+}
+
+// ── Tighten top spacing ───────────────────────────────────────────────────
+// Core uses $topSpacing (6rem) for both the page-header margin and the sidebar
+// padding, which leaves a big empty band at the top. Reduce both together so
+// the title and the sidebar headers stay aligned. Desktop/tablet only — mobile
+// has its own (smaller) spacing.
+@media all and (min-width: 800px) {
+  .page-header {
+    margin-top: 2.5rem;
+  }
+  .sidebar {
+    padding-top: 2.5rem;
+  }
+}
