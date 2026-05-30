@@ -171,6 +171,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Khám phá
     layout:
       position: left
       priority: 50
