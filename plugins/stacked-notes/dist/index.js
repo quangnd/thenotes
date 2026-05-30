@@ -3,8 +3,8 @@ export { StackedNotes } from "./components/index.js"
 export const manifest = {
   name: "stacked-notes",
   displayName: "Stacked Notes",
-  description: "Open internal links as horizontally stacked, side-by-side note columns.",
-  version: "0.1.0",
+  description: "Open internal links as horizontally stacked, side-by-side note columns with Andy-style collapsing spines.",
+  version: "0.2.0",
   category: "component",
   quartzVersion: ">=5.0.0",
   components: {

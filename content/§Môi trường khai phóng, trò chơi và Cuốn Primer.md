@@ -47,7 +47,7 @@ Tôi nghĩ có một cách đóng khung mạnh hơn việc đặt Cuốn Primer 
 		- [[Primer++ nằm bên trong một lĩnh vực, khởi động sự tham dự qua trải nghiệm thể hiện]]
 			- [[Đánh giá công cụ tư duy theo mục đích có ý nghĩa nội tại]]
 		- [[Thiết kế môi trường khai phóng mới như thiết kế một Đại học++]]
-			- [[Bài giảng cho ta thấy thoáng qua cách một chuyên gia tư duy]]
+			- [[Bài giảng cho ta thấy một chút về cách một chuyên gia tư duy]]
 			- [[Đổi mới mạnh mẽ thường tạo ra mô hình mới, không phải giải vấn đề của bối cảnh hiện tại]]
 	- Các hình thức phương tiện tốt hơn
 		- [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]

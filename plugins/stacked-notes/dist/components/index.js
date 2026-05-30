@@ -1,7 +1,16 @@
 import { h } from "preact"
 
 // ── Styles ──────────────────────────────────────────────────────────────
+// Andy Matuschak style: notes open as fixed-width columns in a horizontal
+// row. As newer notes push in from the right, older notes on the left
+// collapse into thin vertical "spine" strips (rotated title) that stack up
+// like a deck. Click a spine to scroll it back open.
 const css = `
+:root {
+  --sn-col-width: 625px;
+  --sn-spine: 40px;
+}
+
 #stacked-notes-container { display: none; }
 
 #stacked-notes-container.active {
@@ -18,8 +27,8 @@ const css = `
   scrollbar-width: thin;
 }
 
-/* When stacked mode is active: hide both sidebars (explorer + graph/backlinks),
-   use the full viewport, and stop the page behind from scrolling. */
+/* While stacked mode is active: hide both sidebars, use the full viewport,
+   and stop the page behind from scrolling. */
 body.stacked-notes-active .left.sidebar,
 body.stacked-notes-active .right.sidebar { display: none !important; }
 body.stacked-notes-active .page { max-width: none !important; }
@@ -27,14 +36,64 @@ body.stacked-notes-active { overflow: hidden; }
 
 /* ── A single note column ── */
 .stacked-column {
-  flex: 0 0 min(680px, 92vw);
-  display: flex;
-  flex-direction: column;
+  position: sticky;
+  flex: 0 0 var(--sn-col-width);
+  width: var(--sn-col-width);
+  max-width: 92vw;
   height: 100%;
   background: var(--light);
-  border-right: 1px solid var(--lightgray);
-  overflow: hidden;
+  /* a soft shadow on the left edge so the collapsing deck reads as layers */
+  box-shadow: -8px 0 24px -12px rgba(0, 0, 0, 0.28);
 }
+
+/* The vertical spine: the only part visible once a column is covered. */
+.stacked-spine {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: var(--sn-spine);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  appearance: none;
+  border: none;
+  border-right: 1px solid var(--lightgray);
+  background: var(--light);
+  cursor: pointer;
+  z-index: 1;
+}
+.stacked-spine:hover { background: var(--lightgray); }
+.stacked-spine-title {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: calc(100% - 2rem);
+  font-family: var(--headerFont);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--darkgray);
+}
+
+/* The real page content. Offset by the spine width so the spine to its left
+   stays visible when the next column slides over this one. */
+.stacked-inner {
+  position: absolute;
+  inset: 0 0 0 var(--sn-spine);
+  display: flex;
+  flex-direction: column;
+  background: var(--light);
+  border-right: 1px solid var(--lightgray);
+}
+
+/* The active (uncovered) column hides its own spine and uses full width. */
+.stacked-column.is-open .stacked-spine { display: none; }
+.stacked-column.is-open .stacked-inner { left: 0; }
 
 .stacked-column-bar {
   display: flex;
@@ -46,7 +105,6 @@ body.stacked-notes-active { overflow: hidden; }
   border-bottom: 1px solid var(--lightgray);
   background: var(--light);
 }
-
 .stacked-column-title {
   font-family: var(--headerFont);
   font-size: 0.82rem;
@@ -56,7 +114,6 @@ body.stacked-notes-active { overflow: hidden; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
-
 .stacked-column-close {
   appearance: none;
   background: none;
@@ -86,21 +143,30 @@ body.stacked-notes-active { overflow: hidden; }
 }
 .stacked-column.error .stacked-column-bar { color: var(--secondary); }
 
-/* Let cloned note content fill the column instead of the site's narrow column width */
+/* Let cloned note content fill the column instead of the site's narrow width */
 .stacked-column article,
 .stacked-column .page-header,
 .stacked-note-content { max-width: 100% !important; width: 100% !important; }
 .stacked-note-content > h1.article-title:first-child { margin-top: 0.25rem; }
 .stacked-empty { color: var(--gray); }
 
+/* The link in a note that spawned the currently-open next column. */
+.stacked-column a.internal.stacked-active-link {
+  background: var(--highlight);
+  border-radius: 4px;
+  box-shadow: 0 0 0 3px var(--highlight);
+  font-weight: 600;
+}
+
 /* ── Scroll buttons (for users without a trackpad) ── */
+/* Sit just below the column title bar (~36px tall) so they never cover the
+   tab title text. */
 .stacked-nav-btn {
   position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 46px;
   z-index: 60;
-  width: 40px;
-  height: 72px;
+  width: 36px;
+  height: 34px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -170,6 +236,7 @@ function stackedNotesRuntime() {
   var ACTIVE_CLASS = "stacked-notes-active"
   var columns = []
   var active = false
+  var reqSeq = 0
 
   function getContainer() {
     return document.getElementById(CONTAINER_ID)
@@ -179,6 +246,7 @@ function stackedNotesRuntime() {
     return {
       mobileBreakpoint: parseInt((c && c.dataset.mobileBreakpoint) || "800", 10),
       maxColumns: parseInt((c && c.dataset.maxColumns) || "8", 10),
+      spine: parseInt((c && c.dataset.spine) || "40", 10),
     }
   }
 
@@ -227,6 +295,49 @@ function stackedNotesRuntime() {
     return wrap
   }
 
+  // ── Active-link highlighting ──
+  // Mark the link in a column that spawned the column to its right, so the
+  // reader can see the path they followed (Andy highlights this too).
+  function clearActiveLinks(col) {
+    if (!col) return
+    var ls = col.querySelectorAll("a.stacked-active-link")
+    for (var i = 0; i < ls.length; i++) ls[i].classList.remove("stacked-active-link")
+  }
+
+  function setActiveAnchor(col, a) {
+    clearActiveLinks(col)
+    if (a) a.classList.add("stacked-active-link")
+  }
+
+  // For the first click (from the original .center page), we only know the
+  // href, so match it against the cloned links in column 0.
+  function setActiveByHref(col, href) {
+    clearActiveLinks(col)
+    var target
+    try {
+      target = new URL(href, window.location.href).pathname
+    } catch (e) {
+      return
+    }
+    var ls = col.querySelectorAll("a.internal[href]")
+    for (var i = 0; i < ls.length; i++) {
+      var h = ls[i].getAttribute("href")
+      if (!h) continue
+      try {
+        if (new URL(h, window.location.href).pathname === target) {
+          ls[i].classList.add("stacked-active-link")
+          break
+        }
+      } catch (e) {}
+    }
+  }
+
+  function clearActiveLinkAt(c, index) {
+    if (index < 0) return
+    var col = c.querySelector('.stacked-column[data-index="' + index + '"]')
+    clearActiveLinks(col)
+  }
+
   function titleOf(scope) {
     var h1 =
       scope.querySelector("h1.article-title") ||
@@ -238,9 +349,37 @@ function stackedNotesRuntime() {
     return "Untitled"
   }
 
+  // Re-number columns and set their sticky left offset so each one stacks a
+  // spine-width further along — this is what makes the left deck pile up as
+  // you move forward (authentic Andy behaviour: only the left collapses; newer
+  // notes simply sit off-screen to the right until you scroll to them).
   function reindex(c) {
+    var spine = cfg(c).spine
     var cols = c.querySelectorAll(".stacked-column")
-    for (var i = 0; i < cols.length; i++) cols[i].dataset.index = String(i)
+    for (var i = 0; i < cols.length; i++) {
+      cols[i].dataset.index = String(i)
+      cols[i].style.left = i * spine + "px"
+    }
+  }
+
+  // A column is "open" (full width, no spine) when the next column isn't
+  // sliding over it. Detected from live geometry so it stays correct during
+  // scrolling and regardless of exact widths.
+  function updateOpenState(c) {
+    var cols = c.querySelectorAll(".stacked-column")
+    var n = cols.length
+    if (!n) return
+    var colW = cols[0].getBoundingClientRect().width
+    for (var i = 0; i < n; i++) {
+      var rect = cols[i].getBoundingClientRect()
+      var open = true
+      if (i < n - 1) {
+        var nextRect = cols[i + 1].getBoundingClientRect()
+        // covered once the next column has slid to within < full width
+        if (nextRect.left - rect.left < colW - 4) open = false
+      }
+      cols[i].classList.toggle("is-open", open)
+    }
   }
 
   function scrollToEnd(c) {
@@ -251,7 +390,26 @@ function stackedNotesRuntime() {
     }
     window.setTimeout(function () {
       updateNav(c)
-    }, 350)
+      updateOpenState(c)
+    }, 380)
+  }
+
+  // Scroll a given column open (used when a collapsed spine is clicked).
+  function scrollColumnIntoView(c, index) {
+    var spine = cfg(c).spine
+    var cols = c.querySelectorAll(".stacked-column")
+    if (!cols.length) return
+    var colW = cols[0].getBoundingClientRect().width
+    var target = index * (colW - spine)
+    try {
+      c.scrollTo({ left: target, behavior: "smooth" })
+    } catch (e) {
+      c.scrollLeft = target
+    }
+    window.setTimeout(function () {
+      updateNav(c)
+      updateOpenState(c)
+    }, 380)
   }
 
   function scrollByColumn(c, dir) {
@@ -275,8 +433,27 @@ function stackedNotesRuntime() {
 
   function makeColumn(index, title, contentNode) {
     var col = document.createElement("section")
-    col.className = "stacked-column"
+    // Start open: a freshly made column is always the new right-most one, so
+    // it should never paint as a collapsed spine before updateOpenState runs.
+    col.className = "stacked-column is-open"
     col.dataset.index = String(index)
+
+    // Spine (visible when this column is collapsed under a newer one).
+    var spine = document.createElement("button")
+    spine.className = "stacked-spine"
+    spine.setAttribute("aria-label", "Open note: " + title)
+    spine.title = title
+    var spineTitle = document.createElement("span")
+    spineTitle.className = "stacked-spine-title"
+    spineTitle.textContent = title
+    spine.appendChild(spineTitle)
+    spine.addEventListener("click", function (e) {
+      e.stopPropagation()
+      scrollColumnIntoView(getContainer(), parseInt(col.dataset.index, 10))
+    })
+
+    var inner = document.createElement("div")
+    inner.className = "stacked-inner"
 
     var bar = document.createElement("div")
     bar.className = "stacked-column-bar"
@@ -302,8 +479,11 @@ function stackedNotesRuntime() {
     body.className = "stacked-column-body"
     if (contentNode) body.appendChild(contentNode)
 
-    col.appendChild(bar)
-    col.appendChild(body)
+    inner.appendChild(bar)
+    inner.appendChild(body)
+
+    col.appendChild(spine)
+    col.appendChild(inner)
     return col
   }
 
@@ -351,7 +531,7 @@ function stackedNotesRuntime() {
     hint.className = "stacked-hint"
     var msg = document.createElement("span")
     msg.innerHTML =
-      "<kbd>Esc</kbd> back &middot; <kbd>&#8249;</kbd> <kbd>&#8250;</kbd> scroll &middot; <kbd>&times;</kbd> close"
+      "<kbd>Esc</kbd> back &middot; click a <strong>spine</strong> to reopen &middot; <kbd>&times;</kbd> close"
     var x = document.createElement("button")
     x.className = "stacked-hint-close"
     x.setAttribute("aria-label", "Dismiss hint")
@@ -394,12 +574,15 @@ function stackedNotesRuntime() {
     c.classList.add("active")
     document.body.classList.add(ACTIVE_CLASS)
     active = true
+    reindex(c)
     if (!c.dataset.scrollBound) {
       c.addEventListener("scroll", function () {
         updateNav(c)
+        updateOpenState(c)
       })
       c.dataset.scrollBound = "1"
     }
+    updateOpenState(c)
     return true
   }
 
@@ -419,6 +602,9 @@ function stackedNotesRuntime() {
       deactivate()
       return
     }
+    // The note that pointed at the now-removed column has no open child.
+    clearActiveLinkAt(c, index - 1)
+    reindex(c)
     scrollToEnd(c)
     updateNav(c)
   }
@@ -433,6 +619,23 @@ function stackedNotesRuntime() {
     reindex(c)
   }
 
+  // Replace any columns to the right of `afterIndex` with `col`, in one go.
+  function swapInColumn(c, afterIndex, col, slug, title) {
+    var idx = afterIndex + 1
+    columns = columns.slice(0, idx)
+    var existing = Array.prototype.slice.call(c.querySelectorAll(".stacked-column"))
+    for (var i = 0; i < existing.length; i++) {
+      if (parseInt(existing[i].dataset.index, 10) > afterIndex) existing[i].remove()
+    }
+    columns.push({ slug: slug, title: title })
+    insertColumn(c, col)
+    enforceMax(c)
+    // Settle open/collapsed state synchronously before the scroll animation so
+    // the new column never flashes as a spine.
+    updateOpenState(c)
+    scrollToEnd(c)
+  }
+
   function addColumn(href, afterIndex) {
     var c = getContainer()
     if (!c) return
@@ -443,17 +646,11 @@ function stackedNotesRuntime() {
       return
     }
 
-    columns = columns.slice(0, afterIndex + 1)
-    var existing = Array.prototype.slice.call(c.querySelectorAll(".stacked-column"))
-    for (var i = 0; i < existing.length; i++) {
-      if (parseInt(existing[i].dataset.index, 10) > afterIndex) existing[i].remove()
-    }
-
-    var idx = afterIndex + 1
-    var loading = makeColumn(idx, "Loading…", null)
-    loading.classList.add("loading")
-    insertColumn(c, loading)
-    scrollToEnd(c)
+    // Fetch first and keep the current columns on screen until the content is
+    // ready, then swap atomically. This avoids a placeholder column flashing
+    // in and out on fast loads. The sequence guard drops stale responses when
+    // links are clicked in quick succession.
+    var myReq = ++reqSeq
 
     fetch(url.href)
       .then(function (res) {
@@ -461,29 +658,29 @@ function stackedNotesRuntime() {
         return res.text()
       })
       .then(function (html) {
+        if (myReq !== reqSeq) return
         var doc = new DOMParser().parseFromString(html, "text/html")
         var center = doc.querySelector(".center")
         var title = titleOf(doc)
         var content = center ? extractContent(center, url.href) : null
-        loading.remove()
-        columns = columns.slice(0, idx)
-        columns.push({ slug: url.pathname, title: title })
-        var col = makeColumn(idx, title, content)
+        var col = makeColumn(afterIndex + 1, title, content)
         if (!content) {
           var p = document.createElement("p")
           p.className = "stacked-empty"
           p.textContent = "Could not load this note."
           col.querySelector(".stacked-column-body").appendChild(p)
         }
-        insertColumn(c, col)
-        enforceMax(c)
-        scrollToEnd(c)
+        swapInColumn(c, afterIndex, col, url.pathname, title)
       })
       .catch(function () {
-        loading.classList.remove("loading")
-        loading.classList.add("error")
-        var t = loading.querySelector(".stacked-column-title")
-        if (t) t.textContent = "Failed to load"
+        if (myReq !== reqSeq) return
+        var col = makeColumn(afterIndex + 1, "Failed to load", null)
+        col.classList.add("error")
+        var p = document.createElement("p")
+        p.className = "stacked-empty"
+        p.textContent = "Could not load this note."
+        col.querySelector(".stacked-column-body").appendChild(p)
+        swapInColumn(c, afterIndex, col, url.pathname, "Failed to load")
       })
   }
 
@@ -509,13 +706,18 @@ function stackedNotesRuntime() {
     if (col) {
       e.preventDefault()
       e.stopPropagation()
+      setActiveAnchor(col, a)
       addColumn(href, parseInt(col.dataset.index, 10))
       return
     }
     if (!active && a.closest(".center")) {
       e.preventDefault()
       e.stopPropagation()
-      if (activate()) addColumn(href, 0)
+      if (activate()) {
+        addColumn(href, 0)
+        var col0 = c.querySelector('.stacked-column[data-index="0"]')
+        if (col0) setActiveByHref(col0, href)
+      }
     }
   }
 
@@ -537,7 +739,10 @@ function stackedNotesRuntime() {
 
   function onResize() {
     var c = getContainer()
-    if (active && c) updateNav(c)
+    if (active && c) {
+      updateNav(c)
+      updateOpenState(c)
+    }
   }
 
   if (!window.__stackedNotesBound) {
@@ -559,6 +764,7 @@ const StackedNotes = (opts) => {
       id: "stacked-notes-container",
       "data-mobile-breakpoint": o.mobileBreakpoint ?? 800,
       "data-max-columns": o.maxColumns ?? 8,
+      "data-spine": o.spineWidth ?? 40,
     })
   Component.css = css
   Component.afterDOMLoaded = script

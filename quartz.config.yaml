@@ -141,6 +141,7 @@ plugins:
     options:
       maxColumns: 8
       mobileBreakpoint: 800
+      spineWidth: 40
   - source: ./plugins/sidebar-toggle
     enabled: true
     layout:
