@@ -29,11 +29,11 @@ Một lợi ích khác của cách làm này: [[Ghi chú thường xanh làm gi�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-[Preparing Fragments Helps You to Ease Into Writing • Zettelkasten Method](https://zettelkasten.de/posts/ease-into-writing/)
-
-- Muốn biết nghiên cứu của bạn có đủ chống đỡ cho cấu trúc bài viết hay không, bước tiếp theo là gán các ghi chú từ *Zettelkasten* vào từng mục của dàn ý. Khi một mục nào đó bị bỏ trống vì thiếu ghi chú phù hợp, bạn quay lại nghiên cứu, tập trung vào phần còn thiếu. Khi đã đủ độ phủ để bắt đầu, bạn ghép nội dung các ghi chú lại theo dàn ý. Bản thảo đầu tiên hình thành như vậy. Đó là toàn bộ quy trình từ kế hoạch sang dàn ý rồi tới bản thảo. Sau đó bạn viết lại, sắp xếp tài liệu và làm cho văn bản mạch lạc. (To see with clarity if your research backs up your text's structure sufficiently, the next step is to assign notes from your *Zettelkasten* to the items of your outline…)
-
-- Không có phép màu nào ở đây. Để dựng bản thảo đầu tiên, bạn đặt nội dung các ghi chú đã chọn vào đúng chỗ trong dàn ý, đắp da thịt vào bộ xương của bài viết. Đó là cách một *Zettelkasten* được nuôi dưỡng tốt giúp bạn hoàn thành bản thảo đầu tiên. (There's no magic involved in writing texts with the help of a well-fed *Zettelkasten*…)
+> [!info]- Tài liệu tham khảo (References)
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> [Preparing Fragments Helps You to Ease Into Writing • Zettelkasten Method](https://zettelkasten.de/posts/ease-into-writing/)
+> 
+> - Muốn biết nghiên cứu của bạn có đủ chống đỡ cho cấu trúc bài viết hay không, bước tiếp theo là gán các ghi chú từ *Zettelkasten* vào từng mục của dàn ý. Khi một mục nào đó bị bỏ trống vì thiếu ghi chú phù hợp, bạn quay lại nghiên cứu, tập trung vào phần còn thiếu. Khi đã đủ độ phủ để bắt đầu, bạn ghép nội dung các ghi chú lại theo dàn ý. Bản thảo đầu tiên hình thành như vậy. Đó là toàn bộ quy trình từ kế hoạch sang dàn ý rồi tới bản thảo. Sau đó bạn viết lại, sắp xếp tài liệu và làm cho văn bản mạch lạc. (To see with clarity if your research backs up your text's structure sufficiently, the next step is to assign notes from your *Zettelkasten* to the items of your outline…)
+> 
+> - Không có phép màu nào ở đây. Để dựng bản thảo đầu tiên, bạn đặt nội dung các ghi chú đã chọn vào đúng chỗ trong dàn ý, đắp da thịt vào bộ xương của bài viết. Đó là cách một *Zettelkasten* được nuôi dưỡng tốt giúp bạn hoàn thành bản thảo đầu tiên. (There's no magic involved in writing texts with the help of a well-fed *Zettelkasten*…)

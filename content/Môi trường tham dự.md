@@ -27,6 +27,6 @@ Thuật ngữ này chồng lấn đáng kể với các khái niệm có sẵn t
 
 ---
 
-#### Tài liệu tham khảo
-
-Trò chuyện với Frank Lantz, 2019-05-07
+> [!info]- Tài liệu tham khảo
+> 
+> Trò chuyện với Frank Lantz, 2019-05-07

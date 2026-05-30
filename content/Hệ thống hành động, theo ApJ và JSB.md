@@ -39,6 +39,6 @@ Hệ thống hành động được xây dựng để cho phép người tham gi
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Pendleton-Jullian, A. M., & Brown, J. S. (2018). *Design Unbound* (Vol. 1–2). MIT Press. [[Pendleton-Jullian và Brown, Design Unbound]]
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Pendleton-Jullian, A. M., & Brown, J. S. (2018). *Design Unbound* (Vol. 1–2). MIT Press. [[Pendleton-Jullian và Brown, Design Unbound]]

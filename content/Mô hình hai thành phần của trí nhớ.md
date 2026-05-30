@@ -20,7 +20,7 @@ H. Biểu đạt phân tích thành phần tính ổn định của mô hình tr
 
 ---
 
-#### Tài liệu tham khảo (References)
-[Two component model of memory - supermemo](https://supermemo.guru/wiki/Two_component_model_of_memory)
-
-Bjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation*. In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.
+> [!info]- Tài liệu tham khảo (References)
+> [Two component model of memory - supermemo](https://supermemo.guru/wiki/Two_component_model_of_memory)
+> 
+> Bjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation*. In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.

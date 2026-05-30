@@ -38,7 +38,7 @@ Có lẽ vì là một doanh nghiệp, nó thường tự tin một cách sai l�
 
 ---
 
-#### Tài liệu tham khảo
-
-- [Using Spaced Repetition and Active Recall with Books to Hack Your Brain](https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/)
-- [Remember Significantly More of What You Read With Readwise](https://blog.readwise.io/remember-more-of-what-you-read-with-readwise/)
+> [!info]- Tài liệu tham khảo
+> 
+> - [Using Spaced Repetition and Active Recall with Books to Hack Your Brain](https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/)
+> - [Remember Significantly More of What You Read With Readwise](https://blog.readwise.io/remember-more-of-what-you-read-with-readwise/)

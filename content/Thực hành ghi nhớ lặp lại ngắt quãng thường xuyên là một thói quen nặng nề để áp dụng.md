@@ -10,6 +10,6 @@ Vì vậy, một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] thành cô
 
 ----------
 
-## Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? [https://numinous.productions/ttft](https://numinous.productions/ttft)
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? [https://numinous.productions/ttft](https://numinous.productions/ttft)

@@ -15,8 +15,8 @@ Các câu nhắc ghi nhớ lặp lại ngắt quãng hiệu quả củng cố m�
 
 ----------
 
-#### Tài liệu tham khảo
-
-Nielsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics
-
-- Những người chưa có kinh nghiệm về toán học đôi khi ghi nhớ các chứng minh như danh sách tuyến tính các phát biểu. Một cách hữu ích hơn là nghĩ về các chứng minh như các mạng lưới liên kết của các quan sát đơn giản. Mọi thứ hiếm khi đúng chỉ vì một lý do; việc tìm nhiều cách giải thích cho mọi thứ giúp bạn có sự hiểu biết tốt hơn. Điều này theo một nghĩa nào đó là "không hiệu quả", nhưng nó cũng là cách để đào sâu sự hiểu biết và cải thiện trực giác. Bạn đang xây dựng mạng lưới của chứng minh, tạo thêm nhiều kết nối giữa các nút.
+> [!info]- Tài liệu tham khảo
+> 
+> Nielsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics
+> 
+> - Những người chưa có kinh nghiệm về toán học đôi khi ghi nhớ các chứng minh như danh sách tuyến tính các phát biểu. Một cách hữu ích hơn là nghĩ về các chứng minh như các mạng lưới liên kết của các quan sát đơn giản. Mọi thứ hiếm khi đúng chỉ vì một lý do; việc tìm nhiều cách giải thích cho mọi thứ giúp bạn có sự hiểu biết tốt hơn. Điều này theo một nghĩa nào đó là "không hiệu quả", nhưng nó cũng là cách để đào sâu sự hiểu biết và cải thiện trực giác. Bạn đang xây dựng mạng lưới của chứng minh, tạo thêm nhiều kết nối giữa các nút.

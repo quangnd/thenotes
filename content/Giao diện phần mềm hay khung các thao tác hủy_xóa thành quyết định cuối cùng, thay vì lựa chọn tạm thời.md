@@ -20,5 +20,5 @@ Các hệ thống phần mềm thường quá cứng nhắc. Chúng nhấn mạn
 
 ---
 
-#### Tài liệu tham khảo (References)
-Matuschak, A. (2019, December). Taking knowledge work seriously. Trình bày tại Stripe Convergence, San Francisco.
+> [!info]- Tài liệu tham khảo (References)
+> Matuschak, A. (2019, December). Taking knowledge work seriously. Trình bày tại Stripe Convergence, San Francisco.

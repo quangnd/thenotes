@@ -13,5 +13,5 @@ Khi [[Viết về thứ mình đọc]], ta có hai tầng ghi chú: ghi chú nh�
 
 ---
 
-#### Tài liệu tham khảo
-Bush, Vannevar. "As We May Think." *Atlantic Monthly*, tháng 7 năm 1945.
+> [!info]- Tài liệu tham khảo
+> Bush, Vannevar. "As We May Think." *Atlantic Monthly*, tháng 7 năm 1945.

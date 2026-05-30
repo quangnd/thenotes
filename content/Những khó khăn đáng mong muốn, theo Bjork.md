@@ -38,5 +38,5 @@ H. Tại sao người đào tạo có thể không thấy được tác động 
 
 ---
 
-#### Tài liệu tham khảo
-Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
+> [!info]- Tài liệu tham khảo
+> Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.

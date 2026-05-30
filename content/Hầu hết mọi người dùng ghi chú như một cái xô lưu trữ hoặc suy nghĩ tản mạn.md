@@ -11,5 +11,5 @@ Trong quan niệm này, ghi chú là một cách để [[Đóng các vòng lặp
 
 ---
 
-#### Tài liệu tham khảo (References)
-Khoe, M.-L. (2016, December 21). Messy thought, neat thought. Retrieved September 17, 2019, from Khan Academy Early Product Development website: https://klr.tumblr.com/post/154784481858/messy-thought-neat-thought
+> [!info]- Tài liệu tham khảo (References)
+> Khoe, M.-L. (2016, December 21). Messy thought, neat thought. Retrieved September 17, 2019, from Khan Academy Early Product Development website: https://klr.tumblr.com/post/154784481858/messy-thought-neat-thought

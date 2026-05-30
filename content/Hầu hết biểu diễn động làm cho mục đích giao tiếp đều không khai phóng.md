@@ -20,13 +20,13 @@ Notebook Mathematica và các [[Sách thực thi]] khác đi theo hướng ngư�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Tweetstorm về điều này: https://twitter.com/andy_matuschak/status/1305264246331039744
-
-Farrar, S., Khoe, M.-L., & Matuschak, A. (2017, August 31). Numbers at play: Dynamic toys make the invisible visible. Retrieved December 31, 2019, from https://early.khanacademy.org/cantor/
-
-Gingold, C. (2015). *Earth: A Primer*. Retrieved from https://www.earthprimer.com
-
-Matuschak, A. (2018, October 27). Narrated explorables: Three mental models. Retrieved December 31, 2019, from https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1
-
-Conversation with Michael Nielsen, 2019-11-05
+> [!info]- Tài liệu tham khảo (References)
+> Tweetstorm về điều này: https://twitter.com/andy_matuschak/status/1305264246331039744
+> 
+> Farrar, S., Khoe, M.-L., & Matuschak, A. (2017, August 31). Numbers at play: Dynamic toys make the invisible visible. Retrieved December 31, 2019, from https://early.khanacademy.org/cantor/
+> 
+> Gingold, C. (2015). *Earth: A Primer*. Retrieved from https://www.earthprimer.com
+> 
+> Matuschak, A. (2018, October 27). Narrated explorables: Three mental models. Retrieved December 31, 2019, from https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1
+> 
+> Conversation with Michael Nielsen, 2019-11-05

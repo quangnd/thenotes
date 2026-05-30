@@ -30,8 +30,8 @@ A. Các câu hỏi ngắn hơn có vẻ khó nhận dạng mẫu hơn.
 
 ----------
 
-#### Tài liệu tham khảo (References)
-
-Chúng tôi đã nhận được nhiều nhận xét về hiện tượng này từ độc giả [[Quantum Country]]. ví dụ:
-
-- Đối với một số câu hỏi ôn tập trong bài luận này, bây giờ tôi biết câu trả lời theo lòng do số lần tôi đã thấy những câu hỏi đó nhưng tôi không thể nói rằng tôi hiểu thuật toán đến mức độ tôi muốn (để tôi có thể giải thích cho người khác). Tôi không chắc liệu tôi có cần đọc lại bài luận này nhiều lần nữa để thực sự nắm vững thuật toán không. — Srinath K R Re: Hello from Quantum Country!
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Chúng tôi đã nhận được nhiều nhận xét về hiện tượng này từ độc giả [[Quantum Country]]. ví dụ:
+> 
+> - Đối với một số câu hỏi ôn tập trong bài luận này, bây giờ tôi biết câu trả lời theo lòng do số lần tôi đã thấy những câu hỏi đó nhưng tôi không thể nói rằng tôi hiểu thuật toán đến mức độ tôi muốn (để tôi có thể giải thích cho người khác). Tôi không chắc liệu tôi có cần đọc lại bài luận này nhiều lần nữa để thực sự nắm vững thuật toán không. — Srinath K R Re: Hello from Quantum Country!

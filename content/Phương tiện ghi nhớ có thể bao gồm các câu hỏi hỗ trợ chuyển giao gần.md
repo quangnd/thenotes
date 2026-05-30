@@ -29,6 +29,6 @@ Một cách tiếp cận là nghĩ về chúng giống như một "trận đánh
 
 ---
 
-#### Tài liệu tham khảo
-
-Wiggins, G. P., & McTighe, J. (2005). *Understanding by design*.
+> [!info]- Tài liệu tham khảo
+> 
+> Wiggins, G. P., & McTighe, J. (2005). *Understanding by design*.

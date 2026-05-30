@@ -15,5 +15,5 @@ Một Cuốn Primer kiểu Orwell có thể sẽ thoải mái thao túng Nell su
 
 ---
 
-#### Tài liệu tham khảo (References)
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo (References)
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

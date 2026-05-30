@@ -15,6 +15,6 @@ Xem phần [How to use (or not use!) the questions](https://quantum.country/qcvc
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, March). Quantum computing for the very curious. Quantum Country. https://quantum.country/qcvc
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, March). Quantum computing for the very curious. Quantum Country. https://quantum.country/qcvc

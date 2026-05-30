@@ -17,5 +17,5 @@ Một giới hạn nữa: [[Môi trường khai phóng mạnh mẽ tập trung v
 
 ---
 
-#### Tài liệu tham khảo (References)
-Email với Bret Victor, 2015/03/19. Re: Toys with weight-bearing educative properties
+> [!info]- Tài liệu tham khảo (References)
+> Email với Bret Victor, 2015/03/19. Re: Toys with weight-bearing educative properties

@@ -72,5 +72,5 @@ TODO:
 
 ---
 
-#### Tài liệu tham khảo (References)
-Cuộc trao đổi với Michael Nielsen: Re: The Primer and Enaction
+> [!info]- Tài liệu tham khảo (References)
+> Cuộc trao đổi với Michael Nielsen: Re: The Primer and Enaction

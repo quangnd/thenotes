@@ -11,7 +11,7 @@ Tôi nghi ngờ rằng đây là một phần lý do tại sao các hệ thống
 
 ---
 
-#### Tài liệu tham khảo
-- Có lẽ tôi thiên về việc cứ làm cho mọi thứ xảy ra... Tôi được hứng khởi rất nhiều khi mang mọi thứ vào cuộc sống... ngay khi nó sống dậy, nó bắt đầu cho bạn biết nó là gì.
-
-—Dan Ingalls, như được trích dẫn trong Nielsen, M. (2018). *Augmenting Long-term Memory*. http://augmentingcognition.com/ltm.html
+> [!info]- Tài liệu tham khảo
+> - Có lẽ tôi thiên về việc cứ làm cho mọi thứ xảy ra... Tôi được hứng khởi rất nhiều khi mang mọi thứ vào cuộc sống... ngay khi nó sống dậy, nó bắt đầu cho bạn biết nó là gì.
+> 
+> —Dan Ingalls, như được trích dẫn trong Nielsen, M. (2018). *Augmenting Long-term Memory*. http://augmentingcognition.com/ltm.html

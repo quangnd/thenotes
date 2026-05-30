@@ -56,18 +56,18 @@ Thêm về một cơ chế khả thi: [[Trải nghiệm thể hiện có tiềm 
 
 ---
 
-#### Tài liệu tham khảo
-
-Hart, V., & Case, N. (2014, December 8). Parable of the Polygons. Retrieved from [https://ncase.me/polygons/](https://ncase.me/polygons/)
-
-Matuschak, A. (2018, October 26). Narrated explorables: Three mental models. Retrieved from [https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1](https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1)
-
-Patel, A. (2014, May 26). Introduction to the A* Algorithm. Retrieved from Red Blob Games website: [https://www.redblobgames.com/pathfinding/a-star/introduction.html](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-
-Sanderson, G., & Eater, B. (2018). Visualizing quaternions. Retrieved from [https://eater.net/quaternions](https://eater.net/quaternions)
-
-Tufte, E. R. (1997). *Visual explanations: Images and quantities, evidence and narrative*. Cheshire, Conn: Graphics Press.
-
-Valve Corporation. (2007). *Portal*.
-
-Victor, B. (2012, May). *Stop Drawing Dead Fish*. Presented at the SF SIGGRAPH. Retrieved from [https://vimeo.com/64895205](https://vimeo.com/64895205)
+> [!info]- Tài liệu tham khảo
+> 
+> Hart, V., & Case, N. (2014, December 8). Parable of the Polygons. Retrieved from [https://ncase.me/polygons/](https://ncase.me/polygons/)
+> 
+> Matuschak, A. (2018, October 26). Narrated explorables: Three mental models. Retrieved from [https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1](https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1)
+> 
+> Patel, A. (2014, May 26). Introduction to the A* Algorithm. Retrieved from Red Blob Games website: [https://www.redblobgames.com/pathfinding/a-star/introduction.html](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+> 
+> Sanderson, G., & Eater, B. (2018). Visualizing quaternions. Retrieved from [https://eater.net/quaternions](https://eater.net/quaternions)
+> 
+> Tufte, E. R. (1997). *Visual explanations: Images and quantities, evidence and narrative*. Cheshire, Conn: Graphics Press.
+> 
+> Valve Corporation. (2007). *Portal*.
+> 
+> Victor, B. (2012, May). *Stop Drawing Dead Fish*. Presented at the SF SIGGRAPH. Retrieved from [https://vimeo.com/64895205](https://vimeo.com/64895205)

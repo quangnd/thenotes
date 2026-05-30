@@ -11,7 +11,7 @@ Bản năng lúc đó là kết nối luôn các hệ thống lại với nhau, 
 
 ---
 
-#### Tài liệu tham khảo
-Cuộc trò chuyện với Ben Reinhardt, 2020-03-15
-
-- Ben gọi khái niệm này một cách đáng yêu là "Zettelconversation."
+> [!info]- Tài liệu tham khảo
+> Cuộc trò chuyện với Ben Reinhardt, 2020-03-15
+> 
+> - Ben gọi khái niệm này một cách đáng yêu là "Zettelconversation."

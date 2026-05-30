@@ -17,8 +17,8 @@ Giacomo Randazzo về ảnh hưởng của Quantum Country / 2020-03-28:
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? https://numinous.productions/ttft
-
-- … việc làm thẻ tốt là một kỹ năng khó thành thạo, vì vậy những gì người dùng mất đi khi không tự làm thẻ được bù đắp bởi việc sử dụng những thẻ có chất lượng cao hơn nhiều so với những gì họ có thể tự làm. Trong tương lai, đáng để tìm hiểu sâu hơn vấn đề này, cả để hiểu nó vượt ra ngoài các mô hình không chính thức, và để khám phá các cách để đạt được lợi ích của việc tự làm thẻ chủ động. (… making good cards is a difficult skill to master, and so what users lose by not making their own cards is made up by using what are likely to be much higher-quality cards than they could have made on their own. In future, it's worth digging deeper into this issue, both to understand it beyond informal models, and to explore ways of getting the benefits of active card making.)
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? https://numinous.productions/ttft
+> 
+> - … việc làm thẻ tốt là một kỹ năng khó thành thạo, vì vậy những gì người dùng mất đi khi không tự làm thẻ được bù đắp bởi việc sử dụng những thẻ có chất lượng cao hơn nhiều so với những gì họ có thể tự làm. Trong tương lai, đáng để tìm hiểu sâu hơn vấn đề này, cả để hiểu nó vượt ra ngoài các mô hình không chính thức, và để khám phá các cách để đạt được lợi ích của việc tự làm thẻ chủ động. (… making good cards is a difficult skill to master, and so what users lose by not making their own cards is made up by using what are likely to be much higher-quality cards than they could have made on their own. In future, it's worth digging deeper into this issue, both to understand it beyond informal models, and to explore ways of getting the benefits of active card making.)

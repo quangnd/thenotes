@@ -17,5 +17,5 @@ Vì [[Cuốn Primer không giúp các chuyên gia giỏi hơn bất cứ điều
 
 ---
 
-#### Tài liệu tham khảo
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

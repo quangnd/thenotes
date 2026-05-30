@@ -29,7 +29,7 @@ Một số câu hỏi:
 
 ---
 
-#### Tài liệu tham khảo
-
-Conversation with Michael Nielsen, 2019-12-30
-Conversation with Michael Nielsen, 2020-01-01
+> [!info]- Tài liệu tham khảo
+> 
+> Conversation with Michael Nielsen, 2019-12-30
+> Conversation with Michael Nielsen, 2020-01-01

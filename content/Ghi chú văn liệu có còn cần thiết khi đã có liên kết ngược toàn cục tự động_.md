@@ -15,5 +15,5 @@ Liên quan: [[Thực hành gắn thẻ ghi chú nên thay đổi như thế nào
 
 ---
 
-#### Tài liệu tham khảo
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53-61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> [!info]- Tài liệu tham khảo
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53-61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes

@@ -9,7 +9,7 @@ aliases:
 
 ---
 
-#### Tài liệu tham khảo
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363.
-
-Simon, H., & Chase, W. (1988). Skill in Chess. In D. Levy (Ed.), Computer Chess Compendium (pp. 175–188). Springer New York. https://doi.org/10.1007/978-1-4757-1968-0_18
+> [!info]- Tài liệu tham khảo
+> Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363.
+> 
+> Simon, H., & Chase, W. (1988). Skill in Chess. In D. Levy (Ed.), Computer Chess Compendium (pp. 175–188). Springer New York. https://doi.org/10.1007/978-1-4757-1968-0_18

@@ -14,7 +14,7 @@ H. Tại sao Arnold Kling tin rằng dễ tập trung chú ý hơn trong bài gi
 
 ---
 
-#### Tài liệu tham khảo
-Kling, A. (2020, 27 tháng 7). Isolation, attention, and totalitarianism. Askblog. http://www.arnoldkling.com/blog/isolation-and-totalitarianism/
-
-Qua Agnes Callard: https://twitter.com/agnescallard/status/1288157015194447879?s=12 "Xếp vào mục: chủ nghĩa tuân thủ, nhìn chung, là một điều tốt." (File under: conformism is, by and large, a good thing.)
+> [!info]- Tài liệu tham khảo
+> Kling, A. (2020, 27 tháng 7). Isolation, attention, and totalitarianism. Askblog. http://www.arnoldkling.com/blog/isolation-and-totalitarianism/
+> 
+> Qua Agnes Callard: https://twitter.com/agnescallard/status/1288157015194447879?s=12 "Xếp vào mục: chủ nghĩa tuân thủ, nhìn chung, là một điều tốt." (File under: conformism is, by and large, a good thing.)

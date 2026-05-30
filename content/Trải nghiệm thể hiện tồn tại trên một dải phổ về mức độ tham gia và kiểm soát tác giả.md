@@ -14,6 +14,6 @@ Ví dụ:
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Conversation với Michael Nielsen, 2019/09/12
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Conversation với Michael Nielsen, 2019/09/12

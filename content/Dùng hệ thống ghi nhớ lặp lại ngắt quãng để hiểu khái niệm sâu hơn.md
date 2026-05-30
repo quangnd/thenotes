@@ -10,6 +10,6 @@ Cách dùng [[Hệ thống ghi nhớ lặp lại ngắt quãng]] rõ ràng nhấ
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem https://numinous.productions/ttft/#how-important-is-memory)
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem https://numinous.productions/ttft/#how-important-is-memory)

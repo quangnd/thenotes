@@ -23,10 +23,10 @@ A. Ví dụ: cờ vua, kiến trúc (e.g. chess, architecture)
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Grabner, R. H., Stern, E., & Neubauer, A. C. (2007). Individual differences in chess expertise: A psychometric investigation. Acta Psychologica, 124(3), 398–420. https://doi.org/10.1016/j.actpsy.2006.07.008
-
-MacKinnon, D. W. (1968). Selecting students with creative potential. In P. Heist (Ed.), *The creative college student: An unmet challenge* (pp. 101–116). Jossey-Bass, Inc., Publishers.
-
-Shuter-Dyson, R. (1968). *The psychology of musical ability*. Methuen.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Grabner, R. H., Stern, E., & Neubauer, A. C. (2007). Individual differences in chess expertise: A psychometric investigation. Acta Psychologica, 124(3), 398–420. https://doi.org/10.1016/j.actpsy.2006.07.008
+> 
+> MacKinnon, D. W. (1968). Selecting students with creative potential. In P. Heist (Ed.), *The creative college student: An unmet challenge* (pp. 101–116). Jossey-Bass, Inc., Publishers.
+> 
+> Shuter-Dyson, R. (1968). *The psychology of musical ability*. Methuen.

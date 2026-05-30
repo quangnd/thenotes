@@ -19,6 +19,6 @@ Bret Victor còn quan sát thêm (2006):
 
 ---
 
-#### Tài liệu tham khảo
-
-Victor, B. (2006, 15 tháng 3). Magic Ink: Information Software and the Graphical Interface. [http://worrydream.com/MagicInk/](http://worrydream.com/MagicInk/)
+> [!info]- Tài liệu tham khảo
+> 
+> Victor, B. (2006, 15 tháng 3). Magic Ink: Information Software and the Graphical Interface. [http://worrydream.com/MagicInk/](http://worrydream.com/MagicInk/)

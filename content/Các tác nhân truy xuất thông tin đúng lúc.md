@@ -13,5 +13,5 @@ Liên quan: [[Tầm nhìn ngoại vi]]
 
 ---
 
-#### Tài liệu tham khảo (References)
-Rhodes, B. J., & Maes, P. (2000). Just-in-time information retrieval agents. IBM Systems Journal, 39(3.4), 685–704. https://doi.org/10.1147/sj.393.0685
+> [!info]- Tài liệu tham khảo (References)
+> Rhodes, B. J., & Maes, P. (2000). Just-in-time information retrieval agents. IBM Systems Journal, 39(3.4), 685–704. https://doi.org/10.1147/sj.393.0685

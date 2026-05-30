@@ -12,7 +12,7 @@ Vì vậy, nếu bạn muốn phát triển một kỹ năng, bạn cần thách
 
 ---
 
-#### Tài liệu tham khảo (References)
-Barnes, S. J., & Finnerty, G. T. (2010). Sensory Experience and Cortical Rewiring. The Neuroscientist, 16(2), 186–198. https://doi.org/10.1177/1073858409343961
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo (References)
+> Barnes, S. J., & Finnerty, G. T. (2010). Sensory Experience and Cortical Rewiring. The Neuroscientist, 16(2), 186–198. https://doi.org/10.1177/1073858409343961
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

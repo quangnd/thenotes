@@ -17,8 +17,8 @@ H. Những trải nghiệm ở tuổi đi học thường dẫn đến sự ác 
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
-
-- Vậy, tất cả điều này có nghĩa là chúng tôi ủng hộ việc học vẹt, kiểu ghi nhớ cưỡng bức phổ biến ở trường không? Tất nhiên là không. Điều chúng tôi tin là sự không thích học vẹt của nhiều người đã dẫn họ đến sự không thích trí nhớ nói chung, và do đó đánh giá thấp vai trò của nó trong nhận thức. Trí nhớ, trên thực tế, là một phần trung tâm của nhận thức. Nhưng phản ứng đúng đắn cho điều này không phải là lượng lớn học vẹt buồn tẻ. Thay vào đó, đó là sử dụng các công cụ tốt và phán đoán tốt để ghi nhớ những gì thực sự quan trọng. (So, does all this mean we're fans of rote memory, the kind of forced memorization common schools? Of course not. What we do believe is that many people's dislike of rote memorization has led them to a generalized dislike of memory, and consequently to underrate the role it plays in cognition. Memory is, in fact, a central part of cognition. But the right response to this is not immense amounts of dreary rote memorization. Rather, it's to use good tools and good judgment to memorize what truly matters.)
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> 
+> - Vậy, tất cả điều này có nghĩa là chúng tôi ủng hộ việc học vẹt, kiểu ghi nhớ cưỡng bức phổ biến ở trường không? Tất nhiên là không. Điều chúng tôi tin là sự không thích học vẹt của nhiều người đã dẫn họ đến sự không thích trí nhớ nói chung, và do đó đánh giá thấp vai trò của nó trong nhận thức. Trí nhớ, trên thực tế, là một phần trung tâm của nhận thức. Nhưng phản ứng đúng đắn cho điều này không phải là lượng lớn học vẹt buồn tẻ. Thay vào đó, đó là sử dụng các công cụ tốt và phán đoán tốt để ghi nhớ những gì thực sự quan trọng. (So, does all this mean we're fans of rote memory, the kind of forced memorization common schools? Of course not. What we do believe is that many people's dislike of rote memorization has led them to a generalized dislike of memory, and consequently to underrate the role it plays in cognition. Memory is, in fact, a central part of cognition. But the right response to this is not immense amounts of dreary rote memorization. Rather, it's to use good tools and good judgment to memorize what truly matters.)

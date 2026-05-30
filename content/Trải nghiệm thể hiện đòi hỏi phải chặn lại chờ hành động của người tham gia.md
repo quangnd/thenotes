@@ -17,5 +17,5 @@ Tôi nghi ngờ rằng đặc tính này là một lý do tại sao người tha
 
 ---
 
-#### Tài liệu tham khảo
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

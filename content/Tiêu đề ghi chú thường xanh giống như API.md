@@ -11,5 +11,5 @@ Liên quan: [[Các khẳng định có cơ sở, theo Qian và cộng sự]]
 
 ---
 
-#### Tài liệu tham khảo
-Cuộc trò chuyện với Michael Nielsen, 2019-12-16
+> [!info]- Tài liệu tham khảo
+> Cuộc trò chuyện với Michael Nielsen, 2019-12-16

@@ -12,7 +12,7 @@ Thuật ngữ này gợi hình, nhưng nó có hàm ý đáng tiếc về sự r
 
 ---
 
-#### Tài liệu tham khảo
-Thư từ trao đổi với Igor Dvorkin, 12-05-2020
-
-- Huấn luyện viên thực ra là trả tiền cho ai đó để lập trình sự chú ý của bạn.
+> [!info]- Tài liệu tham khảo
+> Thư từ trao đổi với Igor Dvorkin, 12-05-2020
+> 
+> - Huấn luyện viên thực ra là trả tiền cho ai đó để lập trình sự chú ý của bạn.

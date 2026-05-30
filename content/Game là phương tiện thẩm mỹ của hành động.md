@@ -11,5 +11,5 @@ Trên thực tế, game thực sự là *phương tiện* thẩm mỹ của hàn
 
 ---
 
-#### Tài liệu tham khảo (References)
-Cuộc trò chuyện với Frank Lantz, ngày 07-05-2019
+> [!info]- Tài liệu tham khảo (References)
+> Cuộc trò chuyện với Frank Lantz, ngày 07-05-2019

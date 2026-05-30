@@ -13,6 +13,6 @@ Chúng ta thậm chí có thể tiến thêm một bước và trình bày các 
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Michael Nielsen, 2019-12-10
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2019-12-10

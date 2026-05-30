@@ -11,6 +11,6 @@ Sự "thú vị" được thể hiện qua *hành động*. Xem [[Game là phư�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Frank Lantz, trò chuyện video ngày 07-05-2019
-*Frank Lantz gọi khái niệm này là "making it get up and dance" (làm cho nó đứng dậy và nhảy múa).*
+> [!info]- Tài liệu tham khảo (References)
+> Frank Lantz, trò chuyện video ngày 07-05-2019
+> *Frank Lantz gọi khái niệm này là "making it get up and dance" (làm cho nó đứng dậy và nhảy múa).*

@@ -29,5 +29,5 @@ Sử dụng kỹ thuật này, dữ liệu gợi ý rằng các kỳ thủ giỏ
 
 ---
 
-#### Tài liệu tham khảo (References)
-de Groot, A. D. (1965). *Thought and Choice in Chess*. Mouton.
+> [!info]- Tài liệu tham khảo (References)
+> de Groot, A. D. (1965). *Thought and Choice in Chess*. Mouton.

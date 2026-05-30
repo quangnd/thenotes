@@ -14,5 +14,5 @@ Hai giải pháp:
 
 ---
 
-#### Tài liệu tham khảo (References)
-Luka Dover - Quantum Country interview - 2019-11-19
+> [!info]- Tài liệu tham khảo (References)
+> Luka Dover - Quantum Country interview - 2019-11-19

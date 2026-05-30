@@ -11,5 +11,5 @@ Những ghi chú như vậy gợi cho tôi nhớ đến các mục trong bảng 
 
 ---
 
-#### Tài liệu tham khảo (References)
-Cuộc trò chuyện với Igor Dvorkin, 2020-05-11 (Conversation with Igor Dvorkin, 2020-05-11)
+> [!info]- Tài liệu tham khảo (References)
+> Cuộc trò chuyện với Igor Dvorkin, 2020-05-11 (Conversation with Igor Dvorkin, 2020-05-11)

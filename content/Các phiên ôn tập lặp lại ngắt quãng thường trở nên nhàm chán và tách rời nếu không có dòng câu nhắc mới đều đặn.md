@@ -6,8 +6,8 @@ Việc thực hành hàng ngày với [[Hệ thống ghi nhớ lặp lại ngắ
 
 ---
 
-#### Tài liệu tham khảo
-
-Về: Biến trí nhớ thành một sự lựa chọn (Make memory a choice) (~9 phút)
-
-- Lúc đầu tôi rất nhiệt tình và đã thực hiện nhiều lần kiểm tra. Tôi đã học được rất nhiều điều thú vị. Nhưng bây giờ tôi chán rồi. Có những phần luôn vượt quá khả năng của tôi, nên tôi đã chuyển sang trả lời "có" cho mọi thứ, điều này làm hỏng tính toàn vẹn của nó.
+> [!info]- Tài liệu tham khảo
+> 
+> Về: Biến trí nhớ thành một sự lựa chọn (Make memory a choice) (~9 phút)
+> 
+> - Lúc đầu tôi rất nhiệt tình và đã thực hiện nhiều lần kiểm tra. Tôi đã học được rất nhiều điều thú vị. Nhưng bây giờ tôi chán rồi. Có những phần luôn vượt quá khả năng của tôi, nên tôi đã chuyển sang trả lời "có" cho mọi thứ, điều này làm hỏng tính toàn vẹn của nó.

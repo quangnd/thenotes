@@ -8,7 +8,7 @@ Mỗi lần bạn trả lời đúng, khoảng cách ôn lại câu hỏi đó g
 
 ---
 
-#### Tài liệu tham khảo
-Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition
-
-Nielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html
+> [!info]- Tài liệu tham khảo
+> Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition
+> 
+> Nielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html

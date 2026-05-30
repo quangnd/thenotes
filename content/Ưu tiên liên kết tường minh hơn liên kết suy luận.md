@@ -15,15 +15,15 @@ Thứ ba: thuật ngữ của bạn sẽ phát triển theo thời gian, vì v�
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- Mặc dù Zettelkasten cũng đưa ra gợi ý ở đây, ví dụ dựa trên các tài liệu tham khảo văn học chung, việc tạo ra các tham chiếu chéo tốt là vấn đề suy nghĩ nghiêm túc và là một phần quan trọng của sự phát triển tư tưởng.
-
-- Trong Zettelkasten, các từ khóa có thể dễ dàng được thêm vào ghi chú như các thẻ và sau đó sẽ xuất hiện trong chỉ mục. Chúng nên được chọn cẩn thận và ít dùng. Luhmann sẽ thêm số của một hoặc hai (hiếm khi hơn) ghi chú bên cạnh một từ khóa trong chỉ mục (Schmidt 2013, 171).
-
-[Why You Should Set Links Manually and Not Rely on Search Alone • Zettelkasten Method](https://zettelkasten.de/posts/search-alone-is-not-enough/)
-
-- Khó có khả năng bạn viết ghi chú hôm nay như bạn đã làm 6 năm trước. Bạn sử dụng các thuật ngữ khác nhau.
-
-- Mỗi tìm kiếm toàn văn bản trình bày hàng tấn ghi chú Zettel. Vì tất cả đều có vẻ ngang nhau (và được kết nối theo cùng một cách: không có gì cả), bạn phải hoặc là dựa vào trí nhớ để phân biệt ghi chú hữu ích với không hữu ích, hoặc xem qua tất cả chúng mỗi lần.
+> [!info]- Tài liệu tham khảo
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - Mặc dù Zettelkasten cũng đưa ra gợi ý ở đây, ví dụ dựa trên các tài liệu tham khảo văn học chung, việc tạo ra các tham chiếu chéo tốt là vấn đề suy nghĩ nghiêm túc và là một phần quan trọng của sự phát triển tư tưởng.
+> 
+> - Trong Zettelkasten, các từ khóa có thể dễ dàng được thêm vào ghi chú như các thẻ và sau đó sẽ xuất hiện trong chỉ mục. Chúng nên được chọn cẩn thận và ít dùng. Luhmann sẽ thêm số của một hoặc hai (hiếm khi hơn) ghi chú bên cạnh một từ khóa trong chỉ mục (Schmidt 2013, 171).
+> 
+> [Why You Should Set Links Manually and Not Rely on Search Alone • Zettelkasten Method](https://zettelkasten.de/posts/search-alone-is-not-enough/)
+> 
+> - Khó có khả năng bạn viết ghi chú hôm nay như bạn đã làm 6 năm trước. Bạn sử dụng các thuật ngữ khác nhau.
+> 
+> - Mỗi tìm kiếm toàn văn bản trình bày hàng tấn ghi chú Zettel. Vì tất cả đều có vẻ ngang nhau (và được kết nối theo cùng một cách: không có gì cả), bạn phải hoặc là dựa vào trí nhớ để phân biệt ghi chú hữu ích với không hữu ích, hoặc xem qua tất cả chúng mỗi lần.

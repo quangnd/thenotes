@@ -15,6 +15,6 @@ Thực hành này chắc chắn sẽ tạo ra những cải tiến cho hệ th�
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

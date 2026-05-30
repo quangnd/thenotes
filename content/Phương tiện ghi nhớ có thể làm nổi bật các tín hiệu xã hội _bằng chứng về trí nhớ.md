@@ -11,8 +11,8 @@ Phương tiện ghi nhớ thiết lập một tiêu chuẩn rõ ràng hơn cho v
 
 ---
 
-#### Tài liệu tham khảo
-
-Balaji: "Đó giống như một cách để theo dõi các lượt cài đặt đang hoạt động cho các ý tưởng."
-
-(Balaji: "It's like a way to track active installs for ideas.") https://twitter.com/balajis/status/1291146642003906560
+> [!info]- Tài liệu tham khảo
+> 
+> Balaji: "Đó giống như một cách để theo dõi các lượt cài đặt đang hoạt động cho các ý tưởng."
+> 
+> (Balaji: "It's like a way to track active installs for ideas.") https://twitter.com/balajis/status/1291146642003906560

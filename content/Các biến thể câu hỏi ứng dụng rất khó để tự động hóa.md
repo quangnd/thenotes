@@ -15,6 +15,6 @@ Có lẽ sẽ có giá trị khi chú ý đến các kỹ thuật chúng ta sử
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Michael Nielsen, 2020-01-20
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2020-01-20

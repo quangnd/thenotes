@@ -15,6 +15,6 @@ H. Lặp lại ngắt quãng có thể giúp bạn dành nhiều năng lượng 
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem https://numinous.productions/ttft/#how-important-is-memory)
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem https://numinous.productions/ttft/#how-important-is-memory)

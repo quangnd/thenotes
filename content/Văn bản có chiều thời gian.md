@@ -13,5 +13,5 @@ Chúng ta có thể gọi những văn bản có chiều thời gian được t�
 
 ---
 
-#### Tài liệu tham khảo (References)
-[[Văn bản theo thời gian]]
+> [!info]- Tài liệu tham khảo (References)
+> [[Văn bản theo thời gian]]

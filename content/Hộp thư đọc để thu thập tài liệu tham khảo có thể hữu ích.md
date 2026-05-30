@@ -29,13 +29,13 @@ Liên quan: [[Đọc gia tăng]]
 
 ---
 
-#### Tài liệu tham khảo
-[Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
-
-- Hộp thư là nơi giữ những mục mà chúng ta *muốn* hoặc *cần* chú ý. Rất nhiều thứ sẽ không bao giờ đến được hộp thư của chúng ta; chúng ta có thể tắt tiếng ồn bên ngoài.
-
-  (The Inbox is the place to hold the items we either *want* to or *need to* pay attention to. A lot of stuff will never reach our inbox; we can shut off the noise outside.)
-
-- Một số thứ tìm đường vào danh sách đọc hóa ra vô dụng. Hãy bỏ chúng. Đưa mục vào danh sách đọc chỉ là cam kết nhỏ: chúng ta cam kết chú ý đến chúng sau, nhưng không cần giữ chúng nếu chúng không chịu được cái nhìn phê phán.
-
-  (Some things that found their way onto the reading lists turn out to be useless. Toss them. Putting items on the reading list is a tiny commitment only: we commit to pay attention to them later, but we don't need to hold on to them if they don't withstand a critical look.)
+> [!info]- Tài liệu tham khảo
+> [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
+> 
+> - Hộp thư là nơi giữ những mục mà chúng ta *muốn* hoặc *cần* chú ý. Rất nhiều thứ sẽ không bao giờ đến được hộp thư của chúng ta; chúng ta có thể tắt tiếng ồn bên ngoài.
+> 
+>   (The Inbox is the place to hold the items we either *want* to or *need to* pay attention to. A lot of stuff will never reach our inbox; we can shut off the noise outside.)
+> 
+> - Một số thứ tìm đường vào danh sách đọc hóa ra vô dụng. Hãy bỏ chúng. Đưa mục vào danh sách đọc chỉ là cam kết nhỏ: chúng ta cam kết chú ý đến chúng sau, nhưng không cần giữ chúng nếu chúng không chịu được cái nhìn phê phán.
+> 
+>   (Some things that found their way onto the reading lists turn out to be useless. Toss them. Putting items on the reading list is a tiny commitment only: we commit to pay attention to them later, but we don't need to hold on to them if they don't withstand a critical look.)

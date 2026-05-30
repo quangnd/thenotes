@@ -14,7 +14,7 @@ aliases:
 
 ---
 
-#### Tài liệu tham khảo (References)
-Matuschak, A., & Nielsen, M. (2019). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
-
-https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+> [!info]- Tài liệu tham khảo (References)
+> Matuschak, A., & Nielsen, M. (2019). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> 
+> https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/

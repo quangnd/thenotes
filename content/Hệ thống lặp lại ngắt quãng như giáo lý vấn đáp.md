@@ -15,6 +15,6 @@ Liên quan: [[Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điề
 
 ---
 
-#### Tài liệu tham khảo
-
-Điều này đã trở thành một tweet: [Andy Matuschak on Twitter: "In a recent chat with @michael*nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that's a pretty interesting lens! (thread)… https://t.co/0KPLPCAwDC"](https://twitter.com/andy_matuschak/status/1201584298656174082)
+> [!info]- Tài liệu tham khảo
+> 
+> Điều này đã trở thành một tweet: [Andy Matuschak on Twitter: "In a recent chat with @michael*nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that's a pretty interesting lens! (thread)… https://t.co/0KPLPCAwDC"](https://twitter.com/andy_matuschak/status/1201584298656174082)

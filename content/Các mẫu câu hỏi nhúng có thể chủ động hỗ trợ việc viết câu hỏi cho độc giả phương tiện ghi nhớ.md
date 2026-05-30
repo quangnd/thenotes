@@ -17,6 +17,6 @@ Một khả năng liên quan: [[Các câu hỏi phản chiếu có thể ghi l�
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Taylor Rogalski, 2020-05-10
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Taylor Rogalski, 2020-05-10

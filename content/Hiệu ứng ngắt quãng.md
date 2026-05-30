@@ -10,5 +10,5 @@ Mỗi lần ôn lại làm đường cong quên thoải hơn, nên khoảng các
 
 ---
 
-#### Tài liệu tham khảo
-Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition
+> [!info]- Tài liệu tham khảo
+> Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition

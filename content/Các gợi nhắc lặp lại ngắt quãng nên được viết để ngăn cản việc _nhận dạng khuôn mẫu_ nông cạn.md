@@ -30,8 +30,8 @@ H. Độ dài gợi nhắc SRS liên quan đến nhận dạng khuôn mẫu như
 
 ----------
 
-#### Tài liệu tham khảo
-
-Chúng tôi đã nhận được nhiều bình luận về hiện tượng này từ độc giả [[Quantum Country]]:
-
-- Với một số câu hỏi ôn tập trong bài luận này, tôi bây giờ biết câu trả lời theo kiểu thuộc lòng do số lần tôi đã thấy những câu hỏi đó nhưng tôi không thể nói rằng tôi hiểu thuật toán ở mức độ tôi muốn (đến mức tôi có thể giải thích cho người khác). Tôi không chắc liệu tôi có cần đọc bài luận này nhiều lần nữa để nắm bắt đầy đủ thuật toán không. — Srinath K R
+> [!info]- Tài liệu tham khảo
+> 
+> Chúng tôi đã nhận được nhiều bình luận về hiện tượng này từ độc giả [[Quantum Country]]:
+> 
+> - Với một số câu hỏi ôn tập trong bài luận này, tôi bây giờ biết câu trả lời theo kiểu thuộc lòng do số lần tôi đã thấy những câu hỏi đó nhưng tôi không thể nói rằng tôi hiểu thuật toán ở mức độ tôi muốn (đến mức tôi có thể giải thích cho người khác). Tôi không chắc liệu tôi có cần đọc bài luận này nhiều lần nữa để nắm bắt đầy đủ thuật toán không. — Srinath K R

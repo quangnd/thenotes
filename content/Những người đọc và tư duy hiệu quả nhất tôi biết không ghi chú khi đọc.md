@@ -11,5 +11,5 @@ Trên thực tế, sự phủ định gần như có vẻ đúng: hầu hết nh
 
 Tuy nhiên: [[Nhiều nhà tư tưởng lỗi lạc cần một bề mặt viết để suy nghĩ]].
 
-#### Tài liệu tham khảo
-Chuỗi Twitter của tôi về ghi chú này: [Andy Matuschak on Twitter: "One way to dream up post-book media to make reading more effective and meaningful is to systematize "expert" practices (e.g. How to Read a Book), so more people can do them, more reliably and more cheaply. But… the most erudite people I know don't actually do those things!"](https://twitter.com/andy_matuschak/status/1211487900505792512)
+> [!info]- Tài liệu tham khảo
+> Chuỗi Twitter của tôi về ghi chú này: [Andy Matuschak on Twitter: "One way to dream up post-book media to make reading more effective and meaningful is to systematize "expert" practices (e.g. How to Read a Book), so more people can do them, more reliably and more cheaply. But… the most erudite people I know don't actually do those things!"](https://twitter.com/andy_matuschak/status/1211487900505792512)

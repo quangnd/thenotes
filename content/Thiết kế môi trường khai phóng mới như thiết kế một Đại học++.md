@@ -22,5 +22,5 @@ Xem thêm [[Primer++ nằm bên trong một lĩnh vực, khởi động sự tha
 
 ---
 
-#### Tài liệu tham khảo
-https://github.com/mnielsen/tpft/blob/master/big_picture.md
+> [!info]- Tài liệu tham khảo
+> https://github.com/mnielsen/tpft/blob/master/big_picture.md

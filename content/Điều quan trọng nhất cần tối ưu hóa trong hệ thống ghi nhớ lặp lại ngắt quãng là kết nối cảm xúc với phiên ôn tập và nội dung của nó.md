@@ -18,6 +18,6 @@ Thuộc chủ đề [[Coi trọng cảm xúc]].
 H. Hầu hết các nhà nghiên cứu SRM tập trung vào tối ưu hóa bộ lập lịch, nhưng tôi nghĩ điều quan trọng nhất cần tối ưu là…
 Đ. Kết nối cảm xúc với phiên ôn tập và nội dung của nó
 
-#### Tài liệu tham khảo
-
-Bài viết Patreon của tôi về chủ đề này: ["Skip": exponential-backoff deferral mechanisms and fuzzy inboxes | Andy Matuschak on Patreon](https://www.patreon.com/posts/skip-exponential-40672377)
+> [!info]- Tài liệu tham khảo
+> 
+> Bài viết Patreon của tôi về chủ đề này: ["Skip": exponential-backoff deferral mechanisms and fuzzy inboxes | Andy Matuschak on Patreon](https://www.patreon.com/posts/skip-exponential-40672377)

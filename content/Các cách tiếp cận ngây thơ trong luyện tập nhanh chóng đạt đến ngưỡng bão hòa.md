@@ -15,9 +15,9 @@ Các ví dụ thực nghiệm:
 
 ---
 
-#### Tài liệu tham khảo (References)
-Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. Peak - Ericsson and Pool
-
-Oare, S. (2012). Decisions Made in the Practice Room: A Qualitative Study of Middle School Students' Thought Processes While Practicing. Update: Applications of Research in Music Education, 30(2), 63–70. https://doi.org/10.1177/8755123312437051
+> [!info]- Tài liệu tham khảo (References)
+> Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. Peak - Ericsson and Pool
+> 
+> Oare, S. (2012). Decisions Made in the Practice Room: A Qualitative Study of Middle School Students' Thought Processes While Practicing. Update: Applications of Research in Music Education, 30(2), 63–70. https://doi.org/10.1177/8755123312437051

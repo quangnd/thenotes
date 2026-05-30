@@ -15,7 +15,7 @@ Ericsson và Pool sử dụng quan sát này để đưa ra một khái quát h�
 
 ---
 
-#### Tài liệu tham khảo
-Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81. [[Chase và Simon - Nhận thức trong cờ vua]]
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo
+> Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81. [[Chase và Simon - Nhận thức trong cờ vua]]
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

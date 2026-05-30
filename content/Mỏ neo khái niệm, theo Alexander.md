@@ -23,5 +23,5 @@ A. Chúng cho phép mọi người phối hợp thảo luận xung quanh một �
 
 ---
 
-#### Tài liệu tham khảo
-https://slatestarcodex.com/2016/02/20/writing-advice/
+> [!info]- Tài liệu tham khảo
+> https://slatestarcodex.com/2016/02/20/writing-advice/

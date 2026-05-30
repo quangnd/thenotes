@@ -19,25 +19,25 @@ Theo thời gian, kho ghi chú lớn dần và ta có thể kết hợp chúng t
 
 ---
 
-#### Tài liệu tham khảo
-[Extend Your Mind and Memory With a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten)
-
-- Khi đã mổ xẻ xong hai văn bản, một Zettelkasten sẽ giúp bạn dựng các kết nối giữa chúng, thấy điểm tương đồng và đối lập. Từ đó, bạn chắt lọc được một loạt văn bản và theo thời gian khám phá ra điều mới cho bản thân.
-
-  (When you've taken two texts apart already, a Zettelkasten will help you draw connections between them, see their similarities and oppositions. Thereby, you'll be able to distill a bunch of texts and find out something new for yourself with time.)
-
-- Các kết nối không hiển nhiên thường có lợi cho tư duy sáng tạo hơn các kết nối hiển nhiên, vì chúng tạo ra nhiều bất ngờ hơn.
-
-  (the non-apparent connections are generally more beneficial to creative thinking than the obvious ones as they generate greater surprise.)
-
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
-
-- Ta có thể thử khái quát hóa các trải nghiệm ở Paris, Florence, New York dưới những khái niệm chung như "nghệ thuật", "triển lãm", "chen chúc", "đám đông", "tự do" hay "giáo dục", để xem hộp phiếu phản ứng thế nào. Thường thì hiệu quả hơn là đi tìm cách diễn đạt vấn đề sao cho liên kết được những thứ không đồng nhất với nhau.
-
-  (We could try to generalize the experiences of Paris, Florence, New York under general concepts like "art" or "exhibitions," or "crowding," or "mass," or "freedom" or "education," in order to see how the slip box reacts. Usually it is more fruitful to look for formulations of problems that relate heterogeneous things with each other.)
-
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- Trong hệ thống cũ, câu hỏi là: tôi lưu ghi chú này dưới chủ đề nào? Trong hệ thống mới, câu hỏi là: tôi sẽ muốn tình cờ gặp lại nó trong bối cảnh nào?
-
-  (In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?)
+> [!info]- Tài liệu tham khảo
+> [Extend Your Mind and Memory With a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten)
+> 
+> - Khi đã mổ xẻ xong hai văn bản, một Zettelkasten sẽ giúp bạn dựng các kết nối giữa chúng, thấy điểm tương đồng và đối lập. Từ đó, bạn chắt lọc được một loạt văn bản và theo thời gian khám phá ra điều mới cho bản thân.
+> 
+>   (When you've taken two texts apart already, a Zettelkasten will help you draw connections between them, see their similarities and oppositions. Thereby, you'll be able to distill a bunch of texts and find out something new for yourself with time.)
+> 
+> - Các kết nối không hiển nhiên thường có lợi cho tư duy sáng tạo hơn các kết nối hiển nhiên, vì chúng tạo ra nhiều bất ngờ hơn.
+> 
+>   (the non-apparent connections are generally more beneficial to creative thinking than the obvious ones as they generate greater surprise.)
+> 
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> 
+> - Ta có thể thử khái quát hóa các trải nghiệm ở Paris, Florence, New York dưới những khái niệm chung như "nghệ thuật", "triển lãm", "chen chúc", "đám đông", "tự do" hay "giáo dục", để xem hộp phiếu phản ứng thế nào. Thường thì hiệu quả hơn là đi tìm cách diễn đạt vấn đề sao cho liên kết được những thứ không đồng nhất với nhau.
+> 
+>   (We could try to generalize the experiences of Paris, Florence, New York under general concepts like "art" or "exhibitions," or "crowding," or "mass," or "freedom" or "education," in order to see how the slip box reacts. Usually it is more fruitful to look for formulations of problems that relate heterogeneous things with each other.)
+> 
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - Trong hệ thống cũ, câu hỏi là: tôi lưu ghi chú này dưới chủ đề nào? Trong hệ thống mới, câu hỏi là: tôi sẽ muốn tình cờ gặp lại nó trong bối cảnh nào?
+> 
+>   (In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?)

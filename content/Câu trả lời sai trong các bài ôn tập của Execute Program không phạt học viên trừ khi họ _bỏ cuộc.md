@@ -11,7 +11,7 @@ Xem [[Hệ thống trí nhớ lặp lại ngắt quãng tự chấm điểm trá
 
 ---
 
-#### Tài liệu tham khảo
-
-- Cuộc trò chuyện với Gary Bernhardt, 24-03-2020
-- Email với Gary Bernhardt, 07-04-2020. Re: Progress mechanics for spaced memory systems
+> [!info]- Tài liệu tham khảo
+> 
+> - Cuộc trò chuyện với Gary Bernhardt, 24-03-2020
+> - Email với Gary Bernhardt, 07-04-2020. Re: Progress mechanics for spaced memory systems

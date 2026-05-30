@@ -20,6 +20,6 @@ A. Bằng cách loại bỏ các quyết định nặng nề và nhu cầu về 
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Chủ đề Twitter của tôi về chủ đề này: https://twitter.com/andy_matuschak/status/1271997374756315142
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Chủ đề Twitter của tôi về chủ đề này: https://twitter.com/andy_matuschak/status/1271997374756315142

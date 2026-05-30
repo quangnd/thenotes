@@ -26,5 +26,5 @@ Tất cả điều này là một phần lý do tại sao tôi thích môi trư�
 
 ---
 
-#### Tài liệu tham khảo
-Chuỗi Twitter của tôi về ghi chú này: [Andy Matuschak on Twitter: "Software interfaces undervalue peripheral vision! (a thread)My physical space is full of subtle cues. Books I read or bought most recently are lying out. Papers are lying in stacks on my desk, roughly arranged by their relationships.…](https://twitter.com/andy_matuschak/status/1202663202997170176)
+> [!info]- Tài liệu tham khảo
+> Chuỗi Twitter của tôi về ghi chú này: [Andy Matuschak on Twitter: "Software interfaces undervalue peripheral vision! (a thread)My physical space is full of subtle cues. Books I read or bought most recently are lying out. Papers are lying in stacks on my desk, roughly arranged by their relationships.…](https://twitter.com/andy_matuschak/status/1202663202997170176)

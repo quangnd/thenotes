@@ -20,7 +20,7 @@ Theo nghĩa này, "[[Công cụ tư duy]]" là một thuật ngữ hơi gây hi�
 
 ---
 
-#### Tài liệu tham khảo (References)
-https://github.com/mnielsen/tpft/blob/master/big_picture.md
-
-Kay, A. C. (1972). A Personal Computer for Children of All Ages. Proceedings of the ACM Annual Conference - Volume 1. https://doi.org/10.1145/800193.1971922
+> [!info]- Tài liệu tham khảo (References)
+> https://github.com/mnielsen/tpft/blob/master/big_picture.md
+> 
+> Kay, A. C. (1972). A Personal Computer for Children of All Ages. Proceedings of the ACM Annual Conference - Volume 1. https://doi.org/10.1145/800193.1971922

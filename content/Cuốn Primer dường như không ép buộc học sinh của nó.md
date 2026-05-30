@@ -11,6 +11,6 @@ Một trong những lý do khiến mọi người thấy Cuốn Primer rất tru
 
 ---
 
-#### Tài liệu tham khảo
-
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> 
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

@@ -30,7 +30,7 @@ Trong ví dụ trên, sự tò mò của Nell được đền đáp như trong m
 
 ---
 
-#### Tài liệu tham khảo
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady''s Illustrated Primer* (Reprint edition). Spectra.
-
-Thekla, Inc. (2016). *The Witness*. Berkeley, CA.
+> [!info]- Tài liệu tham khảo
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady''s Illustrated Primer* (Reprint edition). Spectra.
+> 
+> Thekla, Inc. (2016). *The Witness*. Berkeley, CA.

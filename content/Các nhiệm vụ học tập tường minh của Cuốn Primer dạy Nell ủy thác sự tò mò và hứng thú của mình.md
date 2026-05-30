@@ -13,6 +13,6 @@ Ngược lại: [[Trải nghiệm thể hiện về khám phá tri thức có th
 
 ---
 
-#### Tài liệu tham khảo
-
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> 
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

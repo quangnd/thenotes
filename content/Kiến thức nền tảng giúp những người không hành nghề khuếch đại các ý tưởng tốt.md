@@ -11,7 +11,7 @@ Những thông hiểu mới chỉ có thể xảy ra khi các ý tưởng tiên 
 
 ---
 
-#### Tài liệu tham khảo
-
-- Simler, K. (2019, May 13). Going Critical. Retrieved December 29, 2019, from [https://meltingasphalt.com/interactive/going-critical](https://meltingasphalt.com/interactive/going-critical)
-- Patrick Collison on project plans - 2019-12-24
+> [!info]- Tài liệu tham khảo
+> 
+> - Simler, K. (2019, May 13). Going Critical. Retrieved December 29, 2019, from [https://meltingasphalt.com/interactive/going-critical](https://meltingasphalt.com/interactive/going-critical)
+> - Patrick Collison on project plans - 2019-12-24

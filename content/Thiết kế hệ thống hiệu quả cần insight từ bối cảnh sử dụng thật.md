@@ -22,9 +22,9 @@ Lý thuyết liên quan:
 
 ---
 
-### Tài liệu tham khảo
-Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft
-
-- Cụ thể: giả sử bạn muốn xây dựng công cụ cho chủ đề X (ví dụ X = hình học vi phân). Trừ khi bạn thực sự tham gia sâu vào việc làm chủ đề đó, gần như không thể dựng được công cụ tốt. Nó giống như cố làm ra dụng cụ mộc mới mà bản thân không hề đóng đồ mộc. Có lẽ đây là một phần lý do các công cụ như *Mathematica* hoạt động khá tốt: nhà thiết kế chính, Stephen Wolfram, có mối quan tâm nghiên cứu thực sự trong toán học và vật lý. Tất nhiên, không phải phần nào của *Mathematica* cũng tốt như nhau; có phần cảm giác như đồ chơi, và có vẻ đó là những phần *không* được dùng nghiêm túc bên trong chính công ty.
-
-  (Concretely: suppose you want to build tools for subject X (say X = differential geometry). Unless you are deeply involved in practicing that subject, it's going to be extremely difficult to build good tools. It'll be much like trying to build new tools for carpentry without actually doing any carpentry yourself. This is perhaps part of why tools like *Mathematica* work quite well – the principal designer, Stephen Wolfram, has genuine research interests in mathematics and physics. Of course, not all parts of *Mathematica* work equally well; some parts feel like toys, and it seems likely those are the ones *not* being used seriously internal to the company.)
+> [!info]- Tài liệu tham khảo
+> Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft
+> 
+> - Cụ thể: giả sử bạn muốn xây dựng công cụ cho chủ đề X (ví dụ X = hình học vi phân). Trừ khi bạn thực sự tham gia sâu vào việc làm chủ đề đó, gần như không thể dựng được công cụ tốt. Nó giống như cố làm ra dụng cụ mộc mới mà bản thân không hề đóng đồ mộc. Có lẽ đây là một phần lý do các công cụ như *Mathematica* hoạt động khá tốt: nhà thiết kế chính, Stephen Wolfram, có mối quan tâm nghiên cứu thực sự trong toán học và vật lý. Tất nhiên, không phải phần nào của *Mathematica* cũng tốt như nhau; có phần cảm giác như đồ chơi, và có vẻ đó là những phần *không* được dùng nghiêm túc bên trong chính công ty.
+> 
+>   (Concretely: suppose you want to build tools for subject X (say X = differential geometry). Unless you are deeply involved in practicing that subject, it's going to be extremely difficult to build good tools. It'll be much like trying to build new tools for carpentry without actually doing any carpentry yourself. This is perhaps part of why tools like *Mathematica* work quite well – the principal designer, Stephen Wolfram, has genuine research interests in mathematics and physics. Of course, not all parts of *Mathematica* work equally well; some parts feel like toys, and it seems likely those are the ones *not* being used seriously internal to the company.)

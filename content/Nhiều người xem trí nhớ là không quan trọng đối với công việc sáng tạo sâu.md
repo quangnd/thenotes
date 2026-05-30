@@ -15,5 +15,5 @@ Một phản hồi cho điều này là chỉ ra rằng trên thực tế, [[Dù
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A., & Nielsen, M. (2019, tháng 10). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem phần "[How important is memory anyway?](https://numinous.productions/ttft/#how-important-is-memory)")
+> [!info]- Tài liệu tham khảo
+> Matuschak, A., & Nielsen, M. (2019, tháng 10). *How can we develop transformative tools for thought?* https://numinous.productions/ttft (xem phần "[How important is memory anyway?](https://numinous.productions/ttft/#how-important-is-memory)")

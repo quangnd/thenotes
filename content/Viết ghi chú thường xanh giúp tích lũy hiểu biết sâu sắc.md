@@ -19,11 +19,11 @@ Liên quan: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọ
 
 ---
 
-#### Tài liệu tham khảo
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
-
-- Tự nhiên, sự độc lập giả định một mức độ tối thiểu của sự phức tạp nội tại. Hộp phiếu cần một số năm để đạt khối lượng tới hạn. Cho đến lúc đó, nó hoạt động như một thùng chứa đơn thuần mà chúng ta có thể lấy ra những gì đã bỏ vào. Điều này thay đổi khi kích thước và độ phức tạp tăng lên. Một mặt, số lượng cách tiếp cận và dịp cho câu hỏi tăng lên. Hộp phiếu trở thành một công cụ phổ quát.
-
-  (Naturally, independence presupposes a minimal measure of intrinsic complexity. The slip box needs a number of years in order to reach critical mass. Until then, it functions as a mere container from which we can retrieve what we put in. This changes with its growth in size and complexity. On the one hand, the number of approaches and occasions for questions increases. The slip box becomes a universal instrument.)
-
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> [!info]- Tài liệu tham khảo
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> 
+> - Tự nhiên, sự độc lập giả định một mức độ tối thiểu của sự phức tạp nội tại. Hộp phiếu cần một số năm để đạt khối lượng tới hạn. Cho đến lúc đó, nó hoạt động như một thùng chứa đơn thuần mà chúng ta có thể lấy ra những gì đã bỏ vào. Điều này thay đổi khi kích thước và độ phức tạp tăng lên. Một mặt, số lượng cách tiếp cận và dịp cho câu hỏi tăng lên. Hộp phiếu trở thành một công cụ phổ quát.
+> 
+>   (Naturally, independence presupposes a minimal measure of intrinsic complexity. The slip box needs a number of years in order to reach critical mass. Until then, it functions as a mere container from which we can retrieve what we put in. This changes with its growth in size and complexity. On the one hand, the number of approaches and occasions for questions increases. The slip box becomes a universal instrument.)
+> 
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.

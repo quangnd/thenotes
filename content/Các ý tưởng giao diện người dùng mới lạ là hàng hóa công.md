@@ -13,6 +13,6 @@ Nhưng: [[Trò chơi điện tử có thể hưởng lợi từ những ý tư�
 
 ----------
 
-## Tài liệu tham khảo (References)
-
-Matuschak, A., & Nielsen, M. (2019, October). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Matuschak, A., & Nielsen, M. (2019, October). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

@@ -20,11 +20,11 @@ Một liều thuốc giải chính: [[Viết về thứ mình đọc]]
 
 ---
 
-#### Tài liệu tham khảo
-Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (Ed.), & M. J. Gregor (Trans.), *Practical philosophy* (pp. 11–22). https://doi.org/10.1017/CBO9780511813306.005 (Original work published 1784)
-
-Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). https://doi.org/10.1017/CBO9781139016889 (Original work published 1851)
-
-[Stop Relying on a Source and Have Faith in Your own Thoughts • Zettelkasten Method](https://zettelkasten.de/posts/dont-rely-on-source-have-faith-in-yourself/)
-
-- Tôi đã tin rằng văn bản chứa đựng thông tin, và nhiệm vụ của tôi là làm cho thông tin đó dễ tiếp cận.
+> [!info]- Tài liệu tham khảo
+> Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (Ed.), & M. J. Gregor (Trans.), *Practical philosophy* (pp. 11–22). https://doi.org/10.1017/CBO9780511813306.005 (Original work published 1784)
+> 
+> Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). https://doi.org/10.1017/CBO9781139016889 (Original work published 1851)
+> 
+> [Stop Relying on a Source and Have Faith in Your own Thoughts • Zettelkasten Method](https://zettelkasten.de/posts/dont-rely-on-source-have-faith-in-yourself/)
+> 
+> - Tôi đã tin rằng văn bản chứa đựng thông tin, và nhiệm vụ của tôi là làm cho thông tin đó dễ tiếp cận.

@@ -9,7 +9,7 @@ Machlup chỉ ra rằng năm 1962, 29% GDP Mỹ đến từ "ngành công nghi�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Drucker, P. F. (1970). *The age of discontinuity: Guidelines to our changing society*. London, England: William Heineman Ltd.
-
-Machlup, F. (1962). *The production and distribution of knowledge in the United States*. Princeton, NJ: Princeton University Press.
+> [!info]- Tài liệu tham khảo (References)
+> Drucker, P. F. (1970). *The age of discontinuity: Guidelines to our changing society*. London, England: William Heineman Ltd.
+> 
+> Machlup, F. (1962). *The production and distribution of knowledge in the United States*. Princeton, NJ: Princeton University Press.

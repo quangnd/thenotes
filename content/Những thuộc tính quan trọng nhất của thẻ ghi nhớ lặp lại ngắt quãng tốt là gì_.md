@@ -20,12 +20,12 @@ Liên quan: [[Ẩn dụ về bài luận phản chiếu cho mục tiêu của ph
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Xem phần [Improving the mnemonic medium: making better cards](https://numinous.productions/ttft/#improving-mnemonic-medium) trong *How can we develop transformative tools for thought?* và Nielsen (2018, 2019).
-
-Nielsen, M. (2018). Augmenting Long-term Memory.  http://augmentingcognition.com/ltm.html
-
-Nielsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics
-
-Wozniak, P. (1999, February). Effective learning: Twenty rules of formulating knowledge.  https://www.supermemo.com/en/archives1990-2015/articles/20rules
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Xem phần [Improving the mnemonic medium: making better cards](https://numinous.productions/ttft/#improving-mnemonic-medium) trong *How can we develop transformative tools for thought?* và Nielsen (2018, 2019).
+> 
+> Nielsen, M. (2018). Augmenting Long-term Memory.  http://augmentingcognition.com/ltm.html
+> 
+> Nielsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics
+> 
+> Wozniak, P. (1999, February). Effective learning: Twenty rules of formulating knowledge.  https://www.supermemo.com/en/archives1990-2015/articles/20rules

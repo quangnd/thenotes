@@ -15,7 +15,7 @@ Liên quan:
 
 ---
 
-#### Tài liệu tham khảo
-Bài đăng Twitter, 2018-03-11: https://twitter.com/andy_matuschak/status/973020621847187456
-
-Cuộc trò chuyện với Michael Nielsen, 2020-01-01
+> [!info]- Tài liệu tham khảo
+> Bài đăng Twitter, 2018-03-11: https://twitter.com/andy_matuschak/status/973020621847187456
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2020-01-01

@@ -29,11 +29,11 @@ Xem:
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- Nhiều sinh viên và người viết học thuật ghi chú theo kiểu giống các chủ tàu thời kỳ đầu. Họ xử lý ý tưởng và phát hiện theo cách tiện ngay lúc đó. Đọc được một câu thú vị, họ gạch chân. Có nhận xét, họ viết ra lề. Có ý tưởng, họ ghi vào sổ tay. Bài báo nào quan trọng, họ bỏ công viết trích đoạn. Làm kiểu này thì ghi chú nằm rải rác khắp nơi, dưới nhiều dạng khác nhau. Đến lúc viết, họ phải dựa rất nhiều vào trí nhớ để biết ghi chú nào đang nằm ở đâu, viết từ bao giờ.
-  
-  (Many students and academic writers think like the early ship owners when it comes to note-taking. They handle their ideas and findings in the way it makes immediate sense: If they read an interesting sentence, they underline it. If they have a comment to make, they write it into the margins. If they have an idea, they write it into their notebook, and if an article seems important enough, they make the effort and write an excerpt. Working like this will leave you with a lot of different notes in many different places. Writing, then, means to rely heavily on your brain to remember where and when these notes were written down.)
-
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> [!info]- Tài liệu tham khảo
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - Nhiều sinh viên và người viết học thuật ghi chú theo kiểu giống các chủ tàu thời kỳ đầu. Họ xử lý ý tưởng và phát hiện theo cách tiện ngay lúc đó. Đọc được một câu thú vị, họ gạch chân. Có nhận xét, họ viết ra lề. Có ý tưởng, họ ghi vào sổ tay. Bài báo nào quan trọng, họ bỏ công viết trích đoạn. Làm kiểu này thì ghi chú nằm rải rác khắp nơi, dưới nhiều dạng khác nhau. Đến lúc viết, họ phải dựa rất nhiều vào trí nhớ để biết ghi chú nào đang nằm ở đâu, viết từ bao giờ.
+> 
+>   (Many students and academic writers think like the early ship owners when it comes to note-taking. They handle their ideas and findings in the way it makes immediate sense: If they read an interesting sentence, they underline it. If they have a comment to make, they write it into the margins. If they have an idea, they write it into their notebook, and if an article seems important enough, they make the effort and write an excerpt. Working like this will leave you with a lot of different notes in many different places. Writing, then, means to rely heavily on your brain to remember where and when these notes were written down.)
+> 
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes

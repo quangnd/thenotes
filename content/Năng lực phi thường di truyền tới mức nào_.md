@@ -26,7 +26,7 @@ H. Các biến thể nhỏ di truyền về năng lực có thể được khu�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Coyle, D. (2009). *The Talent Code*. Bantam Books.
-
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]
+> [!info]- Tài liệu tham khảo (References)
+> Coyle, D. (2009). *The Talent Code*. Bantam Books.
+> 
+> Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]

@@ -17,11 +17,11 @@ Một biểu hiện lớn của quan sát này: [[Vận động viên và nhạc
 
 ---
 
-#### Tài liệu tham khảo
-Aschaffenburg, G. (1896). Praktische Arbeit unter Alkoholwirking [Work under the influence of alcohol](https://notes.andymatuschak.org/z5gHroEM2vM2WcKxkdcsCw8qv5tmHSbBVxEb4). [Psychologische Arbeit](), 1, 608–626
-
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]
-
-- Trong các nghiên cứu cổ điển về nhà vận hành Mã Morse, Bryan và Harter (1897, 1899) đã xác định các ngưỡng bình nguyên trong quá trình tiếp thu kỹ năng, khi trong thời gian dài các đối tượng dường như không thể đạt được những cải thiện tiếp theo. (tr. 365)
-
-Thorndike, E. (1921). *The Psychology of Learning*. Teachers College, Columbia University.
+> [!info]- Tài liệu tham khảo
+> Aschaffenburg, G. (1896). Praktische Arbeit unter Alkoholwirking [Work under the influence of alcohol](https://notes.andymatuschak.org/z5gHroEM2vM2WcKxkdcsCw8qv5tmHSbBVxEb4). [Psychologische Arbeit](), 1, 608–626
+> 
+> Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363. [[Ericsson và cộng sự - Vai trò của Luyện tập có chủ đích trong việc đạt được năng lực chuyên gia]]
+> 
+> - Trong các nghiên cứu cổ điển về nhà vận hành Mã Morse, Bryan và Harter (1897, 1899) đã xác định các ngưỡng bình nguyên trong quá trình tiếp thu kỹ năng, khi trong thời gian dài các đối tượng dường như không thể đạt được những cải thiện tiếp theo. (tr. 365)
+> 
+> Thorndike, E. (1921). *The Psychology of Learning*. Teachers College, Columbia University.

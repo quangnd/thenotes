@@ -26,9 +26,9 @@ Có một vài triển khai có sẵn của ý tưởng này:
 
 ---
 
-#### Tài liệu tham khảo
-Nielsen, M. (2018). *Augmenting Long-term Memory.* http://augmentingcognition.com/ltm.html
-
-- Tôi bắt đầu xác định các vấn đề mở, các câu hỏi mà cá nhân tôi muốn được trả lời, nhưng dường như chưa được trả lời. Tôi xác định các thủ thuật, các quan sát có vẻ giàu khả năng, nhưng tôi chưa biết tầm quan trọng của chúng. Và đôi khi, tôi xác định những gì có vẻ với tôi là những điểm mù toàn ngành. Tôi cũng thêm câu hỏi về tất cả những điều này vào Anki. Theo cách này, Anki là một phương tiện hỗ trợ nghiên cứu sáng tạo của tôi.
-
-  (I start to identify open problems, questions that I'd personally like answered, but which don't yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don't yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research.)
+> [!info]- Tài liệu tham khảo
+> Nielsen, M. (2018). *Augmenting Long-term Memory.* http://augmentingcognition.com/ltm.html
+> 
+> - Tôi bắt đầu xác định các vấn đề mở, các câu hỏi mà cá nhân tôi muốn được trả lời, nhưng dường như chưa được trả lời. Tôi xác định các thủ thuật, các quan sát có vẻ giàu khả năng, nhưng tôi chưa biết tầm quan trọng của chúng. Và đôi khi, tôi xác định những gì có vẻ với tôi là những điểm mù toàn ngành. Tôi cũng thêm câu hỏi về tất cả những điều này vào Anki. Theo cách này, Anki là một phương tiện hỗ trợ nghiên cứu sáng tạo của tôi.
+> 
+>   (I start to identify open problems, questions that I'd personally like answered, but which don't yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don't yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research.)

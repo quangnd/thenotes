@@ -25,17 +25,17 @@ Hamming minh họa điều này một cách sống động:
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
-  (Nhưng quan trọng nhất, không có một kho ý tưởng lâu dài, bạn sẽ không thể phát triển bất kỳ ý tưởng lớn nào trong khoảng thời gian dài, vì bạn đang tự giới hạn mình trong độ dài của một dự án duy nhất hoặc dung lượng trí nhớ. Những ý tưởng xuất sắc cần nhiều hơn thế.)
-
-2019/08/13 conversation with Anna Gát:
-
-- On Twitter, you don't build anything.
-  (Trên Twitter, bạn chẳng xây dựng được gì.)
-
-Matuschak A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.
-
-Hamming, R. W. (1997). *The art of doing science and engineering: learning to learn*. Gordon and Breach.
+> [!info]- Tài liệu tham khảo
+> Ahrens S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
+>   (Nhưng quan trọng nhất, không có một kho ý tưởng lâu dài, bạn sẽ không thể phát triển bất kỳ ý tưởng lớn nào trong khoảng thời gian dài, vì bạn đang tự giới hạn mình trong độ dài của một dự án duy nhất hoặc dung lượng trí nhớ. Những ý tưởng xuất sắc cần nhiều hơn thế.)
+> 
+> 2019/08/13 conversation with Anna Gát:
+> 
+> - On Twitter, you don't build anything.
+>   (Trên Twitter, bạn chẳng xây dựng được gì.)
+> 
+> Matuschak A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.
+> 
+> Hamming, R. W. (1997). *The art of doing science and engineering: learning to learn*. Gordon and Breach.

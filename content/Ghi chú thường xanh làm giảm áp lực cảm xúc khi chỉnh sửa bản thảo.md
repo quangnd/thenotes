@@ -15,7 +15,7 @@ Liên quan: [[Giao diện phần mềm hay khung các thao tác hủy_xóa thàn
 
 ---
 
-#### Tài liệu tham khảo (References)
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- Một trong những việc khó nhất là dứt khoát xóa đi những gì không có chức năng trong lập luận, tức "kill your darlings". Việc này dễ hơn nhiều khi bạn chuyển các đoạn đáng ngờ sang một tài liệu khác và tự nhủ rằng có thể dùng chúng sau. (One of the most difficult tasks is to rigorously delete what has no function within an argument – "kill your darlings." This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.)
+> [!info]- Tài liệu tham khảo (References)
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - Một trong những việc khó nhất là dứt khoát xóa đi những gì không có chức năng trong lập luận, tức "kill your darlings". Việc này dễ hơn nhiều khi bạn chuyển các đoạn đáng ngờ sang một tài liệu khác và tự nhủ rằng có thể dùng chúng sau. (One of the most difficult tasks is to rigorously delete what has no function within an argument – "kill your darlings." This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.)

@@ -23,13 +23,13 @@ Ngoài giá trị lâu dài của các liên kết đã ghi lại, chúng còn g
 
 ---
 
-#### Tài liệu tham khảo
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
-
-**2. Khả năng liên kết (Verweisungsmöglichkeiten).** Vì mọi phiếu đều có số cố định, ta có thể thêm bao nhiêu tham chiếu tùy ý. Các khái niệm trung tâm có thể có nhiều liên kết, cho thấy ở những bối cảnh nào khác ta có thể tìm được tài liệu liên quan. Nhờ tham chiếu, ta giải quyết được bài toán lưu trữ nhiều nơi mà không tốn nhiều công sức hay giấy.
-
-(** 2. Possibility of linking (Verweisungsmöglichkeiten).** Since all papers have fixed numbers, you can add as many references to them as you may want. Central concepts can have many links which show on which other contexts we can find materials relevant for them. Through references, we can, without too work or paper, solve the problem of multiple storage.)
-
-Dù sao đi nữa, giao tiếp trở nên hữu ích hơn khi ta kích hoạt được mạng lưới liên kết nội bộ lúc viết ghi chú hoặc tra cứu. Bộ nhớ không vận hành như tổng các lần truy cập điểm này điểm kia. Nó tận dụng các quan hệ nội bộ và chỉ phát huy hiệu quả ở mức độ giảm bớt sự phức tạp của chính nó.
-
-(In any case, communication becomes more fruitful when we succeed to activate the internal network of links at the occasion of writing notes or making queries. Memory does not function as the sum of point by point accesses, but rather utilizes internal relationships and becomes fruitful only at this level of the reduction of its own complexity.)
+> [!info]- Tài liệu tham khảo
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> 
+> **2. Khả năng liên kết (Verweisungsmöglichkeiten).** Vì mọi phiếu đều có số cố định, ta có thể thêm bao nhiêu tham chiếu tùy ý. Các khái niệm trung tâm có thể có nhiều liên kết, cho thấy ở những bối cảnh nào khác ta có thể tìm được tài liệu liên quan. Nhờ tham chiếu, ta giải quyết được bài toán lưu trữ nhiều nơi mà không tốn nhiều công sức hay giấy.
+> 
+> (** 2. Possibility of linking (Verweisungsmöglichkeiten).** Since all papers have fixed numbers, you can add as many references to them as you may want. Central concepts can have many links which show on which other contexts we can find materials relevant for them. Through references, we can, without too work or paper, solve the problem of multiple storage.)
+> 
+> Dù sao đi nữa, giao tiếp trở nên hữu ích hơn khi ta kích hoạt được mạng lưới liên kết nội bộ lúc viết ghi chú hoặc tra cứu. Bộ nhớ không vận hành như tổng các lần truy cập điểm này điểm kia. Nó tận dụng các quan hệ nội bộ và chỉ phát huy hiệu quả ở mức độ giảm bớt sự phức tạp của chính nó.
+> 
+> (In any case, communication becomes more fruitful when we succeed to activate the internal network of links at the occasion of writing notes or making queries. Memory does not function as the sum of point by point accesses, but rather utilizes internal relationships and becomes fruitful only at this level of the reduction of its own complexity.)

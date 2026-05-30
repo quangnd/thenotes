@@ -13,6 +13,6 @@ Thật khó để giải quyết vấn đề này: [[Những người tạo côn
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

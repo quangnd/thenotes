@@ -11,6 +11,6 @@ Vì vậy: [[Sự hợp tác sâu giữa người tạo công cụ và người 
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Michael Nielsen, 30-10-2019
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Michael Nielsen, 30-10-2019

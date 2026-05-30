@@ -24,8 +24,8 @@ Sau khi đã trả lời kiểu câu hỏi này vài lần cho một thói quen 
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Cuộc trò chuyện với Florent Crivello, 2019-11-17
-
-Quan điểm liên quan từ Alexey Guzey: [Instilling Novel Thought Patterns and Making Your Long-Term Memory Accountable with Anki - Alexey Guzey](https://guzey.com/things/software/anki/#instilling-novel-thought-patterns-with-anki)
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Cuộc trò chuyện với Florent Crivello, 2019-11-17
+> 
+> Quan điểm liên quan từ Alexey Guzey: [Instilling Novel Thought Patterns and Making Your Long-Term Memory Accountable with Anki - Alexey Guzey](https://guzey.com/things/software/anki/#instilling-novel-thought-patterns-with-anki)

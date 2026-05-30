@@ -12,5 +12,5 @@ Một cơ chế tác động có thể: [[Luyện tập tốt mã hóa các sơ 
 
 ---
 
-#### Tài liệu tham khảo
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (ấn bản 1). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (ấn bản 1). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

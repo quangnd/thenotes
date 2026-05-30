@@ -20,13 +20,13 @@ Tương tự, Logo cho trẻ em tiếp cận ý tưởng trong hình học vi ph
 
 ---
 
-#### Tài liệu tham khảo
-Email với Michael Nielsen, 2019/08/23. Re: Transcending the Primer
-
-- Nếu bạn tạo ra Mathematica, bạn chắc chắn sẽ hỗ trợ mọi người. Nhưng việc đó là thứ yếu so với làm toán học hoặc vật lý lý thuyết đỉnh cao.
-
-Email với Michael Nielsen, 2019/09/03. Re: ❲FYI❳ Some notes on enabling environments / anti-educationalism
-
-[Alan Kay's ideas about SimCity for OLPC | Don Hopkins](https://web.archive.org/web/20130904163228/https://www.donhopkins.com/drupal/node/134)
-
-- Khả năng mở rộng hay không mở rộng của các ý tưởng rất thú vị. Rocky's Boots vẫn là một trong những trò chơi tốt nhất từng tạo ra trải nghiệm học tập sâu sắc. Việc mở rộng nó sang Robot Odyssey không hiệu quả vì lập trình logic và đi dây không mở rộng đủ tốt, hiệu quả trên nỗ lực giảm mạnh.
+> [!info]- Tài liệu tham khảo
+> Email với Michael Nielsen, 2019/08/23. Re: Transcending the Primer
+> 
+> - Nếu bạn tạo ra Mathematica, bạn chắc chắn sẽ hỗ trợ mọi người. Nhưng việc đó là thứ yếu so với làm toán học hoặc vật lý lý thuyết đỉnh cao.
+> 
+> Email với Michael Nielsen, 2019/09/03. Re: ❲FYI❳ Some notes on enabling environments / anti-educationalism
+> 
+> [Alan Kay's ideas about SimCity for OLPC | Don Hopkins](https://web.archive.org/web/20130904163228/https://www.donhopkins.com/drupal/node/134)
+> 
+> - Khả năng mở rộng hay không mở rộng của các ý tưởng rất thú vị. Rocky's Boots vẫn là một trong những trò chơi tốt nhất từng tạo ra trải nghiệm học tập sâu sắc. Việc mở rộng nó sang Robot Odyssey không hiệu quả vì lập trình logic và đi dây không mở rộng đủ tốt, hiệu quả trên nỗ lực giảm mạnh.

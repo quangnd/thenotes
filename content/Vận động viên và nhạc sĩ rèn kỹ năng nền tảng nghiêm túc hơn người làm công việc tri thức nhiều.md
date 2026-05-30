@@ -11,7 +11,7 @@ Sẽ ra sao nếu người làm công việc tri thức theo đuổi sự xuất
 
 ---
 
-#### Tài liệu tham khảo
-Đơn xin tài trợ Emergent Ventures, 2019-05-13
-
-Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.
+> [!info]- Tài liệu tham khảo
+> Đơn xin tài trợ Emergent Ventures, 2019-05-13
+> 
+> Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.

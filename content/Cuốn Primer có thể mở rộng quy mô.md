@@ -9,5 +9,5 @@ Vì [[Cuốn Primer là một trải nghiệm thể hiện khổng lồ]], một
 
 ---
 
-#### Tài liệu tham khảo
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

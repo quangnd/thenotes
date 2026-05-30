@@ -22,5 +22,5 @@ Có một sự mỉa mai ở đây. Hầu hết mọi người nhớ Cuốn Prim
 
 ---
 
-#### Tài liệu tham khảo
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

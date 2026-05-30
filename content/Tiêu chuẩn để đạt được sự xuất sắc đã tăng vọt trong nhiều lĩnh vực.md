@@ -24,7 +24,7 @@ H. Hãy cho một ví dụ về cách tiêu chuẩn xuất sắc đã tăng vọ
 
 ---
 
-#### Tài liệu tham khảo
-Ericsson, A., & Pool, R. (2016). Peak: Secrets from the New Science of Expertise (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
-
-Schulz, R., & Curnow, C. (1988). Peak Performance and Age Among Superathletes: Track and Field, Swimming, Baseball, Tennis, and Golf. Journal of Gerontology, 43(5), P113–P120. https://doi.org/10.1093/geronj/43.5.P113
+> [!info]- Tài liệu tham khảo
+> Ericsson, A., & Pool, R. (2016). Peak: Secrets from the New Science of Expertise (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> 
+> Schulz, R., & Curnow, C. (1988). Peak Performance and Age Among Superathletes: Track and Field, Swimming, Baseball, Tennis, and Golf. Journal of Gerontology, 43(5), P113–P120. https://doi.org/10.1093/geronj/43.5.P113

@@ -15,7 +15,7 @@ Michael Nielsen chỉ ra rằng chương trình Apollo là về *đưa con ngư�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer
-Email with Michael Nielsen, 2019/09/02. Re: ❲FYI❳ Some notes on enabling environments / anti-educationalism
-Maxis Emeryville. (2008). *Spore*.
+> [!info]- Tài liệu tham khảo (References)
+> Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer
+> Email with Michael Nielsen, 2019/09/02. Re: ❲FYI❳ Some notes on enabling environments / anti-educationalism
+> Maxis Emeryville. (2008). *Spore*.

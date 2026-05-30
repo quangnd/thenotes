@@ -15,9 +15,9 @@ Người ta dễ rơi vào việc tập trung vào "ghi chú" vì đó là phầ
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.
-
-Conversation with Michael Nielsen, 2019-12-16
-
-- tư duy được hỗ trợ bởi máy tính (computer supported thinking)
+> [!info]- Tài liệu tham khảo
+> Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.
+> 
+> Conversation with Michael Nielsen, 2019-12-16
+> 
+> - tư duy được hỗ trợ bởi máy tính (computer supported thinking)

@@ -15,5 +15,5 @@ Amazon Kindle có một ngăn xếp điều hướng một chiều đơn giản 
 
 ---
 
-#### Tài liệu tham khảo
-Askwall, S. (1985). Computer supported reading vs reading text on paper: A comparison of two reading situations. *International Journal of Man-Machine Studies*, 22(4), 425–439. ~https://doi.org/10.1016/S0020-7373(85)80048-1~
+> [!info]- Tài liệu tham khảo
+> Askwall, S. (1985). Computer supported reading vs reading text on paper: A comparison of two reading situations. *International Journal of Man-Machine Studies*, 22(4), 425–439. ~https://doi.org/10.1016/S0020-7373(85)80048-1~

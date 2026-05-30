@@ -24,15 +24,15 @@ Cách làm chung là một vòng lặp xen kẽ:
 
 ---
 
-#### Tài liệu tham khảo
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
-
-- Không thể tư duy mà không viết, ít nhất là không thể tư duy một cách tinh tế hay có tính kết nối (*anschlußfähig*).
-
-  (It is impossible to think without writing; at least it is impossible in any sophisticated or networked (*anschlußfähig*) fashion.)
-
-Levy, N. (2013). Neuroethics and the Extended Mind. In J. Illes & B. J. Sahakian (Eds.), *Oxford Handbook of Neuroethics* (pp. 285–294). Oxford University Press.
-
-- Ghi chú trên giấy, hoặc trên màn hình máy tính, không làm cho vật lý hiện đại hay các nỗ lực trí tuệ khác *dễ dàng hơn*. Chúng làm cho việc đó *trở nên khả thi*.
-
-  (Notes on paper, or on a computer screen … do not make contemporary physics or other kinds of intellectual endeavour *easier*, they make it *possible*.)
+> [!info]- Tài liệu tham khảo
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> 
+> - Không thể tư duy mà không viết, ít nhất là không thể tư duy một cách tinh tế hay có tính kết nối (*anschlußfähig*).
+> 
+>   (It is impossible to think without writing; at least it is impossible in any sophisticated or networked (*anschlußfähig*) fashion.)
+> 
+> Levy, N. (2013). Neuroethics and the Extended Mind. In J. Illes & B. J. Sahakian (Eds.), *Oxford Handbook of Neuroethics* (pp. 285–294). Oxford University Press.
+> 
+> - Ghi chú trên giấy, hoặc trên màn hình máy tính, không làm cho vật lý hiện đại hay các nỗ lực trí tuệ khác *dễ dàng hơn*. Chúng làm cho việc đó *trở nên khả thi*.
+> 
+>   (Notes on paper, or on a computer screen … do not make contemporary physics or other kinds of intellectual endeavour *easier*, they make it *possible*.)

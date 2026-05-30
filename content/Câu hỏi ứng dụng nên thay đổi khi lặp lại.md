@@ -16,10 +16,10 @@ H. Điều gì xảy ra nếu câu hỏi được hỏi bởi một câu hỏi �
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Michael Nielsen, 2020-01-17
-
-Cuộc trò chuyện với Michael Nielsen, 2020-01-20
-
-> Với tất cả những điều này, tôi có xu hướng (a) viết nhắm đến 5 biến thể; (b) thiết kế sao cho số lượng biến thể được phép linh hoạt. Vì vậy, ví dụ, nếu đôi khi tôi lười biếng và chỉ có 3 hoặc 4 biến thể, điều đó ổn. Nhưng nếu đôi khi tôi được cảm hứng và viết 8, điều đó cũng nên ổn.
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2020-01-17
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2020-01-20
+> 
+> > Với tất cả những điều này, tôi có xu hướng (a) viết nhắm đến 5 biến thể; (b) thiết kế sao cho số lượng biến thể được phép linh hoạt. Vì vậy, ví dụ, nếu đôi khi tôi lười biếng và chỉ có 3 hoặc 4 biến thể, điều đó ổn. Nhưng nếu đôi khi tôi được cảm hứng và viết 8, điều đó cũng nên ổn.

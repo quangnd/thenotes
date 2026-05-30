@@ -19,9 +19,9 @@ Liệu có thể đảo chiều, để cái đuôi vẫy con chó? Khởi xướ
 
 ---
 
-#### Tài liệu tham khảo
-https://github.com/mnielsen/tpft/blob/master/big_picture.md
-
-- Các công cụ mạnh mẽ nhất không được phát triển một cách cô lập. Chúng xuất hiện như một phần của các dự án được thực hiện vì lý do nội tại của chính chúng. Hãy nghĩ đến nghệ thuật cửa sổ kính màu, được phát triển để phục vụ Chúa trong những nhà thờ lớn vĩ đại. Hoặc sự phát triển hoạt hình máy tính để phục vụ câu chuyện của Pixar. Những mục tiêu lớn hơn này định hướng sự phát triển của công cụ, đảm bảo chúng *có thể* được dùng một cách nghiêm túc. Điều này nghe có vẻ sáo, nhưng thường bị vi phạm. Các "công cụ" cho toán học, nghệ thuật, v.v. thường được phát triển bởi những người không thực sự hoạt động trong lĩnh vực đó. Trừ khi họ làm nghiên cứu người dùng cực kỳ sâu (thực ra là cộng tác trực tiếp với người dùng nghiêm túc), rất khó để họ tạo ra thứ gì hơn là những món đồ chơi trông có vẻ hợp lý.
-
-- Vì mục đích này, chúng tôi sẽ phát triển một loạt dự án truyền thông đầy tham vọng. Những dự án này sẽ (thực ra là phải) có giá trị nội tại để theo đuổi. Nhưng chúng cũng sẽ là phương tiện để phát triển công cụ tư duy.
+> [!info]- Tài liệu tham khảo
+> https://github.com/mnielsen/tpft/blob/master/big_picture.md
+> 
+> - Các công cụ mạnh mẽ nhất không được phát triển một cách cô lập. Chúng xuất hiện như một phần của các dự án được thực hiện vì lý do nội tại của chính chúng. Hãy nghĩ đến nghệ thuật cửa sổ kính màu, được phát triển để phục vụ Chúa trong những nhà thờ lớn vĩ đại. Hoặc sự phát triển hoạt hình máy tính để phục vụ câu chuyện của Pixar. Những mục tiêu lớn hơn này định hướng sự phát triển của công cụ, đảm bảo chúng *có thể* được dùng một cách nghiêm túc. Điều này nghe có vẻ sáo, nhưng thường bị vi phạm. Các "công cụ" cho toán học, nghệ thuật, v.v. thường được phát triển bởi những người không thực sự hoạt động trong lĩnh vực đó. Trừ khi họ làm nghiên cứu người dùng cực kỳ sâu (thực ra là cộng tác trực tiếp với người dùng nghiêm túc), rất khó để họ tạo ra thứ gì hơn là những món đồ chơi trông có vẻ hợp lý.
+> 
+> - Vì mục đích này, chúng tôi sẽ phát triển một loạt dự án truyền thông đầy tham vọng. Những dự án này sẽ (thực ra là phải) có giá trị nội tại để theo đuổi. Nhưng chúng cũng sẽ là phương tiện để phát triển công cụ tư duy.

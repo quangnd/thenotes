@@ -13,5 +13,5 @@ Hình minh họa này (Qian và cộng sự, 2019) thể hiện một khẳng đ
 
 ---
 
-#### Tài liệu tham khảo
-Qian, X., Erhart, M. J., Kittur, A., Lutters, W. G., & Chan, J. (2019). Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools. Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, 341–346. https://doi.org/10.1145/3311957.3359455 [[Qian và cộng sự - Vượt ra ngoài iTunes cho Bài báo - Tái định nghĩa Đơn vị Tương tác trong Công cụ Tổng quan Tài liệu]]
+> [!info]- Tài liệu tham khảo
+> Qian, X., Erhart, M. J., Kittur, A., Lutters, W. G., & Chan, J. (2019). Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools. Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, 341–346. https://doi.org/10.1145/3311957.3359455 [[Qian và cộng sự - Vượt ra ngoài iTunes cho Bài báo - Tái định nghĩa Đơn vị Tương tác trong Công cụ Tổng quan Tài liệu]]

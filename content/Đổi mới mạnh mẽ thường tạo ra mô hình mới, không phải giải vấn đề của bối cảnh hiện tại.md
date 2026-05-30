@@ -9,5 +9,5 @@ Mở rộng ra khỏi công nghệ, cùng quan sát này áp dụng được cho
 
 ---
 
-#### Tài liệu tham khảo
-Victor, B. (2019, December 12). *Presentation at Stripe Convergence*.
+> [!info]- Tài liệu tham khảo
+> Victor, B. (2019, December 12). *Presentation at Stripe Convergence*.

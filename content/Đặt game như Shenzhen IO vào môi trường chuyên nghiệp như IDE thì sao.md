@@ -13,6 +13,6 @@ Có một số thảo luận về việc này trong [[Phương tiện động th
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Cuộc trò chuyện với Jonathan Blow, 2019-09-28 (Conversation with Jonathan Blow, 2019-09-28)
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Cuộc trò chuyện với Jonathan Blow, 2019-09-28 (Conversation with Jonathan Blow, 2019-09-28)

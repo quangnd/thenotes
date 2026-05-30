@@ -11,8 +11,8 @@ aliases:
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Feist, G. J. (1998). A Meta-Analysis of Personality in Scientific and Artistic Creativity. Personality and Social Psychology Review, 2(4), 290–309. https://doi.org/10.1207/s15327957pspr0204_5
-
-Hall, W. B., & MacKinnon, D. W. (1969). Personality inventory correlates of creativity among architects. Journal of Applied Psychology, 53(4), 322–326. https://doi.org/10.1037/h0027811
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Feist, G. J. (1998). A Meta-Analysis of Personality in Scientific and Artistic Creativity. Personality and Social Psychology Review, 2(4), 290–309. https://doi.org/10.1207/s15327957pspr0204_5
+> 
+> Hall, W. B., & MacKinnon, D. W. (1969). Personality inventory correlates of creativity among architects. Journal of Applied Psychology, 53(4), 322–326. https://doi.org/10.1037/h0027811

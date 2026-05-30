@@ -11,13 +11,13 @@ Một hệ quả thực tiễn: [[Viết ghi chú thường xanh là đơn vị 
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- trọng tâm hầu như luôn nằm ở vài khoảnh khắc ngoại lệ khi chúng ta viết một bài dài, một cuốn sách, một bài báo hoặc, với tư cách sinh viên, các bài luận và luận văn phải nộp.
-
-- Mọi nỗ lực trí tuệ đều bắt đầu từ một quan niệm có sẵn, sau đó có thể được chuyển đổi trong quá trình tìm hiểu tiếp và có thể đóng vai trò là điểm khởi đầu cho các nỗ lực tiếp theo. Về cơ bản, đó là điều Hans-Georg Gadamer gọi là vòng tròn diễn giải (hermeneutic circle) (Gadamer 2004).
-
-- Nhưng quan trọng nhất, nếu không có một kho ý tưởng lâu dài, bạn sẽ không thể phát triển bất kỳ ý tưởng lớn nào trong thời gian dài vì bạn đang tự giới hạn mình trong phạm vi một dự án đơn lẻ hoặc khả năng của trí nhớ. Những ý tưởng xuất sắc cần nhiều hơn thế.
-
-- Những thứ bạn được cho là sẽ tìm thấy trong đầu bằng cách động não thường không có nguồn gốc ở đó. Thay vào đó, chúng đến từ bên ngoài: thông qua đọc sách, thảo luận và lắng nghe người khác, thông qua tất cả những điều có thể được đồng hành và thường thậm chí được cải thiện bằng việc viết.
+> [!info]- Tài liệu tham khảo
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - trọng tâm hầu như luôn nằm ở vài khoảnh khắc ngoại lệ khi chúng ta viết một bài dài, một cuốn sách, một bài báo hoặc, với tư cách sinh viên, các bài luận và luận văn phải nộp.
+> 
+> - Mọi nỗ lực trí tuệ đều bắt đầu từ một quan niệm có sẵn, sau đó có thể được chuyển đổi trong quá trình tìm hiểu tiếp và có thể đóng vai trò là điểm khởi đầu cho các nỗ lực tiếp theo. Về cơ bản, đó là điều Hans-Georg Gadamer gọi là vòng tròn diễn giải (hermeneutic circle) (Gadamer 2004).
+> 
+> - Nhưng quan trọng nhất, nếu không có một kho ý tưởng lâu dài, bạn sẽ không thể phát triển bất kỳ ý tưởng lớn nào trong thời gian dài vì bạn đang tự giới hạn mình trong phạm vi một dự án đơn lẻ hoặc khả năng của trí nhớ. Những ý tưởng xuất sắc cần nhiều hơn thế.
+> 
+> - Những thứ bạn được cho là sẽ tìm thấy trong đầu bằng cách động não thường không có nguồn gốc ở đó. Thay vào đó, chúng đến từ bên ngoài: thông qua đọc sách, thảo luận và lắng nghe người khác, thông qua tất cả những điều có thể được đồng hành và thường thậm chí được cải thiện bằng việc viết.

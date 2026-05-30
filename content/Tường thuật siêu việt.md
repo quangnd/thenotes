@@ -18,18 +18,18 @@ Liên quan: [[Ikigai]]
 
 ---
 
-#### Tài liệu tham khảo (References)
-https://github.com/mnielsen/tpft/blob/master/big_picture.md
-
-> When we were only several hundred-thousand years old, we built stone circles, water clocks.
-Later, someone forged an iron spring.
-Set clockwork running.
-Imagined grid-lines on a globe.
-Cathedrals are like machines to finding the soul; bells of clock towers stitch the sleeper's dreams together.
-You see; so we've always been on our way to this new place—that is no place, really—but it is real.
-It's our nature to represent: we're the animal that represents, the sole and only maker of maps.
-And if our weakness has been to confuse the bright and bloody colors of our calendars with the true weather of days, and the parchment's territory of our maps with the land spread out before us—never mind.
-We have always been on our way to this new place—that is no place, really—but it is real.
-
-— *William Gibson,* from *Memory Palace*, excerpt reproduced at the end of documentary *No Maps For These Territories*
-(via 2020-04-16 email from Amir Ebrahimi: Memory Palace)
+> [!info]- Tài liệu tham khảo (References)
+> https://github.com/mnielsen/tpft/blob/master/big_picture.md
+> 
+> > When we were only several hundred-thousand years old, we built stone circles, water clocks.
+> Later, someone forged an iron spring.
+> Set clockwork running.
+> Imagined grid-lines on a globe.
+> Cathedrals are like machines to finding the soul; bells of clock towers stitch the sleeper's dreams together.
+> You see; so we've always been on our way to this new place—that is no place, really—but it is real.
+> It's our nature to represent: we're the animal that represents, the sole and only maker of maps.
+> And if our weakness has been to confuse the bright and bloody colors of our calendars with the true weather of days, and the parchment's territory of our maps with the land spread out before us—never mind.
+> We have always been on our way to this new place—that is no place, really—but it is real.
+> 
+> — *William Gibson,* from *Memory Palace*, excerpt reproduced at the end of documentary *No Maps For These Territories*
+> (via 2020-04-16 email from Amir Ebrahimi: Memory Palace)

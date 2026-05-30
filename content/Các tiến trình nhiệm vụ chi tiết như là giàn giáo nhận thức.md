@@ -13,8 +13,8 @@ Các ràng buộc là một cách để xây dựng các tiến trình này ([[R
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Cook, D. (2007, July 19). The Chemistry of Game Design. *Gamasutra*. Retrieved from https://www.gamasutra.com/view/feature/129948/thechemistryofgamedesign.php
-
-Thekla, Inc. (2016). *The Witness*. Berkeley, CA.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Cook, D. (2007, July 19). The Chemistry of Game Design. *Gamasutra*. Retrieved from https://www.gamasutra.com/view/feature/129948/thechemistryofgamedesign.php
+> 
+> Thekla, Inc. (2016). *The Witness*. Berkeley, CA.

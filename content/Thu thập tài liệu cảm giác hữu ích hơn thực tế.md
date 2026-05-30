@@ -15,15 +15,15 @@ Thay vì thế, hãy [[Viết về thứ mình đọc]], vì [[Viết ghi chú t
 
 ---
 
-#### Tài liệu tham khảo
-[The Collector's Fallacy - Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
-
-- "Biết về thứ gì đó" (to know about something) không giống "biết thứ gì đó" (knowing something). Chỉ *biết về* còn kém hơn cả hời hợt, vì biết về chỉ là chắc rằng nó tồn tại, không hơn. Cuối cùng, loại kiến thức giả này cản đường ta đến sự thông thạo thật sự. Cho đến khi ta hấp thụ *nội dung*, thông tin, ý và suy nghĩ của người khác vào kiến thức của chính mình, ta chưa thực sự học được gì. Ta không thay đổi nếu không học, nên **chỉ lưu trữ thôi sẽ không dẫn ta đến đâu cả**.
-
-- Giống như việc chép tài liệu tự thân trở thành phần thưởng và gây nghiện, ta cũng rơi vào cùng cái bẫy tự thỏa mãn khi đánh dấu trang web và xếp bookmark vào thư mục hay gắn thẻ. **Đánh dấu một trang web cho cảm giác hài lòng vì ta gạt bỏ được nỗi sợ mất quyền truy cập thông tin** (Bookmarking a web page is satisfying because we get rid of the fear of losing access to the information).
-
-- Đây là bước đầu để vượt qua Ngụy biện Nhà sưu tập: **nhận ra rằng có một văn bản trong tay không làm tăng kiến thức của ta**. Phải làm việc với nó. Đọc thôi chưa đủ, phải ghi chú để tạo ra kiến thức thật sự, bền vững.
-
-- Khi mới bắt đầu nghiên cứu một chủ đề mới, Eco khuyên đọc và ghi chú trên văn bản ngay sau khi sao chép. Nếu rèn được thói quen xử lý sớm, ta sẽ biết thực sự mình tiêu hóa được bao nhiêu.
-
-- **Chu kỳ nghiên cứu ngắn** (Shorter cycles of research), đọc và hấp thụ kiến thức tốt hơn chu kỳ dài. Sau mỗi chu kỳ đầy đủ từ nghiên cứu đến hấp thụ, ta học thêm về chủ đề. Biết nhiều hơn thì ra quyết định sáng suốt hơn, và nghiên cứu hiệu quả hơn. Ngược lại, nếu ôm về một đống tài liệu lớn để đọc và xử lý, một phần trong đó sẽ trở nên vô dụng khi ta xử lý xong các phần khác.
+> [!info]- Tài liệu tham khảo
+> [The Collector's Fallacy - Zettelkasten Method](https://zettelkasten.de/posts/collectors-fallacy/)
+> 
+> - "Biết về thứ gì đó" (to know about something) không giống "biết thứ gì đó" (knowing something). Chỉ *biết về* còn kém hơn cả hời hợt, vì biết về chỉ là chắc rằng nó tồn tại, không hơn. Cuối cùng, loại kiến thức giả này cản đường ta đến sự thông thạo thật sự. Cho đến khi ta hấp thụ *nội dung*, thông tin, ý và suy nghĩ của người khác vào kiến thức của chính mình, ta chưa thực sự học được gì. Ta không thay đổi nếu không học, nên **chỉ lưu trữ thôi sẽ không dẫn ta đến đâu cả**.
+> 
+> - Giống như việc chép tài liệu tự thân trở thành phần thưởng và gây nghiện, ta cũng rơi vào cùng cái bẫy tự thỏa mãn khi đánh dấu trang web và xếp bookmark vào thư mục hay gắn thẻ. **Đánh dấu một trang web cho cảm giác hài lòng vì ta gạt bỏ được nỗi sợ mất quyền truy cập thông tin** (Bookmarking a web page is satisfying because we get rid of the fear of losing access to the information).
+> 
+> - Đây là bước đầu để vượt qua Ngụy biện Nhà sưu tập: **nhận ra rằng có một văn bản trong tay không làm tăng kiến thức của ta**. Phải làm việc với nó. Đọc thôi chưa đủ, phải ghi chú để tạo ra kiến thức thật sự, bền vững.
+> 
+> - Khi mới bắt đầu nghiên cứu một chủ đề mới, Eco khuyên đọc và ghi chú trên văn bản ngay sau khi sao chép. Nếu rèn được thói quen xử lý sớm, ta sẽ biết thực sự mình tiêu hóa được bao nhiêu.
+> 
+> - **Chu kỳ nghiên cứu ngắn** (Shorter cycles of research), đọc và hấp thụ kiến thức tốt hơn chu kỳ dài. Sau mỗi chu kỳ đầy đủ từ nghiên cứu đến hấp thụ, ta học thêm về chủ đề. Biết nhiều hơn thì ra quyết định sáng suốt hơn, và nghiên cứu hiệu quả hơn. Ngược lại, nếu ôm về một đống tài liệu lớn để đọc và xử lý, một phần trong đó sẽ trở nên vô dụng khi ta xử lý xong các phần khác.

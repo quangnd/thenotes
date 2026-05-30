@@ -48,8 +48,8 @@ H. Tại sao MN nghĩ rằng các câu nhắc SRS tập trung vào nhiều hơn 
 
 ----------
 
-#### Tài liệu tham khảo
-
-x.t. Nielsen, M. (2018). *Augmenting Long-term Memory*. http://augmentingcognition.com/ltm.html
-
-Wozniak, P. (1999, February). Effective learning: Twenty rules of formulating knowledge. https://www.supermemo.com/en/archives1990-2015/articles/20rules
+> [!info]- Tài liệu tham khảo
+> 
+> x.t. Nielsen, M. (2018). *Augmenting Long-term Memory*. http://augmentingcognition.com/ltm.html
+> 
+> Wozniak, P. (1999, February). Effective learning: Twenty rules of formulating knowledge. https://www.supermemo.com/en/archives1990-2015/articles/20rules

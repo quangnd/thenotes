@@ -13,6 +13,6 @@ Liên quan: [[Ghi chú thường xanh nên liên kết dày đặc]].
 
 ----------
 
-#### Tài liệu tham khảo (References)
-
-Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html

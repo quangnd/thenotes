@@ -14,6 +14,6 @@ Nhận xét hay từ Giacomo Randazzo (2020-09-10): https://twitter.com/randiisa
 
 ----------
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019, October 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

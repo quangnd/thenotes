@@ -24,5 +24,5 @@ H. Lý thuyết "van xả" của viết phi tuyến tính lật đổ câu chuy�
 
 ---
 
-#### Tài liệu tham khảo
-Quan sát ban đầu từ Nick Barr, 25-09-2020
+> [!info]- Tài liệu tham khảo
+> Quan sát ban đầu từ Nick Barr, 25-09-2020

@@ -23,15 +23,15 @@ Bám chặt vào kết quả học tập là bám vào thứ thường chỉ là
 
 ---
 
-#### Tài liệu tham khảo
-Email với Bret Victor, 2015/03/19. Re: Toys with weight-bearing educative properties
-
-Email với Michael Nielsen, 2019/08/23. Re: Transcending the Primer
-
-- Theo một nghĩa nào đó, tất nhiên tôi khá say mê những mục tiêu như "trao quyền cho mọi người"... Nhưng tôi cũng rất nghi ngờ những mục tiêu loại này. Tôi nghĩ hơn 99,9% số lần, chúng kết thúc bằng thái độ kẻ cả. Cách duy nhất tôi biết để thoát khỏi cái mẫu thất bại đó một cách nhất quán là đặt mục tiêu chính ở chỗ khác, ở một thứ tự thân quan trọng.
-
-  (Of course, in some sense I'm quite enamoured of goals like "enabling people" … But I'm also very suspicious of such goals. I think > 99.9% of the time they end up patronizing. The only thing I know of which consistently gets away from that failure pattern is to make the primary goal something else, something that's intrinsically important.)
-
-- Ví dụ, nếu bạn điều hành chương trình Apollo, chắc chắn bạn sẽ trao quyền cho rất nhiều người. Nhưng đó chỉ là chuyện thứ yếu, sau việc đưa người lên mặt trăng.
-
-  (E.g., if you run the Apollo program you'll certainly be enabling people. But it'll be secondary to getting to the moon.)
+> [!info]- Tài liệu tham khảo
+> Email với Bret Victor, 2015/03/19. Re: Toys with weight-bearing educative properties
+> 
+> Email với Michael Nielsen, 2019/08/23. Re: Transcending the Primer
+> 
+> - Theo một nghĩa nào đó, tất nhiên tôi khá say mê những mục tiêu như "trao quyền cho mọi người"... Nhưng tôi cũng rất nghi ngờ những mục tiêu loại này. Tôi nghĩ hơn 99,9% số lần, chúng kết thúc bằng thái độ kẻ cả. Cách duy nhất tôi biết để thoát khỏi cái mẫu thất bại đó một cách nhất quán là đặt mục tiêu chính ở chỗ khác, ở một thứ tự thân quan trọng.
+> 
+>   (Of course, in some sense I'm quite enamoured of goals like "enabling people" … But I'm also very suspicious of such goals. I think > 99.9% of the time they end up patronizing. The only thing I know of which consistently gets away from that failure pattern is to make the primary goal something else, something that's intrinsically important.)
+> 
+> - Ví dụ, nếu bạn điều hành chương trình Apollo, chắc chắn bạn sẽ trao quyền cho rất nhiều người. Nhưng đó chỉ là chuyện thứ yếu, sau việc đưa người lên mặt trăng.
+> 
+>   (E.g., if you run the Apollo program you'll certainly be enabling people. But it'll be secondary to getting to the moon.)

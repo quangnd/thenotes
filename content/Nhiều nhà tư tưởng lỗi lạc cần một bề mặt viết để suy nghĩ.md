@@ -20,9 +20,9 @@ Grothendieck, một nhà toán học lỗi lạc thế kỷ 20, được cho là
 
 ---
 
-#### Tài liệu tham khảo
-Feynman, R. (1973, 4 tháng 2). Phỏng vấn bởi C. Weiner (Interview by C. Weiner). Niels Bohr Library & Archives, American Institute of Physics. https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-5
-
-Illusie, L. (2007, 30 tháng 1). *Reminiscences of Grothendieck and his School* (S. Bloch & V. Drinfled, Người phỏng vấn) Trao đổi cá nhân (Personal communication).
-
-Thư từ với Stephen Malina, 2020-05-05. Re: Question about a question
+> [!info]- Tài liệu tham khảo
+> Feynman, R. (1973, 4 tháng 2). Phỏng vấn bởi C. Weiner (Interview by C. Weiner). Niels Bohr Library & Archives, American Institute of Physics. https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-5
+> 
+> Illusie, L. (2007, 30 tháng 1). *Reminiscences of Grothendieck and his School* (S. Bloch & V. Drinfled, Người phỏng vấn) Trao đổi cá nhân (Personal communication).
+> 
+> Thư từ với Stephen Malina, 2020-05-05. Re: Question about a question

@@ -23,5 +23,5 @@ Vẫn có điểm bào chữa. Trực giác của mọi người nói rằng Cu�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo (References)
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

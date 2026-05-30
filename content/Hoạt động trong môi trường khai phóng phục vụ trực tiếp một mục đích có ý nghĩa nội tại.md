@@ -17,9 +17,9 @@ Các môi trường giáo dục có thể hướng tới những mục đích n�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Conversation với Michael Nielsen, 2019-12-10
-
-- Tất nhiên, theo một nghĩa nào đó tôi rất say mê những mục tiêu kiểu "trao quyền cho mọi người". Nhưng tôi cũng rất nghi ngờ những mục tiêu như vậy. Tôi nghĩ hơn 99,9% thời gian chúng kết thúc bằng sự bảo hộ. Cách duy nhất tôi biết để thoát kiểu thất bại đó là đặt mục tiêu chính thành một điều khác, một điều có tầm quan trọng nội tại. (Of course, in some sense I'm quite enamoured of goals like "enabling people"… But I'm also very suspicious of such goals. I think > 99.9% of the time they end up patronizing. The only thing I know of which consistently gets away from that failure pattern is to make the primary goal something else, something that's intrinsically important.)
-
-- Ví dụ, nếu bạn điều hành chương trình Apollo, chắc chắn bạn sẽ trao quyền cho mọi người. Nhưng đó là thứ yếu so với việc đưa người lên Mặt Trăng. Nếu bạn tạo ra Mathematica, chắc chắn bạn sẽ trao quyền cho mọi người. Nhưng đó là thứ yếu so với việc làm toán học hoặc vật lý lý thuyết xuất sắc. (E.g., if you run the Apollo program you'll certainly be enabling people. But it'll be secondary to getting to the moon. If you create Mathematica you'll certainly be enabling people. But it'll be secondary to doing kick-ass mathematics / theoretical physics. …)
+> [!info]- Tài liệu tham khảo (References)
+> Conversation với Michael Nielsen, 2019-12-10
+> 
+> - Tất nhiên, theo một nghĩa nào đó tôi rất say mê những mục tiêu kiểu "trao quyền cho mọi người". Nhưng tôi cũng rất nghi ngờ những mục tiêu như vậy. Tôi nghĩ hơn 99,9% thời gian chúng kết thúc bằng sự bảo hộ. Cách duy nhất tôi biết để thoát kiểu thất bại đó là đặt mục tiêu chính thành một điều khác, một điều có tầm quan trọng nội tại. (Of course, in some sense I'm quite enamoured of goals like "enabling people"… But I'm also very suspicious of such goals. I think > 99.9% of the time they end up patronizing. The only thing I know of which consistently gets away from that failure pattern is to make the primary goal something else, something that's intrinsically important.)
+> 
+> - Ví dụ, nếu bạn điều hành chương trình Apollo, chắc chắn bạn sẽ trao quyền cho mọi người. Nhưng đó là thứ yếu so với việc đưa người lên Mặt Trăng. Nếu bạn tạo ra Mathematica, chắc chắn bạn sẽ trao quyền cho mọi người. Nhưng đó là thứ yếu so với việc làm toán học hoặc vật lý lý thuyết xuất sắc. (E.g., if you run the Apollo program you'll certainly be enabling people. But it'll be secondary to getting to the moon. If you create Mathematica you'll certainly be enabling people. But it'll be secondary to doing kick-ass mathematics / theoretical physics. …)

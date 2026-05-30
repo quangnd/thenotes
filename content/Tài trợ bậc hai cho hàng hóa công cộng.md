@@ -13,8 +13,8 @@ Vitalik Buterin và Glen Weyl đề xuất rằng [[Bỏ phiếu bậc hai]] có
 
 ----------
 
-#### Tài liệu tham khảo
-
-Buterin, V., Hitzig, Z., & Weyl, G. E. (2018). Liberal Radicalism: A Flexible Design For Philanthropic Matching Funds. SSRN. https://dx.doi.org/10.2139/ssrn.3243656
-
-Clancy, M. (2020, May 14). Optimal Kickstarter. https://mattsclancy.substack.com/p/optimal-kickstarter
+> [!info]- Tài liệu tham khảo
+> 
+> Buterin, V., Hitzig, Z., & Weyl, G. E. (2018). Liberal Radicalism: A Flexible Design For Philanthropic Matching Funds. SSRN. https://dx.doi.org/10.2139/ssrn.3243656
+> 
+> Clancy, M. (2020, May 14). Optimal Kickstarter. https://mattsclancy.substack.com/p/optimal-kickstarter

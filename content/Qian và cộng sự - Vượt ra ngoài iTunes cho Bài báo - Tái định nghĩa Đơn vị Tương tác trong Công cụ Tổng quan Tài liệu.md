@@ -18,5 +18,5 @@ H. Những loại kết nối nào có thể được tạo trong Knowledge Comp
 
 ---
 
-#### Tài liệu tham khảo
-Qian, X., Erhart, M. J., Kittur, A., Lutters, W. G., & Chan, J. (2019). Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools. Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, 341–346. https://doi.org/10.1145/3311957.3359455
+> [!info]- Tài liệu tham khảo
+> Qian, X., Erhart, M. J., Kittur, A., Lutters, W. G., & Chan, J. (2019). Beyond iTunes for Papers: Redefining the Unit of Interaction in Literature Review Tools. Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, 341–346. https://doi.org/10.1145/3311957.3359455

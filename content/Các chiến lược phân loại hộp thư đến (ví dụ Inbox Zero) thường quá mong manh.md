@@ -25,9 +25,9 @@ Một cách hiện thực hóa khả thi: [[Lặp lại ngắt quãng giúp gi�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Allen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity.
-
-[43 Folders Series: Inbox Zero | 43 Folders](http://www.43folders.com/izero)
-
-Matuschak, A. (2019, December). *Taking knowledge work seriously*. Trình bày tại Stripe Convergence, San Francisco.
+> [!info]- Tài liệu tham khảo (References)
+> Allen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity.
+> 
+> [43 Folders Series: Inbox Zero | 43 Folders](http://www.43folders.com/izero)
+> 
+> Matuschak, A. (2019, December). *Taking knowledge work seriously*. Trình bày tại Stripe Convergence, San Francisco.

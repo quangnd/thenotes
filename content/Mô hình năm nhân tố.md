@@ -21,8 +21,8 @@ Các đặc điểm:
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Jang, K. L., Livesley, W. J., & Vemon, P. A. (1996). Heritability of the Big Five Personality Dimensions and Their Facets: A Twin Study. Journal of Personality, 64(3), 577–592. [https://doi.org/10.1111/j.1467-6494.1996.tb00522.x](https://doi.org/10.1111/j.1467-6494.1996.tb00522.x)
-
-Tupes, E. C., & Christal, R. E. (1961). *Recurrent Personality Factors Based on Trait Ratings* (ASD-TR-61-97).
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Jang, K. L., Livesley, W. J., & Vemon, P. A. (1996). Heritability of the Big Five Personality Dimensions and Their Facets: A Twin Study. Journal of Personality, 64(3), 577–592. [https://doi.org/10.1111/j.1467-6494.1996.tb00522.x](https://doi.org/10.1111/j.1467-6494.1996.tb00522.x)
+> 
+> Tupes, E. C., & Christal, R. E. (1961). *Recurrent Personality Factors Based on Trait Ratings* (ASD-TR-61-97).

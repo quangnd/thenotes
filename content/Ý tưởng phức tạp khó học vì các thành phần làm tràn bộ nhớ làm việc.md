@@ -17,5 +17,5 @@ Nói cụ thể hơn: [[Học các ý tưởng ngày càng phức tạp có th�
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft

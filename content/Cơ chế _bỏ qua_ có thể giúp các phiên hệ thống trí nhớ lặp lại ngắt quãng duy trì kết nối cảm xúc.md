@@ -17,6 +17,6 @@ Nhưng liệu điều này có phản tác dụng không? Liệu sinh viên có 
 
 ----------
 
-#### Tài liệu tham khảo
-
-Kornell, N., & Bjork, R. A. (2008). Optimising self-regulated study: The benefits—And costs—Of dropping flashcards. *Memory*, *16*(2), 125–136.
+> [!info]- Tài liệu tham khảo
+> 
+> Kornell, N., & Bjork, R. A. (2008). Optimising self-regulated study: The benefits—And costs—Of dropping flashcards. *Memory*, *16*(2), 125–136.

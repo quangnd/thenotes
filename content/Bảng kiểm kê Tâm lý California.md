@@ -34,6 +34,6 @@ Một bảng kiểm kê tính cách tự báo cáo với 20 thang đo, nhằm đ
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Bouchard, T. J., Mcgue, M., Hur, Y.-M., & Horn, J. M. (1998). *A genetic and environmental analysis of the California Psychological Inventory using adult twins reared apart and together*. 14.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Bouchard, T. J., Mcgue, M., Hur, Y.-M., & Horn, J. M. (1998). *A genetic and environmental analysis of the California Psychological Inventory using adult twins reared apart and together*. 14.

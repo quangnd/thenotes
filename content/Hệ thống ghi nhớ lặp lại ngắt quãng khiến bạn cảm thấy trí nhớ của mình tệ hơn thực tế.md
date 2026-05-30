@@ -26,8 +26,8 @@ Nate Kornell (2009) tìm thấy trong một nghiên cứu về từ vựng dạn
 
 ----------
 
-#### Tài liệu tham khảo
-
-Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
-
-Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. Applied Cognitive Psychology, 23(9), 1297–1317. https://doi.org/10.1002/acp.1537
+> [!info]- Tài liệu tham khảo
+> 
+> Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
+> 
+> Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. Applied Cognitive Psychology, 23(9), 1297–1317. https://doi.org/10.1002/acp.1537

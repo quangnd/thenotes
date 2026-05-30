@@ -22,6 +22,6 @@ H. Khi nào Quizlet cho phép học sinh tự chấm điểm?
 
 ---
 
-#### Tài liệu tham khảo
-
-[Selecting Question Formats to Maximize the Testing Effect | Quizlet](https://quizlet.com/blog/selecting-question-formats-to-maximize-the-testing-effect)
+> [!info]- Tài liệu tham khảo
+> 
+> [Selecting Question Formats to Maximize the Testing Effect | Quizlet](https://quizlet.com/blog/selecting-question-formats-to-maximize-the-testing-effect)

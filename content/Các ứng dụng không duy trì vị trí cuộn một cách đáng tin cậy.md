@@ -21,5 +21,5 @@ H. Một số thách thức trong việc lưu trữ vị trí cuộn như là m�
 
 ---
 
-#### Tài liệu tham khảo
-[Omar Rizwan trên Twitter: "Tôi sợ và bực bội khi cuộn (ví dụ: cuộn lên rất cao để xem lịch sử chat) vì tôi biết các nhà phát triển ứng dụng không coi nó nghiêm túc như trạng thái ứng dụng—như thể tôi nhấp vào một chat khác, rồi quay lại chat nơi tôi đã cuộn lên rất cao, và ứng dụng đã bỏ đi vị trí cuộn của tôi"](https://twitter.com/rsnous/status/1251810672544845826)
+> [!info]- Tài liệu tham khảo
+> [Omar Rizwan trên Twitter: "Tôi sợ và bực bội khi cuộn (ví dụ: cuộn lên rất cao để xem lịch sử chat) vì tôi biết các nhà phát triển ứng dụng không coi nó nghiêm túc như trạng thái ứng dụng—như thể tôi nhấp vào một chat khác, rồi quay lại chat nơi tôi đã cuộn lên rất cao, và ứng dụng đã bỏ đi vị trí cuộn của tôi"](https://twitter.com/rsnous/status/1251810672544845826)

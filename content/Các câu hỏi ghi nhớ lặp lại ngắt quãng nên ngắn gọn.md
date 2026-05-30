@@ -23,6 +23,6 @@ Khi một câu hỏi trở nên dài hơn, nó ngày càng có khả năng bao g
 
 ----------
 
-## Tài liệu tham khảo (References)
-
-Wozniak, P. (1999, February). *Effective learning: Twenty rules of formulating knowledge*. https://www.supermemo.com/en/archives1990-2015/articles/20rules
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Wozniak, P. (1999, February). *Effective learning: Twenty rules of formulating knowledge*. https://www.supermemo.com/en/archives1990-2015/articles/20rules

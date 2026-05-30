@@ -13,10 +13,10 @@ Khi thấy bị cám dỗ đọc kỹ thứ gì đó trên điện thoại, tôi
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-[Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
-
-- Đọc trọn một bài viết trên iPhone là một thú tiêu khiển, nhưng không phải cách hiệu quả để mở rộng kiến thức. Vì vậy tôi tự hỏi: **tôi muốn đọc cái này chỉ để "giải trí có học" cho bản thân, hay tôi cần làm việc với nó sau này?** (Reading a whole article on the iPhone is a welcome pastime, but it's not an efficient way to expand my knowledge. Thus I ask myself: **do I want to read something just to "edu-tain" myself, or do I need to work with it later?**) Câu trả lời quyết định tôi sẽ đọc bài đó hay chỉ lướt qua và lưu lại.
-
-Trên điện thoại, tôi chuẩn bị *nguyên liệu* (các trang web và mục tin tức) để chúng trở thành một *thứ* thật sự trong hệ thống quản lý kiến thức của tôi. Đó là mục đích của danh sách đọc. Dù không thể viết ghi chú lưu trữ một cách tử tế trên điện thoại, tôi vẫn quyết được bài nào đáng ghi chú. Ở khía cạnh này, iPhone là thiết bị để lọc web và các luồng tin.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
+> 
+> - Đọc trọn một bài viết trên iPhone là một thú tiêu khiển, nhưng không phải cách hiệu quả để mở rộng kiến thức. Vì vậy tôi tự hỏi: **tôi muốn đọc cái này chỉ để "giải trí có học" cho bản thân, hay tôi cần làm việc với nó sau này?** (Reading a whole article on the iPhone is a welcome pastime, but it's not an efficient way to expand my knowledge. Thus I ask myself: **do I want to read something just to "edu-tain" myself, or do I need to work with it later?**) Câu trả lời quyết định tôi sẽ đọc bài đó hay chỉ lướt qua và lưu lại.
+> 
+> Trên điện thoại, tôi chuẩn bị *nguyên liệu* (các trang web và mục tin tức) để chúng trở thành một *thứ* thật sự trong hệ thống quản lý kiến thức của tôi. Đó là mục đích của danh sách đọc. Dù không thể viết ghi chú lưu trữ một cách tử tế trên điện thoại, tôi vẫn quyết được bài nào đáng ghi chú. Ở khía cạnh này, iPhone là thiết bị để lọc web và các luồng tin.

@@ -27,7 +27,7 @@ Tôi dùng bút Uni-ball Signo UM-151, giá khoảng một đô. Cầm cân, n�
 
 ---
 
-#### Tài liệu tham khảo
-[Create Zettel from Reading Notes • Zettelkasten Method](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
-
-- Vì vậy tôi luôn mang theo một **tập giấy xé A7** nhỏ và một **bút chì cơ học 0,5mm** (lõi 2B mềm) bên mình. Đây là thiết bị ghi lại thực sự phổ quát của tôi. Tôi cũng dùng nó để ghi chú đọc sách khi không ở nhà.
+> [!info]- Tài liệu tham khảo
+> [Create Zettel from Reading Notes • Zettelkasten Method](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
+> 
+> - Vì vậy tôi luôn mang theo một **tập giấy xé A7** nhỏ và một **bút chì cơ học 0,5mm** (lõi 2B mềm) bên mình. Đây là thiết bị ghi lại thực sự phổ quát của tôi. Tôi cũng dùng nó để ghi chú đọc sách khi không ở nhà.

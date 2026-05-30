@@ -23,8 +23,8 @@ Grant Sanderson (2019-11-28):
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Kosslyn, S. M. (2017). The Science of Learning: Mechanisms and Principles. In S. M. Kosslyn & B. Nelson (Eds.), *Building the Intentional University: Minerva and the Future of Higher Education* (1 edition, pp. 149–164). Cambridge, MA: The MIT Press.
-
-Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). https://doi.org/10.1017/CBO9781139016889 (Original work published 1851)
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Kosslyn, S. M. (2017). The Science of Learning: Mechanisms and Principles. In S. M. Kosslyn & B. Nelson (Eds.), *Building the Intentional University: Minerva and the Future of Higher Education* (1 edition, pp. 149–164). Cambridge, MA: The MIT Press.
+> 
+> Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). https://doi.org/10.1017/CBO9781139016889 (Original work published 1851)

@@ -11,13 +11,13 @@ Có một lý do triết học quan trọng để tách ghi chú văn liệu ra 
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*, 2017.
-
-- Bạn cần một dạng ghi chú văn liệu để nắm bắt cách bạn hiểu văn bản, để có cái gì đó trước mặt khi viết ghi chú hộp phiếu. Nhưng đừng biến nó thành một dự án riêng. Ghi chú văn liệu phải ngắn và phục vụ việc viết ghi chú hộp phiếu. Mọi thứ khác hoặc giúp bạn đạt tới đó, hoặc là thứ gây phân tâm.
-
-- Ghi chú văn liệu thoáng qua có thể hợp lý nếu bạn cần thêm một bước để hiểu hoặc nắm bắt một ý tưởng, nhưng chúng không giúp ích ở các giai đoạn viết về sau, vì không có câu được gạch chân nào tự nhảy ra đúng lúc bạn cần trong khi phát triển một luận điểm.
-
-Luhmann, N. (1992). Communicating with Slip Boxes. Trong A. Kieserling (Biên tập), & M. Kuehn (Dịch), *Universität als Milieu: Kleine Schriften* (tr. 53–61). Truy cập từ http://luhmann.surge.sh/communicating-with-slip-boxes
-
-- Tôi luôn để một mảnh giấy bên cạnh, ghi lên đó các ý tưởng theo từng trang. Mặt sau ghi thông tin thư mục. Đọc xong, tôi xem lại các ghi chú và nghĩ xem chúng liên hệ thế nào với những ghi chú đã có trong hộp phiếu. Nghĩa là tôi luôn đọc với con mắt tìm kiếm các kết nối khả dĩ trong hộp phiếu.
+> [!info]- Tài liệu tham khảo
+> Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*, 2017.
+> 
+> - Bạn cần một dạng ghi chú văn liệu để nắm bắt cách bạn hiểu văn bản, để có cái gì đó trước mặt khi viết ghi chú hộp phiếu. Nhưng đừng biến nó thành một dự án riêng. Ghi chú văn liệu phải ngắn và phục vụ việc viết ghi chú hộp phiếu. Mọi thứ khác hoặc giúp bạn đạt tới đó, hoặc là thứ gây phân tâm.
+> 
+> - Ghi chú văn liệu thoáng qua có thể hợp lý nếu bạn cần thêm một bước để hiểu hoặc nắm bắt một ý tưởng, nhưng chúng không giúp ích ở các giai đoạn viết về sau, vì không có câu được gạch chân nào tự nhảy ra đúng lúc bạn cần trong khi phát triển một luận điểm.
+> 
+> Luhmann, N. (1992). Communicating with Slip Boxes. Trong A. Kieserling (Biên tập), & M. Kuehn (Dịch), *Universität als Milieu: Kleine Schriften* (tr. 53–61). Truy cập từ http://luhmann.surge.sh/communicating-with-slip-boxes
+> 
+> - Tôi luôn để một mảnh giấy bên cạnh, ghi lên đó các ý tưởng theo từng trang. Mặt sau ghi thông tin thư mục. Đọc xong, tôi xem lại các ghi chú và nghĩ xem chúng liên hệ thế nào với những ghi chú đã có trong hộp phiếu. Nghĩa là tôi luôn đọc với con mắt tìm kiếm các kết nối khả dĩ trong hộp phiếu.

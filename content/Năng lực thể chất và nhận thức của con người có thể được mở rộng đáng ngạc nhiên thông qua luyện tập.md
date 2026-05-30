@@ -15,5 +15,5 @@ Liên quan: [[Tiêu chuẩn để đạt được sự xuất sắc đã tăng v
 
 ---
 
-#### Tài liệu tham khảo (References)
-Ericsson, A., & Pool, R. (2016). Peak: Secrets from the New Science of Expertise (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo (References)
+> Ericsson, A., & Pool, R. (2016). Peak: Secrets from the New Science of Expertise (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

@@ -27,10 +27,10 @@ Một giải pháp: [[Phương tiện ghi nhớ cung cấp các câu nhắc do c
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? https://numinous.productions/ttft
-
-Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html
-
-NIelsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Matuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? https://numinous.productions/ttft
+> 
+> Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html
+> 
+> NIelsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. http://cognitivemedium.com/srs-mathematics

@@ -25,13 +25,13 @@ Ericsson và Pool (2016, tr. 45-46) cho rằng dạng mở rộng này có thể
 
 ---
 
-#### Tài liệu tham khảo
-Aydin, K., Ucar, A., Oguz, K. K., Okur, O. O., Agayev, A., Unal, Z., Yilmaz, S., & Ozturk, C. (2007). Increased Gray Matter Density in the Parietal Cortex of Mathematicians: A Voxel-Based Morphometry Study. American Journal of Neuroradiology, 28(10), 1859-1864. https://doi.org/10.3174/ajnr.A0696
-
-Bengtsson, S. L., Nagy, Z., Skare, S., Forsman, L., Forssberg, H., & Ullén, F. (2005). Extensive piano practicing has regionally specific effects on white matter development. *Nature Neuroscience*, 8(9), 1148-1150.
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
-
-Gaser, C., & Schlaug, G. (2003). Brain Structures Differ between Musicians and Non-Musicians. Journal of Neuroscience, 23(27), 9240-9245. https://doi.org/10.1523/JNEUROSCI.23-27-09240.2003
-
-Hutchinson, S., Lee, L. H.-L., Gaab, N., & Schlaug, G. (2003). Cerebellar volume of musicians. Cerebral Cortex (New York, N.Y.: 1991), 13(9), 943-949. https://doi.org/10.1093/cercor/13.9.943
+> [!info]- Tài liệu tham khảo
+> Aydin, K., Ucar, A., Oguz, K. K., Okur, O. O., Agayev, A., Unal, Z., Yilmaz, S., & Ozturk, C. (2007). Increased Gray Matter Density in the Parietal Cortex of Mathematicians: A Voxel-Based Morphometry Study. American Journal of Neuroradiology, 28(10), 1859-1864. https://doi.org/10.3174/ajnr.A0696
+> 
+> Bengtsson, S. L., Nagy, Z., Skare, S., Forsman, L., Forssberg, H., & Ullén, F. (2005). Extensive piano practicing has regionally specific effects on white matter development. *Nature Neuroscience*, 8(9), 1148-1150.
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> 
+> Gaser, C., & Schlaug, G. (2003). Brain Structures Differ between Musicians and Non-Musicians. Journal of Neuroscience, 23(27), 9240-9245. https://doi.org/10.1523/JNEUROSCI.23-27-09240.2003
+> 
+> Hutchinson, S., Lee, L. H.-L., Gaab, N., & Schlaug, G. (2003). Cerebellar volume of musicians. Cerebral Cortex (New York, N.Y.: 1991), 13(9), 943-949. https://doi.org/10.1093/cercor/13.9.943

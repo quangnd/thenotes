@@ -17,5 +17,5 @@ Xem thêm [[Hộp thư đọc để thu thập tài liệu tham khảo có thể
 
 ---
 
-#### Tài liệu tham khảo
-Allen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity.
+> [!info]- Tài liệu tham khảo
+> Allen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity.

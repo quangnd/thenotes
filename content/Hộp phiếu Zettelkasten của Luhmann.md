@@ -9,6 +9,6 @@ Xem thêm: [[Những điểm tương đồng và khác biệt giữa viết ghi 
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53-61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), Universität als Milieu: Kleine Schriften (pp. 53-61). Retrieved from http://luhmann.surge.sh/communicating-with-slip-boxes

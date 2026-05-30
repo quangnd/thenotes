@@ -11,8 +11,8 @@ Một lý do là câu hỏi nhớ lại chủ yếu chỉ là diễn đạt lạ
 
 ---
 
-#### Tài liệu tham khảo
-
-Cuộc trò chuyện với Michael Nielsen, 2020-01-20
-
-> Việc tạo ra các biến thể tốn chi phí đáng ngạc nhiên đối với một tác giả. Điều này quan trọng không chỉ đối với tôi, mà còn đối với các tác giả trong tương lai.
+> [!info]- Tài liệu tham khảo
+> 
+> Cuộc trò chuyện với Michael Nielsen, 2020-01-20
+> 
+> > Việc tạo ra các biến thể tốn chi phí đáng ngạc nhiên đối với một tác giả. Điều này quan trọng không chỉ đối với tôi, mà còn đối với các tác giả trong tương lai.

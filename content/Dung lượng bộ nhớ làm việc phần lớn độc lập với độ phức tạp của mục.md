@@ -9,8 +9,8 @@ Xem: [[Các mảnh trong nhận thức con người]]
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Crannell, C. W., & Parrish, J. M. (1957). A Comparison of Immediate Memory Span for Digits, Letters, and Words. The Journal of Psychology, 44(2), 319–327. https://doi.org/10.1080/00223980.1957.9713089
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. *Psychological Review, 63(2)*, 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Crannell, C. W., & Parrish, J. M. (1957). A Comparison of Immediate Memory Span for Digits, Letters, and Words. The Journal of Psychology, 44(2), 319–327. https://doi.org/10.1080/00223980.1957.9713089
+> 
+> Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. *Psychological Review, 63(2)*, 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]

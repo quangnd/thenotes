@@ -9,5 +9,5 @@ Nhiều người nhìn Cuốn Primer trong *The Diamond Age* như một tầm nh
 
 ---
 
-#### Tài liệu tham khảo (References)
-Conversation with Michael Nielsen. 2019-09-12.
+> [!info]- Tài liệu tham khảo (References)
+> Conversation with Michael Nielsen. 2019-09-12.

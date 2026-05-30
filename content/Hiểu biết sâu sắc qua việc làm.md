@@ -28,5 +28,5 @@ Thêm về cách đạt được hiểu biết sâu sắc qua việc làm:
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

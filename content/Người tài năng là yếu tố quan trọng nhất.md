@@ -9,7 +9,7 @@ Xem thêm [[Đầu tư vào người, không phải dự án]].
 
 ----------
 
-## Tài liệu tham khảo (References)
-
-- Cuộc trò chuyện với Jim Savage, 2019-10-30
-    - Schmidt cảm thấy rằng một lý do chính cho thành công của Google là tuyển dụng những người siêu tài năng và cho họ tự do.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> - Cuộc trò chuyện với Jim Savage, 2019-10-30
+>     - Schmidt cảm thấy rằng một lý do chính cho thành công của Google là tuyển dụng những người siêu tài năng và cho họ tự do.

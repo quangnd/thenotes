@@ -9,6 +9,6 @@ Trong *The Diamond Age*, Cuốn Primer chứa một cơ sở chế tạo nano, k
 
 ---
 
-#### Tài liệu tham khảo
-
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo
+> 
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

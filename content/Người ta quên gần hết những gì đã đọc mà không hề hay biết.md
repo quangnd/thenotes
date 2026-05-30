@@ -15,7 +15,7 @@ Về các phản biện thường gặp, xem: [[Nhiều người xem trí nhớ 
 
 ---
 
-#### Tài liệu tham khảo
-Amlund, J. T., Kardash, C. A. M., & Kulhavy, R. W. (1986). Repetitive Reading and Recall of Expository Text. Reading Research Quarterly, 21(1), 49. https://doi.org/10.2307/747959
-
-Matuschak, A. (2019). Why books don't work. Truy cập từ https://andymatuschak.org/books
+> [!info]- Tài liệu tham khảo
+> Amlund, J. T., Kardash, C. A. M., & Kulhavy, R. W. (1986). Repetitive Reading and Recall of Expository Text. Reading Research Quarterly, 21(1), 49. https://doi.org/10.2307/747959
+> 
+> Matuschak, A. (2019). Why books don't work. Truy cập từ https://andymatuschak.org/books

@@ -13,5 +13,5 @@ Một Cuốn Primer làm theo cách này có lẽ sẽ giống các trải nghi�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo (References)
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

@@ -15,6 +15,6 @@ xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]
 
 ---
 
-#### Tài liệu tham khảo
-Để xem tổng quan tài liệu, xem:
-Branwen, G. (2009). Spaced Repetition for Efficient Learning. Truy cập ngày 16 tháng 12, 2019, từ https://www.gwern.net/Spaced-repetition
+> [!info]- Tài liệu tham khảo
+> Để xem tổng quan tài liệu, xem:
+> Branwen, G. (2009). Spaced Repetition for Efficient Learning. Truy cập ngày 16 tháng 12, 2019, từ https://www.gwern.net/Spaced-repetition

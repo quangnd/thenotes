@@ -12,5 +12,5 @@ aliases:
 
 ---
 
-#### Tài liệu tham khảo (References)
-Matuschak, A. (2019 0). *Why books don't work*. https://andymatuschak.org/books
+> [!info]- Tài liệu tham khảo (References)
+> Matuschak, A. (2019 0). *Why books don't work*. https://andymatuschak.org/books

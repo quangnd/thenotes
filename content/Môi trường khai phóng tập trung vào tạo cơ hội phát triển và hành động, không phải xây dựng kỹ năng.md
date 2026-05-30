@@ -13,5 +13,5 @@ Heuristic này cho ta một cách nhìn mới về các phương tiện hiện c
 
 ---
 
-#### Tài liệu tham khảo (References)
-Conversation với Michael Nielsen, 2019-12-10
+> [!info]- Tài liệu tham khảo (References)
+> Conversation với Michael Nielsen, 2019-12-10

@@ -16,5 +16,5 @@ Khi ngồi máy tính, tôi ghi thẳng vào hộp thư viết. Tôi cũng nạp
 
 ---
 
-#### Tài liệu tham khảo
-[Building Blocks of a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-building-blocks/)
+> [!info]- Tài liệu tham khảo
+> [Building Blocks of a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-building-blocks/)

@@ -15,7 +15,7 @@ Nói chung, người ta không hình dung rõ một ghi chú *nên* trông như 
 
 ---
 
-#### Tài liệu tham khảo
-Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
-
-- Còn một lý do nữa khiến việc ghi chú gần như không được để ý đến: chúng ta không nhận được bất kỳ phản hồi tiêu cực tức thì nào nếu mình làm dở. (There is another reason that note-taking flies mostly under the radar: We don't experience any immediate negative feedback if we do it badly.)
+> [!info]- Tài liệu tham khảo
+> Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
+> 
+> - Còn một lý do nữa khiến việc ghi chú gần như không được để ý đến: chúng ta không nhận được bất kỳ phản hồi tiêu cực tức thì nào nếu mình làm dở. (There is another reason that note-taking flies mostly under the radar: We don't experience any immediate negative feedback if we do it badly.)

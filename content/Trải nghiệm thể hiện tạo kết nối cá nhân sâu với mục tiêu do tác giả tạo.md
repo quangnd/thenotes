@@ -15,5 +15,5 @@ Tương tự, môi trường phần mềm có thể tạo kết nối cá nhân 
 
 ---
 
-#### Tài liệu tham khảo (References)
-Thatgamecompany, Inc. (2012). *Journey*. Retrieved from http://thatgamecompany.com/journey/
+> [!info]- Tài liệu tham khảo (References)
+> Thatgamecompany, Inc. (2012). *Journey*. Retrieved from http://thatgamecompany.com/journey/

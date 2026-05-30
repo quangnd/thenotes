@@ -12,7 +12,7 @@ Chúng *không* phải lời giải tốt nhất cho [[Người ta quên gần h
 
 ---
 
-#### Tài liệu tham khảo
-Nielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html
-
-Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Retrieved December 2, 2019, from https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> Nielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html
+> 
+> Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Retrieved December 2, 2019, from https://numinous.productions/ttft

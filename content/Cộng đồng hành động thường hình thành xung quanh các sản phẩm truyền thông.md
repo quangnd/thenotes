@@ -13,7 +13,7 @@ Tất cả điều này gợi ý rằng nếu ai đó muốn tạo ra các cộn
 
 ---
 
-#### Tài liệu tham khảo
-Patrick Collison về kế hoạch dự án - 2019-12-24
-
-https://github.com/mnielsen/tpft/blob/master/big_picture.md
+> [!info]- Tài liệu tham khảo
+> Patrick Collison về kế hoạch dự án - 2019-12-24
+> 
+> https://github.com/mnielsen/tpft/blob/master/big_picture.md

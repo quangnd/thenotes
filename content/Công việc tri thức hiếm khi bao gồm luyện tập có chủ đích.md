@@ -15,5 +15,5 @@ Xem thêm [[§Coi trọng công việc tri thức]].
 
 ---
 
-#### Tài liệu tham khảo (References)
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo (References)
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

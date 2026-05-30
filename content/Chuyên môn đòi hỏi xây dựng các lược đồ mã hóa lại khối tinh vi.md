@@ -14,7 +14,7 @@ Ví dụ, mô hình được phát triển bởi Simon và Gilmartin (1973) gợ
 
 ---
 
-#### Tài liệu tham khảo
-Simon, H. A., & Gilmartin, K. (1973). A simulation of memory for chess positions. Cognitive Psychology, 5(1), 29–46. https://doi.org/10.1016/0010-0285(73)90024-8
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo
+> Simon, H. A., & Gilmartin, K. (1973). A simulation of memory for chess positions. Cognitive Psychology, 5(1), 29–46. https://doi.org/10.1016/0010-0285(73)90024-8
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

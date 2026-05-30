@@ -51,7 +51,7 @@ Hệ thống tiêu dùng đầu tiên thuộc loại này là [[Supermemo]], đ�
 
 ---
 
-#### Tài liệu tham khảo
-Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition
-
-[Who invented the name: spaced repetition? - supermemo.guru](https://supermemo.guru/wiki/Who_invented_the_name:_spaced_repetition%3F)
+> [!info]- Tài liệu tham khảo
+> Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition
+> 
+> [Who invented the name: spaced repetition? - supermemo.guru](https://supermemo.guru/wiki/Who_invented_the_name:_spaced_repetition%3F)

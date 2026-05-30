@@ -19,7 +19,7 @@ Liên quan: [[Đổi mới mạnh mẽ thường tạo ra mô hình mới, khôn
 
 ---
 
-#### Tài liệu tham khảo
-Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf
-
-Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]
+> [!info]- Tài liệu tham khảo
+> Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf
+> 
+> Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [[Peak - Ericsson và Pool]]

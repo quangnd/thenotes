@@ -31,6 +31,6 @@ A. Bài học đó chủ yếu mang tính khái niệm, và các ý tưởng c�
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Conversation với Gary Bernhardt, 2020-03-24
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Conversation với Gary Bernhardt, 2020-03-24

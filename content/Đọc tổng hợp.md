@@ -9,6 +9,6 @@ Một bối cảnh phổ biến cho phong cách đọc này là trong tổng qua
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Adler, M., & van Doren, C. (1972). *How to Read a Book*. Simon & Schuster, Inc.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Adler, M., & van Doren, C. (1972). *How to Read a Book*. Simon & Schuster, Inc.

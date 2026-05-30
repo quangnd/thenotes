@@ -9,5 +9,5 @@ Nguyên nhân có thể: [[Đọc văn bản trên máy tính là không dễ ch
 
 ---
 
-#### Tài liệu tham khảo
-Pew Research Center. (2019). 2019 survey on book reading formats. Retrieved from https://www.pewresearch.org/wp-content/uploads/2019/09/FT_19.09.25_BookReadingFormats_Methodology_Topline.pdf
+> [!info]- Tài liệu tham khảo
+> Pew Research Center. (2019). 2019 survey on book reading formats. Retrieved from https://www.pewresearch.org/wp-content/uploads/2019/09/FT_19.09.25_BookReadingFormats_Methodology_Topline.pdf

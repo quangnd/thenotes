@@ -9,6 +9,6 @@ Cách dùng này khá khác so với cách dùng được mô tả trong [[Trả
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Bruner, J. (1966). *Toward a theory of instruction*. Cambridge, MA: Harvard University Press.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Bruner, J. (1966). *Toward a theory of instruction*. Cambridge, MA: Harvard University Press.

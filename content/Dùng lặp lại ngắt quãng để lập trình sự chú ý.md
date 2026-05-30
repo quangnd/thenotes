@@ -24,8 +24,8 @@ Liên quan:
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A. (2019, December). *Taking knowledge work seriously*. Trình bày tại Stripe Convergence, San Francisco.
+> [!info]- Tài liệu tham khảo
+> Matuschak, A. (2019, December). *Taking knowledge work seriously*. Trình bày tại Stripe Convergence, San Francisco.
 
 #### Liên quan
 [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]

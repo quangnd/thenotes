@@ -13,7 +13,7 @@ Mỗi tweet có thể chứa một URL trỏ đến các thẻ ghi lại thông 
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-[Tim Rooney on Twitter: "Experiment: https://t.co/0UaVll6ImV for Twitter threadsI built a flashcard deck to help retain this fantastic Qatar thread (~70 tweets long)https://t.co/4mxrPgDSOg"](https://twitter.com/tjrwriting/status/1205958684221853702)
-via Michael Nielsen, 2019/12/14
+> [!info]- Tài liệu tham khảo (References)
+> 
+> [Tim Rooney on Twitter: "Experiment: https://t.co/0UaVll6ImV for Twitter threadsI built a flashcard deck to help retain this fantastic Qatar thread (~70 tweets long)https://t.co/4mxrPgDSOg"](https://twitter.com/tjrwriting/status/1205958684221853702)
+> via Michael Nielsen, 2019/12/14

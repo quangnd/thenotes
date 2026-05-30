@@ -21,6 +21,6 @@ A. Chúng cố ý không hoàn chỉnh: người chơi được dự định đi
 
 ----------
 
-#### Tài liệu tham khảo (References)
-
-Conversation với Pavel Panchekha, 2020-09-01: Re: Making my book a timeful text
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Conversation với Pavel Panchekha, 2020-09-01: Re: Making my book a timeful text

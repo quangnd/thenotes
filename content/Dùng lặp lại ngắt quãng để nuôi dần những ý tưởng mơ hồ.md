@@ -23,5 +23,5 @@ Nhờ khoảng lặp tăng theo cấp số nhân, bạn nhích từng chút trê
 
 ---
 
-#### Tài liệu tham khảo (References)
-Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.
+> [!info]- Tài liệu tham khảo (References)
+> Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.

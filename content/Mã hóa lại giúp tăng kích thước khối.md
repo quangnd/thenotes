@@ -16,7 +16,7 @@ Liên quan: [[Ý tưởng phức tạp khó học vì các thành phần làm tr
 
 ---
 
-#### Tài liệu tham khảo
-Chase, W. G., & Ericsson, K. A. (1982). Skill and Working Memory. In G. H. Bower (Ed.), Psychology of Learning and Motivation (Vol. 16, pp. 1–58). Academic Press. https://doi.org/10.1016/S0079-7421(08)60546-0
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]
+> [!info]- Tài liệu tham khảo
+> Chase, W. G., & Ericsson, K. A. (1982). Skill and Working Memory. In G. H. Bower (Ed.), Psychology of Learning and Motivation (Vol. 16, pp. 1–58). Academic Press. https://doi.org/10.1016/S0079-7421(08)60546-0
+> 
+> Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. https://doi.org/10.1037/h0043158 [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]]

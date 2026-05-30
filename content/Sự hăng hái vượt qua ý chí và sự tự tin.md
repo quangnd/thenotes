@@ -9,6 +9,6 @@ Sự hăng hái đến dễ dàng khi các hoạt động có mục đích có �
 
 ---
 
-#### Tài liệu tham khảo
-
-Pirsig, R. (1979). *Zen and the art of motorcycle maintenance: An inquiry into values.* New York: Morrow.
+> [!info]- Tài liệu tham khảo
+> 
+> Pirsig, R. (1979). *Zen and the art of motorcycle maintenance: An inquiry into values.* New York: Morrow.

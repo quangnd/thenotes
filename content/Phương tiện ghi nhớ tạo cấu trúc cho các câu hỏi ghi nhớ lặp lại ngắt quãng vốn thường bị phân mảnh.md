@@ -8,6 +8,6 @@ Xem thêm phần thảo luận trong [Expanding the scope of memory systems: wha
 
 ---
 
-#### Tài liệu tham khảo
-
-Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> 
+> Matuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* https://numinous.productions/ttft

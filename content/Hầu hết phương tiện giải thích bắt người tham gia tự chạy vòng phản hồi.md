@@ -13,5 +13,5 @@ Lý thuyết của tôi về lý do điều này đúng: [[Hỗ trợ siêu nh�
 
 ---
 
-#### Tài liệu tham khảo (References)
-Matuschak, A. (2019). Why books don't work. Retrieved from https://andymatuschak.org/books
+> [!info]- Tài liệu tham khảo (References)
+> Matuschak, A. (2019). Why books don't work. Retrieved from https://andymatuschak.org/books

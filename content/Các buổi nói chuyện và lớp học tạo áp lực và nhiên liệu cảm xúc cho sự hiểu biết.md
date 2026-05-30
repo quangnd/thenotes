@@ -2,7 +2,7 @@
 aliases:
   - Talks and classes provide pressure and emotional fuel for understanding
 ---
-
+**
 Đồng ý thuyết trình về một chủ đề thường là cách tuyệt vời để thúc đẩy bản thân học hỏi và chắt lọc nhiều nhất có thể về chủ đề đó.
 
 Đó là một cơ chế cam kết, đặt ra một mốc thời gian thực tế cho một quá trình vốn mơ hồ. Nó cũng là cách tạo ra kết nối cảm xúc mạnh mẽ hơn với tài liệu, điều này đến lượt nó có thể giúp bạn hiểu sâu hơn: [[Hiểu biết sâu sắc đòi hỏi (và là kết quả của) sự kết nối cá nhân mãnh liệt]].
@@ -17,9 +17,9 @@ Hofstadter bắt đầu phát triển các ý tưởng cho *Gödel, Escher, Bach
 
 ----------
 
-#### Tài liệu tham khảo (References)
-
-Hofstadter, D. R. (1999). *Gödel, Escher, Bach: An Eternal Golden Braid* (20th Anniversary ed. Edition). Basic Books.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Hofstadter, D. R. (1999). *Gödel, Escher, Bach: An Eternal Golden Braid* (20th Anniversary ed. Edition). Basic Books.
 
 #### Liên kết ngược (Backlinks)
 

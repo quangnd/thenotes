@@ -16,5 +16,5 @@ Liên quan: [[Phương tiện động thường thiếu chiều thời gian do t
 
 ---
 
-#### Tài liệu tham khảo (References)
-[Narrated explorables: three mental models | by Andy Matuschak | Khan Academy Early Product Development | Medium](https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1)
+> [!info]- Tài liệu tham khảo (References)
+> [Narrated explorables: three mental models | by Andy Matuschak | Khan Academy Early Product Development | Medium](https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1)

@@ -38,5 +38,5 @@ Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberat
 
 ---
 
-#### Tài liệu tham khảo
-Bloom, B. S. (1985). Generalizations about talent development. Trong B. S. Bloom (Biên tập), *Developing talent in young people*. Ballantine Books.
+> [!info]- Tài liệu tham khảo
+> Bloom, B. S. (1985). Generalizations about talent development. Trong B. S. Bloom (Biên tập), *Developing talent in young people*. Ballantine Books.

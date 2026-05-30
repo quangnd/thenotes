@@ -13,5 +13,5 @@ Có thể kéo chi phí đó xuống bao nhiêu? So sánh độc giả [[QCVC]] 
 
 ---
 
-#### Tài liệu tham khảo
-Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft
+> [!info]- Tài liệu tham khảo
+> Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Truy cập ngày 2 tháng 12, 2019, từ https://numinous.productions/ttft

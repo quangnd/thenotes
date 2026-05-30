@@ -28,6 +28,6 @@ Vì vậy có lẽ lý thuyết là cuốn Primer "đặt nền tảng" cho cô 
 
 ---
 
-#### Tài liệu tham khảo (References)
-
-Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.
+> [!info]- Tài liệu tham khảo (References)
+> 
+> Stephenson, N. (2003). *The Diamond Age: Or, a Young Lady's Illustrated Primer* (Reprint edition). Spectra.

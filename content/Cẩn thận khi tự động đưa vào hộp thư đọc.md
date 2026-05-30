@@ -17,7 +17,7 @@ Khi tự thêm nội dung, bạn tạo ra áp lực ngược cho chính mình. B
 
 ---
 
-#### Tài liệu tham khảo (References)
-[Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
-
-- Web đầy *nhiễu*, và phần web tôi đăng ký cũng vậy. Tùy tôi phải tìm ra [tín hiệu](http://en.wikipedia.org/wiki/Signal-to-noise_ratio). Nghĩa là tôi phải tự quyết mình muốn biết về cái gì, và cái gì có thể bỏ qua.
+> [!info]- Tài liệu tham khảo (References)
+> [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
+> 
+> - Web đầy *nhiễu*, và phần web tôi đăng ký cũng vậy. Tùy tôi phải tìm ra [tín hiệu](http://en.wikipedia.org/wiki/Signal-to-noise_ratio). Nghĩa là tôi phải tự quyết mình muốn biết về cái gì, và cái gì có thể bỏ qua.

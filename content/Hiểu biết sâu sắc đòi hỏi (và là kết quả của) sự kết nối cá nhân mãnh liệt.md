@@ -19,6 +19,6 @@ John Littlewood (nhà toán học người Anh) đã viết:
 
 ---
 
-#### Tài liệu tham khảo
-
-Littlewood, J. E. (n.d.). *Littlewood's Miscellany* (B. Bollobás, Ed.), trích dẫn qua Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html
+> [!info]- Tài liệu tham khảo
+> 
+> Littlewood, J. E. (n.d.). *Littlewood's Miscellany* (B. Bollobás, Ed.), trích dẫn qua Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html
