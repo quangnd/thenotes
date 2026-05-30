@@ -8,7 +8,7 @@ Ví dụ, phân tích của Miller (1956, tr. 85-87) về dữ liệu từ Hake 
 
 Hình của Miller (1956, tr. 88) tóm tắt dữ liệu cho các chiều thay đổi độc lập:
 
-![](https://notes.andymatuschak.org/BearImages/1C53311F-EC04-4676-8672-7ED7ACADDF55-30732-0002A26C97E70BC1/F46EFF27-ED01-48BB-BEB4-58C004B4A8DD.png)
+![](Attachments/F46EFF27-ED01-48BB-BEB4-58C004B4A8DD.png)
 
 Dung lượng kênh không tăng tuyến tính với số chiều. Thực tế, khi số chiều tăng, dung lượng kênh cho bất kỳ biến đơn lẻ nào đều {giảm} một cách đáng tin cậy (Miller, 1956, tr. 89), miễn là {số danh mục cần phán đoán lớn hơn số chiều} (Erikson, 1955, tr. 327-329)
 

@@ -5,7 +5,7 @@ aliases:
 
 [[Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu nhắc thông qua các câu nhắc do tác giả cung cấp]], nhưng đôi khi đặc biệt quan trọng là người đọc tự viết câu hỏi của mình — ví dụ đặc biệt khi tác động mang tính cá nhân hơn là trí tuệ, như trong [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Trong những tình huống này, nếu tác giả có thể giúp người đọc tự viết câu hỏi thì sao? Có lẽ họ có thể cung cấp một bộ mẫu câu hỏi để tùy chỉnh, xen kẽ trực tiếp vào trải nghiệm đọc như trong bản phác thảo này:
 
-![](https://notes.andymatuschak.org/BearImages/5F72BD9A-D0DD-42D5-ABCC-3023C078CEEA-454-0000073D7A921C49/habit%20demo.png)
+![](Attachments/habit demo 2.png)
 
 Cơ chế này sẽ phụ thuộc nhiều vào câu trả lời tốt cho [[Phương tiện ghi nhớ có thể thích nghi với nền tảng và mục tiêu khác nhau của độc giả như thế nào_]]. Đây là loại thứ có thể dễ dàng khiến người ta cảm thấy khá khó chịu.
 

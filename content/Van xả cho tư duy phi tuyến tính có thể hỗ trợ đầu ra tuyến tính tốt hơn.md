@@ -2,7 +2,7 @@
 aliases:
   - Release valves for non-linear thought may support improved linear output
 ---
-Một cách để điều hướng nghịch lý vốn có trong [[Prefer linear work products but non-linear working environments|Ưu tiên sản phẩm công việc tuyến tính nhưng môi trường làm việc phi tuyến tính]]: bằng cách cung cấp các cấu trúc phi tuyến tính cho công việc đang tiến hành, bạn tạo ra một van xả cho tư duy ngoài lề — điều này lại có thể giải phóng tác giả để tập trung vào dòng suy nghĩ "chính" của họ.
+Một cách để điều hướng nghịch lý vốn có trong việc ưu tiên sản phẩm công việc tuyến tính nhưng môi trường làm việc phi tuyến tính: bằng cách cung cấp các cấu trúc phi tuyến tính cho công việc đang tiến hành, bạn tạo ra một van xả cho tư duy ngoài lề — điều này lại có thể giải phóng tác giả để tập trung vào dòng suy nghĩ "chính" của họ.
 
 Ví dụ, trên bảng trắng hoặc trong sổ tay, nếu bạn đang phát triển một danh sách gạch đầu dòng hoặc sơ đồ "chính" và điều gì đó xuất hiện trong đầu bạn không hoàn toàn phù hợp, bạn chỉ cần viết nó sang bên cạnh và có thể vẽ một mũi tên.
 

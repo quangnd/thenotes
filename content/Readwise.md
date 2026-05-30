@@ -4,7 +4,7 @@ Readwise là một dịch vụ cố gắng giúp bạn duy trì sự gắn kết
 
 Họ dần dần giới thiệu một số tính năng của [[Hệ thống ghi nhớ lặp lại ngắt quãng]]. Trong quá trình đọc qua các đoạn đánh dấu hàng ngày, bạn có thể mượt mà "nâng cấp" những đoạn thú vị thành các câu xóa lấp chỗ trống hoặc thậm chí các câu hỏi/trả lời tùy chỉnh. Đây là một chiến lược thông minh để giới thiệu cho người mới về lặp lại ngắt quãng: sản phẩm mang lại giá trị (nhỏ) nếu bạn hoàn toàn thụ động, nhưng khi người dùng trở nên gắn bó hơn, họ có thể áp dụng nỗ lực tăng dần theo thời gian và nhận được nhiều hơn từ sản phẩm.
 
-![](https://notes.andymatuschak.org/BearImages/4632A341-FBE4-4152-83FE-702FDB245B62-41582-00007A4658D78B9B/cloze-deletion.gif)
+![](Attachments/cloze-deletion.gif)
 
 Lưu ý rằng các hành động phản hồi cốt lõi trong Readwise là các nút điều chỉnh thời điểm hiển thị lại đoạn đánh dấu (sớm hơn, muộn hơn, cuối cùng). Bạn không đánh dấu mình đã nhớ đúng hay sai.
 
@@ -14,7 +14,7 @@ Nhưng mục tiêu *không phải* là tạo ra trí nhớ chi tiết: nó gần
 
 Giao diện chi tiết để quản lý các khoảng cách của các cuốn sách cụ thể này là một điểm tinh tế. Tôi tự hỏi có bao nhiêu người dùng chỉnh sửa những thứ này. Thay vì đặt một giá trị cụ thể, tôi tự hỏi liệu có hợp lý hơn không nếu điều chỉnh chúng dần dần theo thời gian thông qua các tương tác "xem ít hơn" / "xem nhiều hơn" trong quá trình ôn tập (mà họ cũng có?):
 
-![](https://notes.andymatuschak.org/BearImages/DAB6FE9D-4F10-4AB3-BAB0-B8DAD7C0EE38-41582-00007CF7BD7D0379/tuning.gif)
+![](Attachments/tuning.gif)
 
 #### Quản lý ghi chú
 

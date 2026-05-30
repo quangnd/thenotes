@@ -5,9 +5,9 @@ aliases:
 
 Các thao tác "cắt" và "dán" kinh điển của Larry Tesler được đặt tên theo các thao tác vật lý tương ứng mà một tác giả có thể sử dụng khi chỉnh sửa bố cục. Nhưng, như Ted Nelson chỉ ra trong *Geeks Bearing Gifts*, phiên bản kỹ thuật số cứng nhắc và tuần tự, trong khi các hoạt động vật lý vốn dĩ song song và phi chính thức. Khi cắt và dán vật lý, bạn cắt nhỏ công việc, trải ra trên sàn, và sắp xếp lại các mảnh. Trong quá trình đó, chúng sẽ đi qua nhiều cấu hình tạm thời, "không hợp lệ" khi bạn khám phá các kết nối.
 
-![](https://notes.andymatuschak.org/BearImages/6C02605D-1C29-42AB-9C51-AEFB7DB55318-3086-0004CFFC92168664/DW5NK8_VQAAtWQT.jpg)
+![](Attachments/DW5NK8_VQAAtWQT.jpg)
 
-![](https://notes.andymatuschak.org/BearImages/B33F22C4-4DC7-4E8B-BC91-F79A7CA5036F-3086-0004CFF9B97F6D58/DW5NPUeVoAAWPg2.jpg)
+![](Attachments/DW5NPUeVoAAWPg2.jpg)
 
 Thao tác cắt và dán kỹ thuật số tiêu chuẩn ngăn cản tính linh hoạt của quy trình vật lý. Tệ hơn, thậm chí không có phần mềm "cấp chuyên gia" nào cho phép một thứ giống như hành vi ban đầu cho các trường hợp sử dụng tinh vi. Một cách tiếp cận như của LiquidText có thể hiệu quả, nhưng dường như có nhiều vấn đề chưa được giải quyết trong lĩnh vực đó.
 

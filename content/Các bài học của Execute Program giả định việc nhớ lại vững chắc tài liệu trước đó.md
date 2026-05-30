@@ -9,7 +9,7 @@ Tôi đã hỏi [[Gary Bernhardt]] về chi tiết cách giả định này đ�
 
 Theo giao diện của họ: "Giả định đó cho phép chúng tôi viết các bài học ngắn hơn với ít nhắc nhở hơn về các ý tưởng bạn đã học. Nó cũng giúp bạn ít bị mắc kẹt hơn trong các bài học mới." (That assumption allows us to write shorter lessons with fewer reminders of ideas you already learned. It also makes you less likely to get stuck in the new lessons.)
 
-![](https://notes.andymatuschak.org/BearImages/5F593AE4-F4E1-4368-9CA0-18DF859D4235-81351-000669E5FE1BF50C/17C47714-3E7E-46C0-8DF7-E8F7030E40E4.png)
+![](Attachments/17C47714-3E7E-46C0-8DF7-E8F7030E40E4.png)
 
 ---
 

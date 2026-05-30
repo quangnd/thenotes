@@ -14,7 +14,7 @@ Cách trình bày dừng lại ở "Đã học," được đạt được khi ng
 
 Đây là bảng điều khiển khóa học trên Execute Program:
 
-![](https://notes.andymatuschak.org/BearImages/B2AEA086-FE1F-4C3A-BB01-88D3AAF8DF9E-84912-00071D01C28BEF2F/1F58F4DA-1552-49BD-B204-F4B977FEF54A.png)
+![](Attachments/1F58F4DA-1552-49BD-B204-F4B977FEF54A.png)
 
 Vòng tròn phía trên đại diện cho tỷ lệ bài học trong khóa đã ở trạng thái Đã học. Vậy bạn "hoàn thành" khóa học khi tất cả bài học đều ở trạng thái Đã học, ngay cả khi khoảng cách SRS của chúng chỉ là một hoặc hai ngày.
 

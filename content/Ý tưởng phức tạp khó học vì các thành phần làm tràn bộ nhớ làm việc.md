@@ -5,7 +5,7 @@ aliases:
 
 Ý tưởng thường được xây trên những ý tưởng khác. Một số kết hợp trực tiếp vài hiểu biết có sẵn, số khác lại khó diễn đạt nếu thiếu ký hiệu hoặc thuật ngữ riêng. Khi một ý tưởng có ít thứ phụ thuộc, bạn có thể giới thiệu hết các thành phần rồi nói thẳng vào ý tưởng đó. Ví dụ: xanh là đi, đỏ là dừng, đèn xanh hay đỏ chỉ sang phải nghĩa là bạn được phép hoặc không được phép rẽ phải.
 
-Nhưng nếu bạn vừa bị quăng vào cả một "sở thú" thuật ngữ mới, khả năng cao bạn sẽ không tiếp thu nổi một câu nhồi nhiều thuật ngữ đó cùng lúc. [[Working memory|Bộ nhớ làm việc]] không xử lý nổi từng đó thứ một lần, và bạn cũng chưa kịp mã hóa thuật ngữ nào thành thứ gì bền hơn.
+Nhưng nếu bạn vừa bị quăng vào cả một "sở thú" thuật ngữ mới, khả năng cao bạn sẽ không tiếp thu nổi một câu nhồi nhiều thuật ngữ đó cùng lúc. [[Khoảng bộ nhớ làm việc|Bộ nhớ làm việc]] không xử lý nổi từng đó thứ một lần, và bạn cũng chưa kịp mã hóa thuật ngữ nào thành thứ gì bền hơn.
 
 Vấn đề không chỉ là thời gian. [[Người ta quên gần hết những gì đã đọc mà không hề hay biết]], nên kể cả khi bạn dành đủ thời gian tiếp thu các ý tiên quyết, bạn vẫn sẽ quên kha khá.
 

@@ -8,8 +8,6 @@ Zotero và các phần mềm tương tự định hướng tổng quan tài li�
 
 Các tác giả đã tạo nguyên mẫu một hệ thống phần mềm, *Knowledge Compressor* ([video](https://vimeo.com/354474886)), tập trung vào các luận điểm có căn cứ thay vì bài báo. Nó tăng cường trải nghiệm đọc PDF với một công cụ cho phép người đọc tóm tắt một đoạn trích bằng một luận điểm ngắn, sau đó kết nối những luận điểm đó (giờ đóng vai trò như các tay nắm) với các luận điểm liên quan từ các bài báo khác.
 
-![](https://notes.andymatuschak.org/BearImages/8148E29D-52ED-4A59-95D3-CAED285961FD-32894-000123ADA2A525D9/43D42D08-9FAF-4C91-B83F-CC2668E39AF6.png)
-
 H. Tạo một luận điểm có căn cứ (như mô tả bởi Qian và cộng sự). Tạo một luận điểm bạn chưa sử dụng trước đó.
 Đ. (ví dụ: Dung lượng kênh truyền của con người tăng gần như tuyến tính khi kích thước khối tăng, theo khảo sát của Miller 1956 về các ví dụ khác nhau qua các phương thức và quy mô)
 

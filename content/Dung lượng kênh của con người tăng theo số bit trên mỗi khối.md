@@ -6,7 +6,7 @@ Một giải pháp phổ biến cho [[Dung lượng kênh của con người v�
 
 Trong hình này mô tả dữ liệu từ Pollack (1953), dung lượng kênh mở rộng gần như tuyến tính với số bit trên mỗi khối (Miller, 1956, tr. 92).
 
-![](https://notes.andymatuschak.org/BearImages/8C535948-19D5-4CB7-91D7-6279BC04B55F-84615-0002BE396DE9900C/D1D6C134-0ADF-461B-A6CB-3207BCE86933.png)
+![](Attachments/D1D6C134-0ADF-461B-A6CB-3207BCE86933.png)
 
 Hiệu ứng này vẫn bị giới hạn bởi [[Khoảng phán đoán tuyệt đối]], vì vậy để mở rộng số bit trên mỗi khối vượt quá 5, bạn sẽ cần làm cho các khối đa chiều ([[Dung lượng kênh của con người tăng theo số chiều kích thích]]).
 

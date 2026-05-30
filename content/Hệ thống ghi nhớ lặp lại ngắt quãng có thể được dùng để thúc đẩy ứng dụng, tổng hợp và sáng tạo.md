@@ -4,7 +4,7 @@ aliases:
 ---
 Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như Anki chủ yếu được thiết kế để giúp mọi người ghi nhớ nhiều kiến thức khai báo, như từ vựng. Nhưng các cơ chế tương tự có thể được sử dụng để tạo các thẻ tương đối khác thường nhằm thúc đẩy ứng dụng, tổng hợp và sáng tạo.
 
-![](https://notes.andymatuschak.org/BearImages/7B966008-E4E2-48DD-B98A-0CA99C16A2A7-2972-00008CA3A3B8A7D9/DYDdBJMVMAAobpq.jpeg)
+![](Attachments/DYDdBJMVMAAobpq.jpeg)
 
 Một giới hạn của những loại câu hỏi này là vì *bạn* là người viết chúng, bạn phải để bối cảnh tương đối mơ hồ: "áp dụng lăng kính của chủ nghĩa vị lợi vào một quyết định gần đây", thay vì "áp dụng lăng kính của chủ nghĩa vị lợi vào án tử hình." Câu hỏi sau không hữu ích lắm nếu bạn đã viết nó: bạn đã suy nghĩ qua câu trả lời rồi, nên thực chất nó chỉ là một câu nhắc ghi nhớ khi bạn nhìn lại sau này. Giới hạn này làm cho ý tưởng được mô tả ở đây trở nên hứa hẹn: [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]].
 

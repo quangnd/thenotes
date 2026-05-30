@@ -9,7 +9,7 @@ Học viên của [[Execute Program]] không thể truy cập ngay tất cả c�
 
 Đây là cách giao diện của họ giải thích cơ chế này:
 
-![](https://notes.andymatuschak.org/BearImages/7CE3821A-57EF-4C93-BFA8-CA5BD167EBC4-81351-00066A3B09489919/17C47714-3E7E-46C0-8DF7-E8F7030E40E4.png)
+![](Attachments/844BD1B2_17C47714-3E7E-46C0-8DF7-E8F7030E40E4.png)
 
 Cách tiếp cận này gợi ý một hiện thực hóa của [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]: thay vì viết sách giáo khoa, hãy viết một chuỗi các bài học siêu tập trung, và đẩy chúng đến người học theo thời gian khi họ củng cố kiến thức.
 

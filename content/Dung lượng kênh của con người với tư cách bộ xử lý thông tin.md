@@ -5,7 +5,7 @@ aliases:
 
 Một cách để xem xét giới hạn xử lý thông tin của con người là hỏi một người có thể tái tạo bao nhiêu thông tin từ một kích thích mà họ quan sát. Trong khung này, chúng ta có thể mô hình hóa người quan sát như một kênh truyền thông sử dụng các công cụ từ lý thuyết thông tin. Hình này (Pollack, 1953, trang 422) mô tả mô hình:
 
-![](https://notes.andymatuschak.org/BearImages/9119F79E-226A-4444-812A-95ECE478725D-84615-0002BE6722045500/54B6FF53-D8F9-4EF4-9637-501FC3D620C7.png)
+![](Attachments/54B6FF53-D8F9-4EF4-9637-501FC3D620C7.png)
 
 Một kênh truyền thông hoàn hảo có thể tái tạo bất kỳ đầu vào nào bạn đưa cho nó. Trong thực tế, hầu hết các kênh (bao gồm con người) tạo ra nhiều lỗi hơn khi đầu vào chứa nhiều thông tin hơn. Hành vi này thường tiệm cận: một kênh truyền đầu vào một cách hoàn hảo cho đến một ngưỡng nào đó. Quá ngưỡng đó, mà chúng ta gọi là {*dung lượng kênh*}, mối tương quan giữa đầu ra và đầu vào giảm, và tổng số bit thông tin được truyền giữ nguyên.
 
@@ -13,7 +13,7 @@ Các thí nghiệm về [[Khoảng phán đoán tuyệt đối]] của con ngư�
 
 Ví dụ, đây là một hình từ Miller (1956, trang 83), sử dụng dữ liệu thực nghiệm từ Pollack (1952, 1953) về phán đoán tuyệt đối của con người về cao độ, được đặt lại khung với cách tiếp cận lý thuyết thông tin.
 
-![](https://notes.andymatuschak.org/BearImages/DA4C7164-D6A1-4071-9E7A-A3FB315492B7-30732-0002A0FA5EE4ABE5/3D12BA5B-64F8-4AD4-8D08-1BE3F86CBCB8.png)
+![](Attachments/3D12BA5B-64F8-4AD4-8D08-1BE3F86CBCB8.png)
 
 ---
 

@@ -7,7 +7,7 @@ Giải thích một câu cho báo chí của họ:
 
 Nhưng đó hoàn toàn không phải cách Kawara tự giới thiệu với người tiêu dùng:
 
-![](https://notes.andymatuschak.org/BearImages/6BD81879-3C0A-4C62-8F38-95DEBDC179A0-441-00004BFAFA09EDF0/03661BA3-8673-4271-8B8D-6A586C3472FE.png)
+![](Attachments/03661BA3-8673-4271-8B8D-6A586C3472FE.png)
 
 Đây là về trí nhớ, theo một nghĩa nào đó, nhưng theo cách nhẹ nhàng: "kawara doesn't let me {forget}, but doesn't {pressure} me to {remember}." (kawara không để tôi {quên}, nhưng cũng không {ép buộc} tôi phải {nhớ}.) Xem [[Cơ chế lặp lại ngắt quãng tạo ra cảm giác dễ dàng]].
 
@@ -19,7 +19,7 @@ Nó được tạo ra bởi {Jon-Kyle Mohr}, một nghệ sĩ-công nghệ có t
 
 Không có "cơ chế tiến trình" nào cả, và không có điều chỉnh động về nhịp độ. Bạn được yêu cầu chọn nhịp độ khi thêm một mục, và vậy là xong. Tôi cảm thấy đây là một lựa chọn kỳ lạ: tôi thường không biết khi lần đầu nhìn thấy thứ gì đó tôi muốn thấy nó bao lâu một lần. Phải chọn cảm thấy nặng nề và khó chịu. Tôi không nghĩ mình thường sẽ chọn đúng. Và việc điều chỉnh khoảng thời gian trực tiếp thì rất rườm rà. Nhưng có lẽ đây là tối ưu hóa quá mức. Có lẽ một lựa chọn khoảng thời gian theo bản năng thô là ổn, đặc biệt đối với các bộ sưu tập nhỏ?
 
-![](https://notes.andymatuschak.org/BearImages/72664B23-3FAA-4FC3-B603-71320FCB8BB3-441-00004B932EAC3154/E2643683-6110-421B-BD98-96D780CA8EBF.png)
+![](Attachments/E2643683-6110-421B-BD98-96D780CA8EBF.png)
 
 Q. Khoảng thời gian của các mục trong Kawara được đặt như thế nào?
 A. Chúng được người dùng chỉ định thủ công tại thời điểm nhập liệu.
@@ -36,25 +36,25 @@ Việc nhấn mạnh vào việc quay lại những thứ bạn thấy thú vị
 >
 > (Bằng cách sử dụng các khoảng thời gian để tạo nhịp điệu, chúng ta có thể giữ nó lành mạnh hơn một chút, và tận dụng tốt hơn khoảng thời gian ít ỏi chúng ta có. Kawara cho phép bạn theo dõi bất cứ điều gì, ở bất cứ đâu theo thời gian của riêng bạn — từ vài ngày một lần đến vài tháng một lần. Thay vì cập nhật liên tục, nó cung cấp cho bạn một bộ sưu tập hàng ngày và không cập nhật lại cho đến ngày hôm sau. Tất cả đúng lúc: Kawara.)
 
-![](https://notes.andymatuschak.org/BearImages/1FD7F761-EFC5-443C-81B4-00C0F0520E6C-441-00004B6ADE5E7833/kawara-collection.png)
+![](Attachments/kawara-collection.png)
 
-![](https://notes.andymatuschak.org/BearImages/493EA0D9-B031-429C-AA5E-1F0346A2D609-441-00004B7A41D79818/kawara-editor.png)
+![](Attachments/kawara-editor.png)
 
 Họ có một hình ảnh trực quan về nhịp điệu rất thú vị:
 
-![](https://notes.andymatuschak.org/BearImages/52886CF1-E709-4183-BE1C-9969B2BF5FCE-441-00004B6F60B232D9/kawara-timeline-dark.png)
+![](Attachments/kawara-timeline-dark.png)
 
 Tôi không thực sự biết cách đọc điều này, nhưng nó chắc chắn gợi cảm xúc.
 
-![](https://notes.andymatuschak.org/BearImages/A7FF7530-D786-4C86-851E-70E86FF5B909-441-00004CD240FB14FA/IMG_2715.png)
+![](Attachments/IMG_2715.png)
 
-![](https://notes.andymatuschak.org/BearImages/5587229B-DFEB-4F5E-8AF9-2F35CBB56454-441-00004CD2415B4268/IMG_2716.png)
+![](Attachments/IMG_2716.png)
 
-![](https://notes.andymatuschak.org/BearImages/04AB39F9-1552-4F4A-9B2A-6A890F666CCF-441-00004CD241ADA5FF/IMG_2718.png)
+![](Attachments/IMG_2718.png)
 
-![](https://notes.andymatuschak.org/BearImages/EE1C975B-0DF5-4F47-A32F-F2C0DFE57E00-441-00004CD241F9A399/IMG_2719.png)
+![](Attachments/IMG_2719.png)
 
-![](https://notes.andymatuschak.org/BearImages/B5073563-DA42-403E-B817-64469F0BF4EE-441-00004CD242437E20/IMG_2720.png)
+![](Attachments/IMG_2720.png)
 
 ---
 

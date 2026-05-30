@@ -13,7 +13,7 @@ Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý d�
 
 Tôi cũng dùng tập giấy này để [[Viết về thứ mình đọc]]. Khi đọc sách, tôi ghi lại những điểm thú vị vào đây. Mỗi ý tưởng một trang, như trên. Tôi thêm cả số trang và ngày.
 
-![](https://notes.andymatuschak.org/BearImages/7E529679-D8E0-4196-A54F-F16DA1813F35-381-00001E868353475D/09985A95-428D-49C6-B1B9-9A9126FFC900.png)
+![](Attachments/09985A95-428D-49C6-B1B9-9A9126FFC900.png)
 
 Tập giấy gọn, bỏ túi dễ, bìa vinyl bền, nên tôi luôn mang theo một cái cùng với bút.
 

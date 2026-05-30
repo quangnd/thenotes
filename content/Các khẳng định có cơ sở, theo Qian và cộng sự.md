@@ -9,7 +9,7 @@ Khái niệm này liên quan đến thực hành của tôi trong việc phân t
 
 Hình minh họa này (Qian và cộng sự, 2019) thể hiện một khẳng định với ngữ cảnh cơ sở của nó:
 
-![](https://notes.andymatuschak.org/BearImages/32B98070-DB0A-40E1-AD5E-0D27A01436D2-32894-00012338D44DD142/ABE6921F-3875-4A56-AE08-B8784E108A24.png)
+![](Attachments/ABE6921F-3875-4A56-AE08-B8784E108A24.png)
 
 ---
 
