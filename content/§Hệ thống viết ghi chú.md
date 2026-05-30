@@ -43,7 +43,7 @@ aliases:
 		- [[Hầu hết mọi người chỉ ghi chú tạm thời]]
 		- [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]
 	- [[Ghi chú thường xanh nên hướng khái niệm]]
-		- [[Ghi chú thường xanh nên atomic]]
+		- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]
 		- [[Tiêu đề ghi chú thường xanh giống như API]]
 			- [[Ưu tiên tiêu đề ghi chú tích cực để xây lý thuyết có hệ thống]]
 			- [[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm]]

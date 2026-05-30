@@ -7,7 +7,7 @@ aliases:
 
 Viết ra ghi chú đáng để bồi đắp lâu dài không dễ. Mấy nguyên tắc sau giúp ích:
 
-- [[Ghi chú thường xanh nên atomic]]
+- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]
 - [[Ghi chú thường xanh nên hướng khái niệm]]
 - [[Ghi chú thường xanh nên liên kết dày đặc]]
 - [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]

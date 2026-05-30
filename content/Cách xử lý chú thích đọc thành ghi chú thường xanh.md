@@ -9,7 +9,7 @@ Trước hết: nên viết những ghi chú nào? Chúng ta sẽ viết [[Ghi c
 Khi đã có bức tranh về các khái niệm, bắt đầu quy trình viết ghi chú theo vòng lặp. Tôi tóm tắt lại quy trình của Christian Tietze ở đây, đang áp dụng và điều chỉnh dần:
 
 1. **Viết một ghi chú tổng quát** nắm bắt "ý tưởng lớn" của một cụm.
-	- Có nhiều ý tưởng lớn? Viết nhiều ghi chú tổng quát để giữ [[Ghi chú thường xanh nên atomic]].
+	- Có nhiều ý tưởng lớn? Viết nhiều ghi chú tổng quát để giữ [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]].
 2. **Viết các ghi chú chi tiết hơn**: rà qua từng mẩu ghi chú trong cụm. Viết các ghi chú nắm bắt những ý tưởng nguyên tử tinh tế hơn trong cụm đó.
 3. **Kết nối**: tìm các ghi chú cũ liên quan đến ghi chú mới này. Liên kết, hợp nhất, sửa đổi khi cần để phản ánh cách hiểu tổng hợp mới của bạn về các ý tưởng đó.
 	- Xem [[Ghi chú thường xanh nên liên kết dày đặc]] và [[Tạo dàn ý suy đoán trong khi viết]].

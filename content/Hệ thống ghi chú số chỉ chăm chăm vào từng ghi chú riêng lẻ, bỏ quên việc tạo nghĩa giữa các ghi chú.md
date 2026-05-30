@@ -9,7 +9,7 @@ Ngược lại, [[Hệ thống viết ghi chú]] số xoay quanh trải nghiệm
 
 Backlink là một dạng tầm nhìn ngoại vi yếu, có ích, nhưng chủ yếu là cách để thay đổi ghi chú đang mở, không phải công cụ hiệu quả để tạo nghĩa qua nhiều ghi chú. [[Liên kết ngược theo ngữ cảnh]] có ích hơn: trong danh sách kiểu đó, ít nhất có thể thấy đoạn trích của nhiều ghi chú cùng lúc. Nhưng nếu điều hướng qua các backlink trong lúc tạo nghĩa từ cấu trúc, tính bền vững của đối tượng sẽ mất. Liên quan: [[Khó điều hướng đến các “láng giềng” chưa được liên kết trong hệ thống ghi chú liên kết]]
 
-Đọc lại một ghi chú sau một thời gian, tôi luôn có cảm giác bất an rằng nó là một phần của "tổng thể" nào đó mà mình không nhìn thấy được. Ở đây, cách làm mô tả trong [[Ghi chú thường xanh nên atomic]] lại quay ra chống lại tôi. Nếu làm việc với thẻ giấy, tôi sẽ rút một loạt ra bàn và sắp xếp lại. Việc xáo trộn các ghi chú giúp tôi hiểu cấu trúc. Phiên bản số tương đương cho việc này gần như không tồn tại.
+Đọc lại một ghi chú sau một thời gian, tôi luôn có cảm giác bất an rằng nó là một phần của "tổng thể" nào đó mà mình không nhìn thấy được. Ở đây, cách làm mô tả trong [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]] lại quay ra chống lại tôi. Nếu làm việc với thẻ giấy, tôi sẽ rút một loạt ra bàn và sắp xếp lại. Việc xáo trộn các ghi chú giúp tôi hiểu cấu trúc. Phiên bản số tương đương cho việc này gần như không tồn tại.
 
 ---
 

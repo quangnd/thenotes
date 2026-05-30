@@ -5,7 +5,7 @@ aliases:
 
 Khi vừa có một linh cảm mơ hồ về ý tưởng mới, ta dễ muốn ghi lại ngay rồi phát triển nó tại chỗ. Nhưng thường thì cách đó không khả thi, cả về mặt thực tế lẫn cảm xúc. Ý tưởng có thể chưa đủ rõ để xử lý trực tiếp. Trang giấy trắng dễ làm ta chùn tay, các luận điểm vẫn còn mơ hồ.
 
-Thay vì vậy, hãy nuôi ý tưởng táo bạo từ từ bằng cách viết dần các [[Ghi chú thường xanh]] về từng khía cạnh nhỏ. Những ghi chú này có phạm vi hẹp hơn nhiều, chỉ cần mô tả một khái niệm nguyên tử ([[Ghi chú thường xanh nên atomic]], [[Ghi chú thường xanh nên hướng khái niệm]]).
+Thay vì vậy, hãy nuôi ý tưởng táo bạo từ từ bằng cách viết dần các [[Ghi chú thường xanh]] về từng khía cạnh nhỏ. Những ghi chú này có phạm vi hẹp hơn nhiều, chỉ cần mô tả một khái niệm nguyên tử ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]], [[Ghi chú thường xanh nên hướng khái niệm]]).
 
 Ban đầu ý tưởng không cần liên quan đến bất kỳ dòng suy nghĩ nào sẵn có. Theo thời gian, ta dần kết nối nó với các khái niệm khác, cũ hoặc mới. Xem thêm: [[Dùng lặp lại ngắt quãng để nuôi dần những ý tưởng mơ hồ]].
 

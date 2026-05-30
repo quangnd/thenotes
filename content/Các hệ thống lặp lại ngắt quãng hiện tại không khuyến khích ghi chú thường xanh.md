@@ -3,7 +3,7 @@ aliases:
   - Existing spaced repetition systems discourage evergreen notes
 ---
 
-Mặc dù các ghi chú trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có tính nguyên tử giống như [[Ghi chú thường xanh]] ([[Ghi chú thường xanh nên atomic]]), chúng theo nhiều cách là *quá* nguyên tử hóa ([[Prompt ghi nhớ lặp lại ngắt quãng truyền thống bị tách rời]]). Hình thức này không khuyến khích tổng hợp và chưng cất gia tăng.
+Mặc dù các ghi chú trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có tính nguyên tử giống như [[Ghi chú thường xanh]] ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]), chúng theo nhiều cách là *quá* nguyên tử hóa ([[Prompt ghi nhớ lặp lại ngắt quãng truyền thống bị tách rời]]). Hình thức này không khuyến khích tổng hợp và chưng cất gia tăng.
 
 Các câu hỏi trôi nổi trong một đám sương mù không phân biệt, tách rời khỏi bất kỳ bối cảnh có ý nghĩa nội tại nào và không liên kết với các láng giềng liên quan ([[Ghi chú thường xanh nên liên kết dày đặc]]), và không đặc biệt nhằm để truy cập ngoài trải nghiệm ôn tập. Chúng không nhằm là các đơn vị bền vững, phát triển; chúng nhằm là mảnh vụn dùng xong bỏ. Tất cả điều này có thể ổn, nếu chúng có mối quan hệ rõ ràng với một hệ thống riêng biệt cho [[Ghi chú thường xanh]], nhưng chúng không có.
 

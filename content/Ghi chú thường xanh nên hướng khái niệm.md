@@ -5,7 +5,7 @@ aliases:
 
 Nên chia [[Ghi chú thường xanh]] theo khái niệm, không theo tác giả, sách, sự kiện, dự án hay chủ đề. Làm vậy, ta phát hiện ra các kết nối xuyên sách, xuyên lĩnh vực khi cập nhật và liên kết ghi chú theo thời gian ([[Ghi chú thường xanh nên liên kết dày đặc]]).
 
-Cách ghi chú đơn giản nhất là mở một ghi chú mới cho mỗi cuốn sách, mỗi dự án, hoặc mỗi chủ đề nghiên cứu. Vì mỗi ghi chú gộp nhiều khái niệm, sau này khó tìm lại những gì đã viết khi một khái niệm xuất hiện trở lại. Ta phải nhớ tên từng cuốn sách hoặc dự án đã đề cập đến nó (ngược lại: [[Ghi chú thường xanh nên atomic]]).
+Cách ghi chú đơn giản nhất là mở một ghi chú mới cho mỗi cuốn sách, mỗi dự án, hoặc mỗi chủ đề nghiên cứu. Vì mỗi ghi chú gộp nhiều khái niệm, sau này khó tìm lại những gì đã viết khi một khái niệm xuất hiện trở lại. Ta phải nhớ tên từng cuốn sách hoặc dự án đã đề cập đến nó (ngược lại: [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]).
 
 Đọc cuốn sách khác cũng bàn về khái niệm đó, ta lại viết ghi chú mới cho cuốn sách mới. Cách này không tạo ra tích lũy (trái với [[Công việc tri thức nên tích lũy]]). Suy nghĩ mới về khái niệm không kết hợp được với suy nghĩ cũ để tạo ra thứ gì mạnh hơn. Cuối cùng chỉ còn một tập hợp ghi chú rải rác về cùng một khái niệm, có khi gọi nó bằng nhiều tên khác nhau, mỗi ghi chú lại nằm lẫn trong một tài liệu lớn hơn.
 

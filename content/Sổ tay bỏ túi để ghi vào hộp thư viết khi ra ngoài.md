@@ -9,7 +9,7 @@ Những ghi chú này không ở lại trong tập giấy. Nó là một hộp t
 
 **Tôi xé tờ ngay khi xử lý xong, nên luôn biết trạng thái của tập giấy: trang nào còn chữ là trang chưa xử lý.**
 
-Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Ghi chú thường xanh nên atomic]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi tâm thế xử lý rất khác nhau.
+Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi tâm thế xử lý rất khác nhau.
 
 Tôi cũng dùng tập giấy này để [[Viết về thứ mình đọc]]. Khi đọc sách, tôi ghi lại những điểm thú vị vào đây. Mỗi ý tưởng một trang, như trên. Tôi thêm cả số trang và ngày.
 

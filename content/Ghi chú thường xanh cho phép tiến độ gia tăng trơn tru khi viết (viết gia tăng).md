@@ -3,7 +3,7 @@ aliases:
   - Evergreen notes permit smooth incremental progress in writing (“incremental writing”)
 ---
 
-Kích thước nguyên tử của ghi chú thường xanh ([[Ghi chú thường xanh nên atomic]]) cùng cấu trúc liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) khiến việc dừng và tiếp tục công việc trở nên dễ dàng. Nhờ vậy ta [[Đóng các vòng lặp còn mở]].
+Kích thước nguyên tử của ghi chú thường xanh ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]) cùng cấu trúc liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) khiến việc dừng và tiếp tục công việc trở nên dễ dàng. Nhờ vậy ta [[Đóng các vòng lặp còn mở]].
 
 Mỗi ghi chú nhỏ, khép kín là một điểm kiểm tra. Viết một ghi chú chỉ mất vài phút, nhưng vì nó là [[Ghi chú thường xanh]], mỗi ghi chú là nền tảng vững chắc để đứng lên, khá hoàn chỉnh trong khái niệm riêng của nó ([[Ghi chú thường xanh nên hướng khái niệm]]). Tất nhiên theo thời gian ta sẽ quay lại tinh chỉnh nội dung, nhưng sau mỗi lần như vậy, ghi chú vẫn là một đơn vị khép kín, gần như hoàn chỉnh.
 
