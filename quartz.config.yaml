@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: ✍️ The notes
+  pageTitle: The note
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,6 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: EB Garamond
       header: Schibsted Grotesk
       body: Be Vietnam Pro
       code: IBM Plex Mono

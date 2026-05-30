@@ -101,3 +101,90 @@ body blockquote {
     padding-top: 2.5rem;
   }
 }
+
+// ── Page title weight ─────────────────────────────────────────────────────
+// The title is an <h2>, so it inherits bold. EB Garamond reads more elegant at
+// regular weight (and 400 is the weight we load). Mobile keeps this plain look.
+.page-title a {
+  font-weight: 400;
+}
+
+// ── Illuminated (ornamental) page title ───────────────────────────────────
+// Two self-hosted EB Garamond Initials layers (from the OFL EB Garamond
+// project) reproduce turntrout's two-colour drop-cap technique:
+//   F1 = the floral embellishment, F2 = the bare letter.
+// The <a> renders the title in F1 (embellishment colour); a ::before overlays
+// the same string in F2 (dark) on top, so each letter reads as letter-on-vines.
+// Single-token family names (no spaces) so the CSS minifier can't strip
+// quotes and break the @font-face match.
+@font-face {
+  font-family: EBGaramondInitialsF1;
+  src: url("static/fonts/EBGaramondInitialsF1.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: EBGaramondInitialsF2;
+  src: url("static/fonts/EBGaramondInitialsF2.woff2") format("woff2");
+  font-display: swap;
+}
+
+// Desktop sidebar only: ornate two-colour title. On mobile the title sits
+// inline next to the hamburger and stays plain.
+@media all and (min-width: 800px) {
+  .page-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  // Embellishment layer: the title text itself, in F1. The two initials fonts
+  // share a 1000-unit em square, so the F2 overlay aligns glyph-for-glyph.
+  // The selector outruns quartz-themes' `html[saved-theme] h2.page-title a`
+  // (0,2,3) on specificity, so no !important is needed. (Avoid !important here:
+  // the minifier glues `serif !important` and, with a var() in the value, Chrome
+  // then drops the whole declaration.) letter-spacing/line-height are pinned so
+  // the F2 overlay stays aligned with this base layer.
+  html[saved-theme] body h2.page-title a {
+    position: relative;
+    display: inline-block;
+    // Wrap one word per line and centre each line. Width fits the longest word
+    // ("NOTE") in both F1 and F2 but not "THE NOTE", so both layers break at the
+    // same point; equal glyph widths then land the letters on the vines,
+    // sidestepping the F1/F2 space-width mismatch. Negative tracking pulls the
+    // floral blocks together so the vines hug the word instead of sprawling.
+    width: 4.6em;
+    white-space: normal;
+    text-align: center;
+    font-family: EBGaramondInitialsF1, "EB Garamond", serif;
+    font-size: 3rem;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+    margin: 0;
+    text-transform: uppercase;
+    color: var(--gray); // embellishment (vines) in grey for a black-and-white look
+  }
+
+  // Letter layer: the same string in F2, overlaid exactly on top, in dark.
+  // NOTE: keep this string in sync with `pageTitle` in quartz.config.yaml.
+  html[saved-theme] body h2.page-title a::before {
+    content: "The note";
+    position: absolute;
+    inset: 0;
+    font-family: EBGaramondInitialsF2, "EB Garamond", serif;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--dark);
+    pointer-events: none;
+  }
+}
+
+// ── Explorer (left sidebar) menu weight ───────────────────────────────────
+// The theme styles all links `a { font-weight: 600 }`, which bolds the file
+// tree. Reset the sidebar's file/folder items to regular weight. The two-class
+// selector outranks the bare `a` rule, so no !important is needed.
+.explorer .nav-file-title,
+.explorer .nav-folder-title {
+  font-weight: 400;
+}
