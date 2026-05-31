@@ -3,7 +3,7 @@ aliases:
   - Knowledge work
 ---
 
-Sau khi Fritz Machlup đưa ra khái niệm "các ngành công nghiệp tri thức" như một mối quan tâm kinh tế lớn của Mỹ năm 1962, Peter Drucker gọi tên những hoạt động đó là "công việc tri thức" (knowledge work) vào năm 1969. ==Hoặc có thể là năm 1966 trong *The Effective Executive*, cần kiểm tra lại==
+Sau khi Fritz Machlup đưa ra khái niệm "các ngành công nghiệp tri thức" như một mối quan tâm kinh tế lớn của Mỹ năm 1962, [[Peter Drucker]] gọi tên những hoạt động đó là "công việc tri thức" (knowledge work) vào năm 1969. ==Hoặc có thể là năm 1966 trong *The Effective Executive* (TODO: cần kiểm tra lại)==
 
 Machlup chỉ ra rằng năm 1962, 29% GDP Mỹ đến từ "ngành công nghiệp tri thức".
 

@@ -51,7 +51,9 @@ jobs:
         run: npx quartz plugin install
 
       - name: Apply local Quartz plugin patches
-        run: bash scripts/patch-quartz-plugins.sh
+        run: |
+          bash scripts/patch-quartz-plugins.sh
+          node scripts/patch-quartz-slugify.mjs
 
       - name: Build Quartz
         run: npx quartz build

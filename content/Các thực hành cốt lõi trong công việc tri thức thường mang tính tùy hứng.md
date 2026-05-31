@@ -3,7 +3,7 @@ aliases:
   - Core practices in knowledge work are often ad-hoc
 ---
 
-Công việc thường ngày của người làm [[Công việc tri thức]] thường bao gồm các nhiệm vụ phức tạp, không rõ ràng như tìm hiểu kiến thức cơ bản về một ngành mới hoặc viết một bản ghi nhớ về một vấn đề chiến lược nào đó. Ngay cả khi những trách nhiệm này là cốt lõi trong công việc, cách tiếp cận của người làm công việc tri thức đối với các nhiệm vụ này thường mang tính tùy hứng—được tạo ra tại chỗ dựa trên kinh nghiệm trước đó, bản năng, châm ngôn, và cảm hứng nhất thời. Những thực hành này là đối lập của một [[Chiến lược thực thi]].
+Công việc thường ngày của người làm [[Công việc tri thức]] thường bao gồm các nhiệm vụ phức tạp, không rõ ràng như tìm hiểu kiến thức cơ bản về một ngành mới hoặc viết một bản ghi nhớ về một vấn đề chiến lược nào đó. Ngay cả khi những trách nhiệm này là cốt lõi trong công việc, cách tiếp cận của người làm công việc tri thức đối với các nhiệm vụ này thường mang tính tùy hứng, có lẽ được tạo ra tại chỗ dựa trên kinh nghiệm trước đó, bản năng, châm ngôn, và cảm hứng nhất thời. Những thực hành này là đối lập của một [[Chiến lược thực thi]].
 
 Cách làm việc này phụ thuộc rất nhiều vào cả người thực hành và bối cảnh, vì vậy rất khó để người làm công việc tri thức chia sẻ và xây dựng kiến thức về những thực hành này.
 
