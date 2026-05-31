@@ -62,7 +62,7 @@ Tôi nghĩ có một cách đóng khung mạnh hơn việc đặt Cuốn Primer 
 	- Làm việc suy nghĩ, làm cho tốt hơn
 		- [[Người làm công việc tri thức hiếm khi có phương pháp rõ ràng để nuôi ý tưởng theo thời gian]] so với [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
 		- [[Người ta quên gần hết những gì đã đọc mà không hề hay biết]] so với [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]]
-		- x.r. [[§Coi trọng công việc tri thức]]
+		- x.r. [[MOC Coi trọng công việc tri thức]]
 	- Cách tạo ra các hình thức phương tiện tốt hơn
 		- [[Hiểu biết sâu sắc qua việc làm]] và cây con
 	- ==Tôi cần biết nhiều hơn thế này để xuất bản, tôi nghĩ vậy==

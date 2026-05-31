@@ -1,6 +1,6 @@
 {
   "name": "stacked-notes",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "Andy-style horizontally stacked notes (columns) for Quartz v5.",
   "type": "module",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "displayName": "Stacked Notes",
     "description": "Open internal links as horizontally stacked, side-by-side note columns.",
     "category": "component",
-    "version": "0.2.0",
+    "version": "0.4.0",
     "quartzVersion": ">=5.0.0",
     "dependencies": [],
     "defaultOrder": 50,

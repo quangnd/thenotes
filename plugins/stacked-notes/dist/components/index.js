@@ -46,6 +46,15 @@ body.stacked-notes-active { overflow: hidden; }
   box-shadow: -8px 0 24px -12px rgba(0, 0, 0, 0.28);
 }
 
+/* Brief pulse when a click focuses an already-open column (dedupe). */
+.stacked-column.stacked-focus-pulse .stacked-inner {
+  animation: stackedFocusPulse 0.9s ease;
+}
+@keyframes stackedFocusPulse {
+  0%, 100% { box-shadow: inset 0 0 0 0 transparent; }
+  30% { box-shadow: inset 0 0 0 3px var(--secondary); }
+}
+
 /* The vertical spine: the only part visible once a column is covered. */
 .stacked-spine {
   position: absolute;
@@ -127,6 +136,25 @@ body.stacked-notes-active { overflow: hidden; }
   flex: 0 0 auto;
 }
 .stacked-column-close:hover { color: var(--dark); background: var(--lightgray); }
+.stacked-column-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: 0 0 auto;
+}
+.stacked-column-share {
+  appearance: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1;
+  color: var(--gray);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+.stacked-column-share:hover { color: var(--dark); background: var(--lightgray); }
+.stacked-column-share.copied { color: var(--secondary); }
 
 .stacked-column-body {
   flex: 1 1 auto;
@@ -136,7 +164,7 @@ body.stacked-notes-active { overflow: hidden; }
 }
 
 .stacked-column.loading .stacked-column-body::after {
-  content: "Loading\\2026";
+  content: "Đang tải\\2026";
   display: block;
   color: var(--gray);
   padding: 1rem 0;
@@ -237,6 +265,13 @@ function stackedNotesRuntime() {
   var columns = []
   var active = false
   var reqSeq = 0
+  // Mirror the stack into a `?stacked=` query param so every view is a
+  // shareable link. `restoring` suppresses URL writes while we rebuild a
+  // stack from an incoming shared link.
+  var STACK_PARAM = "stacked"
+  var restoring = false
+  var restoreToken = 0
+  var stackIndexCache = null
 
   function getContainer() {
     return document.getElementById(CONTAINER_ID)
@@ -346,7 +381,7 @@ function stackedNotesRuntime() {
     if (h1 && h1.textContent) return h1.textContent.trim()
     var t = scope.querySelector("title")
     if (t && t.textContent) return t.textContent.trim()
-    return "Untitled"
+    return "Không có tiêu đề"
   }
 
   // Re-number columns and set their sticky left offset so each one stacks a
@@ -431,6 +466,263 @@ function stackedNotesRuntime() {
     right.hidden = c.scrollLeft >= maxScroll - 4
   }
 
+  // ── Shareable URL sync ───────────────────────────────────────────────
+  // The live stack is mirrored into a `?stacked=` query param (one URL per
+  // view) via replaceState, so the address bar is always a copy-pasteable link
+  // that reproduces the open columns. Column 0 is the page itself (already in
+  // the path), so only columns[1..] are encoded — as short per-note codes
+  // joined by "~" (e.g. `?stacked=a1b2c3~d4e5f6`) to keep the URL compact.
+  function getStackParam() {
+    try {
+      return new URLSearchParams(window.location.search).get(STACK_PARAM)
+    } catch (e) {
+      return null
+    }
+  }
+
+  // The site root prefix (Quartz basePath), e.g. "" locally or "/thenotes" on
+  // a project page. Used to build fetch URLs for slugs and static assets.
+  function basePrefix() {
+    var bp = ""
+    try {
+      bp = (document.body && document.body.dataset && document.body.dataset.basepath) || ""
+    } catch (e) {}
+    bp = bp.replace(/^\/+/, "").replace(/\/+$/, "")
+    return bp ? "/" + bp : ""
+  }
+
+  // Canonical slug for a note: matches the keys in Quartz's contentIndex.json
+  // (no basePath, no leading/trailing slash, decoded, lowercased).
+  function canonicalSlug(pathOrHref) {
+    var p = pathOrHref
+    try {
+      p = new URL(pathOrHref, window.location.href).pathname
+    } catch (e) {}
+    p = p.split("?")[0].split("#")[0]
+    try {
+      p = decodeURIComponent(p)
+    } catch (e) {}
+    p = p.replace(/^\/+/, "").replace(/\/+$/, "")
+    var bp = basePrefix().replace(/^\/+/, "")
+    if (bp && (p === bp || p.indexOf(bp + "/") === 0)) p = p.slice(bp.length).replace(/^\/+/, "")
+    return p.toLowerCase()
+  }
+
+  function samePath(a, b) {
+    return canonicalSlug(a) === canonicalSlug(b)
+  }
+
+  // Deterministic short code for a slug (6-char base36 hash, cyrb53). Stable
+  // across builds and independent of the note set, so shared links keep working.
+  function shortCode(slug) {
+    var s = String(slug)
+    var h1 = 0xdeadbeef
+    var h2 = 0x41c6ce57
+    for (var i = 0; i < s.length; i++) {
+      var ch = s.charCodeAt(i)
+      h1 = Math.imul(h1 ^ ch, 2654435761)
+      h2 = Math.imul(h2 ^ ch, 1597334677)
+    }
+    h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909)
+    h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909)
+    var n = (4294967296 * (2097151 & h2) + (h1 >>> 0)) % 2176782336 // 36^6
+    return ("000000" + n.toString(36)).slice(-6)
+  }
+
+  // Build a fetchable URL for a canonical slug.
+  function slugToUrl(slug) {
+    return basePrefix() + "/" + String(slug).replace(/^\/+/, "")
+  }
+
+  // Lazily load contentIndex.json once and build a { code: slug } map so shared
+  // links can resolve their short codes back to notes.
+  function loadStackIndex() {
+    if (stackIndexCache) return stackIndexCache
+    stackIndexCache = fetch(basePrefix() + "/static/contentIndex.json")
+      .then(function (res) {
+        if (!res.ok) throw new Error("HTTP " + res.status)
+        return res.json()
+      })
+      .then(function (data) {
+        var map = {}
+        for (var key in data) {
+          if (!Object.prototype.hasOwnProperty.call(data, key)) continue
+          var code = shortCode(canonicalSlug(key))
+          if (!(code in map)) map[code] = key // first wins on the rare collision
+        }
+        return map
+      })
+      .catch(function (e) {
+        stackIndexCache = null // allow a retry on the next restore
+        throw e
+      })
+    return stackIndexCache
+  }
+
+  // Index of an already-open column matching `href` (by canonical slug), or -1.
+  function findOpenColumnIndex(href) {
+    var target = canonicalSlug(href)
+    for (var i = 0; i < columns.length; i++) {
+      if (columns[i] && columns[i].slug && canonicalSlug(columns[i].slug) === target) return i
+    }
+    return -1
+  }
+
+  // Scroll an already-open column into view and pulse it, instead of opening a
+  // duplicate. `sourceCol`/`anchor` (if given) mark the clicked link as active.
+  function focusExistingColumn(c, index, sourceCol, anchor) {
+    if (sourceCol && anchor) setActiveAnchor(sourceCol, anchor)
+    scrollColumnIntoView(c, index)
+    var target = c.querySelector('.stacked-column[data-index="' + index + '"]')
+    if (target) {
+      target.classList.remove("stacked-focus-pulse")
+      // reflow so re-adding the class restarts the animation
+      void target.offsetWidth
+      target.classList.add("stacked-focus-pulse")
+      window.setTimeout(function () {
+        target.classList.remove("stacked-focus-pulse")
+      }, 950)
+    }
+  }
+
+  // Build a URL (path + query + hash) for a given stacked value, preserving any
+  // other query params. The stacked value is appended raw so slashes/commas
+  // stay readable instead of being percent-encoded.
+  function buildUrl(stackValue) {
+    var others = ""
+    try {
+      var sp = new URLSearchParams(window.location.search)
+      sp.delete(STACK_PARAM)
+      others = sp.toString()
+    } catch (e) {}
+    var q = others
+    if (stackValue) q += (q ? "&" : "") + STACK_PARAM + "=" + stackValue
+    return window.location.pathname + (q ? "?" + q : "") + window.location.hash
+  }
+
+  // Short codes for columns 1..end (column 0 is the page itself), joined by "~".
+  function stackValueUpTo(index) {
+    var parts = []
+    var end = typeof index === "number" ? index : columns.length - 1
+    for (var i = 1; i <= end && i < columns.length; i++) {
+      if (columns[i] && columns[i].slug) parts.push(shortCode(canonicalSlug(columns[i].slug)))
+    }
+    return parts.join("~")
+  }
+
+  function syncURL() {
+    if (restoring) return
+    try {
+      var value = active && columns.length > 1 ? stackValueUpTo(columns.length - 1) : ""
+      window.history.replaceState(window.history.state, "", buildUrl(value))
+    } catch (e) {}
+  }
+
+  // Rebuild the stack described by `?stacked=` on the current page (e.g. when a
+  // shared link is opened). The param holds short codes; we resolve them to
+  // slugs via contentIndex.json, then append each column in order after the
+  // base note.
+  // Race-safe: both the initial-load call and Quartz's `nav` event call this,
+  // and a user could navigate mid-rebuild. `restoreToken` lets a newer call
+  // abort an in-flight one; the idempotency check skips rebuilding a stack that
+  // already matches the URL.
+  function restoreFromURL() {
+    var c = getContainer()
+    if (!c) return
+    if (window.innerWidth < cfg(c).mobileBreakpoint) return
+    var desired = getStackParam()
+    if (!desired) return
+    if (active && stackValueUpTo(columns.length - 1) === desired) return
+    var codes = desired
+      .split("~")
+      .map(function (s) {
+        return s.trim()
+      })
+      .filter(Boolean)
+    if (!codes.length) return
+    var token = ++restoreToken
+    loadStackIndex()
+      .then(function (map) {
+        if (token !== restoreToken) return
+        var slugs = codes
+          .map(function (code) {
+            return map[code]
+          })
+          .filter(Boolean)
+        if (!slugs.length) return
+        if (active) deactivate()
+        if (!activate()) return
+        restoring = true
+        var chain = Promise.resolve()
+        slugs.forEach(function (slug) {
+          chain = chain.then(function () {
+            if (token !== restoreToken) return
+            var afterIndex = columns.length - 1
+            var href = slugToUrl(slug)
+            return addColumn(href, afterIndex).then(function () {
+              if (token !== restoreToken) return
+              // Highlight the link in the parent column that points here.
+              var parent = c.querySelector('.stacked-column[data-index="' + afterIndex + '"]')
+              if (parent) setActiveByHref(parent, href)
+            })
+          })
+        })
+        return chain.then(function () {
+          if (token !== restoreToken) return
+          restoring = false
+          syncURL()
+        })
+      })
+      .catch(function () {
+        if (token === restoreToken) restoring = false
+      })
+  }
+
+  // Copy a shareable link to the view truncated at `index` (the share button on
+  // each column header). Index 0 copies the plain page link.
+  function copyShareLink(index, btn) {
+    var rel = buildUrl(stackValueUpTo(index))
+    var abs
+    try {
+      abs = new URL(rel, window.location.href).href
+    } catch (e) {
+      abs = rel
+    }
+    var feedback = function () {
+      if (!btn) return
+      var old = btn.innerHTML
+      btn.classList.add("copied")
+      btn.innerHTML = "&#10003;"
+      window.setTimeout(function () {
+        btn.classList.remove("copied")
+        btn.innerHTML = old
+      }, 1200)
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(abs).then(feedback, function () {
+        fallbackCopy(abs, feedback)
+      })
+    } else {
+      fallbackCopy(abs, feedback)
+    }
+  }
+
+  function fallbackCopy(text, done) {
+    try {
+      var ta = document.createElement("textarea")
+      ta.value = text
+      ta.style.position = "fixed"
+      ta.style.top = "-9999px"
+      ta.style.opacity = "0"
+      document.body.appendChild(ta)
+      ta.focus()
+      ta.select()
+      document.execCommand("copy")
+      document.body.removeChild(ta)
+      if (done) done()
+    } catch (e) {}
+  }
+
   function makeColumn(index, title, contentNode) {
     var col = document.createElement("section")
     // Start open: a freshly made column is always the new right-most one, so
@@ -441,7 +733,7 @@ function stackedNotesRuntime() {
     // Spine (visible when this column is collapsed under a newer one).
     var spine = document.createElement("button")
     spine.className = "stacked-spine"
-    spine.setAttribute("aria-label", "Open note: " + title)
+    spine.setAttribute("aria-label", "Mở ghi chú: " + title)
     spine.title = title
     var spineTitle = document.createElement("span")
     spineTitle.className = "stacked-spine-title"
@@ -462,18 +754,33 @@ function stackedNotesRuntime() {
     tt.className = "stacked-column-title"
     tt.textContent = title
 
+    var share = document.createElement("button")
+    share.className = "stacked-column-share"
+    share.setAttribute("aria-label", "Sao chép liên kết tới khung xem này")
+    share.title = "Sao chép liên kết chia sẻ tới khung xem này"
+    share.innerHTML = "&#128279;"
+    share.addEventListener("click", function (e) {
+      e.stopPropagation()
+      copyShareLink(parseInt(col.dataset.index, 10), share)
+    })
+
     var close = document.createElement("button")
     close.className = "stacked-column-close"
-    close.setAttribute("aria-label", "Close note")
-    close.title = "Close note (Esc closes the last one)"
+    close.setAttribute("aria-label", "Đóng ghi chú")
+    close.title = "Đóng ghi chú (Esc đóng ghi chú cuối)"
     close.innerHTML = "&times;"
     close.addEventListener("click", function (e) {
       e.stopPropagation()
       closeFrom(parseInt(col.dataset.index, 10))
     })
 
+    var actions = document.createElement("div")
+    actions.className = "stacked-column-actions"
+    actions.appendChild(share)
+    actions.appendChild(close)
+
     bar.appendChild(tt)
-    bar.appendChild(close)
+    bar.appendChild(actions)
 
     var body = document.createElement("div")
     body.className = "stacked-column-body"
@@ -490,8 +797,8 @@ function stackedNotesRuntime() {
   function makeNavButtons(c) {
     var navL = document.createElement("button")
     navL.className = "stacked-nav-btn left"
-    navL.setAttribute("aria-label", "Scroll to previous note")
-    navL.title = "Previous note"
+    navL.setAttribute("aria-label", "Cuộn tới ghi chú trước")
+    navL.title = "Ghi chú trước"
     navL.innerHTML = "&#8249;"
     navL.hidden = true
     navL.addEventListener("click", function () {
@@ -500,8 +807,8 @@ function stackedNotesRuntime() {
 
     var navR = document.createElement("button")
     navR.className = "stacked-nav-btn right"
-    navR.setAttribute("aria-label", "Scroll to next note")
-    navR.title = "Next note"
+    navR.setAttribute("aria-label", "Cuộn tới ghi chú tiếp theo")
+    navR.title = "Ghi chú tiếp theo"
     navR.innerHTML = "&#8250;"
     navR.hidden = true
     navR.addEventListener("click", function () {
@@ -531,10 +838,10 @@ function stackedNotesRuntime() {
     hint.className = "stacked-hint"
     var msg = document.createElement("span")
     msg.innerHTML =
-      "<kbd>Esc</kbd> back &middot; click a <strong>spine</strong> to reopen &middot; <kbd>&times;</kbd> close"
+      "<kbd>Esc</kbd> quay lại &middot; nhấp vào tab trái để mở lại &middot; <kbd>&times;</kbd> đóng"
     var x = document.createElement("button")
     x.className = "stacked-hint-close"
-    x.setAttribute("aria-label", "Dismiss hint")
+    x.setAttribute("aria-label", "Bỏ qua gợi ý")
     x.innerHTML = "&times;"
     x.addEventListener("click", function () {
       dismissHint(hint)
@@ -591,6 +898,7 @@ function stackedNotesRuntime() {
     if (!c) return
     if (index <= 0) {
       deactivate()
+      syncURL()
       return
     }
     columns = columns.slice(0, index)
@@ -600,6 +908,7 @@ function stackedNotesRuntime() {
     }
     if (columns.length <= 1) {
       deactivate()
+      syncURL()
       return
     }
     // The note that pointed at the now-removed column has no open child.
@@ -607,6 +916,7 @@ function stackedNotesRuntime() {
     reindex(c)
     scrollToEnd(c)
     updateNav(c)
+    syncURL()
   }
 
   function enforceMax(c) {
@@ -634,16 +944,17 @@ function stackedNotesRuntime() {
     // the new column never flashes as a spine.
     updateOpenState(c)
     scrollToEnd(c)
+    syncURL()
   }
 
   function addColumn(href, afterIndex) {
     var c = getContainer()
-    if (!c) return
+    if (!c) return Promise.resolve()
     var url
     try {
       url = new URL(href, window.location.href)
     } catch (e) {
-      return
+      return Promise.resolve()
     }
 
     // Fetch first and keep the current columns on screen until the content is
@@ -652,7 +963,7 @@ function stackedNotesRuntime() {
     // links are clicked in quick succession.
     var myReq = ++reqSeq
 
-    fetch(url.href)
+    return fetch(url.href)
       .then(function (res) {
         if (!res.ok) throw new Error("HTTP " + res.status)
         return res.text()
@@ -667,20 +978,20 @@ function stackedNotesRuntime() {
         if (!content) {
           var p = document.createElement("p")
           p.className = "stacked-empty"
-          p.textContent = "Could not load this note."
+          p.textContent = "Không thể tải ghi chú này."
           col.querySelector(".stacked-column-body").appendChild(p)
         }
         swapInColumn(c, afterIndex, col, url.pathname, title)
       })
       .catch(function () {
         if (myReq !== reqSeq) return
-        var col = makeColumn(afterIndex + 1, "Failed to load", null)
+        var col = makeColumn(afterIndex + 1, "Tải thất bại", null)
         col.classList.add("error")
         var p = document.createElement("p")
         p.className = "stacked-empty"
-        p.textContent = "Could not load this note."
+        p.textContent = "Không thể tải ghi chú này."
         col.querySelector(".stacked-column-body").appendChild(p)
-        swapInColumn(c, afterIndex, col, url.pathname, "Failed to load")
+        swapInColumn(c, afterIndex, col, url.pathname, "Tải thất bại")
       })
   }
 
@@ -706,11 +1017,20 @@ function stackedNotesRuntime() {
     if (col) {
       e.preventDefault()
       e.stopPropagation()
+      // If the target note is already open, focus that column instead of
+      // opening a duplicate.
+      var existing = findOpenColumnIndex(href)
+      if (existing >= 0) {
+        focusExistingColumn(c, existing, col, a)
+        return
+      }
       setActiveAnchor(col, a)
       addColumn(href, parseInt(col.dataset.index, 10))
       return
     }
     if (!active && a.closest(".center")) {
+      // Ignore a link that just points back to the current page.
+      if (samePath(href, window.location.pathname)) return
       e.preventDefault()
       e.stopPropagation()
       if (activate()) {
@@ -734,7 +1054,10 @@ function stackedNotesRuntime() {
   }
 
   function onNav() {
-    deactivate()
+    // On the page we just landed on: rebuild the stack if it carries a
+    // `?stacked=` link, otherwise make sure no stale stack is showing.
+    if (getStackParam()) restoreFromURL()
+    else deactivate()
   }
 
   function onResize() {
@@ -752,6 +1075,11 @@ function stackedNotesRuntime() {
     window.addEventListener("resize", onResize)
     window.__stackedNotesBound = true
   }
+
+  // Rebuild the stack if the page was loaded directly from a shared `?stacked=`
+  // link. `restoreFromURL` no-ops when already active, so a following `nav`
+  // event won't double-build.
+  restoreFromURL()
 }
 
 const script = "(" + stackedNotesRuntime.toString() + ")();"

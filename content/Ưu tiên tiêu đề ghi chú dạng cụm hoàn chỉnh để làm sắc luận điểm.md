@@ -11,7 +11,7 @@ Câu hỏi cũng là tiêu đề tốt vì vị trí đó buộc câu hỏi ph�
 Vài ngoại lệ thường gặp:
 
 - Tôi dùng danh từ và cụm danh từ trong tiêu đề chỉ khi cần định nghĩa các thuật ngữ cốt lõi (mà các ghi chú khác xoay quanh). Ví dụ: [[Chiến lược thực thi]], [[Trải nghiệm thể hiện]], [[Môi trường khai phóng]]
-- Ghi chú dạng đề cương (xem [[Tạo dàn ý suy đoán trong khi viết]]) như [[§Hệ thống viết ghi chú]]
+- Ghi chú dạng đề cương (xem [[Tạo dàn ý suy đoán trong khi viết]]) như [[MOC Hệ thống viết ghi chú]]
 - Xem thêm [[Phân loại các loại ghi chú]]
 
 Tôi thường bắt đầu viết mà chưa biết tiêu đề là gì. Tiêu đề thường lộ ra từ chính văn bản trong lúc viết. Khi một ghi chú gợi được tiêu đề mạnh với luận điểm rõ, đó là dấu hiệu tốt cho thấy nó đang thành hình. Liên quan: [[Tiêu đề ghi chú thường xanh giống như API]]

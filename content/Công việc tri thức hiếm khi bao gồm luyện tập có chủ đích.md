@@ -11,7 +11,7 @@ Ericsson khẳng định (2016, tr. 98) rằng không có luyện tập có ch�
 
 Có sự căng thẳng đáng kể giữa lập luận này và [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]] / [[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]. Những bài viết đó dường như muốn nói rằng các học viện tennis/piano hàng đầu không phải là môi trường hỗ trợ... điều này gần như chắc chắn là sai. Còn có sự căng thẳng tiềm ẩn với [[Làm thế nào chúng ta có thể đặt công cụ tư duy trong những bối cảnh có ý nghĩa nội tại_]]
 
-Xem thêm [[§Coi trọng công việc tri thức]].
+Xem thêm [[MOC Coi trọng công việc tri thức]].
 
 ---
 

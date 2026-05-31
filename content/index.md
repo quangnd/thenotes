@@ -11,8 +11,8 @@ Mục đích của bản dịch là đóng góp vào công cuộc tìm kiếm c�
 Bản dịch này sẽ được chỉnh sửa cũng như thêm thắt các ví dụ thực tế từ trải nghiệm của cá nhân. Hi vọng các bạn sẽ có thêm các góc nhìn mới, qua đó làm giàu thêm kho kiến thức của chính mình 🤓
 
 Có hai file tổng hợp mà bạn nên quan tâm:
-- [[§Hệ thống viết ghi chú]] (đây là các **khái niệm cốt lõi** của toàn bộ dự án này).
-- [[§Coi trọng công việc tri thức]].
+- [[MOC Hệ thống viết ghi chú]] (đây là các **khái niệm cốt lõi** của toàn bộ dự án này).
+- [[MOC Coi trọng công việc tri thức]].
 
 ---
 
@@ -22,7 +22,7 @@ Sau đây là bản dịch từ [trang gốc](https://notes.andymatuschak.org/Ab
 > 
 > Những ghi chú này chủ yếu viết cho chính tôi: gần như là môi trường tư duy của tôi ([[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]; [[Thực hành viết buổi sáng của tôi]]). Nhưng tôi chia sẻ chúng công khai như một thí nghiệm ([[Làm việc với cửa nhà để xe mở]]). Nếu một ghi chú có vẻ khó hiểu hoặc thiếu giải thích, có lẽ vì tôi không viết nó cho bạn. Xin lỗi, đó gần như là một căng thẳng cốt yếu của thí nghiệm này.
 > 
-> Hiện tại chưa có mục lục hay phương tiện điều hướng: bạn cần theo một liên kết tới điểm bắt đầu nào đó. Bạn có thể quan tâm tới [[§Những gì đang chiếm tâm trí tôi]].
+> Hiện tại chưa có mục lục hay phương tiện điều hướng: bạn cần theo một liên kết tới điểm bắt đầu nào đó. Bạn có thể quan tâm tới [[MOC Những gì đang chiếm tâm trí tôi]].
 > 
 > Andy ([email](mailto:user@example.com), [Twitter](https://twitter.com/andy_matuschak), [trang cá nhân chính](https://andymatuschak.org/))
 > 

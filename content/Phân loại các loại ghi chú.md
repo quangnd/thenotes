@@ -18,7 +18,7 @@ aliases:
 	- các API cấp cao hơn ([[Tiêu đề ghi chú thường xanh giống như API]])
 		- các ghi chú trừu tượng hóa nhiều ghi chú khác, v.d. [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]], [[Đọc văn bản trên máy tính là không dễ chịu]]
 		- thuật ngữ cá nhân, v.d. [[Trải nghiệm thể hiện]]
-- "Ghi chú phác thảo", v.d. [[§Môi trường khai phóng, trò chơi và Cuốn Primer]]
+- "Ghi chú phác thảo", v.d. [[MOC Môi trường khai phóng, trò chơi và Cuốn Primer]]
 
 Các loại ghi chú ngoài bậc thang này:
 
