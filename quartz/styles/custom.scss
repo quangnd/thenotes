@@ -86,6 +86,13 @@ body blockquote {
   }
 }
 
+// ── Backlinks link weight ─────────────────────────────────────────────────
+// Match the lighter weight used by the left sidebar links (400) instead of the
+// global semibold link weight.
+.backlinks ul.overflow li a {
+  font-weight: 400;
+}
+
 // ── Tighten top spacing ───────────────────────────────────────────────────
 // Core uses $topSpacing (6rem) for both the page-header margin and the sidebar
 // padding, which leaves a big empty band at the top. Reduce both together so
