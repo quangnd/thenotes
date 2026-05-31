@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: umami
-    websiteId: 7d0ac264-31c4-4ccd-a831-956f29b568f9
+    websiteId: 1062a7d1-5388-4bfe-a44a-6f6896e4f5b9
     host: https://cloud.umami.is
   locale: vi-VN
   baseUrl: https://thenotes.quangnd.com/
@@ -135,7 +135,7 @@ plugins:
       showSpines: true
       animateTransitions: true
   - source: ./plugins/stacked-notes
-    enabled: true
+    enabled: false
     layout:
       position: afterBody
       priority: 50

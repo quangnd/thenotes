@@ -14,7 +14,7 @@ aliases:
 	- các định nghĩa đơn giản cho thuật ngữ chuyên ngành, ít nội dung riêng được thêm vào; v.d. [[Khoảng phán đoán tuyệt đối]], [[Hiệu ứng ngắt quãng]]
 		- [[Ghi chú cầu nối liên hệ hẹp hai thuật ngữ liền kề]]
 	- các ghi chú tuyên bố chính xác, hẹp ([[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm]]); v.d. [[Dung lượng kênh của con người tăng theo số chiều kích thích]]
-		- đôi khi chúng được đóng khung dưới dạng câu hỏi, khi bằng chứng quá chưa rõ ràng để đóng khung sắc nét; v.d. [[Năng lực phi thường di truyền tới mức nào_]], [[Đến mức độ nào thì các câu hỏi ứng dụng có thể thay thế câu hỏi gợi nhớ trong phương tiện ghi nhớ_]]
+		- đôi khi chúng được đóng khung dưới dạng câu hỏi, khi bằng chứng quá chưa rõ ràng để đóng khung sắc nét; v.d. [[Năng lực phi thường di truyền tới mức nào]], [[Đến mức độ nào thì các câu hỏi ứng dụng có thể thay thế câu hỏi gợi nhớ trong phương tiện ghi nhớ_]]
 	- các API cấp cao hơn ([[Tiêu đề ghi chú thường xanh giống như API]])
 		- các ghi chú trừu tượng hóa nhiều ghi chú khác, v.d. [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]], [[Đọc văn bản trên máy tính là không dễ chịu]]
 		- thuật ngữ cá nhân, v.d. [[Trải nghiệm thể hiện]]

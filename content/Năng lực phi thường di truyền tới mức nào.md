@@ -1,6 +1,6 @@
 ---
 aliases:
-  - To what extent is exceptional ability heritable_
+  - To what extent is exceptional ability heritable
 ---
 
 Bẩm sinh hay nuôi dưỡng?

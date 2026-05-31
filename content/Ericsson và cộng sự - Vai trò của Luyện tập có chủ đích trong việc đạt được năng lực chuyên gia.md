@@ -7,7 +7,7 @@ Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberat
 
 ---
 
-- Năng lực chuyên gia không đến từ năng khiếu tự nhiên; đánh giá khá thiên lệch về tài liệu xung quanh [[Năng lực phi thường di truyền tới mức nào_]]
+- Năng lực chuyên gia không đến từ năng khiếu tự nhiên; đánh giá khá thiên lệch về tài liệu xung quanh [[Năng lực phi thường di truyền tới mức nào]]
 - Luyện tập và kinh nghiệm không tự động dẫn đến năng lực chuyên gia:
 	- [[Mọi người thường phát triển kỹ năng đến một ngưỡng bình nguyên rồi dừng lại]]
 	- [[Tiêu chuẩn để đạt được sự xuất sắc đã tăng vọt trong nhiều lĩnh vực]]

@@ -6,7 +6,7 @@ Khi viết [[Ghi chú thường xanh]], tôi thấy dùng cụm từ hoàn chỉ
 
 Đây thường là câu khẳng định hoặc mệnh lệnh nêu ra một luận điểm mạnh. Cách đặt này tạo áp lực buộc tôi phải chứng minh đầy đủ luận điểm trong phần thân. Nếu viết xong một ghi chú mà khó cô lại thành tiêu đề sắc nét, đó thường là dấu hiệu suy nghĩ còn lờ mờ, hoặc ghi chú đang nói về nhiều chủ đề cùng lúc (đi ngược lại [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]). Cả hai trường hợp, cách xử lý là tách các ý ra và viết phần mình hiểu rõ nhất trước.
 
-Câu hỏi cũng là tiêu đề tốt vì vị trí đó buộc câu hỏi phải đi thẳng vào lõi vấn đề. Có những câu hỏi thực sự là thường xanh ([[Năng lực phi thường di truyền tới mức nào_]]); có những câu khác là gợi ý sáng tạo mang tính nhất thời hơn ([[Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào_]]). Với loại sau, mục tiêu là cuối cùng bỏ được dấu hỏi, tái cấu trúc nó thành ghi chú khẳng định hoặc mệnh lệnh.
+Câu hỏi cũng là tiêu đề tốt vì vị trí đó buộc câu hỏi phải đi thẳng vào lõi vấn đề. Có những câu hỏi thực sự là thường xanh ([[Năng lực phi thường di truyền tới mức nào]]); có những câu khác là gợi ý sáng tạo mang tính nhất thời hơn ([[Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào_]]). Với loại sau, mục tiêu là cuối cùng bỏ được dấu hỏi, tái cấu trúc nó thành ghi chú khẳng định hoặc mệnh lệnh.
 
 Vài ngoại lệ thường gặp:
 

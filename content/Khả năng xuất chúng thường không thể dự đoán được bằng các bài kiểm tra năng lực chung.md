@@ -11,7 +11,7 @@ aliases:
     - Dữ liệu này chủ yếu liên quan đến dân số rộng lớn, chứ không phải những người có năng khiếu xuất chúng.
 - Kỹ năng đánh máy đã học không thể dự đoán từ các bài kiểm tra năng khiếu liên quan
 
-Bằng chứng này liên quan đến [[Năng lực phi thường di truyền tới mức nào_]] trong chừng mực mà hiệu suất trên các bài kiểm tra năng lực cấu thành là có thể di truyền.
+Bằng chứng này liên quan đến [[Năng lực phi thường di truyền tới mức nào]] trong chừng mực mà hiệu suất trên các bài kiểm tra năng lực cấu thành là có thể di truyền.
 
 ---
 
