@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: umami
+    websiteId: 7d0ac264-31c4-4ccd-a831-956f29b568f9
+    host: https://cloud.umami.is
   locale: vi-VN
   baseUrl: https://thenotes.quangnd.com/
   ignorePatterns:
