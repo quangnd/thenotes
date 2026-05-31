@@ -73,19 +73,17 @@ body blockquote {
 }
 
 // ── Hovered-link signal ───────────────────────────────────────────────────
-// Make it obvious which link the preview belongs to: a soft highlight pill
-// around the link currently under the cursor.
-.center a.internal {
-  border-radius: 3px;
-  transition:
-    background-color 0.12s ease,
-    box-shadow 0.12s ease;
-}
-.center a.internal:hover {
-  background-color: var(--highlight);
-  box-shadow: 0 0 0 0.22em var(--highlight);
-  text-decoration-color: var(--secondary);
-  text-underline-offset: 3px;
+// On devices with a real pointer, underline the link under the cursor (no
+// highlight pill). Touch/mobile devices get no hover effect at all.
+@media (hover: hover) {
+  .center a.internal {
+    transition: text-decoration-color 0.12s ease;
+  }
+  .center a.internal:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--secondary);
+    text-underline-offset: 3px;
+  }
 }
 
 // ── Tighten top spacing ───────────────────────────────────────────────────
