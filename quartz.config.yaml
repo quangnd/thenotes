@@ -14,6 +14,14 @@ configuration:
     - private
     - templates
     - .obsidian
+  # ── THEME ───────────────────────────────────────────────────────────────────
+  # On this fork the community obsidian-theme CSS layer overrides these palette
+  # and font values, so the block below mainly drives og-image social cards and
+  # acts as a fallback. The ACTUAL site theme is selected by the one `@use` line
+  # in quartz/styles/custom.scss:
+  #   ./themes/default.scss    — the look below
+  #   ./themes/typewriter.scss — iA Writer + warm parchment + purple (forced in SCSS)
+  # No change is needed here to switch to Typewriter.
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

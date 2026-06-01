@@ -1,32 +1,18 @@
 @use "./variables.scss" as *;
 
-// The quartz-themes default theme forces `font-family: ui-sans-serif, ...` on
-// <p>, <blockquote>, <table>, etc., but leaves <li>/<ul>/<ol> inheriting from
-// <body> (where Quartz sets var(--bodyFont)). The result is paragraphs in the
-// system sans-serif and list items in Be Vietnam Pro, most visible on
-// Safari/iOS where the mismatch is sharp.
-// Force the same system sans-serif stack on list items (and a few other text
-// elements the theme misses) so all body text matches the theme's paragraphs.
-$systemSans:
-  ui-sans-serif,
-  -apple-system,
-  BlinkMacSystemFont,
-  system-ui,
-  "Segoe UI",
-  "Google Sans Flex",
-  Roboto,
-  "Inter Variable",
-  Inter,
-  "Apple Color Emoji",
-  "Segoe UI Emoji",
-  "Segoe UI Symbol",
-  sans-serif;
+// ── Active theme SCSS ──────────────────────────────────────────────────────
+// This single line is the theme switch. Options:
+//   ./themes/default.scss    — current look (uses the YAML `theme:` block)
+//   ./themes/typewriter.scss — iA Writer + warm parchment + purple accent
+// typewriter.scss forces its palette/fonts via !important vars (this fork's
+// obsidian-theme layer ignores the YAML colors), so the YAML `theme:` block does
+// NOT need to change when switching — leaving it on the default keeps og-image
+// social cards working (they fetch Google fonts, which iA Writer is not).
+@use "./themes/default.scss";
 
-body li,
-body ul,
-body ol {
-  font-family: $systemSans;
-}
+// Body-font consistency across <p>/<li>/<ul>/<ol>/<blockquote>/<table> is now
+// handled by the active theme file (themes/default.scss or typewriter.scss),
+// which forces `var(--bodyFont)` so every text element matches.
 
 // The theme zeros out blockquote padding, leaving text flush against the
 // left border. Restore breathing room.

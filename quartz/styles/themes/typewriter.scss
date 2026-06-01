@@ -1,0 +1,188 @@
+// ─────────────────────────────────────────────────────────────────────────
+// Typewriter theme — iA Writer Quattro S, warm parchment, purple accent.
+//
+// Activate with ONE line in custom.scss:  @use "./themes/typewriter.scss";
+// (The YAML `theme:` block does not need to change — see note there.)
+//
+// Why this file forces everything with !important: this Quartz fork wraps its
+// own CSS in `@layer quartz-base` and the community theme in a higher
+// `@layer obsidian-theme` that redefines every palette/font variable. Normal
+// declarations in quartz-base lose to it, but CSS reverses @layer order for
+// !important, so !important here wins. That's the only reliable lever.
+//
+// Fonts are extracted from themes/publish.css into quartz/static/fonts/.
+// Quartz copies quartz/static/ -> the output `static/`, so the url() paths
+// below are relative to the served root, matching the EB Garamond @font-face
+// block in custom.scss.
+// ─────────────────────────────────────────────────────────────────────────
+
+// ── Fonts ──────────────────────────────────────────────────────────────────
+// iA Writer Quattro S (header + body). Only the 4 faces below are embedded in
+// publish.css, so we declare exactly those.
+@font-face {
+  font-family: "iA Writer Quattro S";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("static/fonts/iAWriterQuattroS-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "iA Writer Quattro S";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("static/fonts/iAWriterQuattroS-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "iA Writer Quattro S";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("static/fonts/iAWriterQuattroS-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "iA Writer Quattro S";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("static/fonts/iAWriterQuattroS-BoldItalic.ttf") format("truetype");
+}
+
+// JetBrains Mono (code). Only Regular is embedded in publish.css; bold/italic
+// in code blocks are synthesized by the browser, which is fine for code.
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("static/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+}
+
+// ── Palette + font variables (the part that actually applies the theme) ────
+// This fork wraps all Quartz CSS in `@layer quartz-base` and the community
+// "obsidian-theme" CSS in a higher layer that REDEFINES every core variable
+// (--light, --dark, --secondary, --bodyFont, …) in terms of Obsidian vars that
+// cycle back and cancel the config values. So the YAML `theme:` colors/fonts do
+// NOT reach the page on their own.
+//
+// CSS reverses @layer precedence for `!important` declarations, so an
+// `!important` custom-property set here (in quartz-base) beats the
+// obsidian-theme layer. That makes these the values that win.
+:root {
+  --light: #fcf5e4 !important;
+  --lightgray: #e8e0d0 !important;
+  --gray: #9e9488 !important;
+  --darkgray: #262626 !important;
+  --dark: #1a1a1a !important;
+  --secondary: #7b6cd9 !important;
+  --tertiary: #9589e0 !important;
+  --highlight: rgba(123, 108, 217, 0.12) !important;
+  --textHighlight: #fff23688 !important;
+
+  // Painted surfaces. The obsidian-theme layer paints body/sidebars from these
+  // (body{background:var(--background-primary)} → var(--color-base-00):#fff),
+  // bypassing --light, so we force them directly.
+  --color-base-00: #fcf5e4 !important;
+  --background-primary: #fcf5e4 !important;
+  --background-primary-alt: #fcf5e4 !important;
+  --background-secondary: #e8e0d0 !important;
+  --background-secondary-alt: #e8e0d0 !important;
+
+  // Fonts — set the variable directly so the whole obsidian fallback chain is
+  // bypassed. system-ui is the graceful fallback while the woff/ttf loads.
+  --titleFont: "iA Writer Quattro S", system-ui, sans-serif !important;
+  --headerFont: "iA Writer Quattro S", system-ui, sans-serif !important;
+  --bodyFont: "iA Writer Quattro S", system-ui, sans-serif !important;
+  --codeFont: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace !important;
+
+  // Obsidian accent is built from these HSL parts; several components read them
+  // directly (links, tags, interactive accents) instead of --secondary.
+  --accent-h: 248 !important;
+  --accent-s: 59% !important;
+  --accent-l: 64% !important;
+}
+
+:root[saved-theme="dark"] {
+  --light: #262626 !important;
+  --lightgray: #3a3a3a !important;
+  --gray: #6b6560 !important;
+  --darkgray: #c5b8a1 !important;
+  --dark: #ddd2c1 !important;
+  // Brighter purple than the plan's #483699, which is unreadable as link text
+  // on the dark background. #483699 stays as the subtle highlight tint below.
+  --secondary: #9d8cf0 !important;
+  --tertiary: #b3a6f5 !important;
+  --highlight: rgba(72, 54, 153, 0.28) !important;
+  --textHighlight: #b3aa0288 !important;
+
+  --color-base-00: #262626 !important;
+  --background-primary: #262626 !important;
+  --background-primary-alt: #262626 !important;
+  --background-secondary: #3a3a3a !important;
+  --background-secondary-alt: #3a3a3a !important;
+
+  --accent-h: 250 !important;
+  --accent-s: 77% !important;
+  --accent-l: 75% !important;
+}
+
+// ── Body font enforcement ────────────────────────────────────────────────
+// Even with --bodyFont correct, the obsidian-theme layer sets per-element
+// font-family on <p>/<blockquote>/<table>, and custom.scss sets system-sans on
+// <li>/<ul>/<ol>. Force all body text back to the theme body font.
+body :is(p, li, ul, ol, blockquote, td, th, dd, dt) {
+  font-family: var(--bodyFont) !important;
+}
+
+// ── Typography scale ─────────────────────────────────────────────────────
+article {
+  p,
+  li {
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  strong {
+    font-weight: 620;
+  }
+
+  h1 {
+    font-size: 1.8em;
+    font-weight: 600;
+  }
+  h2 {
+    font-size: 1.55em;
+    font-weight: 600;
+  }
+  h3 {
+    font-size: 1.35em;
+    font-weight: 550;
+  }
+  h4 {
+    font-size: 1.15em;
+    font-weight: 550;
+  }
+  h5 {
+    font-size: 1em;
+    font-weight: 550;
+  }
+  h6 {
+    font-size: 0.95em;
+    font-weight: 550;
+  }
+}
+
+// ── Visual refinements ───────────────────────────────────────────────────
+// Softer corners on code/images, a thinner blockquote rule for the typewriter
+// feel.
+article {
+  pre,
+  img,
+  table {
+    border-radius: 6px;
+  }
+
+  blockquote {
+    border-left-width: 2px;
+  }
+}

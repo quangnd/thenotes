@@ -1,0 +1,77 @@
+// ─────────────────────────────────────────────────────────────────────────
+// Default theme — applies the values from the YAML `theme:` block.
+//
+// On this Quartz fork the YAML colors/fonts do NOT reach the page on their own:
+// all Quartz CSS is wrapped in `@layer quartz-base`, while the community theme
+// sits in a higher `@layer obsidian-theme` that redefines every palette/font
+// variable. Normal declarations lose to it. CSS reverses @layer precedence for
+// `!important`, so the !important variable sets below win. Keep these in sync
+// with the YAML `theme:` block (they mirror it).
+// ─────────────────────────────────────────────────────────────────────────
+
+:root {
+  --light: #faf8f8 !important;
+  --lightgray: #e5e5e5 !important;
+  --gray: #b8b8b8 !important;
+  --darkgray: #4e4e4e !important;
+  --dark: #2b2b2b !important;
+  --secondary: #284b63 !important;
+  --tertiary: #84a59d !important;
+  --highlight: rgba(143, 159, 169, 0.15) !important;
+  --textHighlight: #fff23688 !important;
+
+  // Painted surfaces (body/sidebars paint from these, bypassing --light).
+  --color-base-00: #faf8f8 !important;
+  --background-primary: #faf8f8 !important;
+  --background-primary-alt: #faf8f8 !important;
+  --background-secondary: #e5e5e5 !important;
+  --background-secondary-alt: #e5e5e5 !important;
+
+  // Fonts (loaded via Google Fonts per the YAML fontOrigin: googleFonts).
+  --titleFont: "EB Garamond", serif !important;
+  --headerFont: "Schibsted Grotesk", sans-serif !important;
+  --bodyFont: "Be Vietnam Pro", sans-serif !important;
+  --codeFont: "IBM Plex Mono", monospace !important;
+
+  // Obsidian accent (teal #284b63) for components that read --accent-* directly.
+  --accent-h: 204 !important;
+  --accent-s: 42% !important;
+  --accent-l: 27% !important;
+}
+
+:root[saved-theme="dark"] {
+  --light: #161618 !important;
+  --lightgray: #393639 !important;
+  --gray: #646464 !important;
+  --darkgray: #d4d4d4 !important;
+  --dark: #ebebec !important;
+  --secondary: #7b97aa !important;
+  --tertiary: #84a59d !important;
+  --highlight: rgba(143, 159, 169, 0.15) !important;
+  --textHighlight: #b3aa0288 !important;
+
+  --color-base-00: #161618 !important;
+  --background-primary: #161618 !important;
+  --background-primary-alt: #161618 !important;
+  --background-secondary: #393639 !important;
+  --background-secondary-alt: #393639 !important;
+
+  --accent-h: 204 !important;
+  --accent-s: 22% !important;
+  --accent-l: 58% !important;
+}
+
+// Force all body text to the theme body font. The obsidian-theme layer sets
+// per-element fonts on <p>/<blockquote>/<table>; without this, paragraphs fall
+// to a system stack while the rest use --bodyFont (the mismatch custom.scss
+// used to paper over by forcing system-sans on lists).
+body :is(p, li, ul, ol, blockquote, td, th, dd, dt) {
+  font-family: var(--bodyFont) !important;
+}
+
+// The obsidian-theme layer forces headings to the body font; restore the header
+// font. (The illuminated .page-title sets its own font on the inner <a>, so it
+// is unaffected.)
+body :is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--headerFont) !important;
+}
