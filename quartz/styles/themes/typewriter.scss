@@ -48,6 +48,18 @@
   src: url("static/fonts/iAWriterQuattroS-BoldItalic.ttf") format("truetype");
 }
 
+// iA Writer Mono V (body). The fully-monospaced cut — this is the font iA's
+// own theme uses for the EDITOR view. Only Regular is embedded in publish.css;
+// bold/italic are synthesized by the browser. Extracted from publish.css's
+// base64 data URL into quartz/static/fonts/.
+@font-face {
+  font-family: "iA Writer Mono V";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("static/fonts/iAWriterMonoV-Regular.woff2") format("woff2");
+}
+
 // JetBrains Mono (code). Only Regular is embedded in publish.css; bold/italic
 // in code blocks are synthesized by the browser, which is fine for code.
 @font-face {
@@ -90,9 +102,13 @@
 
   // Fonts — set the variable directly so the whole obsidian fallback chain is
   // bypassed. system-ui is the graceful fallback while the woff/ttf loads.
+  // Headings stay on Quattro S (proportional) — matches iA's reading view and
+  // keeps Vietnamese titles legible. Body uses Mono V (monospaced typewriter),
+  // matching the editor view; Quattro S is the fallback for any glyph the
+  // subsetted Mono V woff2 doesn't carry.
   --titleFont: "iA Writer Quattro S", system-ui, sans-serif !important;
   --headerFont: "iA Writer Quattro S", system-ui, sans-serif !important;
-  --bodyFont: "iA Writer Quattro S", system-ui, sans-serif !important;
+  --bodyFont: "iA Writer Mono V", "iA Writer Quattro S", ui-monospace, monospace !important;
   --codeFont: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace !important;
 
   // Obsidian accent is built from these HSL parts; several components read them
@@ -130,7 +146,14 @@
 // Even with --bodyFont correct, the obsidian-theme layer sets per-element
 // font-family on <p>/<blockquote>/<table>, and custom.scss sets system-sans on
 // <li>/<ul>/<ol>. Force all body text back to the theme body font.
-body :is(p, li, ul, ol, blockquote, td, th, dd, dt) {
+// Excludes .page-title (the "THE NOTE" art logo, which is an <h2 class=
+// page-title><a> styled with EB Garamond in custom.scss) — the `a` here would
+// otherwise force it to Mono V.
+body
+  :is(p, li, ul, ol, blockquote, td, th, dd, dt, a, em, strong, i, b):not(
+    .page-title,
+    .page-title *
+  ) {
   font-family: var(--bodyFont) !important;
 }
 

@@ -38,7 +38,7 @@ Giới hạn của trí nhớ
 - "Chọn lọc chính là sống lưng mà trên đó con tàu tinh thần của chúng ta được xây dựng. Và trong trường hợp trí nhớ, tính hữu ích của nó là hiển nhiên. Nếu chúng ta nhớ mọi thứ, trong hầu hết các trường hợp chúng ta sẽ tồi tệ như khi không nhớ gì. Sẽ mất nhiều thời gian để nhớ lại một khoảng thời gian bằng khoảng thời gian ban đầu đã trôi qua, và chúng ta sẽ không bao giờ tiến lên được với suy nghĩ của mình." (William James 1890, 680).
 
 ### Ghi chú giúp suy nghĩ chính xác
-Viết trong khi đọc là cách tuyệt vời để giám sát mức độ hiểu. Rất khó tóm tắt thứ mình không hiểu. Bước thêm là tạo liên kết và tích hợp đoạn vừa viết với các ghi chú trước càng làm hiệu ứng này mạnh hơn. [[Viết buộc ta hiểu sắc hơn]]
+Viết trong khi đọc là cách tuyệt vời để giám sát mức độ hiểu. Rất khó tóm tắt thứ mình không hiểu. Bước thêm là tạo liên kết và tích hợp đoạn vừa viết với các ghi chú trước càng làm hiệu ứng này mạnh hơn. [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 - Nếu cố tự lừa mình ở bước này và viết ra những câu chữ khó hiểu, ta sẽ bị lộ ở bước tiếp theo khi cố biến ghi chú tài liệu thành ghi chú vĩnh viễn và kết nối chúng với các ghi chú khác.
 - Viết ghi chú và sắp xếp chúng vào hộp phiếu chính là nỗ lực hiểu ý nghĩa rộng hơn của một điều gì đó. Hộp phiếu buộc ta đặt nhiều câu hỏi mở rộng: Điều này có nghĩa gì? Nó kết nối với... như thế nào? Sự khác biệt giữa... là gì? Nó giống với cái gì?
 
@@ -46,10 +46,10 @@ Viết trong khi đọc là cách tuyệt vời để giám sát mức độ hi�
 - Được mô tả trong văn bản nổi tiếng về Khai sáng: "Sự chưa trưởng thành (Nonage) là việc không có khả năng sử dụng sự hiểu biết của chính mình mà không cần sự hướng dẫn của người khác. Sự chưa trưởng thành này là tự áp đặt nếu nguyên nhân không nằm ở sự thiếu hiểu biết mà ở sự do dự và thiếu dũng khí sử dụng tâm trí của chính mình mà không cần sự hướng dẫn của người khác. Dám biết! (Sapere aude.) 'Hãy có dũng khí sử dụng sự hiểu biết của chính bạn,' do đó là phương châm của Khai sáng." (Kant 1784)
 - Câu hỏi đầu tiên tôi tự hỏi khi viết ghi chú vĩnh viễn đầu tiên cho hộp phiếu là: Tất cả điều này có ý nghĩa gì cho nghiên cứu của tôi và các câu hỏi tôi đang nghĩ đến trong hộp phiếu? Đây chỉ là cách khác để hỏi: Tại sao các khía cạnh tôi viết ra lại thu hút tôi?
 
-Zettelkasten trung thực hơn về mặt nhận thức luận, có khả năng tìm ra những sự thật trái ngược. [[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Viết buộc ta hiểu sắc hơn]]
+Zettelkasten trung thực hơn về mặt nhận thức luận, có khả năng tìm ra những sự thật trái ngược. [[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 - Phát triển lập luận và ý tưởng từ dưới lên thay vì từ trên xuống là bước đầu tiên và quan trọng nhất để mở lòng đón nhận hiểu biết sâu sắc.
 
-Rất khó thấy điều *không* được nói trong một văn bản. Bằng cách tích hợp các quan sát khi đọc với ghi chú trước, ta tự nhiên đối mặt với những viên đá mà tác giả có thể đã chưa lật. [[Viết buộc ta hiểu sắc hơn]]
+Rất khó thấy điều *không* được nói trong một văn bản. Bằng cách tích hợp các quan sát khi đọc với ghi chú trước, ta tự nhiên đối mặt với những viên đá mà tác giả có thể đã chưa lật. [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 - Người đọc học thuật có kinh nghiệm thường đọc với câu hỏi trong đầu và cố liên hệ với các cách tiếp cận khả dĩ khác. Người đọc thiếu kinh nghiệm có xu hướng chấp nhận câu hỏi và khung lập luận của văn bản như điều hiển nhiên. Người đọc giỏi phát hiện được hạn chế của một cách tiếp cận cụ thể và thấy được những gì chưa được đề cập.
 
 ### Mọi người xem nhẹ việc ghi chú một cách bất hợp lý

@@ -15,7 +15,7 @@ aliases:
 			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
 		- [[Hãy tự mình suy ngẫm]]
 			- [[Muốn hiểu thì phải bỏ công]]
-			- [[Viết buộc ta hiểu sắc hơn]]
+			- [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 	- [[Cách thu thập quan sát khi đọc]]
 		- [[Ghi chú văn liệu là thứ yếu và tách biệt]]
 	- [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]

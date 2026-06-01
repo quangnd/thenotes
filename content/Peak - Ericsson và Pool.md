@@ -33,7 +33,7 @@ Năm xuất bản: {2016}
 - Tất cả là về luyện tập: [[Luyện tập tốt mã hóa các sơ đồ tái mã hóa khối hiệu quả hơn]]
 	- [[Các lược đồ khối hiệu quả thường mã hóa các thuộc tính đặc thù theo lĩnh vực]]
 - Hiệu suất thể chất chuyên gia cũng phụ thuộc vào các biểu diễn tâm thần tinh vi (tr. 82-83)
-- "… khi chúng tôi tìm cách làm cho thông điệp của mình rõ ràng hơn với độc giả, chúng tôi sẽ nghĩ ra những cách mới để suy nghĩ về luyện tập có chủ đích. Các nhà nghiên cứu gọi loại viết này là 'chuyển đổi kiến thức'… vì quá trình viết thay đổi và bổ sung vào kiến thức mà người viết có khi bắt đầu." (75-76). [[Viết buộc ta hiểu sắc hơn]], [[Hiểu biết sâu sắc qua việc làm]]
+- "… khi chúng tôi tìm cách làm cho thông điệp của mình rõ ràng hơn với độc giả, chúng tôi sẽ nghĩ ra những cách mới để suy nghĩ về luyện tập có chủ đích. Các nhà nghiên cứu gọi loại viết này là 'chuyển đổi kiến thức'… vì quá trình viết thay đổi và bổ sung vào kiến thức mà người viết có khi bắt đầu." (75-76). [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]], [[Hiểu biết sâu sắc qua việc làm]]
 
 ### 4. Tiêu chuẩn vàng
 
