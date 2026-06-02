@@ -3,7 +3,9 @@ aliases:
   - Evergreen notes
 ---
 
-*Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. Cách viết ghi chú này khá khác thường: [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]. Làm tốt thì những ghi chú này rất giá trị: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
+*Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. 
+
+Cách viết ghi chú này khá khác thường, bởi vì [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]. Làm tốt thì những ghi chú này rất giá trị: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 
 Viết ra ghi chú đáng để bồi đắp lâu dài không dễ. Mấy nguyên tắc sau giúp ích:
 
@@ -12,7 +14,7 @@ Viết ra ghi chú đáng để bồi đắp lâu dài không dễ. Mấy nguyê
 - [[Ghi chú thường xanh nên liên kết dày đặc]]
 - [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
 
-Khái niệm này lớn lên phần nhiều từ [[Hộp phiếu Zettelkasten của Luhmann]] của Niklas Luhmann. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]]
+Khái niệm này được hình thành phần nhiều từ [[Hộp phiếu Zettelkasten của Luhmann]]. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]].
 
 #### Triển khai cách làm ghi chú thường xanh
 
@@ -24,8 +26,8 @@ Xem:
   
 
 > [!tip]
-> Nếu bạn tự hỏi, khái niệm "Ghi chú thường xanh", hay Evergreen notes này phức tạp với tôi thì đấy là chuyện rất bình thường. Hãy tiếp tục đọc mà không cần phải cố gắng hiểu khái niệm. Khái niệm tự nó sẽ rõ ràng sau một thời gian trải nghiệm.
-> Ngoài ra thì, nếu bạn cần ví dụ về Ghi chú thường xanh thì xin mời: **tất cả những ghi chú ở trong trang web này về cơ bản chính là Evergreen notes.**
+> Nếu bạn tự hỏi, khái niệm "Ghi chú thường xanh" (Evergreen notes) này phức tạp với tôi thì đấy là chuyện rất bình thường. Hãy tiếp tục đọc mà không cần phải cố gắng hiểu khái niệm. Khái niệm tự nó sẽ rõ ràng sau một thời gian trải nghiệm.
+> Ngoài ra, nếu bạn cần ví dụ về Ghi chú thường xanh thì xin mời: **tất cả những ghi chú ở trong trang web này về cơ bản chính là Evergreen notes.**
 
 ---
 

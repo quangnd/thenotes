@@ -5,7 +5,7 @@ aliases:
 
 Hãy để cấu trúc tự nó hình thành. Áp đặt cấu trúc ngay từ đầu sẽ giới hạn sớm những gì có thể xuất hiện và bóp méo các quan hệ phức tạp giữa các ý tưởng.
 
-Hệ thống tệp, sơ đồ tổ chức và thư viện làm ta tưởng rằng phân cấp là cấu trúc tự nhiên của thế giới. Nhưng các mục thường thuộc về nhiều chỗ cùng lúc. Một mục có thể liên quan đến các mục khác nằm ở những danh mục rất xa nhau trong cây phân cấp.
+Hệ thống tệp, sơ đồ tổ chức và thư viện làm ta tưởng rằng *phân cấp là cấu trúc tự nhiên của thế giới*. Nhưng các mục thường thuộc về nhiều chỗ cùng lúc. Một mục có thể liên quan đến các mục khác nằm ở những danh mục rất xa nhau trong cây phân cấp.
 
 Tệ hơn, khi phân loại mọi thứ sẵn vào các danh mục có ranh giới rõ ràng, ta đã tự làm mờ các cạnh thật của chúng. Mọi thứ không phải lúc nào cũng khớp *chính xác*. Có khi gom đủ ý tưởng mới rồi thì một danh mục mới sẽ ló dạng... nhưng ta không thấy nổi hình dạng đó vì mọi thứ đã bị xếp loại xong xuôi. Và vì đã xếp loại xong xuôi, muốn phân loại lại thì phải tháo dỡ cấu trúc hiện tại.
 

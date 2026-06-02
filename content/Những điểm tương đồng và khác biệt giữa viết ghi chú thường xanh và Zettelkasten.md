@@ -3,7 +3,7 @@ aliases:
   - Similarities and differences between evergreen note-writing and Zettelkasten
 ---
 
-Thực hành viết [[Ghi chú thường xanh]] của tôi được truyền cảm hứng rất nhiều từ thực hành [[Hộp phiếu Zettelkasten của Luhmann]] của Niklas Luhmann và những người ủng hộ đương đại. Tôi sử dụng một thuật ngữ khác vì có một số khác biệt và vì tôi muốn tạo không gian cho mình để khám phá các ý tưởng trong lĩnh vực này tách biệt khỏi văn hóa xung quanh Zettelkasten, vốn có những giá trị và xu hướng riêng của nó.
+Thực hành viết [[Ghi chú thường xanh]] của tôi được truyền cảm hứng rất nhiều từ thực hành [[Hộp phiếu Zettelkasten của Luhmann]]  và những người ủng hộ đương đại. Tôi sử dụng một thuật ngữ khác vì có một số khác biệt và vì tôi muốn tạo không gian cho mình để khám phá các ý tưởng trong lĩnh vực này tách biệt khỏi văn hóa xung quanh Zettelkasten, vốn có những giá trị và xu hướng riêng của nó.
 
 #### Những điểm tương đồng chính:
 - hướng theo khái niệm ([[Ghi chú thường xanh nên hướng khái niệm]])

@@ -8,9 +8,10 @@ Xin chào 👋! Mình là [Mun](https://quangnd.com/), người tổng hợp và
 
 Mục đích của bản dịch là đóng góp vào công cuộc tìm kiếm cách ghi chú hiệu quả của người Việt, cũng như cộng đồng "ham học hỏi" nói chung. Trong quá trình dịch thuật mình đã tiến hành chỉnh sửa nội dung cho phù hợp với văn phong của người Việt để các bạn dễ theo dõi. Tuy nhiên, vì năng lực chuyên môn còn hạn chế, sẽ không tránh khỏi nhiều khiếm khuyết. Nếu bạn có phản hồi hoặc chia sẻ, hãy email cho mình theo địa chỉ quangnd.edu@gmail.com 💌
 
-Bản dịch này sẽ được chỉnh sửa cũng như thêm thắt các ví dụ thực tế từ trải nghiệm của cá nhân. Hi vọng các bạn sẽ có thêm các góc nhìn mới, qua đó làm giàu thêm kho kiến thức của chính mình 🤓
+**Bản dịch này sẽ được chỉnh sửa cũng như thêm thắt các ví dụ thực tế từ trải nghiệm của cá nhân**. Các ghi chú chỉ có ý nghĩa tham khảo, và không nhất thiết phải có sự "thống nhất" giữa các ý tưởng.
 
 Có hai file tổng hợp mà bạn nên quan tâm:
+- [[Ghi chú thường xanh]]
 - [[MOC Hệ thống viết ghi chú]] (đây là các **khái niệm cốt lõi** của toàn bộ dự án này).
 - [[MOC Coi trọng công việc tri thức]].
 
@@ -18,7 +19,7 @@ Có hai file tổng hợp mà bạn nên quan tâm:
 
 Sau đây là bản dịch từ [trang gốc](https://notes.andymatuschak.org/About_these_notes) của tác giả.
 
-> [!info] About these notes
+> [!info]- About these notes
 > 
 > Những ghi chú này chủ yếu viết cho chính tôi: gần như là môi trường tư duy của tôi ([[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]; [[Thực hành viết buổi sáng của tôi]]). Nhưng tôi chia sẻ chúng công khai như một thí nghiệm ([[Làm việc với cửa nhà để xe mở]]). Nếu một ghi chú có vẻ khó hiểu hoặc thiếu giải thích, có lẽ vì tôi không viết nó cho bạn. Xin lỗi, đó gần như là một căng thẳng cốt yếu của thí nghiệm này.
 > 
