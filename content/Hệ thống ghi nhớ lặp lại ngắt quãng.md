@@ -6,14 +6,14 @@ modified: 2026-06-03
 ---
 Hệ thống ghi nhớ lặp lại ngắt quãng kết hợp [[Hiệu ứng kiểm tra]] và [[Hiệu ứng ngắt quãng]] để cho phép ghi nhớ hiệu quả hàng nghìn sự kiện ([[Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]]). Một số người cũng sử dụng chúng cho một tập hợp nhiệm vụ rộng hơn (xem bên dưới). [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng không chỉ dành cho các sự kiện thuộc lòng: [[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]].
 
-Hệ thống tiêu dùng đầu tiên thuộc loại này là [[Supermemo]], được tạo bởi [[Piotr Wozniak]]. Nó đã áp dụng và phổ biến thuật ngữ "lặp lại ngắt quãng" (spaced repetition); các tài liệu trước đó sử dụng nhiều thuật ngữ khác nhau (thường đề cập đến các khía cạnh cụ thể hơn của hiện tượng cơ bản).
+Phần mềm đầu tiên thuộc loại này là [[Supermemo]], được tạo bởi [[Piotr Wozniak]]. Nó đã áp dụng và phổ biến thuật ngữ "lặp lại ngắt quãng" (spaced repetition); các tài liệu trước đó sử dụng nhiều thuật ngữ khác nhau (thường đề cập đến các khía cạnh cụ thể hơn của hiện tượng cơ bản).
 
 - Các hệ thống và khả năng liên quan:
 	- Triển khai:
 		- Truyền thống:
 			- [[Supermemo]]
 			- [[Mnemosyne]]
-			- [[Anki]]
+			- [[Anki]] (rất phổ biến với người học ngoại ngữ, sinh viên trường y)
 		- Các biến thể khác thường:
 			- [[Công cụ ghi nhớ]]
 			- [[Execute Program]]

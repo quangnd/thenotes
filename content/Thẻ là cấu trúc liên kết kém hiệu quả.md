@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-Thẻ là cách dễ để gom các mục khác loại lại với nhau, nhưng chúng cho biết rất ít về mối quan hệ giữa các mục.
+Đánh `tags` (thẻ) là cách dễ để gom các mục khác loại lại với nhau, nhưng chúng cho biết rất ít về mối quan hệ giữa các mục.
 
 Mọi mục cùng một thẻ được hiển thị như thể có liên quan, nhưng không rõ liên quan ra sao. Chúng chỉ là một danh sách lộn xộn, không thứ tự.
 

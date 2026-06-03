@@ -6,7 +6,7 @@ modified: 2026-05-30
 ---
 [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng giá trị của phần máy tính nằm cụ thể ở việc lên lịch động và chọn câu hỏi để ôn. Hiệu quả của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] đến từ khả năng *lập trình sự chú ý* của bạn ([[Sự chú ý có thể lập trình]]). Cứ nghĩ: "{cron} cho tâm trí bạn".
 
-Tự quyết định thẻ nào cần ôn thì quá tốn sức. Chi phí giao dịch quá cao. Khi việc đó được giao cho máy, bạn chỉ cần đưa ra quyết định thô. Dành 10 phút cho SRS, rồi để máy điều hướng sự chú ý của bạn trong khoảng thời gian đó.
+Tự quyết định thẻ nào cần ôn thì quá tốn sức. Khi việc đó được giao cho máy, bạn chỉ cần đưa ra quyết định thô. Dành 10 phút cho SRS, rồi để máy điều hướng sự chú ý của bạn trong khoảng thời gian đó.
 
 Trong hệ thống thẻ ghi nhớ truyền thống, có thể dùng quan sát này để đi xa hơn nhiều so với việc chỉ ghi nhớ. Xem [[Hệ thống ghi nhớ lặp lại ngắt quãng có thể được dùng để thúc đẩy ứng dụng, tổng hợp và sáng tạo]] và [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]].
 
