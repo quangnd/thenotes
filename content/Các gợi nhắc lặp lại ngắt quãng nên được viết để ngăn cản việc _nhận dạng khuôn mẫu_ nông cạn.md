@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory prompts should be written to discourage shallow “pattern matching”
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một thách thức đối với hiệu quả của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là đôi khi người dùng ghi nhớ câu trả lời một cách nông cạn, thông qua "nhận dạng khuôn mẫu", thay vì tích hợp kiến thức sâu hơn.

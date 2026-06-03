@@ -1,6 +1,8 @@
 ---
 aliases:
   - Maintaining multiple reading positions is difficult when reading digitally
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi đọc sách giấy (đặc biệt trong quá trình [[Đọc khảo sát]]), một người đọc thành thạo tự nhiên duy trì vị trí đọc của mình ở nhiều phần của cuốn sách cùng lúc. Ví dụ, đây có thể là thao tác "ngăn xếp" (giữ chỗ trong khi tham khảo phần khác), thao tác "gấp trang" (tích lũy một tập hợp các vị trí cần tập trung; xem Askwall), hoặc thao tác đọc song song (so sánh nhiều đoạn văn). Các thiết bị đọc kỹ thuật số khiến loại thao tác này rất khó thực hiện.

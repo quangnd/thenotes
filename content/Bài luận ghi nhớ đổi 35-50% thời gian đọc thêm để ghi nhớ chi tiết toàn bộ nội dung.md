@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mnemonic essays may offer detailed retention of their contents in exchange for 35-50% reading time overhead
+created: 2026-05-30
+modified: 2026-05-30
 ---
 
 Để giữ trung bình 2 tháng khả năng ghi nhớ đã được chứng minh, độc giả [[QCVC]] nửa đầu 2019 bỏ ra trung bình 90 phút ôn tập. Người đọc trung bình mất khoảng 4 giờ để đọc xong bài luận, nên có thể coi thời gian ôn tập là một khoản chi phí thêm: bỏ thêm 35-50% thời gian, đổi lại nhớ chắc toàn bộ chi tiết.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes permit smooth incremental progress in writing (“incremental writing”)
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Kích thước nguyên tử của ghi chú thường xanh ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]) cùng cấu trúc liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) khiến việc dừng và tiếp tục công việc trở nên dễ dàng. Nhờ vậy ta [[Đóng các vòng lặp còn mở]].

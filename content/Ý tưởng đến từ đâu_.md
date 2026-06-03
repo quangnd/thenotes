@@ -1,6 +1,8 @@
 ---
 aliases:
   - Where do ideas come from_
+created: 2026-05-26
+modified: 2026-06-02
 ---
 Ý tưởng có thể đến từ mọi nơi, từ phòng tắm, nhà bếp nhà bạn; cho tới quán cafe, văn phòng, tiệm giặt là mà bạn thường ghé thăm.
 

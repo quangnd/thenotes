@@ -1,6 +1,8 @@
 ---
 aliases:
   - Metacognitive supports require dynamic, participatory environments
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Siêu nhận thức vốn có tính động]], vì vậy để thiết kế một môi trường cung cấp hỗ trợ siêu nhận thức, môi trường đó phải hoạt động và phản hồi một cách linh hoạt với sự tương tác của người tham gia với tài liệu.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Anti-marketing
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi nói trước công chúng, cả nhà nghiên cứu lẫn doanh nhân đều có xu hướng vẽ ra bức tranh đẹp nhất có thể về công việc của mình. Thói quen này thường dẫn đến phóng đại có hại ([[Quảng bá ra ngoài làm hỏng bên trong]]) và một mối quan hệ ít cá nhân hơn, mang tính giao dịch nhiều hơn với người khác. Một liều thuốc giải thú vị là chủ động thực hành "anti-marketing" (phản tiếp thị): cố ý tập trung vào những phần *kém* đẹp đẽ nhất của dự án khi nói trước công chúng, tức là cái gì gây nhầm lẫn, cái gì đáng thất vọng, cái gì không chạy.

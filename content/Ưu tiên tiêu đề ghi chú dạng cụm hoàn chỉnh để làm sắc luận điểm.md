@@ -1,6 +1,8 @@
 ---
 aliases:
   - Prefer note titles with complete phrases to sharpen claims
+created: 2026-05-26
+modified: 2026-05-31
 ---
 Khi viết [[Ghi chú thường xanh]], tôi thấy dùng cụm từ hoàn chỉnh làm tiêu đề giúp giữ được tính hướng khái niệm ([[Ghi chú thường xanh nên hướng khái niệm]]). Ví dụ: [[Mục tiêu giáo dục thường phản tác dụng chính nó]], [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]].
 

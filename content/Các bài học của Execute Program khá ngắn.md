@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s lessons are quite short
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các bài học trong [[Execute Program]] chỉ dài vài phút. Bạn đọc vài đoạn văn về một khái niệm mới, thử ngay lập tức, và lặp lại vài lần để bao quát một số chi tiết cốt lõi về khái niệm đó. Sau đó bạn hoàn thành.

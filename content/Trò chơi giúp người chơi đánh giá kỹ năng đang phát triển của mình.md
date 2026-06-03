@@ -1,6 +1,8 @@
 ---
 aliases:
   - Games help players evaluate their developing skills
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Bạn không phải đoán xem mình đã giải được câu đố trong The Witness hay chưa. Trò chơi sẽ nói cho bạn biết. Bạn cũng không phải đoán xem mình có ngắm chuẩn trong một game bắn súng hay không. Phản hồi hình ảnh và âm thanh sẽ trả lời thay.

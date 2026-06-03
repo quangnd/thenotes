@@ -1,6 +1,8 @@
 ---
 aliases:
   - A reading inbox to capture possibly-useful references
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Để tránh đống tab trình duyệt gây lo lắng và thư mục PDF đáng sợ, cần một quy trình tự động để thu thập tham chiếu đến các bài đọc có thể hữu ích.

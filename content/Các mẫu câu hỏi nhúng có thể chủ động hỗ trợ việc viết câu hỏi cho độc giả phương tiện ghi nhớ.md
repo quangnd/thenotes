@@ -1,9 +1,11 @@
 ---
 aliases:
   - Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
-[[Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu nhắc thông qua các câu nhắc do tác giả cung cấp]], nhưng đôi khi đặc biệt quan trọng là người đọc tự viết câu hỏi của mình — ví dụ đặc biệt khi tác động mang tính cá nhân hơn là trí tuệ, như trong [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Trong những tình huống này, nếu tác giả có thể giúp người đọc tự viết câu hỏi thì sao? Có lẽ họ có thể cung cấp một bộ mẫu câu hỏi để tùy chỉnh, xen kẽ trực tiếp vào trải nghiệm đọc như trong bản phác thảo này:
+[[Phương tiện ghi nhớ có thể giúp dựng bộ khung cho việc viết prompt thông qua các prompt do tác giả cung cấp]], nhưng đôi khi đặc biệt quan trọng là người đọc tự viết câu hỏi của mình — ví dụ đặc biệt khi tác động mang tính cá nhân hơn là trí tuệ, như trong [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Trong những tình huống này, nếu tác giả có thể giúp người đọc tự viết câu hỏi thì sao? Có lẽ họ có thể cung cấp một bộ mẫu câu hỏi để tùy chỉnh, xen kẽ trực tiếp vào trải nghiệm đọc như trong bản phác thảo này:
 
 ![](Attachments/habit demo 2.png)
 

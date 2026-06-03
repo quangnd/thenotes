@@ -1,6 +1,8 @@
 ---
 aliases:
   - §Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)
+created: 2026-05-26
+modified: 2026-05-26
 ---
 ### Dàn ý bài nói (tại Stripe, ngày 2019-12-12)
 - [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]

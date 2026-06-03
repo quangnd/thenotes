@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition mechanics create a sense of effortlessness
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các cơ chế cốt lõi của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] loại bỏ việc ra quyết định và sự nỗ lực ý chí khỏi con đường quan trọng. Giả sử bạn muốn nghiên cứu con đường phân tử của quá trình trao đổi chất tế bào. Không có SRS, bạn sẽ cần lập kế hoạch như "Tôi học sinh học tế bào vào tối thứ Ba," nhớ kế hoạch đó, và triệu tập ý chí để thực hiện kế hoạch đó nhiều lần. Nhưng nếu bạn có một thực hành SRS chủ động, bạn có thể đưa một số câu hỏi vào thư viện của mình và tin chắc rằng bạn sẽ thấy chúng lại theo thời gian.

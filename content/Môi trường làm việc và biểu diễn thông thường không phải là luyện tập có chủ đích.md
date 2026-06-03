@@ -1,6 +1,8 @@
 ---
 aliases:
   - Typical work and performance environments don’t constitute deliberate practice
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Luyện tập có chủ đích, theo Ericsson]] hiệu quả tạo cơ hội cho học viên thực hành lặp đi lặp lại một cách có tập trung. Trong một trận bóng chày, người đánh bóng có thể chỉ vung gậy chục lần, nhưng nếu được luyện tập cùng huấn luyện viên chuyên nghiệp, họ có thể thực hiện hàng trăm cú ném trong một ngày. Tốt hơn nữa: những cú ném đó có thể được thiết kế để khai thác một điểm yếu cụ thể (Ericsson et al, 1993, tr. 368).

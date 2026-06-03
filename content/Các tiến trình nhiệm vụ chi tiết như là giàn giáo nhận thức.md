@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fine-grained task progressions as cognitive scaffolding
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi tiếp cận một kỹ năng hoặc khái niệm mới lần đầu tiên, điều quan trọng là phải phân tách nó ra để bạn có thể thực hiện bước đầu tiên khả thi. Thật không may, bản thân quá trình phân tách đó đã khá tốn công sức, điều này có thể cản trở việc tiếp thu nội dung chính. Nếu các khái niệm quá xa lạ, bạn có thể không thể phân tách chúng chút nào.

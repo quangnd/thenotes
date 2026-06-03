@@ -1,6 +1,8 @@
 ---
 aliases:
   - Guided meditation apps bundle instruction with daily sessions
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi tôi ngồi xuống thiền với một [[Ứng dụng thiền có hướng dẫn]], tôi không nghĩ mình đang "tham gia một bài học" hay thậm chí thực sự "nhận hướng dẫn." Tôi ngồi xuống _để thiền._ Nhưng trên thực tế, những buổi tập đó là bài học, và tôi có nhận được hướng dẫn. Tôi sử dụng một ứng dụng để hướng dẫn buổi thiền của mình. Các ứng dụng này thường mở đầu buổi tập mỗi ngày bằng một bài giảng ngắn đặt khung cho thực hành ngày hôm đó. Sau đó trong suốt buổi tập, giáo viên sẽ đưa ra những gợi ý không liên tục, liên quan đến chủ đề ngày hôm đó. Sau buổi tập, bài học thường kết thúc bằng vài câu chốt.

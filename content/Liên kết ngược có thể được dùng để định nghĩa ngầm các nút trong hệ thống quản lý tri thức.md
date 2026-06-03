@@ -1,6 +1,8 @@
 ---
 aliases:
   - Backlinks can be used to implicitly define nodes in knowledge management systems
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các hệ thống hiển thị liên kết ngược đến một nút cho phép một hành vi mới: bạn có thể định nghĩa một nút mới theo cách ngoại diên (thay vì nội hàm) bằng cách đơn giản liên kết đến nó từ nhiều nút khác - ngay cả trước khi nó có bất kỳ nội dung nào.

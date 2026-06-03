@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might the mnemonic medium support readers in building more complex understanding_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ]] giúp người đọc nhớ những gì họ đã đọc, và đó là bước đầu tiên quan trọng để hiểu ([[Hiểu sâu cần kiến thức chi tiết về nền tảng]]). Chúng tôi cũng sử dụng các câu hỏi này để giúp người đọc tiếp thu kiến thức khái niệm: [[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]]. Và chúng tôi đã vượt ra ngoài ghi nhớ: [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Vậy. Làm sao chúng ta có thể tiếp tục đi lên [[Phân loại học của Bloom]] để hỗ trợ các loại hiểu biết phức tạp hơn? Các thí nghiệm sớm liên quan cho thấy điều này có thể khả thi: [[Hệ thống ghi nhớ lặp lại ngắt quãng có thể được dùng để thúc đẩy ứng dụng, tổng hợp và sáng tạo]].

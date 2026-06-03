@@ -1,6 +1,8 @@
 ---
 aliases:
   - Deliberate practice, after Ericsson
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 ==CẦN LÀM trong hộp thư đến==

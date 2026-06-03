@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] phụ thuộc vào [[Hiệu ứng kiểm tra]]: bạn sẽ nhớ điều gì đó lâu hơn nếu bạn thực sự phải truy xuất nó từ trí nhớ so với khi bạn chỉ đơn giản được tiếp xúc lại với nó. Vì vậy, khi viết các câu nhắc, hãy đảm bảo rằng câu nhắc yêu cầu người đọc thực sự truy xuất ký ức mà bạn muốn củng cố.
 

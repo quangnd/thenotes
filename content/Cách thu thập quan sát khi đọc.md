@@ -1,6 +1,8 @@
 ---
 aliases:
   - How to collect observations while reading
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Quan trọng là phải [[Viết về thứ mình đọc]], nhưng chuyển qua chuyển lại giữa đọc và viết ghi chú hoàn chỉnh rất phân tâm. Thay vào đó, hãy ghi lại các quan sát một cách nhẹ nhàng trong lúc đọc. Bỏ chúng vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Việc đó [[Đóng các vòng lặp còn mở]], và bạn sẽ xử lý chúng sau (xem [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]).
 

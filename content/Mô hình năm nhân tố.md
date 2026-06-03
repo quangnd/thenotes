@@ -1,6 +1,8 @@
 ---
 aliases:
   - Five-factor model
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Còn được gọi là "the big five" (năm đặc điểm lớn) và "Big Five personality traits" (năm đặc điểm tính cách lớn), những đặc điểm này là các cụm phản ứng nhất quán được rút ra từ phân tích thống kê dữ liệu khảo sát tâm lý.

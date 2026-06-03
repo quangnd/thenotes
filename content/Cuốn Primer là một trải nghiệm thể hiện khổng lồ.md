@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer is an enormous enacted experience
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age*, một trong những điều ấn tượng nhất về Cuốn Primer là nó giao tiếp gần như hoàn toàn qua một [[Trải nghiệm thể hiện]], giống như phần lớn các trò chơi điện tử. Nó minh họa rất sống động cách [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo]].

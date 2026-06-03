@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hypertext
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Văn bản có liên kết đến văn bản khác. Thuật ngữ được đặt ra bởi [[Ted Nelson]].

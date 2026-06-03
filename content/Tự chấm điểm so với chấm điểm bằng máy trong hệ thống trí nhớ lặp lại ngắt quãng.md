@@ -1,6 +1,8 @@
 ---
 aliases:
   - Self-grading vs. machine-grading in spaced repetition memory systems
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Trong một [[Hệ thống ghi nhớ lặp lại ngắt quãng]], đầu vào chính cho hệ thống điều khiển là: người dùng có nhớ đúng câu hỏi không? Một số hệ thống được tự chấm điểm: người dùng cho biết họ có nhớ hay không. Các hệ thống khác yêu cầu người dùng nhập câu trả lời; sau đó hệ thống tính toán xem người dùng có đúng không.

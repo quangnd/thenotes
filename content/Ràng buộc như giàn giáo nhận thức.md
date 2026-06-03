@@ -1,6 +1,8 @@
 ---
 aliases:
   - Constraints as cognitive scaffolding
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nếu bạn mới sử dụng Photoshop và tôi trình bày toàn bộ giao diện ngay lập tức, bạn có thể gặp khó khăn khi thực hiện bước đầu tiên. Nhưng bạn có thể cảm thấy thoải mái hơn nếu bắt đầu trong không gian làm việc "chào mừng" với hầu hết các bảng điều khiển và công cụ bị ẩn đi. Sau đó bạn có thể hiển thị từng phần của giao diện khi phát hiện ra mình cần nó, hoặc theo sự tò mò về điều gì đó.

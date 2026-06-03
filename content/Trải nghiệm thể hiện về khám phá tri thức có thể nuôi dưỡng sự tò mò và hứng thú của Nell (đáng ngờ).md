@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences of intellectual discovery could foster Nell’s curiosity and interest (dubious)
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 ==Khi quay lại ghi chú này sau vài tháng, tôi thấy các luận điểm ở đây đáng ngờ. Cần tái cấu trúc hoặc loại bỏ.==

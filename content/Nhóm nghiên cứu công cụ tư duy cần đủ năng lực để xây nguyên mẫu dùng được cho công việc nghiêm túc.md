@@ -1,6 +1,8 @@
 ---
 aliases:
   - Groups researching tools for thought need enough capacity to build prototypes suitable for serious work
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Thiết kế hệ thống hiệu quả cần insight từ bối cảnh sử dụng thật]]. Điều đó nâng tiêu chuẩn lên cao cho bất cứ nhóm nào muốn khám phá các ý tưởng quanh [[Công cụ tư duy]]: bạn không chỉ cần năng lực phát triển ý tưởng về mặt khái niệm, mà còn cần năng lực thiết kế và kỹ thuật để đẩy nguyên mẫu tới mức có thể dùng như công cụ nghiêm túc cho công việc nghiêm túc. Chỉ tại điểm đó, bạn mới thấy rõ ý tưởng của mình được khúc xạ qua việc sử dụng hệ thống thực tế, tức là [[Hiểu biết sâu sắc qua việc làm]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer doesn’t appear to coerce its students
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một trong những lý do khiến mọi người thấy Cuốn Primer rất truyền cảm hứng là nó vẽ ra một tầm nhìn về một trải nghiệm giáo dục thành công mà không ép buộc hay giam cầm rõ ràng học sinh của nó, như các trường học thông thường vẫn hay bị cáo buộc làm.

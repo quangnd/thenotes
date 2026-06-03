@@ -1,6 +1,8 @@
 ---
 aliases:
   - Continuous-scroll digital reading uncomfortably disrupts object permanence
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Thật đau đớn khi đọc các bài viết dài vô tận trên web, cuộn liên tục. Tôi luôn đặt trình đọc sách điện tử ở chế độ lật trang, không cuộn liên tục. Một nguyên nhân chính dường như là tương tác cuộn liên tục phá vỡ tính bền vững đối tượng.

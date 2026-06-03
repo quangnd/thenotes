@@ -1,6 +1,8 @@
 ---
 aliases:
   - Transfer learning
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]

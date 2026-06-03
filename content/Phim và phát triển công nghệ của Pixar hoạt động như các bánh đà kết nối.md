@@ -1,6 +1,8 @@
 ---
 aliases:
   - Pixar’s movies and technology development act as coupled flywheels
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Pixar bắt đầu như một công ty công nghệ, phát triển hệ thống dựng hình 3D chủ yếu cho mục đích quảng cáo. Nhưng giờ chúng ta biết nó chủ yếu như một hãng phim. Trên thực tế, nó là cả hai, và mỗi bên giúp bên kia trở nên khả thi.

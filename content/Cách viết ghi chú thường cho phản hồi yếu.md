@@ -1,6 +1,8 @@
 ---
 aliases:
   - Note-writing practices provide weak feedback
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một lý do khiến [[Cách viết ghi chú thông thường không hiệu quả]] có lẽ là vì các hệ thống ghi chú thường cho phản hồi kém.

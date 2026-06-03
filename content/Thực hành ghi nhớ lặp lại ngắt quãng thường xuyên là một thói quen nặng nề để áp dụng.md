@@ -1,6 +1,8 @@
 ---
 aliases:
   - Regular spaced repetition memory practice is an onerous habit to adopt
+created: 2026-05-26
+modified: 2026-05-30
 ---
 [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng nó đòi hỏi mọi người phải áp dụng thói quen thực hành ghi nhớ thường xuyên. Và việc áp dụng bất kỳ thói quen thường xuyên mới nào cũng là gánh nặng cho hầu hết mọi người. Nhưng hầu hết mọi người thấy đây là một thói quen khá khó chịu: ôn tập máy móc thẻ ghi nhớ, có thể gợi nhớ đến thời trung học.
 

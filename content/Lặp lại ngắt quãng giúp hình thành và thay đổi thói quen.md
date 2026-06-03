@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition may be a helpful tool to develop or change habits
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Tưởng tượng bạn đọc được một bài báo gợi ý điều gì đó như sau:

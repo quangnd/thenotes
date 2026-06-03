@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes are a safe place to develop wild ideas
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi vừa có một linh cảm mơ hồ về ý tưởng mới, ta dễ muốn ghi lại ngay rồi phát triển nó tại chỗ. Nhưng thường thì cách đó không khả thi, cả về mặt thực tế lẫn cảm xúc. Ý tưởng có thể chưa đủ rõ để xử lý trực tiếp. Trang giấy trắng dễ làm ta chùn tay, các luận điểm vẫn còn mơ hồ.

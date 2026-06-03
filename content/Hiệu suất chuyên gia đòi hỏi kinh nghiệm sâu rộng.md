@@ -1,6 +1,8 @@
 ---
 aliases:
   - Expert performance requires extensive experience
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 - Simon và Chase (1973, tr. 186) không tìm thấy đại kiện tướng nào có ít hơn "khoảng {một thập kỷ} chuyên tâm mãnh liệt với trò chơi. Chúng tôi ước tính, rất sơ bộ, rằng một kiện tướng đã dành có lẽ {10.000 đến 50.000} giờ ngắm nhìn các thế cờ..." (no grandmaster with less than "about a decade's intense preoccupation with the game. We would estimate, very roughly, that a master has spent perhaps 10,000 to 50,000 hours staring at chess positions…")

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Self-graded spaced repetition memory systems are more efficient than machine-graded systems
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Tương tác là một trung tâm chi phí trong thiết kế giao diện]], vì vậy một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] chấm điểm bằng máy sẽ áp đặt chi phí cao hơn lên người dùng. Nếu người dùng phải gõ câu trả lời, điều đó dễ dàng làm tăng gấp 2–4 lần thời gian dành cho mỗi nhiệm vụ.

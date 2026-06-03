@@ -1,6 +1,8 @@
 ---
 aliases:
   - Executable strategy for writing
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Mọi người thường bắt đầu bài viết với một ý tưởng mơ hồ và một trang giấy trắng. Để nhích được vài bước, bạn cần lượng năng lượng khởi động và sức nghĩ rất lớn. Không có gì sẵn bên ngoài, nên phải nhồi nhét mọi thứ trong đầu cùng lúc.
 

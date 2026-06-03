@@ -1,6 +1,8 @@
 ---
 aliases:
   - What is the causal impact of the mnemonic medium’s review sessions on reader retention_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Người đọc Quantum Country phát triển khả năng giữ lại thông tin chi tiết một cách đáng tin cậy]], nhưng dữ liệu đó mang tính tương quan. Tác động nhân quả là gì?

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Rivalry
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Một tài nguyên được gọi là **có tính cạnh tranh** (rivalrous) nếu việc tiêu thụ của một người làm giảm khả năng tiêu thụ của người khác (ví dụ: thực phẩm, hầu hết hàng hóa tư nhân) và **không có tính cạnh tranh** (non-rivalrous) nếu chi phí biên để cung cấp tài nguyên đó cho thêm một người bằng không (ví dụ: kiến thức, hầu hết phần mềm, một cảnh quan đẹp).

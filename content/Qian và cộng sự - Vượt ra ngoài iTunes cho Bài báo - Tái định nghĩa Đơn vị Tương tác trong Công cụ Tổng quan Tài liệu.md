@@ -1,6 +1,8 @@
 ---
 aliases:
   - Qian et al - Beyond iTunes for Papers - Redefining the Unit of Interaction in Literature Review Tools
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Zotero và các phần mềm tương tự định hướng tổng quan tài liệu và tổng hợp tri thức quanh {bài báo} như đơn vị cơ bản, nhưng {[[Các khẳng định có cơ sở, theo Qian và cộng sự]]} có thể là nguyên tử phù hợp hơn cho các hỗ trợ nhận thức.
 

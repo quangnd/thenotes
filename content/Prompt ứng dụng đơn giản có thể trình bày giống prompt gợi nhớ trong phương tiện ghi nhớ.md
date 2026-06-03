@@ -1,6 +1,8 @@
 ---
 aliases:
   - Simple application prompts can be presented the same way as recall prompts in the mnemonic medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Loại prompt này chia sẻ nhiều đặc điểm với prompt gợi nhớ hiện tại của chúng tôi.

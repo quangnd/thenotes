@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quantum Country lacks a coherent spatial representation of the mnemonic medium’s cards as objects
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Ít nhất trong lần triển khai ban đầu của [[Phương tiện ghi nhớ]] trên [[Quantum Country]], biểu diễn không gian của chúng tôi về các câu hỏi được nhúng trong văn bản không nhất quán. Sự thiếu tính vĩnh cửu của đối tượng kết quả tạo ra sự nhầm lẫn và hạn chế.

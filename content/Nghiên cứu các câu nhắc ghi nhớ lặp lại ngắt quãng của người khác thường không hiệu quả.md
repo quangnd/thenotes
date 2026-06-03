@@ -1,6 +1,8 @@
 ---
 aliases:
   - Studying another person’s spaced repetition memory prompts is usually ineffective
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi đã hiểu rằng [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]] và [[Học các ý tưởng ngày càng phức tạp có thể tương đương với việc hình thành kích thước khối hiệu dụng lớn hơn]], người ta rất dễ bị cám dỗ tải về các bộ thẻ [[Hệ thống ghi nhớ lặp lại ngắt quãng]] của người khác để hấp thụ kiến thức mới. Tuy nhiên, nếu bạn chưa từng học qua chủ đề đó, bạn sẽ tiến bộ hơn nhiều nếu đọc một chương sách giáo khoa về sinh học tế bào, thay vì học thuộc bộ thẻ của người khác.

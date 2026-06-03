@@ -1,6 +1,8 @@
 ---
 aliases:
   - Note-writing practices are generally ineffective
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Công việc tri thức nên tích lũy]], nhưng [[Hầu hết mọi người chỉ ghi chú tạm thời]].

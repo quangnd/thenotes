@@ -1,6 +1,8 @@
 ---
 aliases:
   - Prefer positive note titles to promote systematic theory
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Khi viết [[Ghi chú thường xanh]], rất dễ rơi vào dạng tiêu đề kiểu "X dở" hay "Y không chạy". Thay vào đó, hãy đặt tiêu đề diễn đạt thuộc tính hoặc yêu cầu theo hướng khẳng định.
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium’s in-text prompts may support active reading
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các câu nhắc trong văn bản của [[Phương tiện ghi nhớ]] giúp người đọc giữ lại những gì họ đang đọc, nhưng chúng dường như có những hiệu ứng khác mà chúng ta chưa hiểu rõ.

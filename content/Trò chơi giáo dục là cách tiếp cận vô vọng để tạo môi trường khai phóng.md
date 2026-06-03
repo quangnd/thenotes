@@ -1,6 +1,8 @@
 ---
 aliases:
   - Educational games are a doomed approach to creating enabling environments
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Vì [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], người ta tưởng tượng rằng có thể làm ra một [[Trò chơi giáo dục]] khả thi, "dạy" được các kỹ năng cụ thể. Thực tế thì cách này thường không chạy, vì vài lý do mang tính cấu trúc.

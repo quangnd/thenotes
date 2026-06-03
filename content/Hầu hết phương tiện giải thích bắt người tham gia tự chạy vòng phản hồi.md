@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most explanatory media make participants run their own feedback loops
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Học tập đòi hỏi siêu nhận thức]]. Khi học cái gì mới từ một văn bản, người đọc phải liên tục tự hỏi: tôi có hiểu chỗ đó không? tôi có thể đặt câu hỏi nào để kiểm tra hiểu biết của mình? có nên đọc lại đoạn đó không? có nên tra tài liệu nền không? v.v.

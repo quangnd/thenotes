@@ -1,6 +1,8 @@
 ---
 aliases:
   - In the Cells of the Eggplant - Chapman
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 #### Siêu lý tính: dẫn nhập (Meta-rationality: an introduction)

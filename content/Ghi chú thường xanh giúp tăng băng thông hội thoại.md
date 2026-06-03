@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes can increase conversational bandwidth
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi một chủ đề ta đã suy nghĩ sâu xuất hiện trong cuộc trò chuyện, giới hạn của phương tiện dễ gây bực bội. Truyền đạt những suy nghĩ dài, chi tiết qua hội thoại thường rất khó. Nếu đã xuất bản bài báo hay sách về chủ đề đó, ta có thể chia sẻ như tài liệu bổ sung. Nhưng đây là tiêu chuẩn khá cao. Phần lớn kiến thức ta đã phát triển kỹ vẫn chưa được viết thành văn xuôi đủ chuẩn để xuất bản. [[Ghi chú thường xanh]] lấp được khoảng trống này. Chúng có thể thiếu cấu trúc tường thuật và chất lượng văn xuôi của một bài luận, nhưng đủ trau chuốt để đứng một mình và đáng để phát triển dần. Chia sẻ một ghi chú như vậy giúp tăng băng thông hội thoại.

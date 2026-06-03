@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dynamic mediums usually lack an authored time dimension
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 ==TODO ghi chú này cần được tách ra thành nhiều ghi chú khác==

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Communities of action often form around media artifacts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Karl Marx, Stewart Brand, Adam Smith, Vannevar Bush, Ayn Rand — tất cả những người này đã khởi xướng các cộng đồng hành động cực kỳ mạnh mẽ, và mỗi cộng đồng đều tập trung xung quanh một tập nhỏ các tác phẩm đã xuất bản. Những tác phẩm này tạo ra hiểu biết chung về cả một tập hợp ý tưởng lẫn một mục tiêu chung. Chúng cũng trở thành biểu tượng, một ký hiệu để biểu thị tư cách thành viên trong nhóm.

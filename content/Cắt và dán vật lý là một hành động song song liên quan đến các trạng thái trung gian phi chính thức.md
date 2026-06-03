@@ -1,6 +1,8 @@
 ---
 aliases:
   - Physical cut and paste is a parallel act involving informal intermediate states
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các thao tác "cắt" và "dán" kinh điển của Larry Tesler được đặt tên theo các thao tác vật lý tương ứng mà một tác giả có thể sử dụng khi chỉnh sửa bố cục. Nhưng, như Ted Nelson chỉ ra trong *Geeks Bearing Gifts*, phiên bản kỹ thuật số cứng nhắc và tuần tự, trong khi các hoạt động vật lý vốn dĩ song song và phi chính thức. Khi cắt và dán vật lý, bạn cắt nhỏ công việc, trải ra trên sàn, và sắp xếp lại các mảnh. Trong quá trình đó, chúng sẽ đi qua nhiều cấu hình tạm thời, "không hợp lệ" khi bạn khám phá các kết nối.

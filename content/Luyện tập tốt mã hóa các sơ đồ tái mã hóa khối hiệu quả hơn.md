@@ -1,6 +1,8 @@
 ---
 aliases:
   - Good practice encodes more effective chunk recoding schemes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]], điều này có thể đạt được thông qua luyện tập hiệu quả (ví dụ: [[Luyện tập có mục đích, theo Ericsson và Pool]]).

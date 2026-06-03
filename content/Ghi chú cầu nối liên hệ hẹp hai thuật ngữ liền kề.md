@@ -1,6 +1,8 @@
 ---
 aliases:
   - Bridge notes narrowly relate two adjacent terms
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Giả sử một người khác đã suy nghĩ sâu sắc về một ý tưởng tương tự với một trong những ý tưởng của bạn, và kết luận của họ có vẻ phần lớn tương tự. Mỗi người đều có thuật ngữ chuyên môn riêng cho các thuộc tính khác nhau của lý thuyết. Thật hấp dẫn khi gộp các thuật ngữ của người kia vào của bạn, nhưng có lẽ có những khác biệt tinh tế giữa quan niệm của bạn và của họ sẽ bị mất trong quá trình đó. Bạn có thể chỉ dùng thuật ngữ của người kia, nhưng đôi khi khó đi theo hướng mới khi bị neo vào thuật ngữ trước đó mang nhiều hàm ý. Và bạn cũng không muốn liên tục phải đề cập đến cả hai bộ thuật ngữ.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Educational environments usually don’t involve original thought
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Môi trường giáo dục thường bao gồm các hoạt động có kết quả định sẵn, liên quan đến một tập hợp khái niệm hay ý tưởng đã biết trước. Học sinh được kỳ vọng tự tái cấu trúc hoặc tự suy diễn lại những khái niệm đó thông qua việc học. Nhưng ngay cả trong các môi trường "học khám phá" và các khóa học nhân văn diễn giải, các hoạt động thường không được thiết kế để thúc đẩy tư duy nguyên bản.

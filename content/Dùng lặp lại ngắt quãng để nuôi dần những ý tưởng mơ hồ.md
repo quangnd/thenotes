@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition may be a helpful tool to incrementally develop inklings
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nhiều khi đang nói chuyện hay đi dạo, tôi bị một câu hỏi hoặc khái niệm thú vị cuốn lấy. Lúc đó chưa thể viết gì sâu, càng không thể viết một [[Ghi chú thường xanh]] tử tế. Chưa có gì để nói, chỉ là cái ý đó nghe hay.

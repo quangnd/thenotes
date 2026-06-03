@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer’s explicit learning quests teach Nell to delegate her curiosity and interest
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age,* mối quan hệ của Nell với [[Cuốn Primer Minh họa của Quý cô Trẻ]] chủ yếu là phản ứng: cô được cho là dành suốt thời thơ ấu và tuổi thiếu niên mở cuốn sách, sẵn sàng thực hiện bất cứ điều gì nó trình bày. Hầu hết các hoạt động đều được khởi xướng và điều chỉnh bởi Primer, không phải bởi Nell. Cô bắt đầu chúng vì Primer thách thức cô; cô theo đuổi chúng cho đến khi Primer quyết định cô đã xong ([[Nell không biết và không chia sẻ mục tiêu của Cuốn Primer]]).

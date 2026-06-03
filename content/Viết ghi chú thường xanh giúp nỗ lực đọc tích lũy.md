@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen note-writing helps reading efforts accumulate
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Viết về thứ mình đọc]] là việc quan trọng. Nhưng thay vì chỉ viết về đúng cuốn sách đang đọc, nên viết ghi chú sao cho các quan sát từ việc đọc tích lũy theo thời gian, va vào nhau và va vào ý tưởng của chính mình (xem [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]], [[Công việc tri thức nên tích lũy]]).

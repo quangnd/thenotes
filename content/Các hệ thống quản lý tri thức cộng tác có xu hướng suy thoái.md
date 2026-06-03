@@ -1,6 +1,8 @@
 ---
 aliases:
   - Collaborative knowledge management systems tend to decay
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Dường như thật ngớ ngẩn khi mỗi thành viên trong nhóm tự ghi chú riêng về các bài báo họ đọc, về các ý tưởng họ đang phát triển cho dự án nhóm, về các cuộc họp, v.v. Xu hướng tự nhiên là xây dựng một wiki nhóm hoặc một [[Hệ thống viết ghi chú]] cộng tác tương tự. Nhưng những hệ thống đó dường như luôn trở nên không thể sử dụng và bị bỏ rơi.

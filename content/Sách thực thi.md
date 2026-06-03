@@ -1,6 +1,8 @@
 ---
 aliases:
   - Executable books
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 (Xem thảo luận chính trong *[How can we develop transformative tools for thought; subsection "Executable books"](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)*) ==CẦN LÀM (TODO)==

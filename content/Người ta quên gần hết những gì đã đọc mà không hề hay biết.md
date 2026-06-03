@@ -1,6 +1,8 @@
 ---
 aliases:
   - People seem to forget most of what they read, and they mostly don’t notice
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Sau vài tuần, hầu hết mọi người chỉ nhớ được vài ý chung chung của một cuốn sách, nếu có. Một người đọc bình thường có thể bỏ ra hàng giờ để đọc xong một cuốn phi hư cấu nghiêm túc. Rồi trong một bữa tiệc, ai đó nhắc đến nó, và họ nhận ra mình chỉ nhớ được khoảng ba câu. Gần như không có khả năng nhớ chi tiết. Chỉ nắm được ý chính, vậy thôi.

@@ -1,3 +1,7 @@
+---
+created: 2026-05-26
+modified: 2026-06-02
+---
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
 Một cuốn sách nền tảng về cách làm [[MOC Hệ thống viết ghi chú]]. Sönke tập trung chủ yếu vào lợi ích của Zettelkasten cho quy trình viết học thuật. Một trong những ý tưởng cốt lõi: viết sáng tạo có thể trở nên tương đối có dạng đóng và khả thi để hành động. Nó có thể thực thi được, theo kiểu GTD, qua một chuỗi các bước dựa trên hệ thống ghi chú liên kết dày đặc.
@@ -42,7 +46,7 @@ Viết trong khi đọc là cách tuyệt vời để giám sát mức độ hi�
 - Nếu cố tự lừa mình ở bước này và viết ra những câu chữ khó hiểu, ta sẽ bị lộ ở bước tiếp theo khi cố biến ghi chú tài liệu thành ghi chú vĩnh viễn và kết nối chúng với các ghi chú khác.
 - Viết ghi chú và sắp xếp chúng vào hộp phiếu chính là nỗ lực hiểu ý nghĩa rộng hơn của một điều gì đó. Hộp phiếu buộc ta đặt nhiều câu hỏi mở rộng: Điều này có nghĩa gì? Nó kết nối với... như thế nào? Sự khác biệt giữa... là gì? Nó giống với cái gì?
 
-[[Hãy tự mình suy ngẫm]]
+[[Suy nghĩ theo cách của bạn]]
 - Được mô tả trong văn bản nổi tiếng về Khai sáng: "Sự chưa trưởng thành (Nonage) là việc không có khả năng sử dụng sự hiểu biết của chính mình mà không cần sự hướng dẫn của người khác. Sự chưa trưởng thành này là tự áp đặt nếu nguyên nhân không nằm ở sự thiếu hiểu biết mà ở sự do dự và thiếu dũng khí sử dụng tâm trí của chính mình mà không cần sự hướng dẫn của người khác. Dám biết! (Sapere aude.) 'Hãy có dũng khí sử dụng sự hiểu biết của chính bạn,' do đó là phương châm của Khai sáng." (Kant 1784)
 - Câu hỏi đầu tiên tôi tự hỏi khi viết ghi chú vĩnh viễn đầu tiên cho hộp phiếu là: Tất cả điều này có ý nghĩa gì cho nghiên cứu của tôi và các câu hỏi tôi đang nghĩ đến trong hộp phiếu? Đây chỉ là cách khác để hỏi: Tại sao các khía cạnh tôi viết ra lại thu hút tôi?
 

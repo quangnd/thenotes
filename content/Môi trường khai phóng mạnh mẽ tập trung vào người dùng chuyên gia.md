@@ -1,6 +1,8 @@
 ---
 aliases:
   - Powerful enabling environments focus on expert use
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Vì [[Môi trường khai phóng]] giúp người ta làm được những điều mới, rất dễ bị cám dỗ thiết kế môi trường nhắm tới việc đưa người mới vào lĩnh vực, thường qua các phiên bản đơn giản hóa của hoạt động thực. Cách làm này thường khá hạn chế. [[Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]]. Mục đích đó thường được phục vụ tốt nhất khi hỗ trợ chuyên gia. Từ điểm xuất phát ấy, môi trường có thể bổ sung các cấu trúc giúp người mới theo đuổi cùng mục đích.

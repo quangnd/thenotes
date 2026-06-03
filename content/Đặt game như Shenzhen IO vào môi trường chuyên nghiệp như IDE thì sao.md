@@ -1,6 +1,8 @@
 ---
 aliases:
   - What might it mean to situate games like Shenzhen IO inside pro environments like an IDE_
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Bức tường giữa [[Trải nghiệm thể hiện]] và thực hành chuyên nghiệp có thể phá đến mức nào? ([[Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]])

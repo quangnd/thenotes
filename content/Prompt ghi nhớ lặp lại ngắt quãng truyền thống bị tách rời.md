@@ -1,6 +1,8 @@
 ---
 aliases:
   - Traditional spaced repetition memory prompts are atomized
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Prompt trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là một tập hợp không thứ tự, không cấu trúc. Mỗi prompt cố tình giữ chi tiết và đơn lẻ, vì đó là hình thức hiệu quả nhất cho việc ghi nhớ. Nhưng chính sự thiếu cấu trúc này lại tạo cảm giác như đang lang thang trong một khu rừng, mỗi lúc chỉ thấy được một chiếc lá.

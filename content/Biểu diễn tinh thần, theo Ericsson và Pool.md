@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mental representations, after Ericsson and Pool
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Ericsson và Pool (2016) sử dụng thuật ngữ "biểu diễn tinh thần" (mental representations) như cách nói thông dụng tắt cho sơ đồ phân khối ([[Các mảnh trong nhận thức con người]]) mà một người sử dụng trong lĩnh vực nào đó ([[Các lược đồ khối hiệu quả thường mã hóa các thuộc tính đặc thù theo lĩnh vực]]).

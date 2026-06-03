@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most people use notes as a bucket for storage or scratch thoughts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mọi người không muốn quên một ý tưởng hay một cuộc trò chuyện hay một nhiệm vụ hay một câu trích dẫn từ một cuốn sách, vì vậy họ viết nó vào Evernote hay thứ gì đó tương tự. Mục đích là gì? Có lẽ: "Để đảm bảo tôi không quên." Có thể: "Chỉ việc viết ra giúp tôi nhớ."

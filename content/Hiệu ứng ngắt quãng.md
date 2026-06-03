@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spacing effect
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Bạn sẽ nhớ chắc hơn nếu học một tài liệu rải ra nhiều lần, có khoảng cách giữa các lần học, thay vì nhồi cùng lượng thời gian đó vào một buổi tối.
 

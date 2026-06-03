@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer is fundamentally an educational game
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Mục tiêu của Cuốn Primer là tạo ra người trẻ sáng tạo và nổi loạn]], nhưng về mặt thực tế, các hoạt động trong [[Cuốn Primer Minh họa của Quý cô Trẻ]] có cùng mục tiêu như một [[Trò chơi giáo dục]]: xây dựng kỹ năng, khắc sâu giá trị và truyền đạt kiến thức. Lý thuyết cơ bản cho cả hai hình thức là có thể thiết kế các hoạt động đạt được những mục tiêu đó như là hệ quả không thể tránh khỏi của sự tham gia, mà không cần ép buộc ([[Cuốn Primer dường như không ép buộc học sinh của nó]]).

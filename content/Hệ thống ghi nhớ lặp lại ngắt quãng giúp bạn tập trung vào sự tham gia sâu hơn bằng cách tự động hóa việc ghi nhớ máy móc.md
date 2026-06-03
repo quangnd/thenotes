@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems help you focus on deeper engagement by automating away rote memorization
+created: 2026-05-26
+modified: 2026-05-30
 ---
 [[Hiểu sâu cần kiến thức chi tiết về nền tảng]]. Một cách nhìn về vai trò của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là chúng tự động hóa hiệu quả các yếu tố thiết yếu nhưng máy móc của việc học để bạn có thể tập trung vào các yếu tố thú vị, có ý nghĩa hoặc mang tính khái niệm hơn.
 

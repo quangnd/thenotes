@@ -1,6 +1,8 @@
 ---
 aliases:
   - A “skip” mechanism may help spaced repetition memory system sessions remain emotionally connected
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]]. Một đòn bẩy khả thi ở đây là cho người dùng cách ít ma sát để giảm ưu tiên tài liệu họ không quan tâm. Cụ thể, có lẽ chúng ta có thể cung cấp nút "bỏ qua" hoãn câu hỏi với thời gian lùi theo hàm mũ. Đây sẽ là lựa chọn thay thế ít rủi ro hơn so với xóa: [[Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]].

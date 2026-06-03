@@ -1,6 +1,8 @@
 ---
 aliases:
   - Connecting prose and its surrounding Twitter conversation
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Hầu hết mọi người không ngồi trên Slate Star Codex và làm mới trang để xem bình luận mới. Do đó, bối cảnh để viết một bình luận trên hầu hết các blog bị giới hạn trong khoảnh khắc mà người ta đọc bài viết đó. Ngược lại, [[Twitter là một máy làm lạnh nước]]. Đó là một bối cảnh liên tục, không phải bối cảnh một lần như Disqus. Các ý tưởng thường lướt trên dòng chảy thời đại khá lâu qua các luồng Twitter, liên tục được "nâng lên" bởi ai đó mới tham gia. Thật không may, bản chất phù du của Twitter khiến việc theo dõi một cuộc trò chuyện phức tạp trở nên khó khăn, so với cách trình bày diễn đàn truyền thống.

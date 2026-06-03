@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s lessons unfurl their prose in response to reader interaction
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Trong [[Execute Program]], bạn không thể đọc toàn bộ bài học cùng một lúc: bạn đọc một hoặc hai đoạn văn, sau đó nhấn nút Tiếp tục, rồi một hoặc hai đoạn văn nữa xuất hiện, và sau đó bạn được trình bày một câu hỏi. Khi bạn trả lời câu hỏi, phần văn bản tiếp theo được hiển thị. Đó là một chu kỳ nhập/xuất chặt chẽ với nhịp điệu nhất quán.

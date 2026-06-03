@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems can accelerate the unpleasant early stages of learning a subject
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Khi bạn lần đầu tiếp xúc với một chủ đề mới, rất khó để thực hiện bất kỳ bước có ý nghĩa nào: ít nhất trong một thời gian, bạn thường không thể giữ đủ các thuật ngữ và ý tưởng mới trong đầu đồng thời đủ lâu để làm bất cứ điều gì có ý nghĩa. Trong bối cảnh này, một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có thể giúp bằng cách tăng tốc bạn qua giai đoạn khó xử, khó chịu này đến điểm mà bạn thực sự có thể có trải nghiệm có ý nghĩa với tài liệu (liên quan: [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).
 

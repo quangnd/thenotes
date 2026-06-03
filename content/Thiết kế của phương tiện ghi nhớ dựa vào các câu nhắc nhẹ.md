@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium’s design relies on light-weight prompts
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ]] được thiết kế để làm cho việc trả lời các câu nhắc cực kỳ nhẹ nhàng.

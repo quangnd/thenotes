@@ -1,6 +1,8 @@
 ---
 aliases:
   - Executable strategy
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Trong công việc sáng tạo và trong cuộc sống, nhiều mục tiêu có vẻ không thể dự đoán và khó kiểm soát, phụ thuộc vào hy vọng và may mắn: bắt đầu một thói quen, giữ dáng, viết một cuốn sách, thực hiện một dự án nghiên cứu, v.v. (xem [[Các thực hành cốt lõi trong công việc tri thức thường mang tính tùy hứng]])

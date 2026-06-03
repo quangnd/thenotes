@@ -1,6 +1,8 @@
 ---
 aliases:
   - Participatory environments support learning
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Muốn hiểu thì phải bỏ công]]. Một cách để giúp người học chịu khó là tạo ra [[Môi trường tham dự]], nơi các hoạt động tự nhiên kéo họ vào dạng tham gia nỗ lực đó. Ví dụ, một trại hè nghệ thuật có nhiều buổi vẽ và hội họa sẽ tự nhiên kéo người tham dự dấn thân vào lý thuyết màu sắc.

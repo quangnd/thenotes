@@ -1,5 +1,7 @@
 ---
 draft: true
+created: 2026-06-02
+modified: 2026-06-02
 ---
 Tổng quan kho ghi chú. Các con số tự cập nhật qua Dataview (dùng dấu thời gian tệp: `file.ctime` / `file.mtime`).
 

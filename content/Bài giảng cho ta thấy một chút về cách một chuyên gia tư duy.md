@@ -1,6 +1,8 @@
 ---
 aliases:
   - Lectures can offer a glimpse of what it’s like to think like an expert
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Bài giảng cực kỳ kém hiệu quả ở đúng cái mục đích người ta hay tuyên bố, là truyền đạt thông tin. Nhưng chúng lại có thể rất hiệu quả ở chỗ truyền đạt một thứ sâu hơn: một bộ giá trị và chuẩn mực, một khuôn mẫu tư duy tinh tế, một nền văn hóa. Khi xem một chuyên gia trong lĩnh vực tư duy qua từng vấn đề, sinh viên có cơ hội thấy kiến thức ngầm được phơi bày, và thậm chí có thể tạm thời uốn nắn lối suy nghĩ của chính mình thành một thứ gần với của chuyên gia.

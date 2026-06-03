@@ -1,6 +1,8 @@
 ---
 aliases:
   - Notes should surprise you
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nếu đọc và viết ghi chú không đem lại bất ngờ nào, thì làm để làm gì?

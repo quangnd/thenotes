@@ -1,6 +1,8 @@
 ---
 aliases:
   - Application prompts can systematically test combinations of details in the text
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Câu hỏi ứng dụng đơn giản nhất có thể chỉ liên quan đến một chi tiết từ văn bản. Ví dụ, người ta có thể biến câu hỏi khai báo `Ma trận biểu diễn của cổng X là gì` thành một câu hỏi ứng dụng đơn giản: `Đầu ra của cổng X khi áp dụng cho [0 1] là gì?`. Nhưng một câu hỏi ứng dụng phức tạp hơn có thể là `Đầu ra của mạch này là gì? [Hình ảnh mạch với |+> làm đầu vào, đi qua X]`. Câu hỏi này đòi hỏi sử dụng đồng thời nhiều chi tiết: ký hiệu mạch đơn giản, định nghĩa của `|+>`, và định nghĩa của `X`.

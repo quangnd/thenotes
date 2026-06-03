@@ -1,6 +1,8 @@
 ---
 aliases:
   - My implementation of a reading inbox
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Ghi chú này mô tả hệ thống triển khai [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Transclusion is limited by the data model’s composability
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Trên Wikipedia, bạn có thể nhúng một phần bài viết này vào bài viết khác. Trong Xanadu, bạn có thể nhúng các khối văn bản tùy ý vào tài liệu khác. Trong [[Roam]], bạn có thể nhúng các cây con vào các cây con khác. Khả năng biểu đạt của Transclusion phụ thuộc rất nhiều vào mức độ kết hợp của các đối tượng có thể được nhúng.

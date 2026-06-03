@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer is scalable
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một lý do khiến Cuốn Primer trong *The Diamond Age* trông hấp dẫn là vì nó chủ yếu là một giải pháp phần mềm để truyền tải giá trị, chuyển giao kiến thức, và đưa ra hướng dẫn. Các giải pháp khác thì hoặc rất tốn kém (các mối quan hệ cá nhân, gia sư, v.v.), hoặc kém thuyết phục hơn nhiều (sách giáo khoa, bài giảng, v.v.). Ngay cả khi tính cả việc cần có "diễn viên" (ractors), Cuốn Primer vẫn là một cách rẻ hơn nhiều để phân phối loại nội dung này.

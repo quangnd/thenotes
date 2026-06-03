@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences require participant-situated cause and effect
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Để tạo ra một [[Trải nghiệm thể hiện]], phải có một liên kết trực giác giữa hành động của người tham gia và trải nghiệm sinh ra sau đó. Liên kết này không bắt buộc phải là quyền tự quyết thực sự. Điều quan trọng là người tham gia cảm thấy, một cách trực giác, rằng hành động của họ tạo ra phần lớn trải nghiệm, ít nhất là khi họ không suy nghĩ quá kỹ về nó.

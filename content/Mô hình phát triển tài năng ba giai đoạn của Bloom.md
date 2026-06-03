@@ -1,6 +1,8 @@
 ---
 aliases:
   - Bloom’s three-phase model of talent development
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Benjamin S. Bloom]] (1985) mô tả ba giai đoạn quan trọng trong phát triển tài năng của giới trẻ:

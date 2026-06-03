@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer++ is embedded in a field, bootstrapping participation through enacted experience
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Cuốn Primer không phải là môi trường khai phóng khả thi]], nhưng nó gợi ra một hướng đi đáng theo đuổi. Một thách thức khi tạo môi trường khai phóng (chẳng hạn một lĩnh vực khoa học) là [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]], nhưng người mới thường chưa làm nổi, nên họ bị mắc kẹt trong đống tài liệu nhập môn trừu tượng. Một hướng tiếp cận hứa hẹn: [[Trải nghiệm thể hiện kích hoạt tham gia chủ động trong môi trường khai phóng]]. Tiếc là [[Trải nghiệm thể hiện khó để tác giả hóa]] và [[Trải nghiệm thể hiện rất khó nhân rộng]].

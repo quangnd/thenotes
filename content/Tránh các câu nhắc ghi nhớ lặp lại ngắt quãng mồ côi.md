@@ -1,6 +1,8 @@
 ---
 aliases:
   - Avoid orphan spaced repetition memory prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi thêm các câu nhắc vào [[Hệ thống ghi nhớ lặp lại ngắt quãng]], thường là sai lầm khi viết câu nhắc về một chi tiết có vẻ thú vị, nhưng lại tách biệt khỏi mọi thứ khác bạn đang suy nghĩ. [[Các câu hỏi ghi nhớ lặp lại ngắt quãng nên kết nối và liên hệ các ý tưởng]] - và còn tốt hơn nếu chúng kết nối và liên hệ với các ý tưởng mà bạn thường xuyên suy nghĩ về.

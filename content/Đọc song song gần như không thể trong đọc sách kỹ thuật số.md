@@ -1,6 +1,8 @@
 ---
 aliases:
   - Parallel reading is mostly impossible in digital reading
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Theo như tôi biết, không có trình đọc PDF hay EPUB nào cho phép người đọc xem nhiều trang cùng lúc. Nếu bạn muốn tra phần thư mục tương ứng với chương đang đọc, bạn phải lật đi lật lại. LiquidText là ngoại lệ duy nhất trên thị trường đại chúng mà tôi biết.

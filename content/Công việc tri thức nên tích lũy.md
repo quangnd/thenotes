@@ -1,6 +1,8 @@
 ---
 aliases:
   - Knowledge work should accrete
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Phần lớn hoạt động trong [[Công việc tri thức]] có vẻ giống những nỗ lực phù du: kết quả của chúng hầu hết bị bỏ đi ngay sau khi hoàn thành.

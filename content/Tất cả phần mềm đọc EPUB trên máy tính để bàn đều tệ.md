@@ -1,6 +1,8 @@
 ---
 aliases:
   - All desktop EPUB readers are awful
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Thật đáng kinh ngạc khi các phần mềm đọc sách điện tử trên máy tính để bàn lại tệ đến vậy.

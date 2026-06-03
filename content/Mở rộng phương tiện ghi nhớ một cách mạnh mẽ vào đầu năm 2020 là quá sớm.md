@@ -1,6 +1,8 @@
 ---
 aliases:
   - Aggressively scaling the mnemonic medium in early 2020 is premature
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Bởi vì [[Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]], việc mở rộng nó là cực kỳ hấp dẫn. Tuy nhiên, các lập luận được mô tả trong [[Mở rộng quy mô sớm có thể cản trở việc lặp lại hệ thống]] cho thấy rằng việc nền tảng hóa và tổng quát hóa phải được định thời cẩn thận.

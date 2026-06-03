@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might we adapt existing texts to the mnemonic medium, without participation of the author_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 [[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]]. Hơn nữa: rất nhiều cuốn sách quan trọng hoàn toàn không có sẵn ở dạng kỹ thuật số; nhiều người thích sách giấy và máy đọc e-ink. Đối tượng kỹ thuật sẽ tiếp tục sử dụng PDF trong thời gian dài. Còn [[Sách nói]] và video thì sao? Sẽ rất mạnh mẽ nếu chúng ta có thể "nâng" các phương tiện truyền thông hiện có vào phương tiện mà không làm mất đi sức mạnh của nó.
 

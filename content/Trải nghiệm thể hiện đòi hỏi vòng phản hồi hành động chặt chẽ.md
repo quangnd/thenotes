@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences require tight action–feedback loops
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Để tạo ra một [[Trải nghiệm thể hiện]], các vòng phản hồi cần đủ chặt chẽ để duy trì nhận thức rằng người tham gia đang tạo ra trải nghiệm. Các vòng phản hồi chặt chẽ, đến lượt nó, đòi hỏi các hành động phải đủ chi tiết.

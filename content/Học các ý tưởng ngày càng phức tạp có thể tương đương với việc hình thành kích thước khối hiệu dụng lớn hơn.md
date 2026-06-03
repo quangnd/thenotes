@@ -1,6 +1,8 @@
 ---
 aliases:
   - Learning increasingly complex ideas may amount to forming larger effective chunk sizes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]]. Nhưng [[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]], và [[Mã hóa lại giúp tăng kích thước khối]]. Vì vậy, khi bạn cuối cùng có thể học được điều gì đó đã từng khó nắm bắt, có thể là vì bạn đã mã hóa được các khối đủ lớn ([[Các mảnh trong nhận thức con người]]) đại diện cho các thành phần cấu tạo.

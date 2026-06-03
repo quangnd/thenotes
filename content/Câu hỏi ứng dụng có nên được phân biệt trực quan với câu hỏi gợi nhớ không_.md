@@ -1,6 +1,8 @@
 ---
 aliases:
   - Should application prompts be visually distinguished from recall prompts_
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Chúng tôi khá không chắc chắn về điều này khi ra mắt các câu hỏi ứng dụng (xem [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]). Tôi vẫn chưa chắc.

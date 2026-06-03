@@ -1,6 +1,8 @@
 ---
 aliases:
   - Guided meditation apps are naturally spread over time
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Những hiểu biết của thiền bộc lộ chậm rãi. Người tập thường được khuyên thực hành hàng ngày. Qua nhiều tuần và tháng, họ có thể bắt đầu trải nghiệm thế giới theo cách khác. Một số khái niệm trong thiền sẽ không có ý nghĩa gì nếu bạn vẫn còn gặp khó khăn trong việc quan sát hơi thở rõ ràng — vì vậy chúng nên được giới thiệu muộn hơn một chút. Các khái niệm khác phải được giới thiệu nhiều lần, theo nhiều cách diễn đạt khác nhau, trước khi thời điểm cuối cùng đến.

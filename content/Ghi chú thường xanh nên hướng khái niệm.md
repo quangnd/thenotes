@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes should be concept-oriented
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nên chia [[Ghi chú thường xanh]] theo khái niệm, không theo tác giả, sách, sự kiện, dự án hay chủ đề. Làm vậy, ta phát hiện ra các kết nối xuyên sách, xuyên lĩnh vực khi cập nhật và liên kết ghi chú theo thời gian ([[Ghi chú thường xanh nên liên kết dày đặc]]).

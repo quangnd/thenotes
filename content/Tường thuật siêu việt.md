@@ -1,6 +1,8 @@
 ---
 aliases:
   - Transcendental narrative
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Những câu chuyện, thực hành và giá trị mang lại cấu trúc và ý nghĩa cho cuộc sống, gợi ý những điều đáng làm, đặt mọi người trong mối quan hệ với những người khác, v.v. Tôn giáo là nguồn gốc truyền thống, nhưng các lựa chọn thay thế thế tục bao gồm:

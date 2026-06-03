@@ -1,6 +1,8 @@
 ---
 aliases:
   - Premature scaling can stunt system iteration
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Đặc biệt ở Silicon Valley, khi một người có một nguyên mẫu hoặc một ý tưởng hoạt động tốt, sự cám dỗ là mở rộng quy mô. Làm cho nó phục vụ nhiều người hơn và nhiều trường hợp sử dụng hơn, biến nó thành một nền tảng, làm cho các đồ thị đi lên và sang phải, v.v. Đây rõ ràng là một kịch bản mạnh mẽ, nhưng cần triển khai đúng thời điểm vì nó có xu hướng đóng băng kiến trúc khái niệm của hệ thống.
 

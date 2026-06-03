@@ -1,6 +1,8 @@
 ---
 aliases:
   - Deep understanding requires detailed knowledge of fundamentals
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Đáp lại [[Người ta quên gần hết những gì đã đọc mà không hề hay biết]], nhiều người lập luận rằng họ không *muốn* nhớ chi tiết. Họ đọc "để nắm bức tranh tổng thể", hoặc "chỉ để hiểu khái niệm". Đôi khi điều đó hợp lý, nhưng trong rất nhiều trường hợp, không thể thực sự hiểu một khái niệm mà không nắm các chi tiết tạo nên nó.

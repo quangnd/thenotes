@@ -1,6 +1,8 @@
 ---
 aliases:
   - Executable books emphasize understanding pre-existing code, not writing new code
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Ít nhất theo cách thường được hiểu, [[Sách thực thi]] đóng gói và trình bày code được thảo luận trong văn xuôi của họ. Người đọc có thể được yêu cầu mở rộng code đó trong các bài tập, nhưng sách thực thi trình bày code như một đối tượng được tạo ra bởi tác giả để khám phá. Văn xuôi nhằm giúp học sinh đọc và hiểu code. Một cách tiếp cận thay thế thú vị là xem xét các phương tiện giống như sách thực thi nhưng đặt code như thứ gì đó chủ yếu được *người đọc* viết.

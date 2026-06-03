@@ -1,6 +1,8 @@
 ---
 aliases:
   - It’s hard to navigate to unlinked “neighbors” in associative note systems
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Ghi chú thường xanh nên liên kết dày đặc]], và nếu bạn làm theo lời khuyên trong [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]], bạn sẽ thấy dễ dàng điều hướng theo các chuỗi ý tưởng liên quan. Nhưng nếu nhiều ghi chú có liên quan về mặt chủ đề, hoặc liên quan *qua* một ghi chú khác, thì khó có thể điều hướng giữa chúng qua các liên kết trong ghi chú.

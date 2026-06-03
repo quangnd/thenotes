@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mnemonic medium
+created: 2026-05-26
+modified: 2026-06-03
 ---
 
 Phương tiện ghi nhớ nhúng một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
@@ -10,7 +12,7 @@ Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hi�
 - Thuộc tính thiết kế chính:
 	- [[Phương tiện ghi nhớ tạo cấu trúc cho các câu hỏi ghi nhớ lặp lại ngắt quãng vốn thường bị phân mảnh]]
 	- [[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]]
-	- [[Phương tiện ghi nhớ có thể giúp dựng giàn giáo cho việc viết câu nhắc thông qua các câu nhắc do tác giả cung cấp]]
+	- [[Phương tiện ghi nhớ có thể giúp dựng bộ khung cho việc viết prompt thông qua các prompt do tác giả cung cấp]]
 	- [[Thiết kế của phương tiện ghi nhớ dựa vào các câu nhắc nhẹ]]
 	- [[Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]]
 - Tác động

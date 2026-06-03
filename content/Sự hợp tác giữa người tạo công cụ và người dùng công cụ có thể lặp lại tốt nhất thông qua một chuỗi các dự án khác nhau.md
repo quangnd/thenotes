@@ -1,6 +1,8 @@
 ---
 aliases:
   - Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Sự hợp tác sâu giữa người tạo công cụ và người dùng công cụ có thể hỗ trợ cái nhìn sâu sắc thông qua việc tạo ra]], nhưng một trở ngại thực tế cho công việc của người dùng công cụ là [[Khó duy trì kết nối cảm xúc với một dự án sáng tạo qua những gián đoạn và nghỉ ngơi]]. Cặp đôi có thể học được nhiều về ý tưởng công cụ của họ khi người dùng công cụ triển khai chúng trong các dự án sáng tạo nghiêm túc, nhưng mỗi dự án có phạm vi lặp lại hạn chế.

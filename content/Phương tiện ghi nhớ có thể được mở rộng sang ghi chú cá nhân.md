@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium can be extended to one’s personal notes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi sử dụng [[Hệ thống ghi nhớ lặp lại ngắt quãng]], bạn sẽ điền vào đó các ghi chú về những gì bạn đang học, quan sát và suy nghĩ. Thật không may, [[Các hệ thống lặp lại ngắt quãng hiện tại không khuyến khích ghi chú thường xanh]]. Một hệ thống ghi nhớ sẽ giúp bạn giữ lại và liên tục tương tác với những gì bạn viết, nhưng sẽ không giúp bạn xây dựng dựa trên những ý tưởng đó theo thời gian. Một hệ thống [[Ghi chú thường xanh]] sẽ giúp bạn xây dựng dựa trên ý tưởng của mình theo thời gian, nhưng sẽ không giúp bạn giữ lại và liên tục tương tác với những ghi chú đó (ngoài [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]). Vì vậy, bạn bị kẹt hoặc là sao chép nỗ lực của mình một cách lộn xộn trong hai hệ thống riêng biệt, hoặc từ bỏ lợi ích của một hệ thống.

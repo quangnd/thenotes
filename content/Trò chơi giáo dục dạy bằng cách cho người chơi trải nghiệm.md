@@ -1,6 +1,8 @@
 ---
 aliases:
   - Educational games try to teach through enacted experiences
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Về mặt khái niệm, cơ chế cốt lõi mà các nhà thiết kế [[Trò chơi giáo dục]] dựa vào là [[Trải nghiệm thể hiện]]. Họ thiết kế hoạt động trong trò chơi sao cho việc tham gia tự nhiên vào môi trường đó tự nó tạo ra trải nghiệm *hiểu*. Theo bản năng, động lực của cách tiếp cận gián tiếp này là [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo]]. Nói thẳng ra, họ hy vọng "làm cho trẻ yêu thích việc học".

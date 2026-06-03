@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes should be densely linked
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Ép bản thân tạo thêm liên kết giữa các ghi chú buộc ta phải nghĩ rộng ra: còn khái niệm nào khác liên quan đến điều mình đang nghĩ? Nó tạo sức ép để cân nhắc kỹ cách các ý tưởng gắn với nhau (xem [[Muốn hiểu thì phải bỏ công]] và [[Ghi chú thường xanh nên hướng khái niệm]]). Nó cũng giúp ta nội hóa ý tưởng sâu hơn nhờ [[Mã hóa tinh chế]].

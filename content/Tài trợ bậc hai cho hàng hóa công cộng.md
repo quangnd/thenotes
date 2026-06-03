@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quadratic funding of public goods
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Vitalik Buterin và Glen Weyl đề xuất rằng [[Bỏ phiếu bậc hai]] có thể được sử dụng để xác định hiệu quả giá trị của một hàng hóa công cộng, từ đó có thể hướng dẫn việc giải ngân quỹ từ thiện hoặc công. Matt Clancy đặt cho khái niệm này một cái tên dễ thương: "Optimal Kickstarter" (Kickstarter tối ưu).

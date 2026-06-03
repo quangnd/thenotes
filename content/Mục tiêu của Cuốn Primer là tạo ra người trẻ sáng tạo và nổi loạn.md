@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer’s goal is to produce creative, subversive youth
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Người ta hay nhớ Cuốn Primer trong *The Diamond Age* như một thiết bị dạy học kỳ diệu, nhưng đó không phải mục tiêu chính của nó. Finkle-McGraw, người bảo trợ của Cuốn Primer, xuất hiện lần đầu khi đang đọc đoạn thơ Wordsworth này:

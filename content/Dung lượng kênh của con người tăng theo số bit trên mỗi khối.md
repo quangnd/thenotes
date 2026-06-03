@@ -1,6 +1,8 @@
 ---
 aliases:
   - Human channel capacity increases with bits-per-chunk
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Một giải pháp phổ biến cho [[Dung lượng kênh của con người với tư cách bộ xử lý thông tin]] dường như là thực hiện một chuỗi các quan sát nhỏ hơn, thay vì một phán đoán tuyệt đối phức tạp duy nhất. Điều này chỉ hoạt động nếu bạn có thể giữ chuỗi trong đầu, vì vậy nó bị giới hạn bởi [[Khoảng bộ nhớ làm việc]]. May mắn thay, [[Dung lượng bộ nhớ làm việc phần lớn độc lập với độ phức tạp của mục]]. Vì vậy bạn có thể tăng dung lượng kênh hiệu quả bằng cách tăng số bit trong mỗi khối quan sát ([[Các mảnh trong nhận thức con người]]).
 

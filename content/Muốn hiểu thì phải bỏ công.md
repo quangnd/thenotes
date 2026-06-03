@@ -1,6 +1,8 @@
 ---
 aliases:
   - Understanding requires effortful engagement
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Muốn thực sự hiểu một ý tưởng, phải đối mặt trực tiếp với nó.

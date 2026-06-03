@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer’s activities are only intrinsically meaningful to Nell because her life is impoverished
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age,* Nell thấy các hoạt động trong [[Cuốn Primer Minh họa của Quý cô Trẻ]] hoàn toàn mê hoặc. Phần lớn thời thơ ấu, cô gần như dành từng giờ trong ngày với cuốn sách. Nhưng điều đó chỉ đúng vì cuộc sống của Nell vốn dĩ quá nghèo nàn, trái với [[Cuốn Primer dường như không ép buộc học sinh của nó]].

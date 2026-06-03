@@ -1,6 +1,8 @@
 ---
 aliases:
   - Application prompts should vary when repeated
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]], nhưng [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Giải pháp đơn giản của chúng tôi là đặt cho người đọc những câu hỏi khác nhau mỗi lần, để người đọc luôn phải tính toán câu trả lời từ đầu.

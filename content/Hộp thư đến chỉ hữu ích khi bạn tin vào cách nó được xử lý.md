@@ -1,6 +1,8 @@
 ---
 aliases:
   - Inboxes only work if you trust how they’re drained
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Hộp thư đến đáng tin cậy thì rất mạnh vì nó giúp ta [[Đóng các vòng lặp còn mở]] và tập trung vào việc chính, thay vì loay hoay với việc phụ.

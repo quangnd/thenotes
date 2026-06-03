@@ -1,6 +1,8 @@
 ---
 aliases:
   - What are the most important attributes of good spaced repetition memory prompts_
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Ghi chú này tổng hợp các ý tưởng về cách mã hóa kiến thức vào thẻ của [[Hệ thống ghi nhớ lặp lại ngắt quãng]], cả để hỗ trợ ghi nhớ sự kiện lẫn thúc đẩy sự hiểu biết phong phú hơn ([[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]]).

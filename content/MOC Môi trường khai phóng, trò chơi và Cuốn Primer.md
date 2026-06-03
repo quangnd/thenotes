@@ -1,6 +1,8 @@
 ---
 aliases:
   - §Enabling environments, games, and the Primer
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 Tôi nghĩ có một cách đóng khung mạnh hơn việc đặt Cuốn Primer làm trọng tâm: đặt trọng tâm bài luận vào việc mở rộng các môi trường tăng trưởng cao.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Taxonomy of note types
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 ==CẦN LÀM: phát triển thêm; viết một ghi chú cho mỗi loại ghi chú; v.v.==

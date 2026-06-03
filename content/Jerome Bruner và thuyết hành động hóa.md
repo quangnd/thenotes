@@ -1,6 +1,8 @@
 ---
 aliases:
   - Jerome Bruner and enaction
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Jerome Bruner, nhà kiến tạo luận nổi tiếng, dùng thuật ngữ "enactive" (hành động hóa) để mô tả các biểu tượng được tạo ra qua hành động vật lý. Ở trẻ sơ sinh, đó là trí nhớ cơ bắp cơ bản giúp chúng di chuyển; ở người lớn, điều này có thể mô tả việc học bơi hoặc học đi xe đạp.

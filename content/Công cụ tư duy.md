@@ -1,6 +1,8 @@
 ---
 aliases:
   - Tools for thought
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 - Về tài trợ:

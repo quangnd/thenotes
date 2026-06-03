@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory prompts should be concise
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Liên quan đến nhưng khác biệt với [[Các câu nhắc ghi nhớ lặp lại ngắt quãng thường nên tập trung vào một ý tưởng]], nhìn chung tốt nhất là giữ các câu hỏi [[Hệ thống ghi nhớ lặp lại ngắt quãng]] ngắn gọn.

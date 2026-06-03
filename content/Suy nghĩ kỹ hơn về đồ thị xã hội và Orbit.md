@@ -1,6 +1,8 @@
 ---
 aliases:
   - Think harder about social graph and Orbit
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 - củng cố các mối liên kết lỏng lẻo (thickening loose ties)

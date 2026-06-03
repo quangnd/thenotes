@@ -1,6 +1,8 @@
 ---
 aliases:
   - §What’s top of mind
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 Giống như một [trang /now](https://sivers.org/nowff), nhưng với khung thời gian rộng hơn và tập trung vào những gì tôi đang suy nghĩ.

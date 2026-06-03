@@ -1,3 +1,7 @@
+---
+created: 2026-04-16
+modified: 2026-05-26
+---
 #### Liên kết ngược (Backlinks)
 - [[Mô hình phát triển tài năng ba giai đoạn của Bloom]]
 

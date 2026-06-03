@@ -1,6 +1,8 @@
 ---
 aliases:
   - Pendleton-Jullian and Brown, Design Unbound
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Pendleton-Jullian, A. M., & Brown, J. S. (2018). *Design Unbound* (Vol. 1–2). MIT Press.

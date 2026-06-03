@@ -1,6 +1,8 @@
 ---
 aliases:
   - Reading texts on computers is unpleasant
+created: 2026-05-26
+modified: 2026-05-26
 ---
 - [[Đọc kỹ thuật số cuộn liên tục gây khó chịu khi phá vỡ tính bền vững đối tượng]]
 - [[Hiệu suất kém làm gián đoạn đọc phi tuyến tính trong đọc sách kỹ thuật số]]

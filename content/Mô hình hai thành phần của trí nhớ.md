@@ -1,6 +1,8 @@
 ---
 aliases:
   - Two-component model of memory
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mô hình trí nhớ này gợi ý rằng sự suy giảm của một ký ức theo thời gian có thể được mô tả chính xác bởi hai tham số: khả năng truy xuất và {tính ổn định}.

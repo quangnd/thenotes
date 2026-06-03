@@ -1,6 +1,8 @@
 ---
 aliases:
   - Games help players make and adapt plans
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi đi qua một trò chơi, bạn thường không phải đoán xem mình đã sẵn sàng đi tiếp hay chưa, hay nên đi đâu. Trò chơi sẽ cho bạn biết (có thể theo cách ngầm).

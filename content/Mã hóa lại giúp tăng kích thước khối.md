@@ -1,6 +1,8 @@
 ---
 aliases:
   - Recoding can increase chunk size
+created: 2026-05-26
+modified: 2026-05-30
 ---
 [[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]]. Nhưng ta không buộc phải chịu kích thước khối "nội tại" của một kích thích. Có thể tăng kích thước khối hiệu dụng bằng cách *mã hóa lại* kích thích, tức là gom chúng trong tâm trí thành những khối lớn hơn đại diện cho các mẫu rộng hơn. Các lược đồ khối này còn được gọi là [[Biểu diễn tinh thần, theo Ericsson và Pool]].
 

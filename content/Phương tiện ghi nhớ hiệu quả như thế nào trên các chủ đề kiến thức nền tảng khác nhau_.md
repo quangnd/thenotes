@@ -1,6 +1,8 @@
 ---
 aliases:
   - How does the mnemonic medium’s efficacy vary across platform-knowledge-style topics_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ]] có thể hiệu quả đối với độc giả của [[Quantum Country]], nhưng ở mức độ nào thì [[Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]] có thể tổng quát hóa cho "kiến thức nền tảng" (platform knowledge) về các chủ đề khác? Chúng ta có quan sát thấy những rào cản hoặc khả năng đặc thù theo từng lĩnh vực không?

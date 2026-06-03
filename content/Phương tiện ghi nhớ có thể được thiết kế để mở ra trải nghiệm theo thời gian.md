@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium can be adapted to author an experience which unfolds over time
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]. Tức là các văn bản trong [[Phương tiện ghi nhớ]] (đặc biệt là các câu nhắc) phải được viết với ý định sẽ được đọc lại không chỉ trong phiên đầu tiên, mà hàng chục lần trong những tuần, những tháng sau đó ([[Văn bản có chiều thời gian]]).

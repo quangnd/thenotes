@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mnemonic video may present a smoother on-ramp to mass adoption than mnemonic text
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi đánh giá các con đường đến phổ biến cho phương tiện ghi nhớ, chúng tôi gặp khó khăn trong việc tìm cách tiếp cận rõ ràng để xuất bản các văn bản ghi nhớ có tác động lớn. Để điều chỉnh các tác phẩm kinh điển hiện có, chúng tôi phải hoặc đối mặt với các phụ thuộc đối tác đầy thách thức, hoặc trả lời [[Làm thế nào chúng ta có thể điều chỉnh các văn bản hiện có cho phương tiện ghi nhớ mà không cần sự tham gia của tác giả_]]. Nếu viết các tác phẩm mới, phương tiện ghi nhớ có thể vẫn là thị trường ngách trong khá lâu.

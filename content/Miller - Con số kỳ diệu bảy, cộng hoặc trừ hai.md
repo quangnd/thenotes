@@ -1,6 +1,8 @@
 ---
 aliases:
   - Miller - The magical number seven, plus or minus two
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97. https://doi.org/10.1037/h0043158

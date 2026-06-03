@@ -1,6 +1,8 @@
 ---
 aliases:
   - Use notes to avoid preconceived conclusions
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi viết bản thảo, người ta thường bắt đầu với một kết luận (hoặc ít nhất là một góc nhìn) trong đầu, rồi viết hoặc nghiên cứu với mục đích ủng hộ ý tưởng đó. Nếu không cẩn thận, những định kiến đó sẽ làm méo mó tư duy của chúng ta. Nhưng nếu bắt đầu bằng việc viết [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]], chúng ta có thể để kết luận và chủ đề nảy sinh từ quá trình suy nghĩ cẩn thận.

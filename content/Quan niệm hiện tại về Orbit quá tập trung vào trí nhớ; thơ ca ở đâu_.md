@@ -1,6 +1,8 @@
 ---
 aliases:
   - Current conception of Orbit is overly memory-focused; where’s the poetry_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 - [[Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được đóng khung lại như một phương tiện để tham gia sâu hơn với văn bản_]]

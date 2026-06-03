@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory system
+created: 2026-05-26
+modified: 2026-06-03
 ---
 Hệ thống ghi nhớ lặp lại ngắt quãng kết hợp [[Hiệu ứng kiểm tra]] và [[Hiệu ứng ngắt quãng]] để cho phép ghi nhớ hiệu quả hàng nghìn sự kiện ([[Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]]). Một số người cũng sử dụng chúng cho một tập hợp nhiệm vụ rộng hơn (xem bên dưới). [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng không chỉ dành cho các sự kiện thuộc lòng: [[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]].
 

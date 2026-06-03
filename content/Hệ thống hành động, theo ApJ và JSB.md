@@ -1,6 +1,8 @@
 ---
 aliases:
   - Systems of action, after ApJ and JSB
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong khi một nhà thiết kế truyền thống có thể nghĩ về công việc của họ như thiết kế một *đối tượng*, hay một *cơ chế*, thì "hệ thống hành động" là một "tập hợp mạch lạc các thành phần liên quan" tạo ra sự thay đổi.

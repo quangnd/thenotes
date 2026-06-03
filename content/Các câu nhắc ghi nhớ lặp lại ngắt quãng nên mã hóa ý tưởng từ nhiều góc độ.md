@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory prompts should encode ideas from multiple angles
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Thẻ ghi nhớ, như trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]], bị mang tiếng xấu một phần vì chúng khiến người ta nhớ đến việc học thuộc lòng máy móc ở trường. Mọi người nhớ mình bị bắt buộc ghi nhớ các sự kiện rời rạc như tên của các loại mây khác nhau — và họ nhớ mình đã nhắc lại những câu trả lời đó mà không xây dựng được sự hiểu biết bền vững nào. Một phần của vấn đề là [[Mục tiêu giáo dục thường phản tác dụng chính nó]]: có lẽ bạn thực sự không quan tâm đến việc học tài liệu đó. Nhưng bỏ qua vấn đề đó, những bài tập rời rạc này đặc biệt mong manh vì chúng phát triển kiến thức chỉ có thể sử dụng trong một bối cảnh duy nhất, tách rời khỏi các khung khái niệm và hiểu biết rộng hơn: [[Hiểu biết sâu sắc là về sự kết nối]].
 

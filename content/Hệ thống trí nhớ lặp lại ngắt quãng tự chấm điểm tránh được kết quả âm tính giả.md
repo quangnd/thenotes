@@ -1,6 +1,8 @@
 ---
 aliases:
   - Self-graded spaced repetition memory systems avoid false negatives
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong một phiên ôn tập của [[Hệ thống ghi nhớ lặp lại ngắt quãng]], nếu tôi gõ sai biểu thức SQL vì nhớ nhầm tên hàm, điều đó là không tốt và tôi có lẽ nên ôn lại bài tập đó. Nhưng nếu tôi gõ sai vì ngón tay trượt, tôi vẫn "đúng" theo quan điểm của tôi. Kết quả âm tính giả cực kỳ gây khó chịu trong các hệ thống chấm điểm bằng máy. Chúng cũng không hiệu quả, tất nhiên, vì câu hỏi sẽ xuất hiện lại sớm hơn. Nhưng việc khiến người dùng tức giận mới là vấn đề nghiêm trọng hơn nhiều.

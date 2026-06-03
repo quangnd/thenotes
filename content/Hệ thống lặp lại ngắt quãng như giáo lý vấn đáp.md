@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition systems as catechism
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Bạn có thể tưởng tượng tạo các thẻ về thói quen mới ("Nghĩ về một tình huống cụ thể mới mà tôi sẽ gặp khó khăn trong việc nhường chỗ cho người khác nói.") hoặc giá trị ("Đâu là một tình huống gần đây bất thường mà bạn suy nghĩ ở quy mô thế kỷ?"); xem [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Các hệ thống [[Lặp lại ngắt quãng cho mọi thứ]] kỳ lạ hơn có thể được sử dụng để lên lịch các nhiệm vụ chi tiết tùy ý liên quan đến một bản sắc mới, như tiếp cận lặp đi lặp lại những người thú vị trong một lĩnh vực mới.
 

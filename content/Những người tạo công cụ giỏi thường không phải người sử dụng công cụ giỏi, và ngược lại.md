@@ -1,6 +1,8 @@
 ---
 aliases:
   - Great tool-makers are often not great tool-users, and vice-versa
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Theo Michael: bạn có lẽ muốn Stradivarius làm vĩ cầm cho bạn hơn là Joshua Bell, nhưng bạn có lẽ muốn nghe Joshua Bell chơi hơn. Mỗi hoạt động — làm vĩ cầm và chơi vĩ cầm — đòi hỏi kỹ năng điêu luyện và cả đời luyện tập. Rất khó có thể tìm thấy cả hai khả năng ở cùng một người!

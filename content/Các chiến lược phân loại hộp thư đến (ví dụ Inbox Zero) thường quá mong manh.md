@@ -1,6 +1,8 @@
 ---
 aliases:
   - Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], và [Inbox Zero](http://www.43folders.com/izero) là một cách để đảm bảo điều đó. Nó giảm thời gian chờ của mỗi mục (về lý thuyết là xuống còn một ngày) bằng cách đẩy mạnh tốc độ xử lý.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences are hard to distribute
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Muốn giải thích một ý tưởng, bạn viết một bài luận rồi gửi cho cả triệu người đọc. Muốn giúp ai đó dựng video phi tuyến tính, bạn không phải xây nhà máy, chỉ cần phân phối phần mềm với chi phí biên gần như bằng không. Ngược lại, chúng ta gần như không có công cụ chung nào để nhân rộng một [[Trải nghiệm thể hiện]] với giá rẻ.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might we situate tools for thought within intrinsically meaningful contexts_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 [[Giải thích khám phá]] và [[Phương tiện ghi nhớ]] rất tuyệt, nhưng các bài viết tương tác và thực hành lặp lại ngắt quãng cách rất xa nơi ý nghĩa thực sự nằm. [[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]. Làm thế nào chúng ta có thể điều chỉnh các loại công cụ mạnh mẽ này để chúng có thể được đặt trong các tương tác có ý nghĩa sâu sắc?
 

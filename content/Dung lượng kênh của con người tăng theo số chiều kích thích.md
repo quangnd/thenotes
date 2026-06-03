@@ -1,6 +1,8 @@
 ---
 aliases:
   - Human channel capacity increases with stimulus dimensionality
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Đối với các kích thích đơn chiều, [[Dung lượng kênh của con người với tư cách bộ xử lý thông tin]] chỉ vài bit, nhưng trong cuộc sống hàng ngày, dường như chúng ta thường xuyên tái tạo các kích thích phức tạp hơn nhiều so với mức đó. Một giải thích cho sự khác biệt này là dung lượng kênh của con người {tăng} theo {số chiều} của kích thích.
 

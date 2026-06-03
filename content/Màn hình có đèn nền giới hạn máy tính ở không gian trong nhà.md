@@ -1,6 +1,8 @@
 ---
 aliases:
   - Backlit displays limit computers to interiors
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Sống ở California, chúng tôi có rất nhiều ngày hoàn hảo. Sẽ thật tuyệt vời khi dành nhiều thời gian làm việc ngoài trời, nhưng màn hình có đèn nền của máy tính đơn giản là không hoạt động trong bối cảnh đó.

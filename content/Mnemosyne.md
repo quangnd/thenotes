@@ -1,3 +1,7 @@
+---
+created: 2026-04-15
+modified: 2026-05-26
+---
 Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] mã nguồn mở phổ biến. Nhà phát triển chính là Peter Bienstman, một nhà khoa học quang tử người Bỉ.
 
 Mnemosyne đã thu thập dữ liệu người dùng ẩn danh từ năm 2006, nhưng tôi hầu như không tìm thấy công trình nghiên cứu nào được thực hiện với dữ liệu đó. Một email gửi Peter xác nhận rằng chưa có phân tích nghiêm túc nào. Kỳ lạ.

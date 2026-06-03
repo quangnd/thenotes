@@ -1,6 +1,8 @@
 ---
 aliases:
   - Chase and Simon - Perception in chess
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55–81.

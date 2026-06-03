@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium supplies expert-authored prompts
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]], nhưng [[Phương tiện ghi nhớ]] loại bỏ rào cản đó để áp dụng [[Hệ thống ghi nhớ lặp lại ngắt quãng]] bằng cách cung cấp các câu nhắc do tác giả viết, cho phép người đọc giữ lại tài liệu mà không cần tự viết câu nhắc của mình.

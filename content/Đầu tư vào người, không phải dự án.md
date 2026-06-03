@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fund people, not projects
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Câu nói của Alan Kay này tóm tắt quan điểm rằng [[Người tài năng là yếu tố quan trọng nhất]], vì vậy nếu bạn là người quản lý tuyển dụng hoặc nhà tài trợ, bạn nên ưu tiên lựa chọn *người* mà bạn muốn thuê/tài trợ—và đừng lo lắng quá nhiều về các chi tiết cụ thể của một dự án nhất định.

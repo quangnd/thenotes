@@ -1,6 +1,8 @@
 ---
 aliases:
   - To what extent can application prompts supplant recall prompts in the mnemonic medium_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Với các câu hỏi như vậy được triển khai, đến mức độ nào người ta cũng cần các câu hỏi gợi nhớ nguyên tử truyền thống?

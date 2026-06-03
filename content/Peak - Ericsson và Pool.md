@@ -1,6 +1,8 @@
 ---
 aliases:
   - Peak - Ericsson and Pool
+created: 2026-05-26
+modified: 2026-06-01
 ---
 
 Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Educational objectives often subvert themselves
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân]], nhưng trong đa số môi trường giáo dục, mối quan tâm chính lại là *làm cho ai đó (hoặc chính mình) biết một điều gì đó*. Bản thân việc đó thường không phải là mục đích có ý nghĩa nội tại (ngược lại với [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).

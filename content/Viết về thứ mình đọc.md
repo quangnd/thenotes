@@ -1,6 +1,8 @@
 ---
 aliases:
   - Write about what you read
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 Hãy viết về thứ mình đọc:
@@ -8,7 +10,7 @@ Hãy viết về thứ mình đọc:
 - vì [[Muốn hiểu thì phải bỏ công]]
 	- cụ thể là [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 	- và nhớ rằng [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-- vì nếu không thì sẽ không [[Hãy tự mình suy ngẫm]]
+- vì nếu không thì sẽ không [[Suy nghĩ theo cách của bạn]]
 - vì [[Công việc tri thức nên tích lũy]], và [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 - thực tế là [[Hầu hết mọi người đọc không hiệu quả]]
 

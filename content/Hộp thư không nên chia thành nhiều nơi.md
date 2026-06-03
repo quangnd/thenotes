@@ -1,6 +1,8 @@
 ---
 aliases:
   - Inboxes shouldn't be split into multiple places
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], nhưng giữ được niềm tin đó đã khó. Càng khó hơn khi một hộp thư mang tính khái niệm (ví dụ "những thứ cần đọc") nằm rải rác ở nhiều chỗ.

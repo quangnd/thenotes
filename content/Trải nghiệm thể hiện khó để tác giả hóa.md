@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences are hard to author
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nhà viết kịch, tiểu thuyết gia, giảng viên có thể dựa vào các hình thức đã định để công việc dễ hơn. Họ có sẵn mẫu, công cụ, phương pháp luận để dùng khi xử lý vấn đề hay đánh giá tác phẩm. Ngược lại, nếu bạn muốn thiết kế một [[Trải nghiệm thể hiện]], bạn gần như đang bắt đầu từ vùng hoang dã.

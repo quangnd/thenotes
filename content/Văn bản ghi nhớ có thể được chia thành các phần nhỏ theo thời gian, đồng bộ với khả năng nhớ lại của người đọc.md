@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mnemonic texts could be serialized in small sections over time, timed to reader recall
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Một lý thuyết ban đầu trong thiết kế [[Phương tiện ghi nhớ]] của chúng tôi là nếu ai đó ôn tập nội dung chương 1 vài lần, họ có thể dễ dàng hiểu chương 2 hơn: [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]].

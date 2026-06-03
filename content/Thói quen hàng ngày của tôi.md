@@ -1,6 +1,8 @@
 ---
 aliases:
   - My daily routine
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Kể từ khi tôi bắt đầu làm việc độc lập từ nhà vào đầu năm 2019, tôi thấy rất hữu ích khi có một thói quen để hướng dẫn mình. Khi những ngày của tôi không diễn ra tốt, thường là vì điều gì đó đã làm tôi lạc lối vào buổi sáng, và tôi không bao giờ thực sự quay trở lại đúng hướng. Đây là thói quen buổi sáng của tôi từ giữa năm 2019:

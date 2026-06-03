@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium is particularly well suited to platform knowledge
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Chúng ta chưa hiểu rõ cách các loại nội dung khác nhau hoạt động trong [[Phương tiện ghi nhớ]]. Nhưng một thể loại có vẻ đặc biệt được hưởng lợi từ phương tiện này là "kiến thức nền tảng" (platform knowledge). Đó là, tài liệu nền tảng mà bạn có thể sử dụng cho nhiều hoạt động tiếp theo, như [[Quantum Country]]. Chi phí của hệ thống ghi nhớ có nhiều khả năng đáng trả hơn trong các bối cảnh như vậy.

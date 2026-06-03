@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s lessons assume solid recall of prior material
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các bài học trong [[Execute Program]] chứa ít nhắc nhở về tài liệu trước đó: chúng ngắn gọn và tập trung. Mỗi bài học được viết với giả định rằng người đọc đã học _và ghi nhớ_ tài liệu từ tất cả các bài tiên quyết. Và giả định này được thực thi bởi môi trường đọc: [[Các bài học của Execute Program không mở khóa cho đến khi bạn đã ôn tập thành công các bài tiên quyết]].

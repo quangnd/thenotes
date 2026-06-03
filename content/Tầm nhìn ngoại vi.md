@@ -1,6 +1,8 @@
 ---
 aliases:
   - Peripheral vision
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Không gian làm việc vật lý của tôi đầy những tín hiệu tinh tế. Những cuốn sách tôi đọc hoặc mua gần đây nhất đang nằm ngổn ngang. Các bài báo tôi tích lũy được nằm thành chồng trên bàn, sắp xếp rất sơ sài theo mối quan hệ của chúng với nhau. Tôi nhận thấy cánh cửa hỏng mỗi khi đi ngang qua. Những tín hiệu này cùng nhau cho tôi một loại "tầm nhìn ngoại vi": khi tôi đang làm một việc, tôi dễ dàng nhận ra một cách linh hoạt những thứ gần đó khác. Miễn là tầm nhìn ngoại vi đủ năng động—[[Tầm nhìn ngoại vi không đổi làm mất cảm giác nhạy bén]].

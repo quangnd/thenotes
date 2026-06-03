@@ -1,6 +1,8 @@
 ---
 aliases:
   - Concept handles, after Alexander
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 "Mỏ neo khái niệm" (concept handle) là một cụm danh từ dễ nhớ, đóng vai trò điểm bám cho một chủ đề phức tạp và thường trừu tượng. Ví dụ: "thế lưỡng nan của tù nhân" (prisoner's dilemma), "cửa sổ Overton" (Overton window), "niềm tin vào niềm tin" (belief in belief), v.v. Trong các bài viết của tôi, có thể kể đến [[Môi trường khai phóng]], [[Trải nghiệm thể hiện]], v.v. Bản thân "mỏ neo khái niệm" cũng chính là một mỏ neo khái niệm, do [[Scott Alexander]] đặt ra.

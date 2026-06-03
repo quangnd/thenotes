@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s progress mechanics emphasize completing new lessons over increasing recall duration
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các bài học trên [[Execute Program]] có bốn trạng thái:

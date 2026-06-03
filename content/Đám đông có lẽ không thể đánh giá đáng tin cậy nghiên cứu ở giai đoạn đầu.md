@@ -1,6 +1,8 @@
 ---
 aliases:
   - The crowd probably can’t reliably assess early-stage research
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Tài trợ bậc hai cho hàng hóa công cộng]] phân bổ nguồn lực hiệu quả khi công chúng có thể đánh giá chính xác giá trị của các hàng hóa công cộng tiềm năng. Nhưng ở giai đoạn đầu, giá trị của một chương trình nghiên cứu thường không rõ ràng với đông đảo người dùng (hoặc thậm chí với chính nhà nghiên cứu). Đây đã là một vấn đề trong tài trợ khoa học: các cán bộ chương trình từ thiện và chính phủ thường khó hiểu được giá trị của những nghiên cứu đặc biệt độc đáo — và đó là công việc toàn thời gian của họ! Có lẽ có một số người trong đám đông có tầm nhìn xa trông rộng, nhưng nhìn chung, việc hỏi ý kiến đám đông có vẻ sẽ làm trầm trọng thêm vấn đề và dẫn đến tình trạng thiếu tài trợ kinh niên.

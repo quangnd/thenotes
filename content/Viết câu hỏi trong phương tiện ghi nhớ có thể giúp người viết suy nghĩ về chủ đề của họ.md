@@ -1,6 +1,8 @@
 ---
 aliases:
   - Question-writing in the mnemonic medium may help the writer think about their topic
+created: 2026-05-26
+modified: 2026-06-01
 ---
 
 Vì [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]], nhiều nhà tư tưởng sẽ viết một bài luận hoặc một cuốn sách để hiểu sâu hơn về một chủ đề. Vì những lý do tương tự, viết câu hỏi trong phương tiện ghi nhớ có lẽ cũng giúp người viết hiểu chủ đề của họ sâu hơn.

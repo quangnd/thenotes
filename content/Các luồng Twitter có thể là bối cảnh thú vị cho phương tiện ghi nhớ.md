@@ -1,6 +1,8 @@
 ---
 aliases:
   - Twitter threads could be an interesting context for the mnemonic medium
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Tim Rooney đã tạo một bộ thẻ [[Mochi]] đại diện cho nội dung của một luồng Twitter khác mà anh ấy thấy thú vị, sau đó xuất bản bộ thẻ đó trên Twitter: [Tim Rooney on Twitter: "Experiment: https://t.co/0UaVll6ImV for Twitter threadsI built a flashcard deck to help retain this fantastic Qatar thread (~70 tweets long)https://t.co/4mxrPgDSOg"](https://twitter.com/tjrwriting/status/1205958684221853702)

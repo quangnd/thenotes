@@ -1,6 +1,8 @@
 ---
 aliases:
   - Naive approaches to practice rapidly plateau
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nếu bạn muốn học một kỹ năng mới, như vẽ phác thảo, bạn có thể đọc vài cuốn sách, tham gia vài buổi học, rồi lặp lại các thao tác cơ bản đã thấy cho đến khi cảm thấy thoải mái. Cách tiếp cận này thường nhanh chóng đạt ngưỡng bão hòa khi bạn đạt được mức độ tự động hóa cơ bản. Ericsson và Pool (2016) gọi đây là "{luyện tập ngây thơ}" (naive practice): một học viên {thực hiện một hành động lặp đi lặp lại}, kỳ vọng rằng {chỉ sự lặp lại} sẽ {cải thiện hiệu suất} (tr. 14), trái ngược với [[Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]]. [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]].

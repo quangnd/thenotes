@@ -1,6 +1,8 @@
 ---
 aliases:
   - Poor performance disrupts nonlinear reading in digital reading
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Đọc sách có kỹ năng thường không tuyến tính]], nhưng các trải nghiệm đọc kỹ thuật số thường khiến việc quét và tra cứu nhanh trở nên đau đớn hơn đơn giản vì chúng chậm. Khi lật vài trang tới hay lui gây ra giật lag hoặc màn hình trắng, môi trường đẩy người đọc đọc kém hiệu quả hơn.

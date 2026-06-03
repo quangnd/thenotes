@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might spaced repetition memory systems intervene when the student struggles with material_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Hệ thống ghi nhớ lặp lại ngắt quãng]] thông thường thực hiện hai điều: rút ngắn khoảng cách cho đến lần trình bày tiếp theo, và yêu cầu học viên thử lại câu hỏi trong cùng phiên.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - My morning writing practice
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Sau các yếu tố trước bàn làm việc của [[Thói quen hàng ngày của tôi]], tôi bắt đầu công việc sáng tạo nghiêm túc đầu tiên trong ngày: ít nhất hai giờ viết và sửa đổi [[Ghi chú thường xanh]]. Đây thường là công việc thách thức nhất tôi làm trong ngày, vì vậy tôi thích làm khi tôi có sự rõ ràng và tập trung nhất. Nó không dành cho "ghi chú" theo nghĩa truyền thống — ghi lại ý tưởng của người khác, hoặc ghi lại những gì đã xảy ra — mà là để phát triển ý tưởng. (tức là [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]] so với [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]])

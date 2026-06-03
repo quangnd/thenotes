@@ -1,13 +1,15 @@
 ---
 aliases:
   - Prefer explicit associations to inferred associations
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 Khi xây dựng cơ sở kiến thức cá nhân được kết nối với nhau (ví dụ: [[Ghi chú thường xanh nên liên kết dày đặc]]), liệu có quan trọng phải xây dựng tất cả các liên kết bằng tay không? Các công cụ như DEVONthink sử dụng học máy để đề xuất các ghi chú "liên quan". Và trên web, lịch sử của một người (thậm chí có thể được bối cảnh hóa trong dòng thời gian của một tab đơn) có thể gợi ý một số mối quan hệ giữa các nội dung. Hoặc: liệu chúng ta có thể chỉ sử dụng chức năng tìm kiếm khi muốn điều hướng xung quanh một tập hợp ý tưởng không?
 
 Các công cụ như vậy có thể hữu ích để hỗ trợ quá trình liên kết, và chúng có thể phục vụ như một nơi thứ hai để tìm kiếm các liên kết, nhưng chúng ta không nên dựa vào chúng để làm tất cả công việc.
 
-Thứ nhất: quá trình suy nghĩ về các mối quan hệ giữa các mục là một phần của cách bạn có thể [[Hãy tự mình suy ngẫm]]. Nó buộc bạn phải tương tác sâu hơn với tài liệu mới.
+Thứ nhất: quá trình suy nghĩ về các mối quan hệ giữa các mục là một phần của cách bạn có thể [[Suy nghĩ theo cách của bạn]]. Nó buộc bạn phải tương tác sâu hơn với tài liệu mới.
 
 Thứ hai: bạn muốn các liên kết của mình có tín hiệu cao để bạn không phải cố gắng đánh giá một số danh sách liên kết không có thứ tự. Có thể nhanh chóng đánh giá một danh sách như vậy mà không cần điều hướng giữa các mục đòi hỏi bạn phải nhớ những gì tất cả các mục đó chứa. Các liên kết được chọn lọc chặt chẽ sẽ có tín hiệu cao hơn.
 

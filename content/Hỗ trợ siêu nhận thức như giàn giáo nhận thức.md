@@ -1,6 +1,8 @@
 ---
 aliases:
   - Metacognitive supports as cognitive scaffolding
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Học tập đòi hỏi siêu nhận thức]], nhưng môi trường có thể gánh bớt một phần gánh nặng siêu nhận thức đó khỏi vai người học.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - What if the mnemonic medium were reframed as a means to engage more deeply with a text_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ]] mã hóa—ngay trong tên gọi—sự tập trung vào việc giúp người đọc xây dựng trí nhớ chi tiết về những gì họ đọc. Điều này rõ ràng rất hữu ích cho kiến thức nền tảng ([[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]]), nhưng trí nhớ chi tiết thường không phải là mục tiêu chính cho các thể loại viết khác.

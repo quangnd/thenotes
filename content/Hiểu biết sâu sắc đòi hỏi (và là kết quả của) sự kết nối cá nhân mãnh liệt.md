@@ -1,6 +1,8 @@
 ---
 aliases:
   - Deep understanding requires (and is a result of) intense personal connection
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Việc học có ý nghĩa trong chừng mực nó ảnh hưởng đến suy nghĩ và hành động tương lai của chúng ta. Thực tế, bởi vì [[Muốn hiểu thì phải bỏ công]], việc học chỉ là *hệ quả* của một tấm thảm phong phú gồm những suy nghĩ và hành động được dệt với những khái niệm đó.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Interaction is a cost center in interface design
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các nhà thiết kế giao diện thường quan tâm đến việc thiết kế "tương tác hấp dẫn," nhưng tương tác, theo mặc định, là gánh nặng áp đặt lên người dùng — một khoản thuế cần tránh. Nếu tôi đang sử dụng một giao diện để phân tích dữ liệu, lý tưởng là không có tương tác nào: tôi đọc một màn hình thông tin, nhận ra một mẫu, và trả lời câu hỏi của mình. Mỗi ô lọc, nút điều hướng, và thanh cuộn đều là một chi phí thêm.

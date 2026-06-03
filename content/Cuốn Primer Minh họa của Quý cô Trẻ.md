@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Young Lady’s Illustrated Primer
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age*, Cuốn Primer Minh họa của Quý cô Trẻ (thường gọi tắt là "Cuốn Primer") là một cuốn sách điện tử hư cấu, giúp trẻ em tự học từ xa và không đồng bộ. Chương trình của nó dạy các kỹ năng thực tế như toán và đọc viết, nhưng [[Mục tiêu của Cuốn Primer là tạo ra người trẻ sáng tạo và nổi loạn]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enabling environments focus on doing what’s enabled
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Trong một [[Môi trường khai phóng]] tốt như một công ty mạnh hay Minecraft, hoạt động chủ yếu là *làm* chính cái điều mà môi trường đó khai phóng.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium can help readers apply what they’ve learned through simple application prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Phương tiện ghi nhớ]] giúp người đọc nhớ các chi tiết cụ thể từ những gì họ đã đọc. Tuy nhiên, nhiều người đọc theo bản năng cảm thấy khả năng nhớ của họ có thể quá cứng nhắc, chỉ lặp lại các câu trả lời đã học thuộc cho câu hỏi quen thuộc. Họ cảm nhận sự hiểu thực sự phải linh hoạt hơn, áp dụng được vào tình huống mới (tức là [[Học chuyển giao]]). Nhiều người nói rằng họ bắt đầu thấy mình thực sự hiểu khi *dùng* được kiến thức đó, dù trong thực tế hay trong giao tiếp.

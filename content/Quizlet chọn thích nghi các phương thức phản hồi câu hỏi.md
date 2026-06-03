@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quizlet adaptively chooses prompt response modalities
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Giao diện ôn tập thẻ của [[Quizlet]] có thể yêu cầu phản hồi theo một vài phương thức khác nhau: trắc nghiệm, nhập văn bản và tự chấm điểm.

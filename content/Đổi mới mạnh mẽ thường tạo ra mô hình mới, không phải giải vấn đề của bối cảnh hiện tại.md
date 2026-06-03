@@ -1,6 +1,8 @@
 ---
 aliases:
   - Powerful innovations often focus on creating new paradigms, not solving problems of the current context
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 [XEROX Alto](https://en.wikipedia.org/wiki/Xerox_Alto) không cố giải quyết các vấn đề của những văn phòng hiện thời. Nó cố tạo ra một bối cảnh hoàn toàn mới, kèm theo những lợi ích và thách thức riêng. 

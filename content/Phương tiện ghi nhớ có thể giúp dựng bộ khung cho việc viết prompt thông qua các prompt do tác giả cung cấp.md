@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium may help scaffold prompt-writing through author-provided prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]], điều này giúp giảm nhẹ [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]]. Nhưng bằng cách bao gồm các câu nhắc, chúng ta cũng giúp những người đọc muốn tự viết một số câu nhắc. Họ được xem các ví dụ chuyên gia về việc viết câu nhắc, mà họ có thể sử dụng như mẫu cho các câu nhắc của riêng mình.

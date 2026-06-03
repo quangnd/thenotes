@@ -1,6 +1,8 @@
 ---
 aliases:
   - Use phones to collect and triage, not (usually) to read
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Vì [[Viết về thứ mình đọc]] là việc quan trọng, nên thận trọng khi đọc trên điện thoại. Thường thì hoàn cảnh và tâm thế lúc cầm điện thoại không phù hợp để viết.

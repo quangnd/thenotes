@@ -1,6 +1,8 @@
 ---
 aliases:
   - Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Hãy tưởng tượng bạn đang điều hành một studio thiết kế ở La Mã cổ đại. Viên thu thuế hoàng gia đến thăm bạn và yêu cầu một tầm nhìn về tương lai của hệ thống kế toán. Với lợi thế của cái nhìn hồi tưởng, chúng ta có thể phát hiện một hạn chế khái niệm tai hại: họ đang sử dụng số La Mã để làm kế toán! Các phép toán số học tầm thường đều khó khăn và dễ sai. Chắc chắn có nhiều vấn đề khác với thực hành của họ, nhưng liệu quy trình của bất kỳ studio thiết kế nào có thể tạo điều kiện cho việc phát minh ra hệ số Hindu-Ả Rập không?

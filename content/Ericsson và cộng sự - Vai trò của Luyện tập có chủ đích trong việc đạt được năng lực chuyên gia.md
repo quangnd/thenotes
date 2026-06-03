@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Are literature notes necessary if we have automatic universal backlinks_
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Ghi chú văn liệu là thứ yếu và tách biệt]], nhưng chúng có thực sự cần thiết không? Hay chúng chỉ cần thiết vì đôi khi bạn muốn *bắt đầu* một hành trình qua các ghi chú từ một tài liệu tham khảo cụ thể, và việc tìm tất cả ghi chú đề cập đến tài liệu đó vốn rất phiền?

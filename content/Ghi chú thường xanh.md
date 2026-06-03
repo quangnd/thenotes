@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 *Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. 

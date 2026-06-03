@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences can create intense personal connection to authored targets
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Người tạo một [[Trải nghiệm thể hiện]] có thể dựng được kết nối cá nhân rất sâu giữa người tham gia và một trải nghiệm cụ thể mà họ đã tác giả hóa. Một hệ quả quan trọng: [[Trải nghiệm thể hiện khuếch đại sức mạnh của tường thuật]].

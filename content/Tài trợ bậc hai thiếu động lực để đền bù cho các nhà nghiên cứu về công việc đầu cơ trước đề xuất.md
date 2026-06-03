@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quadratic funding lacks incentives to compensate researchers for pre-proposal speculative work
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Tài trợ bậc hai cho hàng hóa công cộng]] đánh giá giá trị của một đề xuất theo giá trị mà cử tri sẽ nhận được nếu hàng hóa được mô tả được cung cấp. Điều này có thể tài trợ cho việc triển khai hoặc phát triển hàng hóa được mô tả, nhưng trong bối cảnh R&D, nó không tài trợ cho (có thể nhiều năm) công việc khái niệm đầu cơ được thực hiện trước khi hàng hóa được làm rõ ràng với công chúng.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Salience of improvement drives skill development
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 Ai cũng biết tiếng đàn piano điêu luyện nghe như thế nào. Khi một người nghiệp dư chơi đàn, anh ta tự nhiên so sánh bản thân với những bản thu âm mình đã nghe, và có thể cảm thấy đau đớn khi nhận ra mình còn xa mới đạt được trình độ đó! 

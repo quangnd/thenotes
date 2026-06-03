@@ -1,6 +1,8 @@
 ---
 aliases:
   - The most effective readers and thinkers I know don’t take notes when reading
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một số trong số họ làm những việc rất đơn giản — ghi chú vài tài liệu tham khảo chính ở trang cuối, hoặc viết thỉnh thoảng vào lề — nhưng không ai trong số họ thực hiện bất kỳ loại thực hành nhất quán nào như được mô tả trong [[Viết về thứ mình đọc]]. Không phải là họ đã nội hóa và tự động hóa những thực hành đó đến mức chúng trở nên vô hình: họ đơn giản là không làm những điều đó.

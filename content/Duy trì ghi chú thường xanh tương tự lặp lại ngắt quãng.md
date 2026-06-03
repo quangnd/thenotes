@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen note maintenance approximates spaced repetition
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Viết [[Ghi chú thường xanh]] với cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]) buộc ta phải đọc lại và chỉnh sửa những gì đã viết trước đó. Kiểu ghi chú này, vì vậy, tương tự lặp lại ngắt quãng.

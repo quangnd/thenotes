@@ -1,9 +1,11 @@
 ---
 aliases:
   - Let ideas and beliefs emerge organically
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
-Cẩn thận với những quan niệm có sẵn. [[Hãy tự mình suy ngẫm]].
+Cẩn thận với những quan niệm có sẵn. [[Suy nghĩ theo cách của bạn]].
 
 - Tạo ra sản phẩm nhanh hơn bằng cách sử dụng công trình hiện có
 	- [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]

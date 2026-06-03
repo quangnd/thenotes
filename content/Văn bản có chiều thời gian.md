@@ -1,6 +1,8 @@
 ---
 aliases:
   - Timeful text
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Phương tiện đại chúng hầu như thiếu chiều thời gian được tác giả thiết kế vượt quá một ngày]]. Đây có vẻ là một chiều tác giả mạnh mẽ để khám phá, như được minh họa bởi ví dụ [[Ứng dụng thiền có hướng dẫn tự nhiên trải dài theo thời gian]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems make memory a choice
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Trí nhớ thường là chuyện tình cờ. Phần lớn thời gian, nó giống như một lời cầu nguyện bất lực: bạn đang đọc sách rồi tự nhủ "ôi, phải nhớ cái này".
 

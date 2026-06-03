@@ -1,6 +1,8 @@
 ---
 aliases:
   - The bar for virtuosity has risen precipitously in many fields
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong một số lĩnh vực, như kế toán, chuyên môn đã tăng lên trong thế kỷ qua nhờ công nghệ mới. Nhưng trong nhiều lĩnh vực khác, như âm nhạc và thể thao, tiêu chuẩn cho màn trình diễn đẳng cấp thế giới dường như đã tăng lên rất nhiều mà không có thêm bất kỳ phát minh bên ngoài nào. Ericsson và Pool (2016) cho rằng sự tăng trưởng này là do thời gian dành cho việc luyện tập ngày càng phức tạp hơn (tr. 8).

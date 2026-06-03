@@ -1,6 +1,8 @@
 ---
 aliases:
   - The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents
+created: 2026-05-26
+modified: 2026-06-03
 ---
 
 Nhiều nhà nghiên cứu đang cố gắng tạo ra một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] hiệu quả hơn, nhưng tôi tin rằng điều quan trọng nhất cần tối ưu hóa là *kết nối cảm xúc với phiên ôn tập và nội dung của nó* — và ngược lại, cần loại bỏ không thương tiếc những yếu tố gây ra tiếng thở dài. Những hệ thống này, nếu để theo xu hướng tự nhiên, sẽ dần suy thoái thành những phiên ôn tập máy móc, không kết nối với bất cứ điều gì có ý nghĩa với bạn.

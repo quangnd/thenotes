@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences require blocking on participant action
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Tính ngẫu nhiên có điều kiện rất quan trọng trong việc tạo ra một [[Trải nghiệm thể hiện]].

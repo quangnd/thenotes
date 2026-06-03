@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer isn’t a viable enabling environment
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nhiều người háo hức muốn hiện thực hóa [[Cuốn Primer Minh họa của Quý cô Trẻ]] ngoài đời. Tiếc là [[Cuốn Primer về cơ bản là một trò chơi giáo dục]], nên nó không phải là [[Môi trường khai phóng]] khả thi, vì những lý do tương tự như [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]], cộng thêm vài lý do nữa.

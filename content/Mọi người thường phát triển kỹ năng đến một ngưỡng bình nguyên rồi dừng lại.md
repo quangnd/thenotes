@@ -1,15 +1,17 @@
 ---
 aliases:
   - People generally develop skills to a plateau and then stop
+created: 2026-05-26
+modified: 2026-06-03
 ---
 
-Con người xây dựng hàng nghìn kỹ năng trong cuộc đời—thái rau, đọc sách, viết tay, lập ngân sách, v.v. Những kỹ năng này thường không cải thiện theo đường thẳng suốt cuộc đời người đó. Thay vào đó, mọi người tập trung vào một kỹ năng trong một giai đoạn ban đầu, sau đó nó đạt đến một ngưỡng bình nguyên "đủ tốt", rồi phần lớn ở lại đó. Một sự kiện đáng kể sau đó có thể khiến kỹ năng đột nhiên bắt đầu cải thiện trở lại, nhưng nhìn chung đó là một cân bằng ngắt quãng.
+Con người xây dựng hàng nghìn kỹ năng trong cuộc đời như: thái rau, đọc sách, viết tay, lập ngân sách, v.v. Những kỹ năng này thường không cải thiện theo đường thẳng suốt cuộc đời người đó. Thay vào đó, mọi người tập trung vào một kỹ năng trong một giai đoạn ban đầu, khi đã đạt đến một ngưỡng bình nguyên "đủ tốt", phần lớn sẽ ở lại đó. Một sự kiện đáng kể sau đó có thể khiến kỹ năng đột nhiên bắt đầu cải thiện trở lại, nhưng nhìn chung đó là một "cân bằng ngắt quãng" (giống như khi bạn đun nước tới 70 độ rồi bạn lại giảm lửa xuống 10 độ, rồi lại tăng lửa lên... Quá tình này lặp lại nhiều lần, nhưng không bao giờ đạt được tới độ sôi ~100 độ)
 
 Điều này xảy ra vì [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]]. Một khi ngưỡng đó đạt được, cần có nỗ lực đổi mới để tiếp tục tiến bộ: [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Ở thời điểm đó, nỗ lực thêm có thể không đáng, hoặc có thể không rõ cách cải thiện. Hoặc khả năng cải thiện có thể không *nổi bật*: [[Sự nổi bật của tiến bộ thúc đẩy phát triển kỹ năng]].
 
 Theo Thorndike (1921, tr. 178):
 
-> Lý do chính khiến chúng ta viết chậm và khó đọc, cộng chậm và thường xuyên sai, trì hoãn câu trả lời cho các câu hỏi đơn giản và các quyết định dễ dàng, … quên tên mọi người và các cuộc hẹn của chính mình, mất bình tĩnh, và tương tự, không phải là chúng ta đang làm tốt nhất có thể trong điều cụ thể đó. Đó là vì chúng ta có quá nhiều cải thiện khác cần thực hiện, hoặc không biết cách hướng dẫn luyện tập của mình, hoặc không thực sự quan tâm đủ đến việc cải thiện, hoặc một số kết hợp của ba điều kiện này.
+> Lý do chính khiến chúng ta viết chậm và khó đọc, cộng chậm và thường xuyên sai, trì hoãn câu trả lời cho các câu hỏi đơn giản và các quyết định dễ dàng, … quên tên mọi người và các cuộc hẹn của chính mình, mất bình tĩnh, và tương tự, không phải là chúng ta đang làm tốt nhất có thể trong khả năng của mình, ở tình huống đó. Đó là vì chúng ta có quá nhiều cải thiện khác cần thực hiện, hoặc không biết cách hướng dẫn luyện tập của mình, hoặc không thực sự quan tâm đủ đến việc cải thiện, hoặc một số kết hợp của ba điều kiện này.
 
 Hiếm khi mọi người đạt đến giới hạn của mình, hay thậm chí việc cải thiện biên là cực kỳ khó. Một ví dụ thú vị ông trích dẫn: Aschaffenburg (1896) thực hiện các bài kiểm tra tốc độ hàng ngày với những người thợ sắp chữ có kinh nghiệm, và không cần bất kỳ động lực nào khác, quan sát thấy họ cải thiện tốc độ mỗi ngày.
 

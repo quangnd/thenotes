@@ -1,6 +1,8 @@
 ---
 aliases:
   - Exceptional ability may correlate with personality traits
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 - Phân tích tổng hợp của Feist năm 1998 về các nghiên cứu tính cách so sánh giữa các nhà khoa học sáng tạo và kém sáng tạo hơn cho thấy:

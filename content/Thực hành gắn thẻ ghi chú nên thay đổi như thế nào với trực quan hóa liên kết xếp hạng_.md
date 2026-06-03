@@ -1,6 +1,8 @@
 ---
 aliases:
   - How should note tagging practices change with ranked link visualization_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Trong chỉ mục của họ, những người thực hành Zettelkasten cố gắng chỉ gắn thẻ một vài ghi chú quan trọng nhất cho một chủ đề nhất định, sau đó họ dựa vào các liên kết giữa các ghi chú để điều hướng từ đó (xem [[Tài liệu tham khảo được lập chỉ mục so với thẻ]]). Điều này giữ cho điểm vào có tín hiệu cao (xem [[Thẻ là cấu trúc liên kết kém hiệu quả]]).
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Desirable difficulties, after Bjork
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các hoạt động đào tạo thường có thể được làm hiệu quả hơn bằng cách đưa vào các khó khăn.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Effective system design requires insights drawn from serious contexts of use
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nguyên mẫu thô sơ rất tốt: nó cho phép lặp nhanh, đánh giá nhanh. Nhưng nhiều insight quan trọng chỉ xuất hiện trong bối cảnh của một bài toán sáng tạo nghiêm túc, không phải bài toán về chính cái hệ thống đó. Đây là luận điểm chính của [[Hiểu biết sâu sắc qua việc làm]].

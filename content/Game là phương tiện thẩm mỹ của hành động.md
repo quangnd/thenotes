@@ -1,6 +1,8 @@
 ---
 aliases:
   - Games are an aesthetic medium of action
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nếu hội họa là phương tiện thẩm mỹ của thị giác, âm nhạc là phương tiện thẩm mỹ của âm thanh, và nấu ăn là phương tiện thẩm mỹ của vị giác, thì game là phương tiện thẩm mỹ của *hành động*, Frank Lantz nhận xét.

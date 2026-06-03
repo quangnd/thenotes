@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes should be atomic
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Mỗi ghi chú chỉ nên nói về một thứ, nhưng hãy nắm trọn thứ đó hết mức có thể.
 

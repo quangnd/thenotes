@@ -1,6 +1,8 @@
 ---
 aliases:
   - Testing effect
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mỗi lần bạn tự kiểm tra trí nhớ về một chi tiết, trí nhớ về chi tiết đó được củng cố.

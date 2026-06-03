@@ -1,6 +1,8 @@
 ---
 aliases:
   - Grounded claims, after Qian et al
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 Khi các nhà nghiên cứu tổng hợp kiến thức (chẳng hạn bằng cách đọc tài liệu học thuật), họ phải lắp ráp một mạng lưới kết nối dày đặc gồm các "khẳng định có cơ sở": những phát biểu chính xác bao gồm đủ ngữ cảnh (nguồn, bằng chứng, phạm vi, kết nối) để giúp nhà nghiên cứu sử dụng khẳng định đó một cách thực tế.

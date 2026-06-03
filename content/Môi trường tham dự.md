@@ -1,6 +1,8 @@
 ---
 aliases:
   - Participatory environment
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong một số môi trường, hoạt động cốt lõi tự thân nó đã mang tính chủ động, phần lớn trải nghiệm được tạo ra nhờ chính nỗ lực của người tham gia. Tôi gọi những môi trường này là *môi trường tham dự*.

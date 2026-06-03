@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s prompts act both as application prompts and recall prompts
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Kiểu câu hỏi cơ bản của [[Phương tiện ghi nhớ]] là câu hỏi nhớ lại nguyên tử theo phong cách [[Hệ thống ghi nhớ lặp lại ngắt quãng]] điển hình: rất nguyên tử, nghiêm ngặt kiểm tra trí nhớ của bạn. Ngược lại, kiểu câu hỏi cơ bản của [[Execute Program]] là — hoặc ít nhất trông giống — một câu hỏi ứng dụng (xem [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]).

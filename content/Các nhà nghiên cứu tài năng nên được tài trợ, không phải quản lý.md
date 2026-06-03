@@ -1,6 +1,8 @@
 ---
 aliases:
   - Talented researchers should be funded, not managed
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nghiên cứu sáng tạo đòi hỏi khám phá các không gian có cấu trúc lỏng lẻo mà chưa thể diễn đạt rõ ràng. Một nhà nghiên cứu với linh cảm về một hướng đi nào đó có thể chưa giải thích rõ được — hoặc có thể họ giải thích được một phần, nhưng đó không phải là phần *thú vị* đang thúc đẩy họ. Với những ràng buộc này, không thực sự có thể "quản lý" những nhà nghiên cứu như vậy, bởi vì khát vọng của họ chỉ có thể được truyền đạt cho người khác với sự mất mát lớn. Tốt nhất là tài trợ cho những người này dựa trên cảm nhận rộng của họ về gu thẩm mỹ và xu hướng, sau đó để họ theo đuổi những gì họ thấy thú vị.

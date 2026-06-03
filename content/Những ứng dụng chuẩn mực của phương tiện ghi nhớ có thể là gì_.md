@@ -1,6 +1,8 @@
 ---
 aliases:
   - What might constitute canonical uses of the mnemonic medium_
+created: 2026-05-26
+modified: 2026-06-03
 ---
 
 Một danh mục quan trọng là các nguồn kiến thức nền tảng tập trung mà nhiều người gặp khó khăn khi tiếp thu ([[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]]). Ví dụ:

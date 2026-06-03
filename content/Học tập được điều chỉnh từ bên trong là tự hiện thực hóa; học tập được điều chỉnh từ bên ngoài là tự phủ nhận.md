@@ -1,6 +1,8 @@
 ---
 aliases:
   - Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Bản thân việc học hiếm khi là một mục tiêu, ngay cả khi nó có vẻ như vậy. Các hành vi học tập thường được điều chỉnh bởi các lực lượng nội tại hoặc ngoại tại khác.

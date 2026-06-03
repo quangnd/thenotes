@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quadratic voting
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Ban đầu được phát triển bởi Vickrey, Clarke và Groves, sau đó được phổ biến gần đây hơn bởi Glen Weyl, cơ chế bỏ phiếu dựa trên thị trường này cố gắng giải quyết các tạo phẩm trong các hệ thống bỏ phiếu bằng cách cho phép cử tri thể hiện sức mạnh ưu tiên của họ bằng cách "chi tiêu" nhiều hơn cho các lần bỏ phiếu biên.

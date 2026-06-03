@@ -1,6 +1,8 @@
 ---
 aliases:
   - Authored environments are significantly colored by authors’ motivations
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các hoạt động trong một môi trường do tác giả tạo ra có thể có các mục tiêu bề ngoài riêng, nhưng động lực của chính tác giả sẽ lây nhiễm và tô màu những mục đích đó. Khi mục tiêu của tác giả, người tham gia và hoạt động được căn chỉnh, tác giả có thể tạo ra các môi trường mạnh mẽ; khi chúng lệch nhau, các môi trường sẽ không gắn kết.

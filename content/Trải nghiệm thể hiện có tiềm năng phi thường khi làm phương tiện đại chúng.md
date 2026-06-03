@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences have incredible potential as a mass medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Tôi tin ta có thể dựng một [[Trải nghiệm thể hiện]] với mục đích chính là truyền tải ý tưởng, giá trị và cách thực hành, tương tự như cách một cuốn sách làm "công việc" của nó. Đây là một mệnh đề mạnh, vì [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo]] và [[Trải nghiệm thể hiện kích hoạt tham gia chủ động trong môi trường khai phóng]].

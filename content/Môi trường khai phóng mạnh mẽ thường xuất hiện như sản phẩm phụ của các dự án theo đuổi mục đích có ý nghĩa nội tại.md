@@ -1,6 +1,8 @@
 ---
 aliases:
   - Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Chương trình Apollo là một [[Môi trường khai phóng]] cực kỳ mạnh mẽ, nhưng nó không xuất hiện từ một dự án nhằm cho các nhà khoa học nhiều cơ hội phát triển bản thân. Nó là về việc đưa người lên Mặt Trăng (và, ừ, cứu thế giới khỏi Liên Xô). Môi trường khai phóng là sản phẩm phụ của nỗ lực có ý nghĩa sâu sắc đó.

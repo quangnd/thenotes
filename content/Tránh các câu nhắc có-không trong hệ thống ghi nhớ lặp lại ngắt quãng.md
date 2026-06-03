@@ -1,6 +1,8 @@
 ---
 aliases:
   - Avoid yes-no spaced repetition memory prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các câu nhắc có/không trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là một cái bẫy hấp dẫn. Nhiều phát biểu đơn giản bạn có thể đọc về cơ bản đang nói "X là đúng." Một cách có vẻ dễ dàng để biến điều đó thành câu hỏi là hỏi "X có đúng không?" Nhưng những câu hỏi này không hữu ích lắm: [[Các câu nhắc ghi nhớ lặp lại ngắt quãng nên đảm bảo người ôn tập phải truy xuất câu trả lời từ trí nhớ]]

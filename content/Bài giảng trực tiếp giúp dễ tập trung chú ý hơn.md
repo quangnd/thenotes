@@ -1,6 +1,8 @@
 ---
 aliases:
   - Live, in-person lectures make it easier to pay attention
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi bạn tham dự trực tiếp một bài giảng, bạn sẽ được bao quanh bởi những người khác, hầu hết trong số họ sẽ đang chú ý đến người giảng (hoặc ít nhất có vẻ như vậy). Điều này có xu hướng khiến việc chú ý trở thành "mặc định" đối với bạn, vì vậy bạn cần ít ý chí hơn để tự mình tập trung. 

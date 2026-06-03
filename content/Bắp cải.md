@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cabbage
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 #### Múi áp chảo (Seared wedges)

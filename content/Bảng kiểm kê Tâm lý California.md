@@ -1,6 +1,8 @@
 ---
 aliases:
   - California Psychological Inventory
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một bảng kiểm kê tính cách tự báo cáo với 20 thang đo, nhằm đại diện cho các đặc điểm phổ biến và dễ nhận biết. Không giống như [[Mô hình năm nhân tố]], các đặc điểm này không nhằm mục đích trực giao; một số có tương quan cao với nhau.

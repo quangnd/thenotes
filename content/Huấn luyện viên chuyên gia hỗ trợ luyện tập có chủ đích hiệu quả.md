@@ -1,6 +1,8 @@
 ---
 aliases:
   - Expert coaches facilitate effective deliberate practice
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]]; qua một mức hiệu suất nhất định, [[Luyện tập có chủ đích, theo Ericsson]] hiệu quả thường đòi hỏi kiến thức của huấn luyện viên chuyên gia về phương pháp luyện tập, cũng như sự giám sát và phản hồi của họ. Ví dụ, một huấn luyện viên chuyên gia (thường cũng là hoặc từng là người thực hành chuyên gia) sẽ phát minh các bài tập mới (dựa trên kiến thức của họ về phương pháp luyện tập) để khắc phục điểm yếu.

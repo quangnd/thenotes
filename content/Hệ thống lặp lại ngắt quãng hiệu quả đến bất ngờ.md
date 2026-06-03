@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems are extremely efficient
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Với [[Hệ thống ghi nhớ lặp lại ngắt quãng]], bạn có thể nhớ chính xác hàng nghìn câu trả lời chỉ bằng vài phút mỗi ngày. Nghe phản trực giác, nhưng đó là hệ quả của một hàm mũ ẩn sau [[Hiệu ứng ngắt quãng]]: [[Lặp lại ngắt quãng mang lại lợi ích theo hàm mũ cho những gia tăng nhỏ trong nỗ lực]].
 

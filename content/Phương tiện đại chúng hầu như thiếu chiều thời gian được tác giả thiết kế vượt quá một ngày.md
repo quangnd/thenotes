@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mass mediums mostly lack an authored time dimension beyond a day
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các nhà làm phim, nhà soạn nhạc, và nhà viết kịch cẩn thận thiết kế chiều thời gian trong tác phẩm của họ. Một khoảng lặng đầy ý nghĩa, một xung đột âm ỉ, và một đoạn tăng tốc mang lại cảm giác như vậy vì cách chúng được người xem trải nghiệm theo thời gian. Những phương tiện đó thể hiện trải nghiệm diễn biến qua vài giờ — nhưng còn ngày, tháng, năm thì sao? Các thiết chế văn hóa thường thiết kế trải nghiệm của họ theo những thang thời gian đó (ví dụ: nghi lễ trưởng thành tôn giáo kéo dài nhiều năm), nhưng phương tiện đại chúng hiếm khi làm vậy. Đó là một hạn chế đáng tiếc: phương tiện đại chúng mang đến cho tác giả phạm vi tiếp cận rộng lớn. (xem thêm [[Trải nghiệm thể hiện rất khó nhân rộng]])

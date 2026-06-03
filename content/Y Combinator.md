@@ -1,3 +1,7 @@
+---
+created: 2026-05-26
+modified: 2026-05-26
+---
 Y Combinator là một vườn ươm khởi nghiệp. Ngoài cấp vốn, nó còn đặt người tham gia vào một môi trường có cấu trúc nhằm thúc cả công ty lẫn năng lực cá nhân của họ tăng tốc. Phần lớn các hoạt động xoay quanh việc truyền lại một bộ thực hành và giá trị đã được mài giũa qua thời gian. Ví dụ: các buổi phỏng vấn và bữa tối với những nhà sáng lập thành công trong quá khứ giúp truyền kiến thức văn hóa gần như mang màu sắc huyền thoại; một bộ sách và bài nói chuẩn mực cũng đóng vai trò tương tự; deadline Demo Day siết chặt một lối làm việc nhất định; các giờ tư vấn cung cấp coaching trực tiếp về cùng những nguyên tắc đó.
 
 Y Combinator là một [[Môi trường khai phóng]]. Các nhà sáng lập thường xuyên kể lại rằng họ bỗng dưng làm được nhiều thứ hơn hẳn, và không chỉ nhờ tiền. Nó giống một trường học theo một nghĩa nào đó, nhưng khác biệt cốt yếu là toàn bộ hoạt động của nhà sáng lập đều xoay quanh việc xây startup mà họ đam mê đến mức điên cuồng. Họ không học một bộ kỹ năng trừu tượng để rồi sau này mới được dùng vào việc gì đó có ý nghĩa ([[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Skill development requires challenging homeostasis
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Để xây dựng cơ bắp, bạn phải đẩy các cơ chế cân bằng nội môi của cơ thể vượt qua khả năng bù đắp bình thường của chúng, lúc đó cơ thể sẽ tăng cường cơ bắp để tái lập cân bằng nội môi. Các cấu trúc thần kinh của chúng ta dường như phản ứng theo những cách tương tự, thích nghi các mạng lưới kết nối để làm cho các tuyến đường thường được sử dụng dễ dàng hơn để đi qua (Barnes và Finnerty, 2010).

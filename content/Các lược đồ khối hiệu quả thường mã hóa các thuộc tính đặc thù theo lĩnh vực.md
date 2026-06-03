@@ -1,6 +1,8 @@
 ---
 aliases:
   - Efficient chunk schemas usually encode domain-specific attributes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi con người phát triển các khối hiệu quả hơn cho một lĩnh vực nào đó ([[Các mảnh trong nhận thức con người]], [[Mã hóa lại giúp tăng kích thước khối]]), họ thường tích hợp các thuộc tính trừu tượng, đặc thù theo lĩnh vực vào các mã hóa của mình. Ví dụ, một kiện tướng cờ vua nhận thức bàn cờ theo kiểu "Chuỗi tốt" và "Cột tấn công" (Chase và Simon, 1973, trang 80) — thay vì một đống vị trí quân cờ. Biểu diễn tinh thần của họ về trạng thái một ván cờ là trừu tượng, có phương sai cao, nhiều chiều, và tương đối khó hiểu đối với người mới. Một nhạc sĩ ngẫu hứng có thể nghĩ theo thuật ngữ "căng thẳng" và "kỳ vọng."

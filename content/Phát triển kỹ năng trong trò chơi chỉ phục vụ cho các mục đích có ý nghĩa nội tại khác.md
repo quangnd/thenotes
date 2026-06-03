@@ -1,6 +1,8 @@
 ---
 aliases:
   - Skill development in games is subservient to other intrinsically meaningful purposes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], nhưng đó không phải là mục đích của trải nghiệm. Các kỹ năng chỉ là thứ phụ trợ cho những mục đích có ý nghĩa tự thân: thẩm mỹ, xã hội, tường thuật, v.v. Mục đích thật sự là thẩm mỹ, không phải thực dụng: [[Game là phương tiện thẩm mỹ của hành động]]. Và thẩm mỹ đó thường được dẫn dắt bởi [[Tìm điều thú vị]].

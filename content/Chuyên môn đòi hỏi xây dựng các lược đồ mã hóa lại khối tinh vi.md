@@ -1,6 +1,8 @@
 ---
 aliases:
   - Expertise requires building sophisticated chunk recoding schemes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong nhiều lĩnh vực, các chuyên gia trở thành chuyên gia chủ yếu bằng cách phát triển các biểu diễn tinh thần tinh vi hơn ([[Biểu diễn tinh thần, theo Ericsson và Pool]]), tương đương với việc tăng kích thước các khối tinh thần của họ ([[Các mảnh trong nhận thức con người]]). Điều này tăng năng lực xử lý thông tin của họ ([[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]], [[Mã hóa lại giúp tăng kích thước khối]]). Điều này xảy ra thông qua luyện tập: [[Luyện tập tốt mã hóa các sơ đồ tái mã hóa khối hiệu quả hơn]]

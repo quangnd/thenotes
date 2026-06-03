@@ -1,6 +1,8 @@
 ---
 aliases:
   - Syntopic reading
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Phong cách đọc này nhấn mạnh việc đọc rộng rãi xuyên suốt một lĩnh vực tài liệu, tập trung vào tổng hợp thay vì phân tích. Thay vì chỉ cố gắng "nắm bắt thuật ngữ" của tác giả — tức là hiểu sâu khung khái niệm của họ — người đọc cố gắng "đưa tác giả vào thuật ngữ của mình" — tức là tái bối cảnh hóa công trình của tác giả theo các lý thuyết và ý tưởng đang phát triển của chính người đọc.

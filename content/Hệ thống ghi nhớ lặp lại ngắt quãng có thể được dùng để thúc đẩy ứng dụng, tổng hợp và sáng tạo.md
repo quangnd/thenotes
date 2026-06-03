@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems can be used to prompt application, synthesis, and creation
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như Anki chủ yếu được thiết kế để giúp mọi người ghi nhớ nhiều kiến thức khai báo, như từ vựng. Nhưng các cơ chế tương tự có thể được sử dụng để tạo các thẻ tương đối khác thường nhằm thúc đẩy ứng dụng, tổng hợp và sáng tạo.
 

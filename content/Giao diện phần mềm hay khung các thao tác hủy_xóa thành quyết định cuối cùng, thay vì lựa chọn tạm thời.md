@@ -1,6 +1,8 @@
 ---
 aliases:
   - Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], và thường điều đó đòi hỏi loại bỏ chủ động những mục ít ưu tiên. Vài ví dụ:

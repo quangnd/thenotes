@@ -1,6 +1,8 @@
 ---
 aliases:
   - Effects of the mnemonic medium on reader memory
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 - [[Tác động nhân quả của các phiên ôn tập trong phương tiện ghi nhớ đến khả năng ghi nhớ của người đọc là gì_]]

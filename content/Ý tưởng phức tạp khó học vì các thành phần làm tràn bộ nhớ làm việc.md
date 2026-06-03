@@ -1,6 +1,8 @@
 ---
 aliases:
   - Complex ideas may be hard to learn in part because their components overflow working memory
+created: 2026-05-30
+modified: 2026-05-30
 ---
 
 Ý tưởng thường được xây trên những ý tưởng khác. Một số kết hợp trực tiếp vài hiểu biết có sẵn, số khác lại khó diễn đạt nếu thiếu ký hiệu hoặc thuật ngữ riêng. Khi một ý tưởng có ít thứ phụ thuộc, bạn có thể giới thiệu hết các thành phần rồi nói thẳng vào ý tưởng đó. Ví dụ: xanh là đi, đỏ là dừng, đèn xanh hay đỏ chỉ sang phải nghĩa là bạn được phép hoặc không được phép rẽ phải.

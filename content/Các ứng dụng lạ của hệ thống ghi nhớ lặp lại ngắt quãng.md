@@ -1,6 +1,8 @@
 ---
 aliases:
   - Unusual applications of spaced repetition memory systems
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như Anki vốn được thiết kế để giúp người ta ghi nhớ sự kiện, nhưng cơ chế thẻ ghi nhớ của chúng còn dùng được cho nhiều việc khác.

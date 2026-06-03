@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences exist on a spectrum of participation and authorial control
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Bất kỳ [[Trải nghiệm thể hiện]] nào cũng có thể bao gồm một phạm vi rộng về mức độ tham gia và kiểm soát tác giả.

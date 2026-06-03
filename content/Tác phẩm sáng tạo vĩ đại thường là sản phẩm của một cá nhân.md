@@ -1,6 +1,8 @@
 ---
 aliases:
   - Great creative work is usually the product of a single person
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Dù trong âm nhạc (Bach, Lennon), nghệ thuật (Picasso, Bernini), điện ảnh (Tarantino, Anderson), trò chơi (Blow, Lantz), tiểu thuyết (Kundera, Tolstoy), những tác phẩm lỗi lạc nhất thường là kết quả của nỗ lực sáng tạo của một cá nhân. Đôi khi là một nhóm rất nhỏ (Eames, Wrights).

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Platform knowledge helps non-practitioners amplify good ideas
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Có lẽ chỉ khoảng 100k-1 triệu người sẽ thực hiện công việc quan trọng về công nghệ khí hậu. Nhưng tác động của truyền thông về chủ đề đó không chỉ giới hạn ở ảnh hưởng lên những người đó mà thôi. Những người đọc khác, những người không hành nghề trong lĩnh vực này, nhưng quan tâm đến chủ đề, có thể sử dụng kiến thức đó trong vai trò của họ như là các nút trong "mạng lưới ý tưởng" của xã hội.

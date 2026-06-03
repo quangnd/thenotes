@@ -1,6 +1,8 @@
 ---
 aliases:
   - The dominant culture around spaced repetition memory systems is fixated on meaningless goals
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng trí nhớ tự nó không có giá trị. Trí nhớ có giá trị ở chỗ nó giúp mọi người làm những gì mang lại ý nghĩa cho cuộc sống của họ: [[Đánh giá công cụ tư duy theo mục đích có ý nghĩa nội tại]]. Tiếc thay, văn hóa chủ đạo xung quanh các hệ thống ghi nhớ nghiêng hẳn về phía trí nhớ vì bản thân trí nhớ.

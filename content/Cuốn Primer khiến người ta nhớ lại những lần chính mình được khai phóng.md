@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer reminds people of their own experiences with profound enablement
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nhiều người nhìn Cuốn Primer trong *The Diamond Age* như một tầm nhìn truyền cảm hứng về công nghệ khai phóng. Điều này hơi lạ, vì [[Cuốn Primer không phải là môi trường khai phóng khả thi]].

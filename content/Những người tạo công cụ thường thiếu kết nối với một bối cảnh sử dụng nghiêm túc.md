@@ -1,6 +1,8 @@
 ---
 aliases:
   - Tool-makers usually lack connection to a serious context of use
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Những người tạo ra [[Công cụ tư duy]] thường nói rằng họ đang cố gắng giúp mọi người làm toán, tạo ra nghệ thuật, hay bất cứ điều gì. Nhưng trên thực tế, những người tạo ra những công cụ này hiếm khi được kết nối sâu sắc với các thực tiễn sáng tạo thực sự mà họ đang cố gắng khuếch đại. Công việc thường là một bản demo công nghệ, một đồ chơi, hoặc một "môi trường thử nghiệm". Như chúng tôi đã viết trong *How can we develop transformative tools for thought?* (Làm thế nào chúng ta có thể phát triển các công cụ tư duy mang tính biến đổi?): "Công cụ viết không được sử dụng bởi những nhà văn thực sự. Công cụ toán học không được sử dụng bởi các nhà toán học thực sự." Ở tầng sâu hơn, những nhà thiết kế hệ thống như vậy thường *phát triển một hệ thống vì chính nó*—không phải vì có một vấn đề sáng tạo nào đó mà họ đang tuyệt vọng cố giải quyết.

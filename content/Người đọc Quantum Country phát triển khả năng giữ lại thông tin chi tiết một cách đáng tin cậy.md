@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quantum Country readers reliably develop detailed retention
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Tất cả dữ liệu này là từ những người đọc đã trả lời 80%+ câu hỏi [[QCVC]] trong bài luận trước phiên ôn tập đầu tiên của họ.

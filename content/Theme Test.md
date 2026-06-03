@@ -4,6 +4,8 @@ description: Visual coverage note for testing themes (fonts, colors, components)
 draft: true
 tags:
   - meta
+created: 2026-05-31
+modified: 2026-05-31
 ---
 
 # Heading 1 — The quick brown fox

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Turning any web page into the mnemonic medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Quantum Country]] là trang web xây riêng; cơ chế ghi nhớ ăn sâu vào cách trình bày bài luận. Nhưng các tương tác cốt lõi của [[Phương tiện ghi nhớ]] đủ tách bạch để có thể nhúng vào trang web bất kỳ chỉ bằng HTML đơn giản.

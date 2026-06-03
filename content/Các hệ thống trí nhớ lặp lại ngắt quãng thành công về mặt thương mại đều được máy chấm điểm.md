@@ -1,6 +1,8 @@
 ---
 aliases:
   - Commercially-successful spaced repetition memory systems are all machine-graded
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Anki, Mnemosyne và SuperMemo đều do người dùng tự chấm điểm. [[Duolingo]], Memrise và [[Quizlet]] (phần lớn) được máy chấm điểm. Các sản phẩm [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có lượng người dùng rộng rãi và thành công thương mại đáng kể đều được máy chấm điểm.

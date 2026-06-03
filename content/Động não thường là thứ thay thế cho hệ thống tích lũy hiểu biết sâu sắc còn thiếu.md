@@ -1,6 +1,8 @@
 ---
 aliases:
   - Brainstorming may often substitute for missing insight accretion systems
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Động não với người khác tạo ra một bối cảnh xã hội linh hoạt để trao đổi ý tưởng. Nhưng khi động não một mình, ta đang tạo ra một không gian mở rộng để gọi về những gì mình "gần như đã biết". Trong không gian đó, các ý tưởng có được chủ yếu bị giới hạn bởi tư duy và ý tưởng đã có từ trước (xem [[Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]).

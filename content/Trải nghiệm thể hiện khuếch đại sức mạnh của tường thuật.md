@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences amplify the power of narrative
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Tường thuật là công cụ mạnh, vừa vì nó tạo ra sự gắn kết cảm xúc, vừa vì nó hỗ trợ hiểu biết ([[Tường thuật như giàn giáo nhận thức]]). Sức mạnh đó còn lớn hơn nữa khi biến tường thuật thành một [[Trải nghiệm thể hiện]], vì [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo]].

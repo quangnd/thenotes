@@ -1,6 +1,8 @@
 ---
 aliases:
   - Tags are an ineffective association structure
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Thẻ là cách dễ để gom các mục khác loại lại với nhau, nhưng chúng cho biết rất ít về mối quan hệ giữa các mục.

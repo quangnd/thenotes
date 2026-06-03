@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer is one big “onboarding” experience for the rest of Nell’s life
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age*, Cuốn Primer không phải là môi trường mà Nell rốt cuộc dùng để chỉ huy quân đội của mình, cũng không phải nơi cô tạo ra những ý tưởng mới cho xã hội (mục tiêu sau cùng của các tác giả). Hiểu đúng nhất, nó là một trải nghiệm *khởi động* cho phần đời còn lại của cô. Nó truyền tải nội dung qua cơ chế được mô tả trong [[Cuốn Primer là một trải nghiệm thể hiện khổng lồ]], rồi được thiết kế để Nell vượt qua và bỏ lại sau lưng.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Pocket memo pad to capture into writing inbox while out
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Tôi dùng một tập giấy A7 có dòng kẻ (Maruman Mnemosyne N193A) để ghi nhanh khi ra ngoài. Ý tưởng hay từ các cuộc trò chuyện, ý tưởng lúc đi bộ, v.v. đều ghi vào đây. Tôi thường thêm chút ngữ cảnh để sau dễ định vị: ngày, địa điểm, người liên quan.

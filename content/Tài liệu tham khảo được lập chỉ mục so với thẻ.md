@@ -1,6 +1,8 @@
 ---
 aliases:
   - Indexed references vs. tags
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Gắn thẻ phổ biến trong các hệ thống thông tin hiện đại, nhưng [[Thẻ là cấu trúc liên kết kém hiệu quả]]. Một tiền lệ hiệu quả hơn trong ngành xuất bản là *chỉ mục* (index).

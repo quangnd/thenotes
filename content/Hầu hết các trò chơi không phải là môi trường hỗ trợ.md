@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most games aren’t enabling environments
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], vì vậy thật hấp dẫn khi nghĩ đến một trò chơi hay như một [[Môi trường khai phóng]], nhưng chúng hiếm khi "mở khóa hoặc mở rộng đáng kể khả năng của người chơi để làm những điều họ thấy có ý nghĩa và quan trọng." Mục đích chính của hầu hết các trò chơi là tạo ra một trải nghiệm thẩm mỹ hoặc cảm xúc. Trải nghiệm đó có thể vô cùng mạnh mẽ (đó là lý do tại sao việc xây dựng kỹ năng hoạt động: [[Phát triển kỹ năng trong trò chơi chỉ phục vụ cho các mục đích có ý nghĩa nội tại khác]]), nhưng nói chung nó sẽ không mở rộng khả năng của người chơi để *làm những điều* họ thấy có ý nghĩa và quan trọng. Liên quan: [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Existing spaced repetition systems discourage evergreen notes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mặc dù các ghi chú trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có tính nguyên tử giống như [[Ghi chú thường xanh]] ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]), chúng theo nhiều cách là *quá* nguyên tử hóa ([[Prompt ghi nhớ lặp lại ngắt quãng truyền thống bị tách rời]]). Hình thức này không khuyến khích tổng hợp và chưng cất gia tăng.

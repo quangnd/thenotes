@@ -1,6 +1,8 @@
 ---
 aliases:
   - Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Sự hợp tác sâu giữa người tạo công cụ và người dùng công cụ có thể hỗ trợ cái nhìn sâu sắc thông qua việc tạo ra]], và bởi vì người dùng công cụ đang thúc đẩy việc sử dụng nghiêm túc trong những sự hợp tác này, họ thường sẽ là người *khởi xướng* các dự án sáng tạo của đôi bên. Khái niệm ban đầu đó thường là kết quả của việc thử nghiệm bán riêng tư. Sự phân chia trách nhiệm của đôi bên sẽ tự nhiên tập trung sự thử nghiệm của người dùng công cụ vào dự án sáng tạo, chứ không phải vào các câu hỏi chưa được giải đáp trong các công cụ. Khi người dùng công cụ thử nghiệm với các ý tưởng có thể trở thành các dự án sáng tạo mới, họ chủ yếu sẽ kết hợp các công cụ phần lớn đã "nằm trong tầm tay".

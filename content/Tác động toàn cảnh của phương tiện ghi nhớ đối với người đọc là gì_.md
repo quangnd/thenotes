@@ -1,6 +1,8 @@
 ---
 aliases:
   - What’s the big-picture impact of the mnemonic medium on readers_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Giả sử [[Phương tiện ghi nhớ]] giúp người đọc nhớ những gì họ đọc. *Thì sao?*

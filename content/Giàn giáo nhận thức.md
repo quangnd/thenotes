@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cognitive scaffolding
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khi suy nghĩ hoặc làm điều gì đó mới và đầy thách thức, một hình thức thất bại phổ biến là bước tiến nhỏ nhất có thể vẫn quá khó để hình dung. Trong những trường hợp này, tốt nhất là áp dụng một môi trường sẽ dựng lên *giàn giáo nhận thức* để hỗ trợ một phần tải nhận thức, giúp thực hiện được bước tiếp theo. Khi người thực hiện xây dựng năng lực, giàn giáo có thể được dỡ bỏ dần dần, bởi chính họ hoặc bởi môi trường. Tính tạm thời của giàn giáo khiến đây trở thành một tập con của các cơ chế tăng cường nhận thức.

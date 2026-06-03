@@ -1,6 +1,8 @@
 ---
 aliases:
   - Prefer associative ontologies to hierarchical taxonomies
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 Hãy để cấu trúc tự nó hình thành. Áp đặt cấu trúc ngay từ đầu sẽ giới hạn sớm những gì có thể xuất hiện và bóp méo các quan hệ phức tạp giữa các ý tưởng.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Application prompts are much harder to write than recall prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Một thách thức là những câu hỏi như vậy đòi hỏi nhiều công sức hơn để viết so với câu hỏi nhớ lại.

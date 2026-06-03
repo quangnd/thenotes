@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Thật không may, [[Đọc văn bản trên máy tính là không dễ chịu]]. Có lẽ đó là một phần lý do tại sao [[Mức độ phổ biến của đọc sách điện tử tụt hậu đáng kể so với đọc sách nói chung]].

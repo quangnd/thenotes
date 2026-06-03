@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most people read ineffectively
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 - [[Công việc tri thức nên tích lũy]], nhưng hầu hết việc đọc thì không

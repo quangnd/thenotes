@@ -1,6 +1,8 @@
 ---
 aliases:
   - Public good
+created: 2026-05-26
+modified: 2026-05-26
 ---
 **Hàng hóa công** (public good) là một nguồn lực không thể loại trừ ([[Tính loại trừ]]) và không cạnh tranh ([[Tính cạnh tranh (Rivalry)]]), như tri thức, đèn đường và thư viện công cộng.
 

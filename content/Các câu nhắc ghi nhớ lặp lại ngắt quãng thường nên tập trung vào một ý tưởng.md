@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory prompts should usually focus on one idea
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Nếu bạn vừa học một cách mới để nấu đậu, bạn có thể viết một câu nhắc cho [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như: "H. Làm thế nào để nấu đậu sous vide?" "Đ. 18 phút ở 70°C". Nhưng tôi nhận thấy rằng những câu hỏi như thế này thường là một cuộc vật lộn — tôi thường xuyên quên câu trả lời. Những câu hỏi dựa trên nhiều ý tưởng độc lập dường như vấp phải vấn đề này.
 

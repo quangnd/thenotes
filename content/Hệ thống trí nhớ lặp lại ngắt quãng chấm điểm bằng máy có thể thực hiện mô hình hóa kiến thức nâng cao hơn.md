@@ -1,6 +1,8 @@
 ---
 aliases:
   - Machine-graded spaced repetition memory systems can perform more advanced knowledge modeling
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nếu [[Duolingo]] yêu cầu tôi dịch một cụm từ tiếng Tây Ban Nha sang tiếng Anh, và tôi dịch sai một từ duy nhất, nó có thể nhận ra *từ nào* tôi dịch sai, và điều chỉnh lịch trình cho các bài tập liên quan cho phù hợp. Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] tự chấm điểm chỉ có thể biết rằng toàn bộ câu trả lời sai. (Lưu ý rằng tôi không nghĩ Duolingo thực sự làm điều này!)

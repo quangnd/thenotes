@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen notes lower the emotional stakes in editing manuscripts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong viết lách, việc "giết những đứa con cưng" (kill one's darlings) có thể rất đau. Công sức bỏ ra cho những đoạn đó dễ cảm thấy như đổ sông đổ biển. Nó còn tạo ra các vòng lặp mở (xem [[Đóng các vòng lặp còn mở]]): ta thấy cần xuất bản những ý tưởng đó ở *đâu đó*, nên phải nhớ chúng (hoặc ghim đoạn văn lại) để đưa vào một bản thảo khác sau này.

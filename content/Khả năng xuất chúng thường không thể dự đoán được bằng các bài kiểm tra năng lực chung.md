@@ -1,6 +1,8 @@
 ---
 aliases:
   - Exceptional ability usually can’t be predicted by general ability tests
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 - "Đánh giá sáng tạo" của các kiến trúc sư, nhà toán học và nhà khoa học chuyên nghiệp, được giao bởi một cuộc khảo sát các giáo sư, không tương quan đáng kể với IQ ({MacKinnon}, {1968}). Tuy nhiên, việc gia nhập các ngành nghề này dường như đòi hỏi IQ cao: {98%} trong số {140} người được nghiên cứu có IQ trong khoảng {118}-{140}.

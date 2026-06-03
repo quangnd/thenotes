@@ -1,6 +1,8 @@
 ---
 aliases:
   - Is there a way to detect spaced repetition memory prompts which are likely to be answered through pattern matching_
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Xem [[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]].

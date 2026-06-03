@@ -1,6 +1,8 @@
 ---
 aliases:
   - Collecting material feels more useful than it usually is
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mở thêm tab, lưu PDF, đánh dấu trang. Mấy việc này cho cảm giác đang tiến bộ, nhưng ta đánh giá quá cao giá trị của chúng một cách có hệ thống. [[Muốn hiểu thì phải bỏ công]]. Khó mà rút ra được mấy hiểu biết sâu sắc từ một thư mục đầy PDF chỉ được lướt qua.

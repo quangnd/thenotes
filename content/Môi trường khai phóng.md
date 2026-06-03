@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enabling environment
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Một *môi trường khai phóng* mở rộng đáng kể năng lực của người tham gia để làm những điều họ thấy có ý nghĩa và quan trọng.

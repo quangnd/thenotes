@@ -1,6 +1,8 @@
 ---
 aliases:
   - Work with the garage door up
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một trong những cách yêu thích của tôi mà những người sáng tạo giao tiếp là "làm việc với cửa nhà để xe mở," để mượn cụm từ của Robin Sloan. Đây là điều ngược lại với tài khoản Twitter chủ yếu đăng thông báo về các công việc đã hoàn thành: đó là [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en); đó là việc đưa ra một bài giảng về những vấn đề bạn đang suy nghĩ trong lúc tắm; đó là suy nghĩ to tiếng về những cách mà dự án của bạn hoàn toàn không hoạt động. Đó là rất nhiều Twitch. Tôi muốn thấy quá trình. Tôi muốn thấy bạn tỉa atiso. Tôi muốn thấy bạn chọn bảng màu. [[Phản tiếp thị]].

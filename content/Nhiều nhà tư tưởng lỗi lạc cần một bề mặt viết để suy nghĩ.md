@@ -1,6 +1,8 @@
 ---
 aliases:
   - Many eminent thinkers need a writing surface to think
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Nhiều người làm việc hiệu quả nhất mà tôi biết, cả còn sống và đã mất, dường như không thể tư duy nghiêm túc mà không có bề mặt viết trước mặt. Nó có vẻ mở rộng nhận thức kiểu nào đó. Có thể nó mở rộng hiệu quả [[Khoảng bộ nhớ làm việc]] của một người, hoặc có thể chính việc di chuyển ngón tay đã đóng góp vào tư duy.

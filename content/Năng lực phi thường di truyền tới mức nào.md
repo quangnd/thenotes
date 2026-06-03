@@ -1,6 +1,8 @@
 ---
 aliases:
   - To what extent is exceptional ability heritable
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 Bẩm sinh hay nuôi dưỡng?

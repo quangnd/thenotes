@@ -1,6 +1,8 @@
 ---
 aliases:
   - To what extent does spaced repetition memory system practice constitute deliberate practice_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các buổi ôn tập của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có cấu thành [[Luyện tập có chủ đích, theo Ericsson]] không?

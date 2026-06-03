@@ -1,6 +1,8 @@
 ---
 aliases:
   - Twitter is a water cooler
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Hầu hết tất cả các trang web đều được truy cập vì một mục đích giao dịch nào đó hoặc để đáp ứng một trigger cụ thể. Nhưng một số trang web (Twitter, Reddit, Facebook) là trigger của chính chúng: nếu ai đó đang nhàm chán và có trình duyệt mở, họ có thể tự động ghé vào một trong những trang đó, mà không có bất kỳ trigger ngoại sinh nào.

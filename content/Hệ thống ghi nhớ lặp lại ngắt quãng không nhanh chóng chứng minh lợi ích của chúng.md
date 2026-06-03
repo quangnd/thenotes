@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems don’t rapidly demonstrate their benefits
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]], nhưng các đường cong bắt đầu nông. Vì vậy, trải nghiệm của người dùng mới với [[Hệ thống ghi nhớ lặp lại ngắt quãng]] được tải trọng ở phía trước về nỗ lực… và bị trì hoãn về kết quả mạnh mẽ. Ban đầu, nó có vẻ không tốt hơn một hệ thống thẻ ghi nhớ tầm thường mà họ có thể đã sử dụng ở trường. Và lợi ích lâu dài rất không rõ ràng: [[Lặp lại ngắt quãng mang lại lợi ích theo hàm mũ cho những gia tăng nhỏ trong nỗ lực]], nhưng hầu như không có gì khác hoạt động theo cách đó, và [[Con người có trực giác kém về hàm số mũ]].

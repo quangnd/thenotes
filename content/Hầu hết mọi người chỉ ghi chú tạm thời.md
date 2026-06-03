@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most people take only transient notes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khác với [[Ghi chú thường xanh]], [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]]. Kiểu ghi chú này tiện viết, nhưng sau một năm thì chỉ còn lại một đống ghi chú rời rạc. Chúng không *cộng dồn* thành thứ gì cả. Chúng giống nhiên liệu hơn, viết ra rồi bỏ đi để tác giả xử lý những gì đang xảy ra trong đầu.

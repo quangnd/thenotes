@@ -1,6 +1,8 @@
 ---
 aliases:
   - People who write extensively about note-writing rarely have a serious context of use
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nhiều blogger và "người tối ưu cuộc sống" đã biến việc khuyên người khác tổ chức nhật ký, hay [[Viết về thứ mình đọc]] sao cho hiệu quả thành công việc toàn thời gian. Lời khuyên đó chỉ đáng nghe nếu các thực hành ấy đã thực sự giúp tác giả tạo ra công việc sáng tạo có ý nghĩa: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]].

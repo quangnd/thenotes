@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program doesn’t have non-executable prompts
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Người đọc trả lời các câu hỏi của Execute Program bằng cách thực thi một chương trình]]. [[Execute Program]] không có bất kỳ loại gợi ý nào khác.

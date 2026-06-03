@@ -1,6 +1,8 @@
 ---
 aliases:
   - Daily working log
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Mỗi ngày, tôi bắt đầu một ghi chú có tiêu đề là ngày hôm đó; ví dụ 2020-03-12. Nó ghi lại những thứ thoáng qua trong ngày: suy nghĩ, bản nháp, v.v. Đó là một nơi đổ rác có chủ đích, một van xả để luôn có "một nơi để đặt thứ đó."

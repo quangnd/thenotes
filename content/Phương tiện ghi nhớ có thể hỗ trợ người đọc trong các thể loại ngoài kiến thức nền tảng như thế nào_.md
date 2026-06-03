@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might the mnemonic medium enable readers in genres outside platform knowledge_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]], nhưng chúng tôi nghi rằng nó có thể giúp người đọc kết nối sâu hơn với tài liệu ở các thể loại khác, như:

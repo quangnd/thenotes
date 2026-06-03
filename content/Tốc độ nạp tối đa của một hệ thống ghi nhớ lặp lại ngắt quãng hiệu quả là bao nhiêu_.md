@@ -1,6 +1,8 @@
 ---
 aliases:
   - What’s the maximum intake rate of an efficient spaced repetition memory system_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Giả sử tôi thêm 40 thẻ mới mỗi ngày, luôn trả lời đúng tất cả trong mỗi lần ôn, và khoảng cách giữa các lần ôn giãn theo lịch cố định của Quantum Country. Tới mốc một năm, tôi sẽ ôn:

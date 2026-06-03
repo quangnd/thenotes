@@ -1,6 +1,8 @@
 ---
 aliases:
   - Minecraft vs. the Primer
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Minecraft là một [[Môi trường khai phóng]]. Rất nhiều người có thể dựng nên các công trình 3D đồ sộ trong đó, điều họ sẽ không làm nổi nếu không có Minecraft. [[Hầu hết các trò chơi không phải là môi trường hỗ trợ]], nên việc đem Minecraft ra so với Cuốn Primer trong *The Diamond Age* (vốn cũng khao khát khai phóng người dùng qua một môi trường giống trò chơi) là rất đáng để làm. Liệu cái này có dạy chúng ta điều gì để cải thiện cái kia không?

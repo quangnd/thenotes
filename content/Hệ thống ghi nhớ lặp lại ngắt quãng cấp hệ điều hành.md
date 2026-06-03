@@ -1,6 +1,8 @@
 ---
 aliases:
   - OS-level spaced repetition system
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Hệ điều hành máy tính đã đi kèm một bộ công cụ quản lý thông tin cá nhân khá đoán được trong nhiều thập kỷ: sổ địa chỉ, lịch, ứng dụng email, vài chức năng ghi chú cơ bản, tệp và thư mục, v.v. Chúng có cấu trúc khác với các "ứng dụng" biệt lập (vốn thường nhằm bao trọn một quy trình từ đầu đến cuối). Phần mềm cấp hệ điều hành kiểu này mang tính đa dụng hơn. Mỗi phần vừa là công cụ vừa là dịch vụ, được kết nối xuyên suốt hệ điều hành qua các tích hợp do API cung cấp. Bạn thêm sự kiện vào lịch từ một email, tự động hoàn tên một liên hệ trong ứng dụng trò chuyện, lưu và mở tệp vào cùng thư mục từ nhiều ứng dụng, v.v.

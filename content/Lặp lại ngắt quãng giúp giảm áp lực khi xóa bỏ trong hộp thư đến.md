@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition can lower the stakes around destructive inbox-maintenance operations
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], nhưng [[Các chiến lược phân loại hộp thư đến (ví dụ Inbox Zero) thường quá mong manh]]. Lý do chính là [[Giao diện phần mềm hay khung các thao tác hủy_xóa thành quyết định cuối cùng, thay vì lựa chọn tạm thời]].

@@ -1,6 +1,8 @@
 ---
 aliases:
   - The “reflected essay” metaphor for the goal for the mnemonic medium
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Cần giải mã:

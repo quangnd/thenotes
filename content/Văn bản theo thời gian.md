@@ -1,6 +1,8 @@
 ---
 aliases:
   - 2020-07-28 - Timeful texts
+created: 2026-05-26
+modified: 2026-05-27
 ---
 ## Văn bản theo thời gian (2020-07-28)
 

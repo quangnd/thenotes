@@ -1,6 +1,8 @@
 ---
 aliases:
   - Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Học viên của [[Execute Program]] không thể truy cập ngay tất cả các bài học trong một khóa học. Hầu hết các bài học của khóa học bắt đầu ở trạng thái "khóa." Những bài học đó phụ thuộc vào các bài học khác trong khóa: các bài học duy nhất được mở khóa ban đầu là {những bài không có phụ thuộc trong khóa}. Các bài học chỉ mở khóa khi {tất cả các bài phụ thuộc của chúng không chỉ được đọc, mà còn được ôn tập gần đây (thông qua cơ chế [[Hệ thống ghi nhớ lặp lại ngắt quãng]] nhúng)}.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enabling environments’ activities directly serve an intrinsically meaningful purpose
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi thiết kế một [[Môi trường khai phóng]], người ta dễ bị cuốn vào việc chăm chăm vào các kỹ năng hay hiểu biết đang được phát triển hoặc khuếch đại. Cách tiếp cận này thường tự phá hoại chính nó. Những môi trường khai phóng thành công nhất gồm các hoạt động xoay quanh chính *mục đích* mà những kỹ năng và hiểu biết đó phục vụ. (Xem [[Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]], [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]])

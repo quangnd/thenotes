@@ -1,6 +1,8 @@
 ---
 aliases:
   - Writing forces sharper understanding
+created: 2026-05-26
+modified: 2026-06-01
 ---
 
 Viết là cách hiệu quả để gây áp lực lên tư duy: rất khó tóm tắt một thứ mà mình không thực sự hiểu. Khi cố giải thích một ý tưởng, ta tự nhiên thử nhiều cách đóng khung, dò các mép cạnh, và thấy ra những kết nối mới. Đây là một phần lý do [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]] và lý do nên [[Viết về thứ mình đọc]].

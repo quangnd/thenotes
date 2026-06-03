@@ -1,6 +1,8 @@
 ---
 aliases:
   - Talks and classes provide pressure and emotional fuel for understanding
+created: 2026-05-26
+modified: 2026-05-30
 ---
 **
 Đồng ý thuyết trình về một chủ đề thường là cách tuyệt vời để thúc đẩy bản thân học hỏi và chắt lọc nhiều nhất có thể về chủ đề đó.

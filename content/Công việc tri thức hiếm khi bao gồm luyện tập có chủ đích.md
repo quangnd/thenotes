@@ -1,6 +1,8 @@
 ---
 aliases:
   - Knowledge work rarely involves deliberate practice
+created: 2026-05-26
+modified: 2026-05-31
 ---
 
 [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]. Một lý do có thể là vận động viên/nhạc sĩ tham gia [[Luyện tập có chủ đích, theo Ericsson]], các hoạt động tập trung cụ thể vào việc cải thiện kỹ năng.

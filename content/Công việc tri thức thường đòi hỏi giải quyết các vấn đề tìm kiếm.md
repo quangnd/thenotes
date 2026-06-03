@@ -1,6 +1,8 @@
 ---
 aliases:
   - Knowledge work often requires solving search problems
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Thiết kế giao diện, viết một câu mở đầu hấp dẫn, và đưa ra chẩn đoán — nhiều loại [[Công việc tri thức]] phụ thuộc vào các chu kỳ tạo ra khả năng, loại bỏ chúng, và lặp lại dựa trên quan sát hoặc phản hồi.

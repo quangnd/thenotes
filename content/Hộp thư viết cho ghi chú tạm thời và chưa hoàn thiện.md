@@ -1,6 +1,8 @@
 ---
 aliases:
   - A writing inbox for transient and incomplete notes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Ngay cả khi muốn viết [[Ghi chú thường xanh]], hầu hết ghi chú đều bắt đầu ở dạng [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Cần nắm bắt suy nghĩ không ma sát ([[Đóng các vòng lặp còn mở]]), rồi phát triển dần thành ghi chú thường xanh một cách đáng tin cậy ([[Công việc tri thức nên tích lũy]]). Điều này đòi hỏi hai cơ chế:

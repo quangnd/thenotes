@@ -1,6 +1,8 @@
 ---
 aliases:
   - Guided meditation apps deliver enabling environments in a mass medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Hơn hẳn so với các "ứng dụng học tập" thông thường, một [[Ứng dụng thiền có hướng dẫn]] thường là một [[Môi trường khai phóng]] chính đáng.

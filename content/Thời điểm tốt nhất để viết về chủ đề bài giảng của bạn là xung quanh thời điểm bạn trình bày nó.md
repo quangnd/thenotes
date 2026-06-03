@@ -1,6 +1,8 @@
 ---
 aliases:
   - The best time to write about your lecture’s topic is around the time you deliver it
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Các buổi nói chuyện và lớp học tạo áp lực và nhiên liệu cảm xúc cho sự hiểu biết]], nhưng bản thân một bài giảng thường có tác động khá hạn chế. Lý tưởng nhất là bạn sẽ tổng hợp sự hiểu biết mới tìm được thành một số ghi chú có thể xuất bản hoặc một cuốn sách để mở rộng tầm ảnh hưởng của mình.

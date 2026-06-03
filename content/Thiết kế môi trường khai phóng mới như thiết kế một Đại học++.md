@@ -1,6 +1,8 @@
 ---
 aliases:
   - Designing new enabling environments can be framed as designing a University++
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong lịch sử, các trường đại học là ví dụ khá hiệu quả về [[Môi trường khai phóng]] (xét theo vài khía cạnh, và với một số hạn chế đáng kể):

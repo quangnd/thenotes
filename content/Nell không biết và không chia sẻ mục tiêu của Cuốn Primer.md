@@ -1,6 +1,8 @@
 ---
 aliases:
   - Nell doesn’t know or share the Primer’s goals
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age*, [[Mục tiêu của Cuốn Primer là tạo ra người trẻ sáng tạo và nổi loạn]]. Nó đạt mục tiêu đó bằng các kỹ thuật được mô tả trong [[Cuốn Primer là một trải nghiệm thể hiện khổng lồ]]. Dọc đường, các hoạt động trong [[Cuốn Primer Minh họa của Quý cô Trẻ]] phát triển kỹ năng của Nell ở nhiều lĩnh vực phục vụ mục đích đó: võ thuật, khoa học máy tính, thao túng xã hội, v.v. Nhưng Nell không hề biết về toàn bộ mưu đồ này. Cô dành thời gian với Cuốn Primer vì thích các câu đố và câu chuyện của nó, chứ không phải vì đang cùng các tác giả theo đuổi cùng một mục tiêu.

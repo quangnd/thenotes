@@ -1,3 +1,7 @@
+---
+created: 2026-05-26
+modified: 2026-05-30
+---
 reMarkable là một máy tính bảng sử dụng mực điện tử được thiết kế để đọc và viết.
 - Đọc và chú thích PDF trên bãi biển thực sự tuyệt vời. Đây là điểm quan trọng nhất.
 ![](Attachments/EBC2E7F5-F633-47CD-9CBA-D4F459350B27_1_105_c.jpeg)

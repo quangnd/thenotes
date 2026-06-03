@@ -1,6 +1,8 @@
 ---
 aliases:
   - Spaced repetition memory systems make you feel like your memory is worse than it really is
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Một thách thức đối với việc áp dụng và trải nghiệm hàng ngày của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] là bạn sẽ dành gần như toàn bộ thời gian ôn tập cho tài liệu mà bạn thấy khó nhớ. Tài liệu dễ nhớ sẽ nhanh chóng tăng lên khoảng cách nhiều tháng, nên bạn sẽ dành ít thời gian cho chúng, so với một câu nhắc bị mắc kẹt ở khoảng cách hàng ngày hoặc hàng tuần. Tỷ lệ chính xác kỳ vọng trên toàn bộ bộ sưu tập của bạn có thể là 95+%, nhưng tỷ lệ chính xác trong một phiên cụ thể có thể thấp hơn nhiều.
 

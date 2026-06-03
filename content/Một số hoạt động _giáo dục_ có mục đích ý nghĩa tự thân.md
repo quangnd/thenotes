@@ -1,6 +1,8 @@
 ---
 aliases:
   - Some “educational” activities have intrinsically meaningful purposes
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Hầu hết các hoạt động giáo dục chủ yếu tập trung vào kết quả học tập, điều này phá hoại chính mục đích của chúng ([[Mục tiêu giáo dục thường phản tác dụng chính nó]], trái với [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).

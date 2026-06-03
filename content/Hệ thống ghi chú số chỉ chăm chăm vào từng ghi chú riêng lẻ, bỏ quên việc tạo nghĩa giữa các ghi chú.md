@@ -1,6 +1,8 @@
 ---
 aliases:
   - Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Giả sử tôi viết [[Ghi chú thường xanh]] lên thẻ giấy thật. Tôi sẽ tự nhiên bày chúng ra bàn khi viết. Các ghi chú liên quan sẽ tụm thành cụm nhỏ hoặc xếp chồng lên nhau. Ghi chú nào bắt nguồn từ ghi chú khác sẽ nằm bên phải các ghi chú "gốc" hơn về mặt vật lý. Khi viết một ghi chú mới, tôi nhìn thấy tất cả các ghi chú cũ ngay bên cạnh. Đây là một dạng [[Tầm nhìn ngoại vi]].

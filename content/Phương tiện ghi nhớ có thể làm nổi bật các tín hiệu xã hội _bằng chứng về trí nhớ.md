@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium can surface “proof of memory” social signals
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Close open loops
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Những việc chưa làm xong, những quan sát chưa kịp ghi, những email chưa hồi đáp. Chúng cứ quẩn quanh trong đầu, như thể ta đang nhẩm đi nhẩm lại để khỏi quên. Để gỡ bỏ ám ảnh đó và đạt tới trạng thái "tâm trí như nước" (theo cách nói của Allen, 2015), hãy dựng các hệ thống để đóng những vòng lặp còn mở này một cách đáng tin cậy.

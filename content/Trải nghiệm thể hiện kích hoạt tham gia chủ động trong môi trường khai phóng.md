@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experiences can bootstrap active participation in enabling environments
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]], nhưng [[Người mới trong môi trường khai phóng thường chưa làm được điều môi trường đó khai phóng]]. Một [[Trải nghiệm thể hiện]] thiết kế tốt có thể cho người tham gia *thực sự làm* ngay những việc mà môi trường khai phóng.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Writing one’s own spaced repetition prompts seems to promote understanding
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 ==TODO==

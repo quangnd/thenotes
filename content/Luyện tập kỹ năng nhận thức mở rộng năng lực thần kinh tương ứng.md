@@ -1,6 +1,8 @@
 ---
 aliases:
   - Practicing cognitive skills can expand associated neurological capacity
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi bạn luyện chơi một bản nhạc khó hoặc giải các bài toán phức tạp, dễ hình dung rằng sự tiến bộ chỉ là việc mã hóa sâu hơn các kiến thức liên quan (vận động, khái niệm, v.v.). Nhưng ít nhất ở một số lĩnh vực, luyện tập không chỉ giúp bạn học một kỹ năng nhận thức. Nó còn {mở rộng năng lực của bạn cho kỹ năng đó} bằng cách {*mở rộng vật lý các vùng não liên quan*}. Đây có lẽ là một phần lý do tại sao [[Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên thông qua luyện tập]].

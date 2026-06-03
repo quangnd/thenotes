@@ -1,6 +1,8 @@
 ---
 aliases:
   - Academic software interfaces generally aren’t suitable for serious use by wide audiences
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Đặc biệt trong lĩnh vực [[Tương tác người-máy tính]] và [[Công nghệ giáo dục]], công trình học thuật thường bao gồm việc tạo ra các hệ thống phần mềm hiện thực hóa ý tưởng của nhà nghiên cứu. Điều này có thể hoạt động tốt cho các ý tưởng tính toán, nhưng khi ý tưởng là về giao diện, các hệ thống này thường được thực hiện ở mức độ trung thực quá thấp để hiểu sâu tác động rộng rãi của chúng trong môi trường thực tế (trái ngược với [[Thiết kế hệ thống hiệu quả cần insight từ bối cảnh sử dụng thật]]).

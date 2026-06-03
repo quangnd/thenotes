@@ -1,6 +1,8 @@
 ---
 aliases:
   - Narrative as cognitive scaffolding
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Một câu chuyện tường thuật tốt sắp xếp cấu trúc và trình tự các yếu tố chính của một chủ đề phức tạp, hướng sự chú ý của người tham gia vào các tập con giới hạn của các ý tưởng để họ có thể thực hiện từng bước tốt hơn. Điều này tạo ra [[Giàn giáo nhận thức]]. Một bài viết tham khảo, có thể cung cấp cùng thông tin mà không có giàn giáo, có thể là bản tóm tắt hiệu quả hơn cho chuyên gia, nhưng bước đầu tiên để hiểu nó có thể quá lớn để người mới bắt đầu thực hiện.

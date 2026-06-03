@@ -1,6 +1,8 @@
 ---
 aliases:
   - Just-in-time information retrieval agents
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Thuật ngữ này mô tả các tác nhân thụ động truy xuất và hiển thị thông tin hữu ích dựa trên hành động của người dùng.

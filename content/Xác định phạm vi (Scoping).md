@@ -1,6 +1,8 @@
 ---
 aliases:
   - Scoping
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Ivan: Nhà bán lẻ (Retailer)

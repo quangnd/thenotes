@@ -1,6 +1,8 @@
 ---
 aliases:
   - Most dynamic representations developed for communication aren’t very enabling
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các sơ đồ tương tác và sandbox mô phỏng nhỏ nhúng trong [[Giải thích khám phá]] giúp tác giả truyền tải quan điểm, nhưng hiếm khi hữu ích như một môi trường độc lập để người đọc tự suy nghĩ. Mục đích chính của chúng là giúp người đọc nắm được quan điểm tác giả muốn nói một cách hiệu quả hơn.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen note-writing helps insight accumulate
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Phần lớn suy nghĩ hàng ngày trong công việc sáng tạo bị mất đi, như lâu đài cát khi thủy triều lên. Tính tạm thời đôi khi có ích cho những suy nghĩ sơ bộ, nhưng thường thì nó chỉ là một thuộc tính ngẫu nhiên. Với suy nghĩ nghiêm túc, nên ghi lại dưới dạng [[Ghi chú thường xanh]] để tư duy có thể tích lũy.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Khá dè dặt, đây chỉ là cảm nhận sơ bộ và còn thiếu thông tin của tôi. Tôi chưa đọc đủ để khẳng định.

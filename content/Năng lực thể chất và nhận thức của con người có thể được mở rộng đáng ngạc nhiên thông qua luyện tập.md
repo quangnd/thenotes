@@ -1,6 +1,8 @@
 ---
 aliases:
   - Human physical and cognitive capacity can be expanded surprisingly far with practice
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Cơ bắp và hệ thần kinh của chúng ta có khả năng thích nghi đáng kinh ngạc khi đối mặt với luyện tập tập trung (ví dụ: [[Luyện tập có mục đích, theo Ericsson và Pool]]).

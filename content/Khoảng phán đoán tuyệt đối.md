@@ -1,6 +1,8 @@
 ---
 aliases:
   - Span of absolute judgment
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Có giới hạn về mức độ chính xác mà con người có thể xác định cường độ tuyệt đối của một kích thích đơn chiều. Ví dụ, giả sử tôi đánh dấu một điểm trên một trục số chỉ có nhãn ở 0 và 100. Sau đó tôi yêu cầu bạn ước tính vị trí số của điểm được đánh dấu. Câu trả lời của bạn sẽ tương quan như thế nào với vị trí thực?
 

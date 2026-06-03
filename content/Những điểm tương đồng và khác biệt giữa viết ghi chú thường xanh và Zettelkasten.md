@@ -1,19 +1,23 @@
 ---
 aliases:
   - Similarities and differences between evergreen note-writing and Zettelkasten
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
-Thực hành viết [[Ghi chú thường xanh]] của tôi được truyền cảm hứng rất nhiều từ thực hành [[Hộp phiếu Zettelkasten của Luhmann]]  và những người ủng hộ đương đại. Tôi sử dụng một thuật ngữ khác vì có một số khác biệt và vì tôi muốn tạo không gian cho mình để khám phá các ý tưởng trong lĩnh vực này tách biệt khỏi văn hóa xung quanh Zettelkasten, vốn có những giá trị và xu hướng riêng của nó.
+Thực hành viết [[Ghi chú thường xanh]] của tôi được truyền cảm hứng rất nhiều từ thực hành [[Hộp phiếu Zettelkasten của Luhmann]] và những người ủng hộ đương đại. Tôi sử dụng một thuật ngữ khác vì có một số khác biệt và vì tôi muốn tạo không gian cho mình để khám phá các ý tưởng trong lĩnh vực này tách biệt khỏi văn hóa xung quanh Zettelkasten, vốn có những giá trị và xu hướng riêng của nó.
 
 #### Những điểm tương đồng chính:
+
 - hướng theo khái niệm ([[Ghi chú thường xanh nên hướng khái niệm]])
 - tính nguyên tử ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]])
 - nhấn mạnh liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]])
 - sự tình cờ như một giá trị ([[Ghi chú nên làm bạn ngạc nhiên]])
-- **tính trung tâm của ý tưởng riêng và sự phát triển của chúng theo thời gian, thay vì chỉ tích lũy tóm tắt ý tưởng của người khác** ([[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Hãy tự mình suy ngẫm]], trái ngược với [[Sổ tay trích dẫn]])
+- **tính trung tâm của ý tưởng riêng và sự phát triển của chúng theo thời gian, thay vì chỉ tích lũy tóm tắt ý tưởng của người khác** ([[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]], [[Suy nghĩ theo cách của bạn]], trái ngược với [[Sổ tay trích dẫn]])
 	- nhấn mạnh sử dụng ngôn từ của riêng mình, ngay cả khi mô tả ý tưởng của người khác ([[Viết về thứ mình đọc]])
 
 #### Những khác biệt chính:
+
 - Cách tiếp cận của tôi bao gồm một vài phương pháp bao quanh việc viết ghi chú, mở rộng phạm vi của nó:
 	- một phương pháp để nắm bắt các mảnh vụn chưa đủ tiêu chuẩn làm Zettel, sau đó chỉnh sửa chúng theo thời gian: [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
 		- một phương pháp bất thường để quản lý hộp thư đó: [[Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]]

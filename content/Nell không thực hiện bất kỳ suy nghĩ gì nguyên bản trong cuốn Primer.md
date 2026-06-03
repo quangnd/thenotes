@@ -1,6 +1,8 @@
 ---
 aliases:
   - Nell doesn’t do any original thinking inside the Primer
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 [[Môi trường giáo dục thường không đòi hỏi tư duy nguyên bản]], và [[Cuốn Primer Minh họa của Quý cô Trẻ]] cũng không ngoại lệ. [[Cuốn Primer là một trải nghiệm _khởi động_ khổng lồ cho phần đời còn lại của Nell]], được Hackworth thiết kế cẩn thận. Nell cảm thấy như mình đang khéo léo giải các câu đố trong suốt, và nó chắc chắn không có cảm giác như một bài tập thủ công, nhưng các hành động và suy nghĩ của cô vẫn được hệ thống dự đoán trước.

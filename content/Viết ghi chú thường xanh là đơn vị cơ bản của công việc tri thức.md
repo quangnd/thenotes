@@ -1,6 +1,8 @@
 ---
 aliases:
   - Evergreen note-writing as fundamental unit of knowledge work
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Nếu phải chọn duy nhất một chỉ số dẫn dắt để tự đánh giá bản thân với vai trò người làm công việc tri thức, chỉ số tốt nhất tôi biết có lẽ là số [[Ghi chú thường xanh]] viết được mỗi ngày.
 

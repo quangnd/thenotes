@@ -1,6 +1,8 @@
 ---
 aliases:
   - Novel user interface ideas are public goods
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một thách thức cốt lõi cho [[Công cụ tư duy]] là những hiểu biết cốt lõi của chúng thường tốn kém để sản xuất nhưng rẻ để sao chép. Ví dụ, Adobe đã phát triển vô số tương tác và ẩn dụ trong Photoshop và Illustrator mà Sketch và Figma có thể sao chép và cải thiện mà không phải trả cho nhiều năm nghiên cứu phát triển. Apple đã dành nhiều năm phát triển giao diện cảm ứng đa điểm hiện đại; Google đã sao chép chúng trong chưa đầy một năm và ít chịu thiệt hại trong các vụ kiện sau đó. Một ý tưởng giao diện mới lạ về cơ bản là một [[Hàng hóa công]]: chúng không thể loại trừ ([[Tính loại trừ]]), ngoại trừ chi phí tương đối nhỏ hơn để đối thủ sao chép ý tưởng. May mắn thay (cho xã hội), những ý tưởng như vậy không có tính cạnh tranh ([[Tính cạnh tranh (Rivalry)]]) hoặc thậm chí có tính phản cạnh tranh.

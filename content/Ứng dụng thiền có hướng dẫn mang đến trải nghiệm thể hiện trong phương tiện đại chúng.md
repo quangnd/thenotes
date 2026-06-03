@@ -1,6 +1,8 @@
 ---
 aliases:
   - Guided meditation apps deliver enacted experiences in a mass medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nếu bạn tải một [[Ứng dụng thiền có hướng dẫn]] và kiên trì với các buổi tập hàng ngày trong vài tháng, bạn có thể sẽ có một số trải nghiệm đáng ngạc nhiên và sâu sắc. Tuy nhiên, không giống một khóa học thông thường, bất kỳ khám phá sâu sắc nào bạn trải nghiệm sẽ cảm giác phần lớn là do bạn tự tạo ra, mặc dù có sự hiện diện của giáo viên. Bạn sẽ không học được gì bằng cách đợi giáo viên thiền "giác ngộ cho bạn": bạn phải bỏ thời gian trên đệm ngồi, tiếp nhận các cảm giác của chính mình. Dù vậy, trong khi những trải nghiệm này có thể cảm thấy như do bạn tự tạo, các bài thiền thực tế được cấu trúc để tạo ra chúng. Điều này khiến các bài thiền trở thành một ví dụ thú vị về [[Trải nghiệm thể hiện]].

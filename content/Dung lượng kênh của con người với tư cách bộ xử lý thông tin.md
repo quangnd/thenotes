@@ -1,6 +1,8 @@
 ---
 aliases:
   - Channel capacity of humans as information processors
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Một cách để xem xét giới hạn xử lý thông tin của con người là hỏi một người có thể tái tạo bao nhiêu thông tin từ một kích thích mà họ quan sát. Trong khung này, chúng ta có thể mô hình hóa người quan sát như một kênh truyền thông sử dụng các công cụ từ lý thuyết thông tin. Hình này (Pollack, 1953, trang 422) mô tả mô hình:

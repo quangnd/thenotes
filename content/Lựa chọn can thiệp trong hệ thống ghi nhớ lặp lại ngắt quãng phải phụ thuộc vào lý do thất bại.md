@@ -1,6 +1,8 @@
 ---
 aliases:
   - Choice of intervention in a spaced repetition memory system must depend on reason for failure
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Hệ thống ghi nhớ lặp lại ngắt quãng có thể can thiệp thế nào khi học viên gặp khó khăn với tài liệu_]] Có nhiều khả năng, nhưng lựa chọn phải phụ thuộc vào bản chất của những khó khăn mà người đọc gặp phải.

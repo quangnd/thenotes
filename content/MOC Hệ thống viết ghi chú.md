@@ -1,6 +1,8 @@
 ---
 aliases:
   - §Note-writing systems
+created: 2026-05-26
+modified: 2026-06-02
 ---
 
 - Các nguyên tắc:
@@ -13,7 +15,7 @@ aliases:
 	- [[Viết về thứ mình đọc]]
 		- [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-		- [[Hãy tự mình suy ngẫm]]
+		- [[Suy nghĩ theo cách của bạn]]
 			- [[Muốn hiểu thì phải bỏ công]]
 			- [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
 	- [[Cách thu thập quan sát khi đọc]]

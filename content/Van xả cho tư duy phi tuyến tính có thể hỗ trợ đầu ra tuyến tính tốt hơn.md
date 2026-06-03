@@ -1,6 +1,8 @@
 ---
 aliases:
   - Release valves for non-linear thought may support improved linear output
+created: 2026-05-30
+modified: 2026-05-30
 ---
 Một cách để điều hướng nghịch lý vốn có trong việc ưu tiên sản phẩm công việc tuyến tính nhưng môi trường làm việc phi tuyến tính: bằng cách cung cấp các cấu trúc phi tuyến tính cho công việc đang tiến hành, bạn tạo ra một van xả cho tư duy ngoài lề — điều này lại có thể giải phóng tác giả để tập trung vào dòng suy nghĩ "chính" của họ.
 

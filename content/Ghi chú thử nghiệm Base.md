@@ -3,6 +3,7 @@ title: Ghi chú thử nghiệm Base
 modified: 2026-05-29
 tags:
   - test
+created: 2026-05-29
 ---
 
 Đây là ghi chú thử nghiệm để kiểm tra view *Cập nhật gần đây* dựng bằng Obsidian Base.

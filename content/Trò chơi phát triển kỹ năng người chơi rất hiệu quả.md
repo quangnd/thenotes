@@ -1,6 +1,8 @@
 ---
 aliases:
   - Games effectively develop players’ skills
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Các nhà thiết kế trò chơi nằm trong số những người dạy giỏi nhất thế giới. Họ tạo ra môi trường có thể dạy được những kỹ năng phức tạp một cách đáng tin cậy, thường chẳng cần lời giải thích nào. Và người ta mê trải nghiệm đó, khác hẳn phần lớn trải nghiệm giáo dục thông thường.

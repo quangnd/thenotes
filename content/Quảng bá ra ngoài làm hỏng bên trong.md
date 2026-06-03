@@ -1,6 +1,8 @@
 ---
 aliases:
   - Pitching out corrupts within
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Nếu bạn đang cố gắng trả lời một câu hỏi thú vị, bạn có lẽ không thể viết cho mình một lộ trình hoàn chỉnh. Bạn có thể khảo sát địa hình và giảm thiểu rủi ro nhiều nhất có thể hợp lý, nhưng bạn sẽ đến đích thông qua những hiểu biết và cơ hội bạn khám phá trên đường đi. Do đó, điều cực kỳ quan trọng là bạn phải mở mắt và tránh tự lừa dối mình: bước đột phá của bạn có thể đang ẩn trong điểm dữ liệu ngoại lai mà bạn bị cám dỗ bỏ qua trong phân tích.

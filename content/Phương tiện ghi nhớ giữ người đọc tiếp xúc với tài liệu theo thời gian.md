@@ -1,6 +1,8 @@
 ---
 aliases:
   - The mnemonic medium keeps readers in contact with material over time
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Bỏ qua tác động lên trí nhớ, người đọc theo [[Phương tiện ghi nhớ]] vẫn duy trì tiếp xúc liên tục với những gì họ đã đọc qua các phiên ôn tập. Thay vì đọc một lần rồi có thể không bao giờ nghĩ tới nữa, các phiên ôn tập kéo người đọc quay lại văn bản hết lần này tới lần khác. Đây là một dạng [[Văn bản có chiều thời gian]].

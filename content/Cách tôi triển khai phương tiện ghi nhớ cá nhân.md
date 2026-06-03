@@ -1,6 +1,8 @@
 ---
 aliases:
   - My implementation of a personal mnemonic medium
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Tôi đã triển khai [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]] trong [[Hệ thống viết ghi chú]] của riêng mình.

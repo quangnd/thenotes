@@ -1,6 +1,8 @@
 ---
 aliases:
   - Many people view memory as unimportant to deep creative work
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi nói với người khác rằng [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], mọi người thường phản ứng khá tiêu cực: "Nhớ tất cả những thứ đó để làm gì? Kiến thức thuộc lòng không phải điều quan trọng: tôi muốn hiểu biết khái niệm, sáng tạo, nghệ thuật, v.v.!"

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Enacted experience
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 *Trải nghiệm thể hiện* là trải nghiệm mà người tham gia cảm thấy chính họ tạo ra, nhưng thực chất phần lớn do tác giả dàn dựng có chủ ý. Đây là cơ chế rất mạnh, vì [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo]].

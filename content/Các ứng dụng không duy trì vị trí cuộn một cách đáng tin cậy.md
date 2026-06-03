@@ -1,6 +1,8 @@
 ---
 aliases:
   - Applications don’t reliably maintain scroll positions
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Các giao diện có vùng cuộn dài (ví dụ: văn bản dài, lịch sử tin nhắn) cảm thấy mất phương hướng và dễ vỡ một phần vì các nhà phát triển ứng dụng không coi vị trí cuộn là một phần quan trọng của trạng thái ứng dụng.

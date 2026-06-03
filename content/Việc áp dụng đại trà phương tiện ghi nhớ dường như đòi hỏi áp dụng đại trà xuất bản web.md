@@ -1,6 +1,8 @@
 ---
 aliases:
   - Mass adoption of the mnemonic medium seems to require mass adoption of web publishing
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 Chiến lược đơn giản nhất để mở rộng phương tiện ghi nhớ — [[Biến trang web bất kỳ thành phương tiện ghi nhớ]] — không thể áp dụng cho hầu hết các văn bản (ngay cả những văn bản mới) vì chúng không được xuất bản dưới dạng [[Sách web]].

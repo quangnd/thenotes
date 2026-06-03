@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Primer doesn’t make experts better at anything
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Trong *The Diamond Age*, Cuốn Primer chứa một cơ sở chế tạo nano, kính thiên văn, kính hiển vi và vô số điều kỳ diệu khác — nhưng không có cái nào vượt trội hơn những gì một chuyên gia thực hành đã sở hữu. Cuốn Primer không phải là một [[Môi trường khai phóng]] cho các chuyên gia. Nó chỉ có tham vọng là môi trường hỗ trợ cho trẻ em, không phải bằng cách "nâng cao trần" cho những gì bất kỳ ai có thể làm, mà bằng cách "hạ thấp sàn."

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Purposeful practice, after Ericsson and Pool
+created: 2026-05-26
+modified: 2026-05-30
 ---
 Luyện tập có mục đích (purposeful practice), theo định nghĩa của Ericsson và Pool (2016, tr. 14-22), được thúc đẩy bởi các mục tiêu {cụ thể}, {gần} (proximate), với độ khó được đặt ở mức {ngay ngoài vùng thoải mái của bạn ([[Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]])}. Để tổ chức loại luyện tập này, bạn sẽ cần {phản hồi tốt}, mà thường đòi hỏi {một huấn luyện viên}.
 

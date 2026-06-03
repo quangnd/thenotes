@@ -1,6 +1,8 @@
 ---
 aliases:
   - Beware automatic import into the reading inbox
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Rất dễ xem RSS, bản tin email và các nguồn tương tự như một dạng thay thế cho hộp thư đọc, nhưng nên tách bạch hai thứ này. Xem [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]].

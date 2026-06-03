@@ -3,6 +3,8 @@ title: Về những ghi chú này
 aliases:
   - About these notes
   - Về những ghi chú này
+created: 2026-05-26
+modified: 2026-06-02
 ---
 Xin chào 👋! Mình là [Mun](https://quangnd.com/), người tổng hợp và biên dịch sang tiếng Việt các ghi chú của [Andy Matuschak](https://andymatuschak.org/), dưới sự cho phép của tác giả.
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Create speculative outlines while you write
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Mỗi khi viết một ghi chú mới, hãy gắn nó vào một hoặc vài **dàn ý** đang duy trì, tạo dàn ý mới nếu cần. Theo thời gian, các dự án viết tương đối hoàn chỉnh sẽ tự nhiên hiện ra.

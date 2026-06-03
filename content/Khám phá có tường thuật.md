@@ -1,6 +1,8 @@
 ---
 aliases:
   - Narrated explorable
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Thuật ngữ tôi sử dụng để mô tả các phương tiện tương tự như [[Giải thích khám phá]] nhưng tích hợp trải nghiệm tường thuật vào môi trường tương tác, thay vì tách biệt chúng như thường thấy.

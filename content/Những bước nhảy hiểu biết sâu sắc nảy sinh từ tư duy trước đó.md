@@ -1,6 +1,8 @@
 ---
 aliases:
   - Leaps of insight emerge from prior thought
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Khi nhìn nét thiên tài của người khác, ta chỉ thấy sản phẩm cuối. Ta không thấy bao nhiêu mồi lửa đã được nhóm trước khi khoảnh khắc nhận ra đó trở nên khả thi. Một phần vì ngay cả những khoảnh khắc "eureka" của chính ta cũng không có cảm giác như chúng nảy ra từ nỗ lực trước đó. Nhưng thật ra là vậy.

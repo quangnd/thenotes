@@ -1,6 +1,8 @@
 ---
 aliases:
   - Span of working memory
+created: 2026-05-26
+modified: 2026-05-30
 ---
 *Khoảng bộ nhớ làm việc* của một người là số lượng mục tối đa theo lý thuyết ([[Các mảnh trong nhận thức con người]]) mà họ có thể nhớ đồng thời, mà không cần lưu vào trí nhớ dài hạn.
 

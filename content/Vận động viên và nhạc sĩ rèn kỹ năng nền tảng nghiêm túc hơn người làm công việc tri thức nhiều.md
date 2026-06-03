@@ -1,6 +1,8 @@
 ---
 aliases:
   - Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Vận động viên hàng đầu có kỷ luật gần như cuồng tín khi rèn các kỹ năng nền tảng, những kỹ năng vượt khỏi một môn cụ thể, kiểu bài tập linh hoạt mà bạn thấy lính mới trong quân đội tập. Nhạc sĩ đỉnh cao cũng vậy. Lang Lang chẳng hạn, sau 30 năm làm nghệ sĩ piano hòa nhạc vẫn luyện gam mỗi ngày. Họ không tập kiểu máy móc. Họ rèn các kỹ năng đó với tinh thần phản biện, xem lại video biểu diễn, làm việc với huấn luyện viên.

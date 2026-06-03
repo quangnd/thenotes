@@ -1,6 +1,8 @@
 ---
 aliases:
   - Prefer fine-grained associations
+created: 2026-05-26
+modified: 2026-05-26
 ---
 Các liên kết giữa các tài liệu trong một hệ thống thông tin (ví dụ: [[Ghi chú thường xanh nên liên kết dày đặc]]) có thể chi tiết (như một trích dẫn giữa câu trong bài báo) hoặc khái quát (như phần "xem thêm").
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Tools for thought should be evaluated in the context of intrinsically meaningful purposes
+created: 2026-05-26
+modified: 2026-05-30
 ---
 
 Chúng ta không đánh giá Mathematica bằng cách đếm số học sinh dùng nó, đo tác động lên điểm thi, hay xem nó giúp người ta giải bài nhanh hơn bao nhiêu. Đó đều là các chỉ số xấp xỉ, ít nhiều có liên quan, nhưng không phải mục đích thực sự của công cụ. Mathematica ra đời từ nghiên cứu của Wolfram về thao tác ký hiệu và tự động hóa, rồi mở rộng để trao quyền cho các nhà toán học và nhà khoa học. Hàm tiện ích thực sự của nó, nói nôm na, là: nó cho phép tạo ra bao nhiêu hiểu biết sâu sắc ở vùng biên của tri thức?

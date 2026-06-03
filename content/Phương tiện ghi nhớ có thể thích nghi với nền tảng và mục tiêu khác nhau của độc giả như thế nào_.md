@@ -1,6 +1,8 @@
 ---
 aliases:
   - How might the mnemonic medium adapt to readers’ differing backgrounds and goals_
+created: 2026-05-26
+modified: 2026-05-26
 ---
 
 [[Quantum Country]] giả định rằng bạn sẽ trả lời mọi câu hỏi. Đây là một giả định hợp lý đối với một văn bản nhập môn tập trung vào kiến thức nền tảng: đại đa số độc giả sẽ hoặc đã biết tất cả nội dung hoặc cần biết về tất cả nội dung đó ([[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]]). Nhưng giả định này sẽ không hoạt động trong nhiều ngữ cảnh khác. Các phiên bản tương lai của [[Phương tiện ghi nhớ]] sẽ cần trở nên linh hoạt hơn.
