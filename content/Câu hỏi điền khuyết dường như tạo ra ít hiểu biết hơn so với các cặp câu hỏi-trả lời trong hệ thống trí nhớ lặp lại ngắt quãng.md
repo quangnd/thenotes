@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-Viết câu hỏi điền khuyết dễ hơn nhiều: bạn chỉ cần sao chép/dán một đoạn văn bản nguồn và xóa một cụm từ. Nhưng tôi nhận thấy rằng các câu hỏi được tạo theo cách này có xu hướng dẫn đến sự hiểu biết nông cạn hơn. Sau nhiều lần lặp lại, tôi sẽ nhớ câu trả lời, nhưng thường cảm thấy như mình đang khớp mẫu ([[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]]) thay vì tích hợp sâu ý tưởng vào mạng lưới khái niệm của mình.
+Viết câu hỏi điền khuyết dễ hơn nhiều: bạn chỉ cần sao chép/dán một đoạn văn bản nguồn và xóa một cụm từ. Nhưng tôi nhận thấy rằng các câu hỏi được tạo theo cách này có xu hướng dẫn đến sự hiểu biết nông cạn hơn. Sau nhiều lần lặp lại, tôi sẽ nhớ câu trả lời, nhưng thường cảm thấy như mình đang khớp mẫu ([[Các gợi nhắc lặp lại ngắt quãng nên hạn chế việc ghi nhớ theo khuôn mẫu]]) thay vì tích hợp sâu ý tưởng vào mạng lưới khái niệm của mình.
 
 Các lý do có thể:
 

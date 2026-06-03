@@ -1,42 +1,18 @@
 ---
-draft: true
 created: 2026-06-02
-modified: 2026-06-02
+modified: 2026-06-03
 ---
-Tổng quan kho ghi chú. Các con số tự cập nhật qua Dataview (dùng dấu thời gian tệp: `file.ctime` / `file.mtime`).
+Tổng kho ghi chú: **470** 🌲
 
-```dataviewjs
-// Ngưỡng "gần đây" = 30/05/2026. Đổi ngày ở đây nếu cần.
-const cutoff = dv.date("2026-05-30");
+---
 
-const pages = dv.pages('"content"').where(p => !p.file.folder.includes("Attachments"));
+## May 2026
 
-let total = 0, isNew = 0, updated = 0, original = 0;
-for (const p of pages) {
-  total++;
-  const c = p.file.ctime, m = p.file.mtime;
-  if (c >= cutoff)        isNew++;       // ghi chú mới
-  else if (m >= cutoff)   updated++;     // ghi chú cũ, vừa sửa
-  else                    original++;    // gốc, chưa đụng tới
-}
+### Week 4 (May 25–31)
 
-dv.table(["Nhóm", "Số lượng"], [
-  ["Gốc (chưa cập nhật)", original],
-  ["Đã cập nhật (từ 30/05)", updated],
-  ["Mới (tạo từ 30/05)", isNew],
-  ["**Tổng**", `**${total}**`],
-]);
-```
+New notes: 0 🌲
+Updated notes: 7 🌳
+Top hub: [[Hệ thống ghi nhớ lặp lại ngắt quãng]] (65 links)
+Streak: 5 days
 
-## Ghi chú mới nhất
-
-```dataview
-TABLE file.ctime AS "Tạo", file.mtime AS "Sửa"
-FROM "content"
-WHERE !contains(file.folder, "Attachments") AND file.name != "Vault Summary"
-SORT file.mtime DESC
-LIMIT 15
-```
-
-> [!note] Lưu ý về dấu thời gian
-> Hầu hết ghi chú có ngày tạo 26/05/2026 (do import/sync), không phải ngày viết thật. Vì vậy "gốc" nghĩa là "đã import và chưa sửa lại", không phải "ghi chú đầu tiên bạn viết".
+> **[[The Incredible Machine]]** — Được thiết kế bởi Kevin Ryan và ban đầu được phát hành vào năm 1993, loạt trò chơi này yêu cầu người chơi xây dựng các cỗ máy Rube Goldberg để giải quyết từng câu đố.

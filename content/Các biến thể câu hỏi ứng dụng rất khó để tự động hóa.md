@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]], nhưng [[Câu hỏi ứng dụng khó viết hơn nhiều so với câu hỏi nhớ lại]]. Thật hấp dẫn khi cố gắng tự động tạo ra các biến thể này, nhưng trong thực tế điều đó có vẻ khó khả thi.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]], nhưng [[Câu hỏi ứng dụng khó viết hơn nhiều so với câu hỏi nhớ lại]]. Thật hấp dẫn khi cố gắng tự động tạo ra các biến thể này, nhưng trong thực tế điều đó có vẻ khó khả thi.
 
 Ví dụ, Michael lưu ý:
 

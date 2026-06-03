@@ -4,9 +4,9 @@ aliases:
 created: 2026-05-26
 modified: 2026-05-30
 ---
-Cách tiếp cận được mô tả trong [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]] sẽ giúp người đọc xây dựng sự tự tin vào những gì họ đã đọc bằng cách sử dụng kiến thức đó trong các tình huống đơn giản, quen thuộc. Tuy nhiên, để phát triển sự hiểu biết linh hoạt hơn, người đọc phải có khả năng áp dụng sáng tạo những gì họ đã học trong các tình huống không quen thuộc ([[Học chuyển giao]]).
+Cách tiếp cận được mô tả trong [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]] sẽ giúp người đọc xây dựng sự tự tin vào những gì họ đã đọc bằng cách sử dụng kiến thức đó trong các tình huống đơn giản, quen thuộc. Tuy nhiên, để phát triển sự hiểu biết linh hoạt hơn, người đọc phải có khả năng áp dụng sáng tạo những gì họ đã học trong các tình huống không quen thuộc ([[Học chuyển giao]]).
 
-[[Phương tiện ghi nhớ]] có thể bao gồm các câu hỏi "chuyển giao gần": các nhiệm vụ có vẻ không quen thuộc, nhưng chủ yếu yêu cầu tìm ra thông tin/quy trình quen thuộc nào cần được sử dụng (tại thời điểm đó chúng trở nên đơn giản).
+[[Công cụ ghi nhớ]] có thể bao gồm các câu hỏi "chuyển giao gần": các nhiệm vụ có vẻ không quen thuộc, nhưng chủ yếu yêu cầu tìm ra thông tin/quy trình quen thuộc nào cần được sử dụng (tại thời điểm đó chúng trở nên đơn giản).
 
 Ví dụ, hãy xem xét:
 

@@ -9,7 +9,7 @@ Viết là cách hiệu quả để gây áp lực lên tư duy: rất khó tóm
 
 Bước tiếp theo, tạo liên kết và tích hợp bài viết đó với các ghi chú trước đây (tức là để tạo ra [[Ghi chú thường xanh]], nhất là vì [[Ghi chú thường xanh nên hướng khái niệm]]), làm hiệu ứng này càng mạnh hơn vì ta phải hiểu một ý tưởng nhất định liên hệ với các ý tưởng khác ra sao. Và khi đối chiếu ý tưởng mới với ý tưởng cũ, ta thấy được những gì *không* được nói trong tác phẩm mới.
 
-Cách làm này là một dạng hỗ trợ siêu nhận thức thô sơ: [[Hỗ trợ siêu nhận thức như giàn giáo nhận thức]].
+Cách làm này là một dạng hỗ trợ siêu nhận thức thô sơ: [[Hỗ trợ siêu nhận thức như cấu trúc hỗ trợ nhận thức]].
 
 Quan sát này dường như đúng ngay cả với viết không phải văn xuôi: [[Nhiều nhà tư tưởng lỗi lạc cần một bề mặt viết để suy nghĩ]]
 

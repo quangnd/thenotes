@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Câu hỏi ứng dụng đơn giản nhất có thể chỉ liên quan đến một chi tiết từ văn bản. Ví dụ, người ta có thể biến câu hỏi khai báo `Ma trận biểu diễn của cổng X là gì` thành một câu hỏi ứng dụng đơn giản: `Đầu ra của cổng X khi áp dụng cho [0 1] là gì?`. Nhưng một câu hỏi ứng dụng phức tạp hơn có thể là `Đầu ra của mạch này là gì? [Hình ảnh mạch với |+> làm đầu vào, đi qua X]`. Câu hỏi này đòi hỏi sử dụng đồng thời nhiều chi tiết: ký hiệu mạch đơn giản, định nghĩa của `|+>`, và định nghĩa của `X`.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]. Câu hỏi ứng dụng đơn giản nhất có thể chỉ liên quan đến một chi tiết từ văn bản. Ví dụ, người ta có thể biến câu hỏi khai báo `Ma trận biểu diễn của cổng X là gì` thành một câu hỏi ứng dụng đơn giản: `Đầu ra của cổng X khi áp dụng cho [0 1] là gì?`. Nhưng một câu hỏi ứng dụng phức tạp hơn có thể là `Đầu ra của mạch này là gì? [Hình ảnh mạch với |+> làm đầu vào, đi qua X]`. Câu hỏi này đòi hỏi sử dụng đồng thời nhiều chi tiết: ký hiệu mạch đơn giản, định nghĩa của `|+>`, và định nghĩa của `X`.
 
 Người ta có thể nghĩ về những câu hỏi như vậy giống như một lát cắt của tập lũy thừa của một tập hợp các chi tiết liên quan trong bài luận ghi nhớ. Câu hỏi này có bậc khoảng 3. Sẽ rất cực nhọc, nhưng người ta có thể tưởng tượng việc viết ra các câu hỏi đại diện cho phần lớn tập lũy thừa đầy đủ.
 

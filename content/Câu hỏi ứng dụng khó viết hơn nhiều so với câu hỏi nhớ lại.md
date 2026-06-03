@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Một thách thức là những câu hỏi như vậy đòi hỏi nhiều công sức hơn để viết so với câu hỏi nhớ lại.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]. Một thách thức là những câu hỏi như vậy đòi hỏi nhiều công sức hơn để viết so với câu hỏi nhớ lại.
 
 Một lý do là câu hỏi nhớ lại chủ yếu chỉ là diễn đạt lại nội dung đã có trong văn bản—biến các câu khẳng định thành câu hỏi. Câu hỏi ứng dụng, theo định nghĩa, đòi hỏi phải xây dựng một tình huống không có trong văn bản. Điều này đòi hỏi sự sáng tạo; đồng thời, các tác giả phải đảm bảo giữ cho câu hỏi đơn giản.
 

@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]], nhưng [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Giải pháp đơn giản của chúng tôi là đặt cho người đọc những câu hỏi khác nhau mỗi lần, để người đọc luôn phải tính toán câu trả lời từ đầu.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]], nhưng [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Giải pháp đơn giản của chúng tôi là đặt cho người đọc những câu hỏi khác nhau mỗi lần, để người đọc luôn phải tính toán câu trả lời từ đầu.
 
 Về mặt thực tế, sẽ chỉ có một số ít biến thể, vì chúng được viết tay: [[Các biến thể câu hỏi ứng dụng rất khó để tự động hóa]]. Nhưng vì chúng sẽ được trình bày trong nhiều tuần, người đọc khó có khả năng ghi nhớ câu trả lời.
 

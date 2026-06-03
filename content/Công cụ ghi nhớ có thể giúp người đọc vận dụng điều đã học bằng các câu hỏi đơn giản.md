@@ -4,8 +4,16 @@ aliases:
 created: 2026-05-26
 modified: 2026-05-30
 ---
+> [!info]- Lý giải thêm
+> Trong bài viết này, ý của tác giả là:
+> 
+> > Sau khi học một kiến thức, hãy đưa cho người học một câu hỏi hoặc tình huống nhỏ buộc họ phải sử dụng kiến thức đó.
+> 
+> Ví dụ: Khi học về nguyên lý Pareto, ta không hỏi "Pareto là gì?" mà hỏi "Trong công việc hiện tại của bạn, đâu là 20% hoạt động tạo ra 80% kết quả?"
+> 
+> Đó là khái niệm _application prompt_ mà mình dịch ý là "các câu hỏi đơn giản", nhưng phải đặt trong ngữ cảnh này thì mới phù hợp.
 
-[[Phương tiện ghi nhớ]] giúp người đọc nhớ các chi tiết cụ thể từ những gì họ đã đọc. Tuy nhiên, nhiều người đọc theo bản năng cảm thấy khả năng nhớ của họ có thể quá cứng nhắc, chỉ lặp lại các câu trả lời đã học thuộc cho câu hỏi quen thuộc. Họ cảm nhận sự hiểu thực sự phải linh hoạt hơn, áp dụng được vào tình huống mới (tức là [[Học chuyển giao]]). Nhiều người nói rằng họ bắt đầu thấy mình thực sự hiểu khi *dùng* được kiến thức đó, dù trong thực tế hay trong giao tiếp.
+[[Công cụ ghi nhớ]] giúp người đọc nhớ các chi tiết cụ thể từ những gì họ đã đọc. Tuy nhiên, nhiều người đọc theo bản năng cảm thấy khả năng nhớ của họ có thể quá cứng nhắc, chỉ lặp lại các câu trả lời đã học thuộc cho câu hỏi quen thuộc. Họ cảm nhận sự hiểu thực sự phải linh hoạt hơn, áp dụng được vào tình huống mới (tức là [[Học chuyển giao]]). Nhiều người nói rằng họ bắt đầu thấy mình thực sự hiểu khi *dùng* được kiến thức đó, dù trong thực tế hay trong giao tiếp.
 
 Để *thực sự* làm được điều đó, để tạo ra một môi trường theo dòng được mô tả trong [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]], chúng ta cần tạo ra [[Cuốn Primer++]]. Nhưng chúng ta đã thấy rằng [[Hệ thống ghi nhớ lặp lại ngắt quãng có thể được dùng để thúc đẩy ứng dụng, tổng hợp và sáng tạo]]. Vì thế, ta có thể tiến một bước theo hướng đó bằng cách mở rộng phương tiện ghi nhớ để bao gồm các câu hỏi đơn giản yêu cầu người đọc **sử dụng** những gì họ đã học, có thể **kết hợp**, trong một **tình huống mới**. Loại câu hỏi như vậy giúp người đọc phát triển sự linh hoạt và xây dựng tự tin vào kiến thức của mình.
 

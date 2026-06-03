@@ -7,7 +7,7 @@ modified: 2026-05-31
 
 Giống như một [trang /now](https://sivers.org/nowff), nhưng với khung thời gian rộng hơn và tập trung vào những gì tôi đang suy nghĩ.
 
-- Mở rộng và hiểu [[Phương tiện ghi nhớ]]
+- Mở rộng và hiểu [[Công cụ ghi nhớ]]
 - [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
 	- [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]]
 - [[MOC Môi trường khai phóng, trò chơi và Cuốn Primer]] / [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]]

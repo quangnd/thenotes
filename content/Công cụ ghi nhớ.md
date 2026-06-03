@@ -4,8 +4,7 @@ aliases:
 created: 2026-05-26
 modified: 2026-06-03
 ---
-
-Phương tiện ghi nhớ nhúng một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
+Công cụ ghi nhớ nhúng một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
 
 Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hiện đang làm việc để mở rộng đáng kể phạm vi của nó.
 
@@ -30,7 +29,7 @@ Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hi�
 		- [[Phương tiện ghi nhớ có thể thúc đẩy người đọc đọc chậm hơn và chú ý hơn]]
 		- [[Điều gì sẽ xảy ra nếu phương tiện ghi nhớ được đóng khung lại như một phương tiện để tham gia sâu hơn với văn bản_]]
 	- Các loại hiểu biết khác nhau
-		- [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]
+		- [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]
 		- [[Phương tiện ghi nhớ có thể hỗ trợ người đọc xây dựng hiểu biết phức tạp hơn như thế nào_]]
 	- Hướng tới sử dụng thuần thục:
 		- [[Những thuộc tính quan trọng nhất của thẻ ghi nhớ lặp lại ngắt quãng tốt là gì_]]

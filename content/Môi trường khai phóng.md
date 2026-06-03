@@ -39,4 +39,4 @@ Một số cơ chế thiết kế các môi trường này ==CẦN MỞ RỘNG T
 	- SICP
 	- trình chỉnh sửa 3D của Minecraft so với các trình chỉnh sửa voxel trước đó
 	- (nhiều môi trường hiện có ở mục này, như SICP và hầu hết các notebook thực thi, tương tác yếu với nơi hành động được khai phóng thực sự diễn ra, điều này hạn chế đáng kể sức mạnh của chúng)
-	- (đây là cơ hội cho [[Giàn giáo nhận thức]] động, [[Trải nghiệm thể hiện khuếch đại sức mạnh của tường thuật]], và một số yếu tố thiết kế Primer khác)
+	- (đây là cơ hội cho [[Khung hỗ trợ nhận thức]] động, [[Trải nghiệm thể hiện khuếch đại sức mạnh của tường thuật]], và một số yếu tố thiết kế Primer khác)

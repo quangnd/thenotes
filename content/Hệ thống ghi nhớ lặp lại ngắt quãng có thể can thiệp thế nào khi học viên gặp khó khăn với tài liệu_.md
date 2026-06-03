@@ -9,7 +9,7 @@ modified: 2026-05-26
 
 Sana Labs giới thiệu lại bài viết ban đầu trình bày tài liệu của câu hỏi, hoặc thông qua gợi ý ("có lẽ bạn muốn đọc lại bài này?") hoặc bằng cách đơn giản trình bày bài viết như một nhiệm vụ trong phiên ôn tập ("bạn đang gặp khó khăn với tài liệu từ bài viết này.")
 
-Bởi vì [[Phương tiện ghi nhớ]] gắn kết chặt chẽ các câu hỏi với văn bản nguồn, nó có thể có thêm một số cơ hội ở đây: nó có thể trích xuất hoặc đưa người đọc quay lại một phần cụ thể của bài viết nguồn.
+Bởi vì [[Công cụ ghi nhớ]] gắn kết chặt chẽ các câu hỏi với văn bản nguồn, nó có thể có thêm một số cơ hội ở đây: nó có thể trích xuất hoặc đưa người đọc quay lại một phần cụ thể của bài viết nguồn.
 
 Các khả năng khác:
 

@@ -5,9 +5,9 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Với các câu hỏi như vậy được triển khai, đến mức độ nào người ta cũng cần các câu hỏi gợi nhớ nguyên tử truyền thống?
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]. Với các câu hỏi như vậy được triển khai, đến mức độ nào người ta cũng cần các câu hỏi gợi nhớ nguyên tử truyền thống?
 
-Hãy tưởng tượng chúng ta đang trong một khóa học giải tích trung học, và bạn vừa học rằng e là hàm có đạo hàm bằng chính nó. Nếu bài học đó được viết theo [[Phương tiện ghi nhớ]], chúng ta có thể hỏi những câu hỏi gợi nhớ này:
+Hãy tưởng tượng chúng ta đang trong một khóa học giải tích trung học, và bạn vừa học rằng e là hàm có đạo hàm bằng chính nó. Nếu bài học đó được viết theo [[Công cụ ghi nhớ]], chúng ta có thể hỏi những câu hỏi gợi nhớ này:
 
 H. Hàm nào có đạo hàm bằng chính nó?
 Đ. `e`

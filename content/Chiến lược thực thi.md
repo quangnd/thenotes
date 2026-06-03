@@ -7,7 +7,7 @@ modified: 2026-05-26
 
 Trong công việc sáng tạo và trong cuộc sống, nhiều mục tiêu có vẻ không thể dự đoán và khó kiểm soát, phụ thuộc vào hy vọng và may mắn: bắt đầu một thói quen, giữ dáng, viết một cuốn sách, thực hiện một dự án nghiên cứu, v.v. (xem [[Các thực hành cốt lõi trong công việc tri thức thường mang tính tùy hứng]])
 
-Dọn dẹp bếp không như vậy. Ngay cả việc xử lý hộp thư đến cũng không như vậy ([[Các chiến lược phân loại hộp thư đến (ví dụ Inbox Zero) thường quá mong manh]]). Đối với nhiều mục tiêu thông thường, bạn có **chiến lược thực thi**, đáng tin cậy đạt được mục tiêu với một lượng nỗ lực có thể dự đoán và quản lý được. Chúng là một loại hỗ trợ siêu nhận thức ([[Hỗ trợ siêu nhận thức như giàn giáo nhận thức]]).
+Dọn dẹp bếp không như vậy. Ngay cả việc xử lý hộp thư đến cũng không như vậy ([[Các chiến lược phân loại hộp thư đến (ví dụ Inbox Zero) thường quá mong manh]]). Đối với nhiều mục tiêu thông thường, bạn có **chiến lược thực thi**, đáng tin cậy đạt được mục tiêu với một lượng nỗ lực có thể dự đoán và quản lý được. Chúng là một loại hỗ trợ siêu nhận thức ([[Hỗ trợ siêu nhận thức như cấu trúc hỗ trợ nhận thức]]).
 
 Để xây dựng một chiến lược thực thi, chúng ta phải phân tích nhiệm vụ thành các hoạt động sao cho:
 

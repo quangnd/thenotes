@@ -21,7 +21,7 @@ Một lý do chính cho điều này đơn giản là nó duy trì một nhịp 
 
 Tôi không hiểu tại sao, nhưng cách diễn đạt ngắn gọn thường có vẻ giúp tôi nhớ câu trả lời sau ít lần lặp lại hơn. Điều này có thể vì các câu hỏi dài làm khó tập trung vào các chi tiết truy xuất quan trọng nhất. Hoặc có thể chỉ vì các câu hỏi dài làm giảm sự tập trung của tôi.
 
-Khi một câu hỏi trở nên dài hơn, nó ngày càng có khả năng bao gồm một từ hoặc kết cấu sẽ kích hoạt câu trả lời, nhưng không có kết nối có ý nghĩa với câu trả lời ("nhận dạng mẫu"): [[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]].
+Khi một câu hỏi trở nên dài hơn, nó ngày càng có khả năng bao gồm một từ hoặc kết cấu sẽ kích hoạt câu trả lời, nhưng không có kết nối có ý nghĩa với câu trả lời ("nhận dạng mẫu"): [[Các gợi nhắc lặp lại ngắt quãng nên hạn chế việc ghi nhớ theo khuôn mẫu]].
 
 ----------
 

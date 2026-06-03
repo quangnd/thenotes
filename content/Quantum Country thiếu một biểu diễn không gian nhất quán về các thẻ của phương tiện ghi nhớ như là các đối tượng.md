@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-Ít nhất trong lần triển khai ban đầu của [[Phương tiện ghi nhớ]] trên [[Quantum Country]], biểu diễn không gian của chúng tôi về các câu hỏi được nhúng trong văn bản không nhất quán. Sự thiếu tính vĩnh cửu của đối tượng kết quả tạo ra sự nhầm lẫn và hạn chế.
+Ít nhất trong lần triển khai ban đầu của [[Công cụ ghi nhớ]] trên [[Quantum Country]], biểu diễn không gian của chúng tôi về các câu hỏi được nhúng trong văn bản không nhất quán. Sự thiếu tính vĩnh cửu của đối tượng kết quả tạo ra sự nhầm lẫn và hạn chế.
 
 Bề ngoài, có vẻ như các thẻ hoạt động như một hình trong sách giáo khoa: chúng nằm ở một vị trí cụ thể trong văn bản chứa đựng. Nhưng ngay khi bạn tương tác với một thẻ, nó biến mất. Bạn không thể "lấy lại nó." Nó đi đâu? Không rõ ràng, mặc dù một bộ đếm tăng lên ở góc. Khi bạn hoàn thành tất cả các câu hỏi trong một phần, phần đó thu gọn lại.
 

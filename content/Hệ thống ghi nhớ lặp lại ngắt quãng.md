@@ -15,7 +15,7 @@ Hệ thống tiêu dùng đầu tiên thuộc loại này là [[Supermemo]], đ�
 			- [[Mnemosyne]]
 			- [[Anki]]
 		- Các biến thể khác thường:
-			- [[Phương tiện ghi nhớ]]
+			- [[Công cụ ghi nhớ]]
 			- [[Execute Program]]
 			- [[Readwise]]
 	- [[Các ứng dụng lạ của hệ thống ghi nhớ lặp lại ngắt quãng]]

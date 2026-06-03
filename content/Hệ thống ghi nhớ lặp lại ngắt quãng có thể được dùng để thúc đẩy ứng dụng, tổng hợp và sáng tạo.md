@@ -8,7 +8,7 @@ Một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] như Anki chủ yếu
 
 ![](Attachments/DYDdBJMVMAAobpq.jpeg)
 
-Một giới hạn của những loại câu hỏi này là vì *bạn* là người viết chúng, bạn phải để bối cảnh tương đối mơ hồ: "áp dụng lăng kính của chủ nghĩa vị lợi vào một quyết định gần đây", thay vì "áp dụng lăng kính của chủ nghĩa vị lợi vào án tử hình." Câu hỏi sau không hữu ích lắm nếu bạn đã viết nó: bạn đã suy nghĩ qua câu trả lời rồi, nên thực chất nó chỉ là một câu nhắc ghi nhớ khi bạn nhìn lại sau này. Giới hạn này làm cho ý tưởng được mô tả ở đây trở nên hứa hẹn: [[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]].
+Một giới hạn của những loại câu hỏi này là vì *bạn* là người viết chúng, bạn phải để bối cảnh tương đối mơ hồ: "áp dụng lăng kính của chủ nghĩa vị lợi vào một quyết định gần đây", thay vì "áp dụng lăng kính của chủ nghĩa vị lợi vào án tử hình." Câu hỏi sau không hữu ích lắm nếu bạn đã viết nó: bạn đã suy nghĩ qua câu trả lời rồi, nên thực chất nó chỉ là một câu nhắc ghi nhớ khi bạn nhìn lại sau này. Giới hạn này làm cho ý tưởng được mô tả ở đây trở nên hứa hẹn: [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]].
 
 Liên quan:
 - [[Các ứng dụng lạ của hệ thống ghi nhớ lặp lại ngắt quãng]]

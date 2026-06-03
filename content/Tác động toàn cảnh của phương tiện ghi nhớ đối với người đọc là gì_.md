@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-Giả sử [[Phương tiện ghi nhớ]] giúp người đọc nhớ những gì họ đọc. *Thì sao?*
+Giả sử [[Công cụ ghi nhớ]] giúp người đọc nhớ những gì họ đọc. *Thì sao?*
 
 So với những gì thực sự quan trọng trong cuộc sống của người đọc, tại sao điều này lại thực sự có ý nghĩa? Nó cho phép điều gì?
 

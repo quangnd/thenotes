@@ -7,7 +7,7 @@ modified: 2026-05-30
 
 Cần giải mã:
 
-> Một ẩn dụ hữu ích để suy nghĩ về cách cải thiện [[Phương tiện ghi nhớ]] là coi mỗi bài luận ghi nhớ như một bài luận thông thường được đi kèm với một loại "bài luận phản chiếu" — kiến thức được mã hóa bởi tất cả các thẻ. Người dùng có thể, một cách dễ dàng, chọn ghi nhớ nhiều bài luận phản chiếu đó như mong muốn. Tất nhiên, sự phản chiếu là không hoàn hảo. Nhưng bằng cách phát triển các chiến lược làm thẻ tốt, chúng ta có thể làm cho bài luận phản chiếu trở thành một phản ánh gần như trung thực của tất cả các ý tưởng quan trọng, những ý tưởng mà người đọc lý tưởng muốn giữ lại.
+> Một ẩn dụ hữu ích để suy nghĩ về cách cải thiện [[Công cụ ghi nhớ]] là coi mỗi bài luận ghi nhớ như một bài luận thông thường được đi kèm với một loại "bài luận phản chiếu" — kiến thức được mã hóa bởi tất cả các thẻ. Người dùng có thể, một cách dễ dàng, chọn ghi nhớ nhiều bài luận phản chiếu đó như mong muốn. Tất nhiên, sự phản chiếu là không hoàn hảo. Nhưng bằng cách phát triển các chiến lược làm thẻ tốt, chúng ta có thể làm cho bài luận phản chiếu trở thành một phản ánh gần như trung thực của tất cả các ý tưởng quan trọng, những ý tưởng mà người đọc lý tưởng muốn giữ lại.
 
 Nhận xét hay từ Giacomo Randazzo (2020-09-10): https://twitter.com/randiisan/status/1304124608292040705
 

@@ -26,7 +26,7 @@ Vì vậy có lẽ lý thuyết là cuốn Primer "đặt nền tảng" cho cô 
 >
 > (Hôm nay em đã chinh phục thế giới này, và bây giờ khi em đã chinh phục nó, em sẽ thấy đó là một nơi khá nhàm chán. Bây giờ trách nhiệm của em là tạo ra những thế giới mới cho người khác khám phá và chinh phục. (tr. 445))
 
-Đây có vẻ như một hạn chế không cần thiết. Liệu các môi trường được tác giả tạo ra có phải là tất cả-hoặc-không-gì cả như thế này không? Tôi cảm thấy có thể tạo ra các môi trường có giàn giáo cho việc ngược lại — tức là những cái giúp dễ dàng hơn để suy nghĩ những suy nghĩ ngược lại hoặc thực hiện các hành động ngược lại — nhưng không có việc định hướng những suy nghĩ đó sẽ là gì. Có thể lập luận rằng, đó là 4chan, dù tốt hay xấu.
+Đây có vẻ như một hạn chế không cần thiết. Liệu các môi trường được tác giả tạo ra có phải là tất cả-hoặc-không-gì cả như thế này không? Tôi cảm thấy có thể tạo ra các môi trường có cấu trúc nhận thức cho việc ngược lại - tức là những cái giúp dễ dàng hơn để suy nghĩ những suy nghĩ ngược lại hoặc thực hiện các hành động ngược lại - nhưng không có việc định hướng những suy nghĩ đó sẽ là gì. Có thể lập luận rằng, đó là 4chan, dù tốt hay xấu.
 
 ---
 

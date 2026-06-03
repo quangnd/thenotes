@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-Bỏ qua tác động lên trí nhớ, người đọc theo [[Phương tiện ghi nhớ]] vẫn duy trì tiếp xúc liên tục với những gì họ đã đọc qua các phiên ôn tập. Thay vì đọc một lần rồi có thể không bao giờ nghĩ tới nữa, các phiên ôn tập kéo người đọc quay lại văn bản hết lần này tới lần khác. Đây là một dạng [[Văn bản có chiều thời gian]].
+Bỏ qua tác động lên trí nhớ, người đọc theo [[Công cụ ghi nhớ]] vẫn duy trì tiếp xúc liên tục với những gì họ đã đọc qua các phiên ôn tập. Thay vì đọc một lần rồi có thể không bao giờ nghĩ tới nữa, các phiên ôn tập kéo người đọc quay lại văn bản hết lần này tới lần khác. Đây là một dạng [[Văn bản có chiều thời gian]].
 
 Sự tiếp xúc liên tục này theo thời gian tạo ra hiệu ứng gì?
 

@@ -9,7 +9,7 @@ Hệ điều hành máy tính đã đi kèm một bộ công cụ quản lý th�
 
 Sẽ thế nào nếu có một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] "cấp hệ điều hành"? Sẽ thế nào nếu, thay vì sống "trong hộp giày của ứng dụng" như Anki và các công cụ hiện có, các lời nhắc được đặt trong khung giống như tệp trong thư mục, đọc và ghi được xuyên suốt hệ thống?
 
-Các bài web có thể hiển thị lời nhắc xen kẽ, do tác giả viết như trong [[Phương tiện ghi nhớ]] hoặc do người đọc viết kiểu Genius/Hypothesis. Bạn nạp các lời nhắc đó khi đọc, giống như trình duyệt tự dựng lịch sử khi bạn đọc.
+Các bài web có thể hiển thị lời nhắc xen kẽ, do tác giả viết như trong [[Công cụ ghi nhớ]] hoặc do người đọc viết kiểu Genius/Hypothesis. Bạn nạp các lời nhắc đó khi đọc, giống như trình duyệt tự dựng lịch sử khi bạn đọc.
 
 Chú thích từ trình đọc PDF và e-book có thể hiển thị tự nhiên trong SRS tập trung này, thay vì cô lập trong một thanh bên không ai mò vào.
 

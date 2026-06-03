@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-[[Quantum Country]] là trang web xây riêng; cơ chế ghi nhớ ăn sâu vào cách trình bày bài luận. Nhưng các tương tác cốt lõi của [[Phương tiện ghi nhớ]] đủ tách bạch để có thể nhúng vào trang web bất kỳ chỉ bằng HTML đơn giản.
+[[Quantum Country]] là trang web xây riêng; cơ chế ghi nhớ ăn sâu vào cách trình bày bài luận. Nhưng các tương tác cốt lõi của [[Công cụ ghi nhớ]] đủ tách bạch để có thể nhúng vào trang web bất kỳ chỉ bằng HTML đơn giản.
 
 Đây là một mảnh ghép cốt lõi trong tầm nhìn của tôi về một [[Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]].
 

@@ -7,7 +7,7 @@ modified: 2026-05-30
 
 Ít nhất theo cách thường được hiểu, [[Sách thực thi]] đóng gói và trình bày code được thảo luận trong văn xuôi của họ. Người đọc có thể được yêu cầu mở rộng code đó trong các bài tập, nhưng sách thực thi trình bày code như một đối tượng được tạo ra bởi tác giả để khám phá. Văn xuôi nhằm giúp học sinh đọc và hiểu code. Một cách tiếp cận thay thế thú vị là xem xét các phương tiện giống như sách thực thi nhưng đặt code như thứ gì đó chủ yếu được *người đọc* viết.
 
-Một cuốn sách như vậy sẽ giống [[The Incredible Machine]] hơn là một cuốn sách tranh Rube Goldberg: nó có thể trình bày [[Các tiến trình nhiệm vụ chi tiết như là giàn giáo nhận thức]] và thông tin liên quan dọc theo đường đi. Người đọc thực hiện việc thực thi, nhưng sự thực thi đó được cấu trúc cao bởi tác giả: một [[Trải nghiệm thể hiện]]. Liên quan: [[Đặt game như Shenzhen IO vào môi trường chuyên nghiệp như IDE thì sao]]
+Một cuốn sách như vậy sẽ giống [[The Incredible Machine]] hơn là một cuốn sách tranh Rube Goldberg: nó có thể trình bày [[Các tiến trình nhiệm vụ chi tiết như là bộ khung nhận thức]] và thông tin liên quan dọc theo đường đi. Người đọc thực hiện việc thực thi, nhưng sự thực thi đó được cấu trúc cao bởi tác giả: một [[Trải nghiệm thể hiện]]. Liên quan: [[Đặt game như Shenzhen IO vào môi trường chuyên nghiệp như IDE thì sao]]
 
 Một ví dụ khác; Pavel Panchekha đang làm việc trên một cuốn sách về cách xây dựng trình duyệt web. Anh ấy rõ ràng không muốn cuốn sách được cấu trúc như một sách thực thi thông thường—các đoạn code dễ chạy và dễ pha trộn—vì anh ấy muốn người đọc xây dựng trình duyệt web của riêng họ.
 

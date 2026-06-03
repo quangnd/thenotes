@@ -9,6 +9,6 @@ modified: 2026-05-26
 
 ví dụ:
 
-- [[Phương tiện ghi nhớ]]
+- [[Công cụ ghi nhớ]]
 - [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
 - [[Công việc tri thức nên tích lũy]]

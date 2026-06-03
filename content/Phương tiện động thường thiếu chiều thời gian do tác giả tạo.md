@@ -9,7 +9,7 @@ modified: 2026-05-30
 
 Một điểm khác biệt của [[Phương tiện động]] so với các hình thức khác là nó *hành xử và phản hồi* (Victor 2012). Khác với các phương tiện khác, hầu hết phương tiện động hành xử và phản hồi giống nhau mọi lúc. Trải nghiệm của người dùng có thay đổi theo thời gian khi họ trưởng thành và tương tác khác đi, nhưng đó hiếm khi là thuộc tính được tác giả chủ động thiết kế. Phương tiện động thiếu các thực hành để truyền tải một chiều thời gian do tác giả tạo.
 
-Ngược lại, trong phim và sách, đạo diễn và tác giả mô hình hóa và định hình trải nghiệm của người tham gia một cách kỹ lưỡng suốt tác phẩm. Thường thì điều này lấy dạng tự sự, có thể tạo kết nối cảm xúc hoặc giúp người ta dần hiểu các chủ đề phức tạp ([[Tường thuật như giàn giáo nhận thức]]). Phương tiện động không có hình thức tự sự bản địa nào.
+Ngược lại, trong phim và sách, đạo diễn và tác giả mô hình hóa và định hình trải nghiệm của người tham gia một cách kỹ lưỡng suốt tác phẩm. Thường thì điều này lấy dạng tự sự, có thể tạo kết nối cảm xúc hoặc giúp người ta dần hiểu các chủ đề phức tạp ([[Tường thuật như cấu trúc hỗ trợ nhận thức]]). Phương tiện động không có hình thức tự sự bản địa nào.
 
 #### Văn xuôi đan xen với môi trường động tạo trải nghiệm rời rạc
 

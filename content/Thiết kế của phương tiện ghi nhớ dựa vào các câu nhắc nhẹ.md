@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-[[Phương tiện ghi nhớ]] được thiết kế để làm cho việc trả lời các câu nhắc cực kỳ nhẹ nhàng.
+[[Công cụ ghi nhớ]] được thiết kế để làm cho việc trả lời các câu nhắc cực kỳ nhẹ nhàng.
 
 - **Nhiệm vụ nhỏ:** Các câu nhắc nhớ lại tốt trong [[Hệ thống ghi nhớ lặp lại ngắt quãng]] chỉ kiểm tra một điều, vì vậy chúng có thể được trả lời khá nhanh chóng. Thời gian ôn tập câu nhắc trung vị của [[Quantum Country]] là 6 giây (tính đến 2019/12).
 - **Đánh dấu một chạm:** Vì các câu nhắc tự chấm điểm, bản thân tương tác khá nhẹ: chỉ một chạm. Không cần nhắm chính xác: các nút mỗi nút chiếm một nửa màn hình. Xem thêm [[Hệ thống ghi nhớ lặp lại ngắt quãng tự chấm điểm hiệu quả hơn hệ thống chấm điểm bằng máy]].

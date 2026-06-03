@@ -10,7 +10,7 @@ Khi thêm các câu nhắc vào [[Hệ thống ghi nhớ lặp lại ngắt quã
 "Câu hỏi mồ côi" (thuật ngữ của Michael Nielsen, 2018) gây ra hai vấn đề quan trọng:
 
 1. Sau một thời gian, những câu nhắc cô lập này thường bắt đầu cảm thấy như một gánh nặng trong phiên ôn tập, bị tách rời khỏi những gì bạn thực sự quan tâm (trái ngược với [[Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]])
-2. Bạn có thể sẽ gặp nhiều khó khăn hơn khi nhớ câu trả lời cho những câu hỏi này, vì chúng sẽ không được củng cố tự nhiên qua cuộc sống hàng ngày. Ngay cả khi bạn nhớ được câu trả lời, có nguy cơ rằng chúng sẽ bị khớp mẫu vì chúng không kết nối với kiến thức khác ([[Các gợi nhắc lặp lại ngắt quãng nên được viết để ngăn cản việc _nhận dạng khuôn mẫu_ nông cạn]])
+2. Bạn có thể sẽ gặp nhiều khó khăn hơn khi nhớ câu trả lời cho những câu hỏi này, vì chúng sẽ không được củng cố tự nhiên qua cuộc sống hàng ngày. Ngay cả khi bạn nhớ được câu trả lời, có nguy cơ rằng chúng sẽ bị khớp mẫu vì chúng không kết nối với kiến thức khác ([[Các gợi nhắc lặp lại ngắt quãng nên hạn chế việc ghi nhớ theo khuôn mẫu]])
 
 Ít nhất là với tôi, một tình huống phổ biến thường dẫn đến câu hỏi mồ côi là: ai đó chia sẻ một bài báo thú vị trong một lĩnh vực mà tôi không biết gì; tôi đọc nó và viết vài câu nhắc. Vài tháng sau, tôi không hiểu tại sao mình đang ôn tập chúng. Chúng không liên quan đến bất cứ điều gì tôi đang làm hoặc suy nghĩ.
 

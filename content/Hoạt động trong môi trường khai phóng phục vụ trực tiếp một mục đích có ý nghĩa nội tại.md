@@ -13,7 +13,7 @@ Khi thiết kế một [[Môi trường khai phóng]], người ta dễ bị cu�
 
 Chưa đủ nếu chỉ *tác giả* có động lực nội tại để tạo ra hoạt động. Cũng chưa đủ nếu chỉ *người tham gia* thấy hoạt động có ý nghĩa nội tại. Hoạt động do tác giả thiết kế phải mang mục đích nội tại cho cả hai bên. Lý tưởng là những mục đích đó đồng điệu với nhau: [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]].
 
-Ví dụ, Mathematica có thể chứa [[Giàn giáo nhận thức]], nhưng hoạt động của nó chủ yếu xoay quanh việc làm toán và làm khoa học. [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], nhưng [[Phát triển kỹ năng trong trò chơi chỉ phục vụ cho các mục đích có ý nghĩa nội tại khác]].
+Ví dụ, Mathematica có thể chứa [[Khung hỗ trợ nhận thức]], nhưng hoạt động của nó chủ yếu xoay quanh việc làm toán và làm khoa học. [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], nhưng [[Phát triển kỹ năng trong trò chơi chỉ phục vụ cho các mục đích có ý nghĩa nội tại khác]].
 
 Các môi trường giáo dục có thể hướng tới những mục đích nội tại như nuôi sống gia đình hoặc gia nhập một cộng đồng nghề nghiệp. Nhưng những mục đích cấp cao đó thường không phản chiếu vào trải nghiệm thực tế trong môi trường. [[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân]], nhưng trong phần lớn trường hợp, hoạt động của chúng chủ yếu xoay quanh phát triển kỹ năng, vốn hiếm khi có ý nghĩa nội tại ([[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]). Đọc thêm: [[Mục tiêu giáo dục thường phản tác dụng chính nó]].
 

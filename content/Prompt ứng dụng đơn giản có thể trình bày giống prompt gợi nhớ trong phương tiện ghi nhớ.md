@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-26
 ---
 
-[[Phương tiện ghi nhớ có thể giúp người đọc áp dụng những gì họ đã học qua prompt ứng dụng đơn giản]]. Loại prompt này chia sẻ nhiều đặc điểm với prompt gợi nhớ hiện tại của chúng tôi.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]. Loại prompt này chia sẻ nhiều đặc điểm với prompt gợi nhớ hiện tại của chúng tôi.
 
 - Người đọc trả lời xong trong dưới 20 giây.
 - Cảm giác không quá tốn sức.
@@ -32,7 +32,7 @@ Không khác biệt nào trong số này quá nghiêm trọng.
 
 #### Hàm ý tường thuật cho phương tiện ghi nhớ
 
-Dù khác biệt chức năng tương đối nhỏ, các prompt này buộc chúng tôi phải đổi cách mô tả [[Phương tiện ghi nhớ]], cách đóng khung lời kêu gọi hành động, cách kể về tiến bộ, v.v.
+Dù khác biệt chức năng tương đối nhỏ, các prompt này buộc chúng tôi phải đổi cách mô tả [[Công cụ ghi nhớ]], cách đóng khung lời kêu gọi hành động, cách kể về tiến bộ, v.v.
 
 Trên thực tế, tức là:
 

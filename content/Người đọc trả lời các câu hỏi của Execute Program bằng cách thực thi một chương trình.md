@@ -4,7 +4,7 @@ aliases:
 created: 2026-05-26
 modified: 2026-05-26
 ---
-Giống như [[Phương tiện ghi nhớ]], các bài học của Execute Program xen kẽ văn xuôi với các câu hỏi tương tác. Nhưng ý tưởng trung tâm mang lại cho Execute Program cái tên của nó là mọi tương tác đều liên quan đến việc thực thi một chương trình bên trong một trình thông dịch nhúng. Thực tế, [[Execute Program không có các gợi ý không thực thi được]].
+Giống như [[Công cụ ghi nhớ]], các bài học của Execute Program xen kẽ văn xuôi với các câu hỏi tương tác. Nhưng ý tưởng trung tâm mang lại cho Execute Program cái tên của nó là mọi tương tác đều liên quan đến việc thực thi một chương trình bên trong một trình thông dịch nhúng. Thực tế, [[Execute Program không có các gợi ý không thực thi được]].
 
 Ví dụ, một bài học có thể bao gồm vài đoạn giới thiệu khái niệm rằng trong SQL, bạn có thể chọn chỉ một cột cụ thể bằng cách sử dụng `SELECT column*name`. Sau đó nó có thể đưa ra câu hỏi này:
 

@@ -8,7 +8,7 @@ modified: 2026-05-30
 Minecraft là một [[Môi trường khai phóng]]. Rất nhiều người có thể dựng nên các công trình 3D đồ sộ trong đó, điều họ sẽ không làm nổi nếu không có Minecraft. [[Hầu hết các trò chơi không phải là môi trường hỗ trợ]], nên việc đem Minecraft ra so với Cuốn Primer trong *The Diamond Age* (vốn cũng khao khát khai phóng người dùng qua một môi trường giống trò chơi) là rất đáng để làm. Liệu cái này có dạy chúng ta điều gì để cải thiện cái kia không?
 
 #### Minecraft > Primer
-Minecraft mở rộng năng lực mô hình 3D của người chơi qua hai thứ: một thiết kế biểu diễn mới lạ (chỉnh sửa voxel) và học tập xã hội (hàng loạt video YouTube, chơi nhiều người). Cuốn Primer thì khai phóng qua [[Giàn giáo nhận thức]] và [[Trải nghiệm thể hiện]].
+Minecraft mở rộng năng lực mô hình 3D của người chơi qua hai thứ: một thiết kế biểu diễn mới lạ (chỉnh sửa voxel) và học tập xã hội (hàng loạt video YouTube, chơi nhiều người). Cuốn Primer thì khai phóng qua [[Khung hỗ trợ nhận thức]] và [[Trải nghiệm thể hiện]].
 
 Một chuyên gia mô hình 3D dùng Minecraft hoàn toàn có thể nhận ra biểu diễn voxel mang lại những góc nhìn mới có ích, trong khi [[Cuốn Primer không giúp các chuyên gia giỏi hơn bất cứ điều gì]].
 

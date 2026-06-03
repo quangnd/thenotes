@@ -9,6 +9,6 @@ Khi đã hiểu rằng [[Lặp lại ngắt quãng biến việc nhớ thành l�
 
 Đây là một trường hợp cụ thể của một hiện tượng tổng quát hơn; xem [[Chỉ riêng các câu hỏi ghi nhớ lặp lại ngắt quãng là một phương tiện truyền thông kém]] để biết thêm. Bên cạnh đó, hầu hết các bộ thẻ có thể tải xuống đều được làm kém chất lượng: [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]].
 
-Xem thêm: [[Phương tiện ghi nhớ]], phương tiện đang cố gắng giải quyết vấn đề này.
+Xem thêm: [[Công cụ ghi nhớ]], phương tiện đang cố gắng giải quyết vấn đề này.
 
 Liên quan: [[Tự viết thẻ lặp lại ngắt quãng của mình dường như thúc đẩy sự hiểu biết]]

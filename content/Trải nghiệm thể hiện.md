@@ -28,7 +28,7 @@ Môi trường phần mềm thì có tính tham dự, và người dùng thườ
 - [[Trải nghiệm thể hiện đòi hỏi phải chặn lại chờ hành động của người tham gia]]
 - [[Trải nghiệm thể hiện đòi hỏi vòng phản hồi hành động chặt chẽ]]
 
-Nhiều trải nghiệm thể hiện dùng giàn giáo siêu nhận thức ([[Hỗ trợ siêu nhận thức như giàn giáo nhận thức]]) để dẫn dắt người tham gia tới trải nghiệm mong muốn, nhưng không phải lúc nào cũng vậy. Chơi nhạc từ bản nhạc giấy hay nấu theo công thức là ví dụ trải nghiệm thể hiện không cần giàn giáo nào.
+Nhiều trải nghiệm thể hiện dùng cấu trúc siêu nhận thức ([[Hỗ trợ siêu nhận thức như cấu trúc hỗ trợ nhận thức]]) để dẫn dắt người tham gia tới trải nghiệm mong muốn, nhưng không phải lúc nào cũng vậy. Chơi nhạc từ bản nhạc giấy hay nấu theo công thức là ví dụ trải nghiệm thể hiện không cần cấu trúc nhận thức nào.
 
 [[Trải nghiệm thể hiện tồn tại trên một dải phổ về mức độ tham gia và kiểm soát tác giả]]
 
