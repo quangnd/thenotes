@@ -15,7 +15,7 @@ Năm xuất bản: {2016}
 ### 1. Sức mạnh của luyện tập có mục đích
 
 - [[Tiêu chuẩn để đạt được sự xuất sắc đã tăng vọt trong nhiều lĩnh vực]]
-- [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]]
+- [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]]
 	- Ngược lại, [[Luyện tập có mục đích, theo Ericsson và Pool]] có thể đạt xa hơn
 	- [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]
 
@@ -23,7 +23,7 @@ Năm xuất bản: {2016}
 
 - [[Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên thông qua luyện tập]]
 	- Luyện tập dựa vào tính linh hoạt: [[Luyện tập kỹ năng nhận thức mở rộng năng lực thần kinh tương ứng]]
-- [[Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]]
+- [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]]
 
 ### 3. Biểu diễn tâm thần
 

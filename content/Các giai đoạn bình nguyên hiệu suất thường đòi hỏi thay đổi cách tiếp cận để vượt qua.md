@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-[[Luyện tập có mục đích, theo Ericsson và Pool]] đòi hỏi bạn luôn đẩy vùng thoải mái của mình. Bằng cách trau dồi một tập hợp các phương pháp thực hành nhất định, thường có thể đạt hiệu suất tốt hơn dần dần, nhưng lợi nhuận thường giảm dần. Tại thời điểm đó, "nói chung giải pháp không phải là 'cố gắng hơn' mà là 'thử khác đi'" (Ericsson & Pool, 2016, tr. 19). (So sánh với [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]])
+[[Luyện tập có mục đích, theo Ericsson và Pool]] đòi hỏi bạn luôn đẩy vùng thoải mái của mình. Bằng cách trau dồi một tập hợp các phương pháp thực hành nhất định, thường có thể đạt hiệu suất tốt hơn dần dần, nhưng lợi nhuận thường giảm dần. Tại thời điểm đó, "nói chung giải pháp không phải là 'cố gắng hơn' mà là 'thử khác đi'" (Ericsson & Pool, 2016, tr. 19). (So sánh với [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]])
 
 Do đó: [[Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]].
 

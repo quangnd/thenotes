@@ -7,7 +7,7 @@ modified: 2026-06-03
 
 Con người xây dựng hàng nghìn kỹ năng trong cuộc đời như: thái rau, đọc sách, viết tay, lập ngân sách, v.v. Những kỹ năng này thường không cải thiện theo đường thẳng suốt cuộc đời người đó. Thay vào đó, mọi người tập trung vào một kỹ năng trong một giai đoạn ban đầu, khi đã đạt đến một ngưỡng bình nguyên "đủ tốt", phần lớn sẽ ở lại đó. Một sự kiện đáng kể sau đó có thể khiến kỹ năng đột nhiên bắt đầu cải thiện trở lại, nhưng nhìn chung đó là một "cân bằng ngắt quãng" (giống như khi bạn đun nước tới 70 độ rồi bạn lại giảm lửa xuống 10 độ, rồi lại tăng lửa lên... Quá tình này lặp lại nhiều lần, nhưng không bao giờ đạt được tới độ sôi ~100 độ)
 
-Điều này xảy ra vì [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]]. Một khi ngưỡng đó đạt được, cần có nỗ lực đổi mới để tiếp tục tiến bộ: [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Ở thời điểm đó, nỗ lực thêm có thể không đáng, hoặc có thể không rõ cách cải thiện. Hoặc khả năng cải thiện có thể không *nổi bật*: [[Sự nổi bật của tiến bộ thúc đẩy phát triển kỹ năng]].
+Điều này xảy ra vì [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]]. Một khi ngưỡng đó đạt được, cần có nỗ lực đổi mới để tiếp tục tiến bộ: [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Ở thời điểm đó, nỗ lực thêm có thể không đáng, hoặc có thể không rõ cách cải thiện. Hoặc khả năng cải thiện có thể không *nổi bật*: [[Sự nổi bật của tiến bộ thúc đẩy phát triển kỹ năng]].
 
 Theo Thorndike (1921, tr. 178):
 

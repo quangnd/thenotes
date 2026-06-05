@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-Các phương pháp luyện tập ngây thơ bị giới hạn về phạm vi: [[Các cách tiếp cận ngây thơ trong luyện tập nhanh chóng đạt đến ngưỡng bão hòa]]. Nhưng không đơn giản là thay thế các phương pháp ngây thơ bằng các phương pháp tốt hơn vì [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Các phương pháp luyện tập của một người phải phát triển cùng với hiệu suất của họ vì [[Phát triển kỹ năng đòi hỏi thách thức cân bằng nội môi]].
+Các phương pháp luyện tập thông thường bị giới hạn về phạm vi: [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]]. Nhưng không đơn giản là thay thế các phương pháp thông thường bằng các phương pháp tốt hơn vì [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Các phương pháp luyện tập của một người phải phát triển cùng với hiệu suất của họ vì [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]].
 
 Điều này thường có nghĩa là các phương pháp luyện tập phải được thiết kế và duy trì bởi một chuyên gia: [[Huấn luyện viên chuyên gia hỗ trợ luyện tập có chủ đích hiệu quả]].
 

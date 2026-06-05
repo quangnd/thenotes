@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-05-30
 ---
 
-Khi sử dụng [[Hệ thống ghi nhớ lặp lại ngắt quãng]] để học các sự kiện, cách tiếp cận ngây thơ dẫn đến việc học nhiều sự kiện một cách riêng lẻ: tên của một protein, ngày của một sự kiện, kích thước của một hằng số vật lý. Nhưng vì [[Hiểu biết sâu sắc là về sự kết nối]], tốt hơn là liên hệ những sự kiện này với các ý tưởng khác. Điều này sẽ giúp bạn nhớ đáng tin cậy hơn (do [[Mã hóa tinh chế]]) mà còn giúp bạn phát triển sự hiểu biết phong phú hơn vượt ra ngoài các sự kiện đơn giản.
+Khi sử dụng [[Hệ thống ghi nhớ lặp lại ngắt quãng]] để học các sự kiện, cách tiếp cận đơn giản dẫn đến việc học nhiều sự kiện một cách riêng lẻ: tên của một protein, ngày của một sự kiện, kích thước của một hằng số vật lý. Nhưng vì [[Hiểu biết sâu sắc là về sự kết nối]], tốt hơn là liên hệ những sự kiện này với các ý tưởng khác. Điều này sẽ giúp bạn nhớ đáng tin cậy hơn (do [[Mã hóa tinh chế]]) mà còn giúp bạn phát triển sự hiểu biết phong phú hơn vượt ra ngoài các sự kiện đơn giản.
 
 Michael đưa ra ví dụ tốt này trong *Augmenting Long-term Memory*:
 
