@@ -4,12 +4,8 @@ aliases:
 created: 2026-05-26
 modified: 2026-05-26
 ---
-
 Các buổi ôn tập của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] có cấu thành [[Luyện tập có chủ đích, theo Ericsson]] không?
 
-- Các cách mà nó là luyện tập có chủ đích:
-    - Nó được thiết kế rõ ràng nhằm cải thiện hiệu suất; nó không vốn thú vị
-    - Các khoảng cách tăng theo hàm mũ gần đúng với việc tập trung vào điểm yếu của bạn
-- Các cách mà nó không phải là luyện tập có chủ đích:
-    - Việc theo dõi chỉ xấp xỉ những gì một huấn luyện viên chuyên gia sẽ làm
-    - Thông thường nó không đòi hỏi nhiều nỗ lực—cảm giác tự động hơn. Bạn biết hoặc không biết. Không thực sự cảm thấy như thách thức cân bằng nội môi: [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]]
+Rõ ràng là có, nếu ta chủ động thiết kế hệ thống này. Cụ thể hơn, chúng ta tự mình thiết kế các thẻ học, đặt câu hỏi, đưa ra câu trả lời. Việc liên tục phải trả lời lại các câu hỏi sai, và ít chạm mặt các câu hỏi "dễ" với mình, ta tăng cường khả năng nhớ, đúng như mục đích của hệ thống.
+
+Xem thêm: [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]]

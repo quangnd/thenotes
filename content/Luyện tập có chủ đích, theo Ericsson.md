@@ -4,7 +4,6 @@ aliases:
 created: 2026-05-26
 modified: 2026-05-30
 ---
-
 ==CẦN LÀM trong hộp thư đến==
 
 "Luyện tập có chủ đích" (Deliberate practice) (Ericsson và cộng sự, 1993) mô tả:
