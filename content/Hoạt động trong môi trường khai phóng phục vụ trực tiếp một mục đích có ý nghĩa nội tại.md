@@ -2,20 +2,19 @@
 aliases:
   - Enabling environments’ activities directly serve an intrinsically meaningful purpose
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
+Khi thiết kế một [[Môi trường khai phóng|môi trường khai phóng]], người ta rất dễ bị cuốn vào các kỹ năng hoặc hiểu biết mà môi trường đó đang giúp người tham gia phát triển. Nhưng nếu chỉ tập trung vào kỹ năng và hiểu biết, thiết kế thường tự làm suy yếu mục tiêu của mình. Những môi trường khai phóng thành công nhất thường xoay quanh chính *mục đích* mà các kỹ năng và hiểu biết đó phục vụ. Xem thêm [[Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]] và [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]].
 
-Khi thiết kế một [[Môi trường khai phóng]], người ta dễ bị cuốn vào việc chăm chăm vào các kỹ năng hay hiểu biết đang được phát triển hoặc khuếch đại. Cách tiếp cận này thường tự phá hoại chính nó. Những môi trường khai phóng thành công nhất gồm các hoạt động xoay quanh chính *mục đích* mà những kỹ năng và hiểu biết đó phục vụ. (Xem [[Môi trường khai phóng mạnh mẽ thường xuất hiện như sản phẩm phụ của các dự án theo đuổi mục đích có ý nghĩa nội tại]], [[Môi trường khai phóng tập trung vào việc thực hiện điều được khai phóng]])
+[[Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập được điều chỉnh từ bên ngoài là tự phủ nhận|Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập bị điều khiển từ bên ngoài là tự phủ nhận]]. Nếu thiếu một mục đích có ý nghĩa tự thân, hoạt động của người tham gia chủ yếu sẽ bị thúc đẩy và kiểm soát bởi các lực bên ngoài.
 
-[[Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập được điều chỉnh từ bên ngoài là tự phủ nhận]]. Không có mục đích nội tại, hoạt động sẽ chủ yếu bị thúc đẩy và điều tiết bởi các lực bên ngoài người tham gia.
+[[Hiểu biết sâu sắc đòi hỏi (và là kết quả của) sự kết nối cá nhân mãnh liệt|Hiểu biết sâu sắc đòi hỏi sự kết nối cá nhân mạnh mẽ, và cũng là kết quả của kết nối đó]]. Nếu thiếu mục đích có ý nghĩa tự thân, kết nối này rất khó hình thành.
 
-[[Hiểu biết sâu sắc đòi hỏi (và là kết quả của) sự kết nối cá nhân mãnh liệt]]. Không có mục đích nội tại, kết nối đó khó mà xảy ra.
+Chỉ người thiết kế có động lực tự thân là chưa đủ. Chỉ người tham gia thấy hoạt động có ý nghĩa tự thân cũng chưa đủ. Hoạt động được thiết kế cần mang một mục đích tự thân cho cả hai bên. Lý tưởng nhất là hai mục đích đó đồng điệu với nhau: [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]].
 
-Chưa đủ nếu chỉ *tác giả* có động lực nội tại để tạo ra hoạt động. Cũng chưa đủ nếu chỉ *người tham gia* thấy hoạt động có ý nghĩa nội tại. Hoạt động do tác giả thiết kế phải mang mục đích nội tại cho cả hai bên. Lý tưởng là những mục đích đó đồng điệu với nhau: [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]].
+Ví dụ, Mathematica có thể chứa [[Cấu trúc hỗ trợ nhận thức|các cấu trúc hỗ trợ nhận thức]], nhưng hoạt động chính của nó vẫn xoay quanh việc làm toán và làm khoa học. Tương tự, [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả|trò chơi có thể phát triển kỹ năng rất hiệu quả]], nhưng [[Phát triển kỹ năng trong trò chơi chỉ phục vụ cho các mục đích có ý nghĩa nội tại khác|việc phát triển kỹ năng trong trò chơi thường chỉ phục vụ cho những mục đích có ý nghĩa khác]].
 
-Ví dụ, Mathematica có thể chứa [[Khung hỗ trợ nhận thức]], nhưng hoạt động của nó chủ yếu xoay quanh việc làm toán và làm khoa học. [[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], nhưng [[Phát triển kỹ năng trong trò chơi chỉ phục vụ cho các mục đích có ý nghĩa nội tại khác]].
-
-Các môi trường giáo dục có thể hướng tới những mục đích nội tại như nuôi sống gia đình hoặc gia nhập một cộng đồng nghề nghiệp. Nhưng những mục đích cấp cao đó thường không phản chiếu vào trải nghiệm thực tế trong môi trường. [[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân]], nhưng trong phần lớn trường hợp, hoạt động của chúng chủ yếu xoay quanh phát triển kỹ năng, vốn hiếm khi có ý nghĩa nội tại ([[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]). Đọc thêm: [[Mục tiêu giáo dục thường phản tác dụng chính nó]].
+Các môi trường giáo dục có thể hướng tới những mục đích tự thân như nuôi sống gia đình hoặc bước vào một cộng đồng nghề nghiệp. Nhưng những mục đích cấp cao này thường không xuất hiện rõ trong trải nghiệm hằng ngày của người học. [[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân|Một số hoạt động giáo dục có mục đích tự thân]], nhưng phần lớn vẫn xoay quanh việc phát triển kỹ năng. Mà phát triển kỹ năng, tự nó, hiếm khi đủ ý nghĩa ([[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]). Xem thêm [[Mục tiêu giáo dục thường phản tác dụng chính nó]].
 
 ---
 

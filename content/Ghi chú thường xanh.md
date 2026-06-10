@@ -2,21 +2,21 @@
 aliases:
   - Evergreen notes
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-10
 ---
 
-*Ghi chú thường xanh* là loại ghi chú viết ra để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án. 
+*Ghi chú thường xanh* là loại ghi chú được viết để bồi đắp và tích lũy theo thời gian, xuyên suốt nhiều dự án.
 
-Cách viết ghi chú này khá khác thường, bởi vì [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]. Làm tốt thì những ghi chú này rất giá trị: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
+Cách viết ghi chú này khá khác thường, vì [[Hầu hết mọi người chỉ ghi chú tạm thời]]. Lý do là phương pháp này không xoay quanh chuyện ghi chú, mà xoay quanh việc xây dựng hiểu biết sâu một cách hiệu quả: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]. Nếu làm tốt, những ghi chú này rất giá trị: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 
-Viết ra ghi chú đáng để bồi đắp lâu dài không dễ. Mấy nguyên tắc sau giúp ích:
+Viết ra những ghi chú đáng để bồi đắp lâu dài không dễ. Những nguyên tắc sau sẽ giúp ích:
 
-- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]
-- [[Ghi chú thường xanh nên hướng khái niệm]]
+- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|Ghi chú thường xanh nên đủ nhỏ và tập trung]]
+- [[Ghi chú thường xanh nên hướng khái niệm|Ghi chú thường xanh nên xoay quanh khái niệm]]
 - [[Ghi chú thường xanh nên liên kết dày đặc]]
 - [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
 
-Khái niệm này được hình thành phần nhiều từ [[Hộp phiếu Zettelkasten của Luhmann]]. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]].
+Khái niệm này chịu ảnh hưởng lớn từ [[Hộp phiếu Zettelkasten của Luhmann]]. Ông xem nó như một đối tác trí tuệ độc lập trong quá trình viết 70 cuốn sách của mình. Xem [[Những điểm tương đồng và khác biệt giữa viết ghi chú thường xanh và Zettelkasten]].
 
 #### Triển khai cách làm ghi chú thường xanh
 
@@ -28,8 +28,8 @@ Xem:
   
 
 > [!tip]
-> Nếu bạn tự hỏi, khái niệm "Ghi chú thường xanh" (Evergreen notes) này phức tạp với tôi thì đấy là chuyện rất bình thường. Hãy tiếp tục đọc mà không cần phải cố gắng hiểu khái niệm. Khái niệm tự nó sẽ rõ ràng sau một thời gian trải nghiệm.
-> Ngoài ra, nếu bạn cần ví dụ về Ghi chú thường xanh thì xin mời: **tất cả những ghi chú ở trong trang web này về cơ bản chính là Evergreen notes.**
+> Nếu bạn thấy khái niệm "Ghi chú thường xanh" (Evergreen notes) này phức tạp, đó là chuyện rất bình thường. Hãy tiếp tục đọc mà không cần cố hiểu ngay. Khái niệm này sẽ tự rõ hơn sau một thời gian trải nghiệm.
+> Ngoài ra, nếu bạn cần ví dụ về ghi chú thường xanh thì xin mời: **về cơ bản, tất cả ghi chú trong trang web này đều là Evergreen notes.**
 
 ---
 

@@ -2,18 +2,18 @@
 aliases:
   - Understanding requires effortful engagement
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Muốn thực sự hiểu một ý tưởng, phải đối mặt trực tiếp với nó.
+Muốn thực sự hiểu một ý tưởng, ta phải đối mặt trực tiếp với nó.
 
-Đọc lướt, nghe giảng, hay bắt gặp khái niệm trong cuộc trò chuyện là không đủ. Phải tự hỏi: điều này áp dụng ở đâu và không áp dụng ở đâu? Hàm ý là gì? Giả định là gì? Quan điểm của ai đang được thể hiện? Nó bác bỏ điều gì? v.v.
+Đọc lướt, nghe giảng, hay tình cờ gặp một khái niệm trong cuộc trò chuyện là chưa đủ. Ta phải tự hỏi: điều này áp dụng ở đâu và không áp dụng ở đâu? Hàm ý là gì? Giả định là gì? Quan điểm của ai đang được thể hiện? Nó bác bỏ điều gì? v.v.
 
 Stephen Kosslyn nói rất hay:
 
 > Tiêu chí đầu tiên là "Hãy suy nghĩ thấu đáo." Ý tưởng cốt lõi rất đơn giản: bạn suy nghĩ về một điều gì đó càng nhiều, chú ý đến những gì bạn đang làm, thì bạn càng có nhiều khả năng nhớ được nó.
 
-Đây là ý tưởng cốt lõi của chủ nghĩa kiến tạo (constructivism), và là lý do thuyết truyền đạt (transmissionism) không hiệu quả.
+Đây là ý tưởng cốt lõi của chủ nghĩa kiến tạo (constructivism), và cũng là lý do thuyết truyền đạt (transmissionism) không hiệu quả.
 
 Schopenhauer cũng vậy:
 

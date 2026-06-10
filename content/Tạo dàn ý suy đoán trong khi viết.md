@@ -2,16 +2,16 @@
 aliases:
   - Create speculative outlines while you write
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Mỗi khi viết một ghi chú mới, hãy gắn nó vào một hoặc vài **dàn ý** đang duy trì, tạo dàn ý mới nếu cần. Theo thời gian, các dự án viết tương đối hoàn chỉnh sẽ tự nhiên hiện ra.
+Mỗi khi viết một ghi chú mới, hãy gắn nó vào một hoặc vài **dàn ý** đang duy trì, và tạo dàn ý mới nếu cần. Theo thời gian, các dự án viết tương đối hoàn chỉnh sẽ tự nhiên hiện ra.
 
-Thông thường, ta chỉ bắt đầu dàn ý khi khởi động một dự án viết. Điều này ép ta đối diện với trang giấy trắng. Cách khác: viết ghi chú mới mỗi ngày, nhận ra cách chúng liên hệ với nhau, để chúng tích lũy thành các dự án viết tiềm năng. Khi một dàn ý đã "chín", chỉ việc hái xuống và biến thành bản thảo, không cần cú nỗ lực khởi động kinh khủng của trang trắng.
+Thông thường, ta chỉ bắt đầu lập dàn ý khi khởi động một dự án viết. Điều này ép ta đối diện với trang giấy trắng. Cách khác là viết ghi chú mới mỗi ngày, nhận ra cách chúng liên hệ với nhau, rồi để chúng tích lũy thành các dự án viết tiềm năng. Khi một dàn ý đã "chín", chỉ việc hái xuống và biến thành bản thảo, không cần cú khởi động nặng nề trước trang trắng.
 
 Duy trì các ghi chú đã viết trong một dàn ý khá nhẹ nhàng: chỉ cần đặt hai ghi chú cạnh nhau và hỏi cái nào đến trước (Pirsig).
 
-Hơn nữa, khởi đầu một dự án với dàn ý trống đòi hỏi ta phải có sẵn chủ đề và góc nhìn. Ta có thể [[Dùng ghi chú để tránh kết luận định sẵn]].
+Hơn nữa, khởi đầu một dự án với dàn ý trống đòi hỏi ta phải có sẵn chủ đề và góc nhìn. Ta có thể [[Dùng ghi chú để tránh kết luận định sẵn|dùng ghi chú để tránh kết luận định sẵn]].
 
 ---
 

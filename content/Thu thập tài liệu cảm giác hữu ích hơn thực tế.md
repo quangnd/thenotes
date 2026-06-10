@@ -2,18 +2,18 @@
 aliases:
   - Collecting material feels more useful than it usually is
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Mở thêm tab, lưu PDF, đánh dấu trang. Mấy việc này cho cảm giác đang tiến bộ, nhưng ta đánh giá quá cao giá trị của chúng một cách có hệ thống. [[Muốn hiểu thì phải bỏ công]]. Khó mà rút ra được mấy hiểu biết sâu sắc từ một thư mục đầy PDF chỉ được lướt qua.
+Mở thêm tab, lưu PDF, đánh dấu trang. Những việc này cho cảm giác đang tiến bộ, nhưng ta thường đánh giá quá cao giá trị của chúng. [[Muốn hiểu thì phải bỏ công]]. Khó rút ra được hiểu biết sâu sắc từ một thư mục đầy PDF chỉ được lướt qua.
 
-Ta thu thập tài liệu vì việc đó dễ, và vì nó xoa dịu nỗi lo sẽ không tìm lại được thứ mình cần. Nhưng phần lớn thời gian, ta chỉ làm mọi thứ tệ hơn: chôn vùi tài liệu quan trọng dưới hàng tấn tư liệu phụ mà ta chỉ "không muốn mất". Cách làm này đi ngược với [[Công việc tri thức nên tích lũy]].
+Ta thu thập tài liệu vì việc đó dễ, và vì nó xoa dịu nỗi lo sẽ không tìm lại được thứ mình cần. Nhưng phần lớn thời gian, ta chỉ làm mọi thứ tệ hơn: chôn vùi tài liệu quan trọng dưới hàng đống tư liệu phụ mà ta chỉ "không muốn mất". Cách làm này đi ngược với [[Công việc tri thức nên tích lũy]].
 
 [Christian Tietze gợi ý](https://zettelkasten.de/posts/collectors-fallacy/):
 
 > Đây là bước đầu để vượt qua Ngụy biện Nhà sưu tập: **nhận ra rằng có một văn bản trong tay không làm tăng kiến thức của ta** (to **realize that having a text at hand does nothing to increase our knowledge**).
 
-Thay vì thế, hãy [[Viết về thứ mình đọc]], vì [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]. Và để tự định hướng cho hiệu quả (trái ngược với [[Cách viết ghi chú thường cho phản hồi yếu]]), nên xử lý tài liệu thu thập theo từng chu kỳ ngắn, đừng để chúng chất đống quá lâu.
+Thay vì thế, hãy [[Viết về thứ mình đọc]], vì [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]. Và để tự định hướng theo hiệu quả thật, thay vì rơi vào [[Cách viết ghi chú thường cho phản hồi yếu|cách ghi chú cho phản hồi yếu]], ta nên xử lý tài liệu đã thu thập theo từng chu kỳ ngắn, đừng để chúng chất đống quá lâu.
 
 ---
 

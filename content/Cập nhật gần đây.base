@@ -1,7 +1,7 @@
 filters:
   and:
     - file.ext == "md"
-    - 'file.mtime > now() - duration("2 days")'
+    - file.mtime > now() - duration("2 days")
 formulas:
   last_modified: file.mtime.relative()
 properties:

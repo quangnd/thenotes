@@ -2,10 +2,10 @@
 aliases:
   - Taking emotion seriously
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Thuật ngữ do tác giả đặt ra; xem các liên kết ngược và tài liệu tham khảo.
+Đây là thuật ngữ do tác giả đặt ra. Xem các liên kết ngược và phần tài liệu tham khảo.
 
 ---
 

@@ -2,7 +2,7 @@
 aliases:
   - §Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-10
 ---
 ### Dàn ý bài nói (tại Stripe, ngày 2019-12-12)
 - [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]
@@ -16,7 +16,7 @@ modified: 2026-05-26
 	- [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]]
 	- giới thiệu [[Quantum Country]]
 		- [[Hiệu ứng kiểm tra]]
-		- [[Hệ thống lặp lại ngắt quãng hiệu quả đến bất ngờ]]
+		- [[Hệ thống ghi nhớ lặp lại ngắt quãng hiệu quả đến bất ngờ]]
 			- [[Hiệu ứng ngắt quãng]]
 		- [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]]
 		- [[Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]]

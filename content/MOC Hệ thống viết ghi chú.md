@@ -2,69 +2,69 @@
 aliases:
   - §Note-writing systems
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-10
 ---
 
-- Các nguyên tắc:
+- Nguyên tắc
 	- [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
 		- [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]
 		- [[Công việc tri thức nên tích lũy]]
 	- [[Cách viết ghi chú thông thường không hiệu quả]]
-		- [[Cách viết ghi chú thường cho phản hồi yếu]]
+		- [[Cách viết ghi chú thường cho phản hồi yếu|Cách ghi chú thông thường hay cho phản hồi yếu]]
 - Đọc và viết ghi chú
 	- [[Viết về thứ mình đọc]]
 		- [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
-			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-		- [[Suy nghĩ theo cách của bạn]]
+			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế|Thu thập tài liệu thường có vẻ hữu ích hơn thực tế]]
+		- [[Suy nghĩ theo cách của bạn|Tự mình suy nghĩ để hiểu]]
 			- [[Muốn hiểu thì phải bỏ công]]
-			- [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
-	- [[Cách thu thập quan sát khi đọc]]
-		- [[Ghi chú văn liệu là thứ yếu và tách biệt]]
-	- [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]
+			- [[Viết buộc ta phải hiểu vấn đề sắc bén hơn|Viết buộc ta hiểu vấn đề rõ và sâu hơn]]
+	- [[Cách thu thập quan sát khi đọc|Cách ghi lại quan sát trong khi đọc]]
+		- [[Ghi chú văn liệu là thứ yếu và tách biệt|Ghi chú văn liệu chỉ là phần phụ và nên tách riêng]]
+	- [[Cách xử lý chú thích đọc thành ghi chú thường xanh|Cách chuyển chú thích khi đọc thành ghi chú thường xanh]]
 		- [[Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]]
 	- [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]
 	- [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]
 		- [[Hộp thư không nên chia thành nhiều nơi]]
 		- [[Cẩn thận khi tự động đưa vào hộp thư đọc]]
 		- [[Dùng điện thoại để thu thập và phân loại, không phải để đọc]]
-- Suy nghĩ và viết ghi chú
+- Tư duy và viết ghi chú
 	- [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
 		- [[Dùng lặp lại ngắt quãng để nuôi dần những ý tưởng mơ hồ]]
 		- [[Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]
-	- [[Động não thường là thứ thay thế cho hệ thống tích lũy hiểu biết sâu sắc còn thiếu]]
+	- [[Động não thường là thứ thay thế cho hệ thống tích lũy hiểu biết sâu sắc còn thiếu|Động não thường chỉ bù cho việc thiếu một hệ thống tích lũy hiểu biết sâu sắc]]
 	- [[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]]
 	- [[Ghi chú thường xanh giúp tăng băng thông hội thoại]]
-		- [[Trò chuyện kết hợp ghi chú thường xanh của nhiều người có thể thúc đẩy kiến tạo ý nghĩa chung]]
-- Viết và viết ghi chú
-	- [[Chiến lược thực thi cho việc viết]]
-		- [[Tạo dàn ý suy đoán trong khi viết]]
+		- [[Trò chuyện kết hợp ghi chú thường xanh của nhiều người có thể thúc đẩy kiến tạo ý nghĩa chung|Trò chuyện dựa trên ghi chú thường xanh của nhiều người có thể giúp cùng kiến tạo ý nghĩa]]
+- Viết bằng ghi chú
+	- [[Chiến lược thực thi cho việc viết|Chiến lược biến việc viết thành hành động cụ thể]]
+		- [[Tạo dàn ý suy đoán trong khi viết|Tạo dàn ý thử trong khi viết]]
 		- [[Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo]]
-		- [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]
-- Cấu trúc của các ghi chú
+		- [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)|Ghi chú thường xanh giúp việc viết tiến triển đều đặn từng bước]]
+- Cấu trúc ghi chú
 	- [[Ghi chú thường xanh]]
 		- [[Hầu hết mọi người chỉ ghi chú tạm thời]]
-		- [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]
-	- [[Ghi chú thường xanh nên hướng khái niệm]]
-		- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]
+		- [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng|Duy trì ghi chú thường xanh giống như ôn tập lặp lại ngắt quãng]]
+	- [[Ghi chú thường xanh nên hướng khái niệm|Ghi chú thường xanh nên xoay quanh khái niệm]]
+		- [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|Ghi chú thường xanh nên đủ nhỏ và tập trung]]
 		- [[Tiêu đề ghi chú thường xanh giống như API]]
 			- [[Ưu tiên tiêu đề ghi chú tích cực để xây lý thuyết có hệ thống]]
-			- [[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm]]
+			- [[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm|Ưu tiên tiêu đề ghi chú dạng câu hoàn chỉnh để làm rõ luận điểm]]
 	- [[Ghi chú thường xanh nên liên kết dày đặc]]
 	- [[Ghi chú nên làm bạn ngạc nhiên]]
-- Cấu trúc liên kết trong các hệ thống quản lý kiến thức cá nhân (PKM)
-	- [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
+- Cấu trúc liên kết trong hệ thống quản lý tri thức cá nhân (PKM)
+	- [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp|Ưu tiên mạng lưới liên kết hơn phân loại theo tầng bậc]]
 	- [[Thẻ là cấu trúc liên kết kém hiệu quả]]
-		- [[Tài liệu tham khảo được lập chỉ mục so với thẻ]]
+		- [[Tài liệu tham khảo được lập chỉ mục so với thẻ|Lập chỉ mục tài liệu tham khảo so với dùng thẻ]]
 - Ý nghĩa
-- Mối quan hệ với hệ thống tài liệu tham khảo
-	- Tạo siêu liên kết đến kho lưu trữ tài liệu tham khảo của tôi
+- Liên hệ với hệ thống tài liệu tham khảo
+	- Tạo siêu liên kết đến kho tài liệu tham khảo của tôi
 	- [[Ưu và nhược điểm của việc dùng ghi chú để tạo liên kết trong nội dung]]
 - Công cụ
 	- [[Hệ thống ghi chú số chỉ chăm chăm vào từng ghi chú riêng lẻ, bỏ quên việc tạo nghĩa giữa các ghi chú]]
 	- Giá trị của văn bản thuần túy
-	- ID văn bản thuần túy để liên kết nội dung
-	- Là kết nối con người trong một hệ thống không có ứng dụng
-- Lịch sử / cộng đồng
+	- Dùng ID văn bản thuần túy để liên kết nội dung
+	- Kết nối con người trong một hệ thống không phụ thuộc vào ứng dụng
+- Lịch sử và cộng đồng
 	- [[Hộp phiếu Zettelkasten của Luhmann]]
 	- Luhmann
 	- Christian và Sascha

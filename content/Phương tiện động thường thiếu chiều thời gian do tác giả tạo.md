@@ -2,14 +2,14 @@
 aliases:
   - Dynamic mediums usually lack an authored time dimension
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
 ==TODO ghi chú này cần được tách ra thành nhiều ghi chú khác==
 
-Một điểm khác biệt của [[Phương tiện động]] so với các hình thức khác là nó *hành xử và phản hồi* (Victor 2012). Khác với các phương tiện khác, hầu hết phương tiện động hành xử và phản hồi giống nhau mọi lúc. Trải nghiệm của người dùng có thay đổi theo thời gian khi họ trưởng thành và tương tác khác đi, nhưng đó hiếm khi là thuộc tính được tác giả chủ động thiết kế. Phương tiện động thiếu các thực hành để truyền tải một chiều thời gian do tác giả tạo.
+Một điểm khác biệt của [[Phương tiện động|phương tiện động]] so với các hình thức khác là nó *hành xử và phản hồi* (Victor 2012). Nhưng phần lớn phương tiện động lại hành xử và phản hồi gần như giống nhau mọi lúc. Trải nghiệm của người dùng có thể thay đổi theo thời gian, khi họ trưởng thành hơn và tương tác khác đi. Nhưng thay đổi đó hiếm khi là một thuộc tính được tác giả chủ động thiết kế. Phương tiện động vẫn thiếu các thực hành để truyền tải một chiều thời gian do tác giả tạo ra.
 
-Ngược lại, trong phim và sách, đạo diễn và tác giả mô hình hóa và định hình trải nghiệm của người tham gia một cách kỹ lưỡng suốt tác phẩm. Thường thì điều này lấy dạng tự sự, có thể tạo kết nối cảm xúc hoặc giúp người ta dần hiểu các chủ đề phức tạp ([[Tường thuật như cấu trúc hỗ trợ nhận thức]]). Phương tiện động không có hình thức tự sự bản địa nào.
+Ngược lại, trong phim và sách, đạo diễn và tác giả mô hình hóa rồi định hình trải nghiệm của người tham gia một cách kỹ lưỡng trong suốt tác phẩm. Điều này thường diễn ra dưới dạng tự sự, có thể tạo kết nối cảm xúc hoặc giúp người ta dần hiểu các chủ đề phức tạp ([[Tường thuật như cấu trúc hỗ trợ nhận thức]]). Phương tiện động không có một hình thức tự sự bản địa tương tự.
 
 #### Văn xuôi đan xen với môi trường động tạo trải nghiệm rời rạc
 
@@ -19,7 +19,7 @@ Phiên bản nông của vấn đề: văn bản và yếu tố động gần nh
 
 Trải nghiệm cảm nhận còn có những va đập tinh vi hơn. Đọc văn xuôi *cảm giác* rất khác so với tương tác với yếu tố động. Tôi nghĩ chủ yếu do sự thay đổi đột ngột trong tư thế tham gia. Giống như ai đó bắt bạn liên tục đổi giữa ghế hành khách (văn xuôi) và ghế lái (yếu tố động) sau mỗi một, hai phút.
 
-Một lý do khiến việc đổi qua đổi lại này khó chịu là bạn biết mình chỉ được cầm lái vài khoảnh khắc mỗi lần. Khi văn xuôi và tương tác đan xen kiểu này, các tương tác với phương tiện động thường ngắn theo thiết kế. Độ chi tiết phải đủ mịn để người đọc nhớ được hướng dẫn ở đoạn văn trước đó. Vậy nên các khoảnh khắc tương tác cảm thấy nông và ít cam kết. Bạn biết mình sẽ không ở lâu, đó không phải môi trường để làm công việc sáng tạo nghiêm túc của riêng mình. Nó giống một minh họa hơn (cái đó cũng ổn), nhưng tác giả phương tiện động thường muốn tạo ra một [[Môi trường khai phóng]] mạnh hơn thế. Một số tác giả thêm "chế độ sandbox" ở cuối bài, nhưng cách này không giảm được cảm giác nông trong phần tự sự.
+Một lý do khiến việc đổi qua đổi lại này khó chịu là bạn biết mình chỉ được cầm lái trong vài khoảnh khắc mỗi lần. Khi văn xuôi và tương tác đan xen như vậy, các tương tác với phương tiện động thường ngắn theo thiết kế. Độ chi tiết phải đủ nhỏ để người đọc còn nhớ hướng dẫn ở đoạn văn trước. Vì thế, các khoảnh khắc tương tác tạo cảm giác nông và ít cam kết. Bạn biết mình sẽ không ở lại lâu. Đây không phải môi trường để làm công việc sáng tạo nghiêm túc của riêng mình. Nó giống một minh họa hơn, và điều đó cũng ổn. Nhưng tác giả phương tiện động thường muốn tạo ra một [[Môi trường khai phóng|môi trường khai phóng]] mạnh hơn thế. Một số tác giả thêm "chế độ sandbox" ở cuối bài, nhưng cách này không làm giảm cảm giác nông trong phần tự sự.
 
 Một thách thức khác: tự sự văn bản hoàn toàn phớt lờ tương tác của bạn với các yếu tố động. Tác giả gợi ý bạn thử cái này, bạn thử, rồi văn bản cứ thế đi tiếp theo hướng của nó, bất kể bạn vừa làm gì. Cảm giác xa cách về mặt cảm xúc, rất giống nói chuyện với cây trả lời tự động qua điện thoại. Đôi khi giọng robot nói trúng phóc câu hỏi của bạn, và cũng thường xuyên không kém, nó trơn tru đọc ra những thứ vô nghĩa. Không ai kỳ vọng tự sự văn xuôi tự nhiên bám theo suy nghĩ và hành động của mình. Nhưng khi môi trường động hành xử và phản hồi (khi tác giả đang *cố gắng* tạo ra một [[Môi trường tham dự]]), khoảng cách "giữa người với người" của văn bản kế bên bị khuếch đại. Người viết cố gắng tối đa để đồng cảm với suy nghĩ và cảm xúc của độc giả. Những môi trường động này vô tình làm việc đó khó hơn rất nhiều, có lẽ quá khó cho phương tiện.
 
@@ -43,13 +43,13 @@ Các ví dụ về phương tiện tự sự động tôi đưa ra cho đến gi
 
 Ngay cả trong các nỗ lực [[Khám phá có tường thuật]] tham vọng hơn như *Visualizing quaternions* của Sanderson và Eater, "văn bản" vẫn là chính. Biểu diễn động không được thiết kế để trở thành môi trường bền vững phục vụ công việc sáng tạo về sau của người xem (xem Matuschak (2018) để biết thêm về tác phẩm này).
 
-Sẽ thú vị nếu lật ngược cách tiếp cận này, giống video game tập trung vào môi trường và đặt tự sự như một lớp phủ thoáng qua. Thay vì một bài viết về lập trình với mấy playground nhỏ chèn bên cạnh văn bản, hãy nghĩ về một môi trường lập trình có khả năng tự nhiên cho việc kể chuyện. Cách này có thể giải quyết một số vấn đề tự sự nêu trên. Quan trọng hơn, nó đẩy việc sử dụng nghiêm túc thành cân nhắc chính khi thiết kế biểu diễn động ([[Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]).
+Sẽ thú vị nếu lật ngược cách tiếp cận này, giống như video game tập trung vào môi trường và đặt tự sự như một lớp phủ thoáng qua. Thay vì một bài viết về lập trình với vài playground nhỏ chèn bên cạnh văn bản, hãy nghĩ về một môi trường lập trình có khả năng tự nhiên cho việc kể chuyện. Cách này có thể giải quyết một số vấn đề tự sự nêu trên. Quan trọng hơn, nó đưa việc sử dụng nghiêm túc thành một cân nhắc chính khi thiết kế biểu diễn động ([[Môi trường khai phóng mạnh mẽ tập trung vào người dùng chuyên gia]]).
 
 Twitch thể hiện những khả năng này theo một cách thú vị. Đây không phải tự sự mà chính bạn trải nghiệm, nhưng việc xem một chuyên gia nói chuyện trong lúc tập trung vào môi trường chuyên gia (động) của họ thực sự hấp dẫn.
 
 Twitch cũng cho thấy giá trị tiềm năng của việc tách *tác giả của phương tiện động* (ví dụ Adobe) khỏi *tác giả của tự sự* (ví dụ streamer). Hiện nay, phương tiện tự sự động gần như luôn gộp hai vai trò này. Cách gộp đó có lợi thế của nó, nhưng các notebook thực thi đang bắt đầu cho thấy những bất ngờ có thể nảy sinh khi mở rộng quyền tác giả.
 
-Thêm về một cơ chế khả thi: [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]]
+Xem thêm về một cơ chế khả thi: [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]].
 
 ==TODO==
 

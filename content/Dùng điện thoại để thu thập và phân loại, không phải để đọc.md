@@ -2,16 +2,16 @@
 aliases:
   - Use phones to collect and triage, not (usually) to read
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Vì [[Viết về thứ mình đọc]] là việc quan trọng, nên thận trọng khi đọc trên điện thoại. Thường thì hoàn cảnh và tâm thế lúc cầm điện thoại không phù hợp để viết.
+Vì [[Viết về thứ mình đọc]] là việc quan trọng, nên cần thận trọng khi đọc trên điện thoại. Thường thì hoàn cảnh và tâm thế lúc cầm điện thoại không phù hợp để viết.
 
-Điều này nguy hiểm vì đọc bài trên điện thoại có thể *có cảm giác* như đang làm việc, nhưng [[Công việc tri thức nên tích lũy]], còn kiểu đọc này gần như không tích lũy được gì. Phần lớn chỉ là giải trí.
+Điều này nguy hiểm vì đọc bài trên điện thoại có thể *có cảm giác* như đang làm việc. Nhưng [[Công việc tri thức nên tích lũy]], còn kiểu đọc này gần như không tích lũy được gì. Phần lớn chỉ là giải trí.
 
 Nếu cần, tôi có thể dùng [[Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]] lúc đọc trên điện thoại. Nhưng cách này cần bề mặt phẳng và ổn định, không thì phải có ba tay (một cầm điện thoại, một cầm sổ, một cầm bút).
 
-Khi thấy bị cám dỗ đọc kỹ thứ gì đó trên điện thoại, tôi nên [[Đóng các vòng lặp còn mở]] bằng cách dùng [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]. Chỉ cần thêm vào hàng đợi rồi đi tiếp.
+Khi thấy bị cám dỗ đọc kỹ thứ gì đó trên điện thoại, tôi nên [[Đóng các vòng lặp còn mở|đóng vòng lặp]] bằng cách dùng [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích|hộp thư đọc]]. Chỉ cần thêm vào hàng đợi rồi đi tiếp.
 
 ---
 

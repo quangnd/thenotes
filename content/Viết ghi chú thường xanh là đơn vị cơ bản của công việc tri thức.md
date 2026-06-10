@@ -2,16 +2,16 @@
 aliases:
   - Evergreen note-writing as fundamental unit of knowledge work
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
-Nếu phải chọn duy nhất một chỉ số dẫn dắt để tự đánh giá bản thân với vai trò người làm công việc tri thức, chỉ số tốt nhất tôi biết có lẽ là số [[Ghi chú thường xanh]] viết được mỗi ngày.
+Nếu phải chọn một chỉ số chính để tự đánh giá mình như một người làm công việc tri thức, chỉ số tốt nhất tôi biết có lẽ là số [[Ghi chú thường xanh|ghi chú thường xanh]] viết được mỗi ngày.
 
 [[Viết ghi chú có thể là một kỹ năng điêu luyện]], nhưng [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]], và [[Cách viết ghi chú thông thường không hiệu quả]].
 
 Một vài lợi ích của các ghi chú thường xanh theo tôi thấy:
 - [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
 - [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
-- Viết ghi chú giúp tích lũy chính việc viết: chúng là chất xúc tác cho [[Chiến lược thực thi cho việc viết]], nhất là khi bạn [[Tạo dàn ý suy đoán trong khi viết]].
+- Viết ghi chú cũng giúp chính việc viết tích lũy dần: ghi chú là chất xúc tác cho [[Chiến lược thực thi cho việc viết|các chiến lược biến việc viết thành hành động cụ thể]], nhất là khi bạn [[Tạo dàn ý suy đoán trong khi viết|tạo dàn ý thử trong khi viết]].
 
 Một lưu ý: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]
 

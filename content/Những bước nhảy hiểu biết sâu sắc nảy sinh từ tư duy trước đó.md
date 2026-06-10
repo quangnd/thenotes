@@ -2,14 +2,14 @@
 aliases:
   - Leaps of insight emerge from prior thought
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Khi nhìn nét thiên tài của người khác, ta chỉ thấy sản phẩm cuối. Ta không thấy bao nhiêu mồi lửa đã được nhóm trước khi khoảnh khắc nhận ra đó trở nên khả thi. Một phần vì ngay cả những khoảnh khắc "eureka" của chính ta cũng không có cảm giác như chúng nảy ra từ nỗ lực trước đó. Nhưng thật ra là vậy.
+Khi nhìn vào nét thiên tài của người khác, ta chỉ thấy sản phẩm cuối. Ta không thấy bao nhiêu mồi lửa đã được nhóm trước khi khoảnh khắc nhận ra đó trở nên khả thi. Một phần vì ngay cả những khoảnh khắc "eureka" của chính ta cũng không có cảm giác như chúng nảy ra từ nỗ lực trước đó. Nhưng thật ra là có.
 
-Những bước nhảy hiểu biết sâu sắc phụ thuộc vào việc đã tích lũy rất nhiều tư duy về chủ đề đó từ trước. Đôi khi sự tích lũy ấy diễn ra hoàn toàn trong tiềm thức (những "bếp lửa tiềm thức", như May-Li hay nói), nhưng sẽ tốt hơn nếu thiết kế hệ thống nhận thức bên ngoài sao cho suy nghĩ hàng ngày tự tích tụ lại được (xem [[Công việc tri thức nên tích lũy]]).
+Những bước nhảy hiểu biết sâu sắc phụ thuộc vào việc đã tích lũy rất nhiều suy nghĩ về chủ đề đó từ trước. Đôi khi sự tích lũy ấy diễn ra hoàn toàn trong tiềm thức, trong những "bếp lửa tiềm thức" như May-Li hay nói. Nhưng sẽ tốt hơn nếu ta thiết kế hệ thống nhận thức bên ngoài sao cho suy nghĩ hằng ngày có thể tự tích tụ lại (xem [[Công việc tri thức nên tích lũy]]).
 
-Một hệ quả thực tiễn: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
+Một hệ quả thực tiễn: [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức|viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 
 ---
 

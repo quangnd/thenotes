@@ -2,20 +2,20 @@
 aliases:
   - How to process reading annotations into evergreen notes
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-10
 ---
-Quan trọng là phải [[Viết về thứ mình đọc]]. Khi đọc, bạn đã đánh dấu các đoạn có vẻ liên quan và ghi nhanh suy nghĩ của mình ([[Cách thu thập quan sát khi đọc]]). Giờ là lúc xử lý tất cả thành ghi chú lâu dài.
+[[Viết về thứ mình đọc]] là việc quan trọng. Khi đọc, bạn đã đánh dấu các đoạn có vẻ liên quan và ghi nhanh suy nghĩ của mình ([[Cách thu thập quan sát khi đọc|cách ghi lại quan sát trong khi đọc]]). Giờ là lúc xử lý tất cả thành ghi chú lâu dài.
 
-Trước hết: nên viết những ghi chú nào? Chúng ta sẽ viết [[Ghi chú thường xanh nên hướng khái niệm]], vậy đâu là các khái niệm chính? Cần lùi lại một bước để hình dung cấu trúc tổng thể của các ý tưởng. Cách làm cụ thể: gom các mẩu ghi chú thành cụm và quan sát cấu trúc nổi lên. Hoặc phác thảo sơ đồ tư duy, dàn ý trực quan. Cấu trúc bạn thấy *không nhất thiết khớp với cấu trúc của cuốn sách*. Nó là bất cứ thứ gì hợp lý trong bản thể luận của riêng bạn ([[Suy nghĩ theo cách của bạn]]).
+Trước hết: nên viết những ghi chú nào? Chúng ta sẽ viết [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh xoay quanh khái niệm]], vậy đâu là các khái niệm chính? Cần lùi lại một bước để hình dung cấu trúc tổng thể của các ý tưởng. Cách làm cụ thể: gom các mẩu ghi chú thành cụm và quan sát cấu trúc hiện ra. Hoặc phác thảo sơ đồ tư duy, dàn ý trực quan. Cấu trúc bạn thấy *không nhất thiết khớp với cấu trúc của cuốn sách*. Nó là bất cứ cấu trúc nào hợp lý trong cách bạn hiểu thế giới ([[Suy nghĩ theo cách của bạn|tự mình suy nghĩ]]).
 
-Khi đã có bức tranh về các khái niệm, bắt đầu quy trình viết ghi chú theo vòng lặp. Tôi tóm tắt lại quy trình của Christian Tietze ở đây, đang áp dụng và điều chỉnh dần:
+Khi đã có bức tranh về các khái niệm, hãy bắt đầu quy trình viết ghi chú theo vòng lặp. Tôi tóm tắt lại quy trình của Christian Tietze ở đây, đồng thời đang áp dụng và điều chỉnh dần:
 
 1. **Viết một ghi chú tổng quát** nắm bắt "ý tưởng lớn" của một cụm.
-	- Có nhiều ý tưởng lớn? Viết nhiều ghi chú tổng quát để giữ [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]].
+	- Có nhiều ý tưởng lớn? Viết nhiều ghi chú tổng quát để giữ [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|mỗi ghi chú đủ nhỏ và tập trung]].
 2. **Viết các ghi chú chi tiết hơn**: rà qua từng mẩu ghi chú trong cụm. Viết các ghi chú nắm bắt những ý tưởng nguyên tử tinh tế hơn trong cụm đó.
-3. **Kết nối**: tìm các ghi chú cũ liên quan đến ghi chú mới này. Liên kết, hợp nhất, sửa đổi khi cần để phản ánh cách hiểu tổng hợp mới của bạn về các ý tưởng đó.
-	- Xem [[Ghi chú thường xanh nên liên kết dày đặc]] và [[Tạo dàn ý suy đoán trong khi viết]].
-4. **Sửa lại**: quay về ghi chú tổng quát và cải thiện phần tóm tắt dựa trên những gì bạn vừa học được khi viết ghi chú chi tiết, miễn là không làm mờ trọng tâm. Xoá các ghi chú chi tiết không còn cần thiết. Cập nhật các ghi chú khác dựa trên những gì bạn học được khi viết bản tổng quát mới, nếu hợp lý.
+3. **Kết nối**: tìm các ghi chú cũ liên quan đến ghi chú mới này. Liên kết, hợp nhất, chỉnh sửa khi cần để phản ánh cách hiểu tổng hợp mới của bạn về các ý tưởng đó.
+	- Xem [[Ghi chú thường xanh nên liên kết dày đặc]] và [[Tạo dàn ý suy đoán trong khi viết|tạo dàn ý thử trong khi viết]].
+4. **Sửa lại**: quay về ghi chú tổng quát và cải thiện phần tóm tắt dựa trên những gì bạn vừa học được khi viết ghi chú chi tiết, miễn là không làm mờ trọng tâm. Xoá các ghi chú chi tiết không còn cần thiết. Nếu hợp lý, cập nhật các ghi chú khác dựa trên những gì bạn học được khi viết bản tổng quát mới.
 5. **Lặp lại**
 
 ---

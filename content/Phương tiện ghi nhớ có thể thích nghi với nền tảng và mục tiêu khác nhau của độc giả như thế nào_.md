@@ -2,27 +2,27 @@
 aliases:
   - How might the mnemonic medium adapt to readers’ differing backgrounds and goals_
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-10
 ---
 
-[[Quantum Country]] giả định rằng bạn sẽ trả lời mọi câu hỏi. Đây là một giả định hợp lý đối với một văn bản nhập môn tập trung vào kiến thức nền tảng: đại đa số độc giả sẽ hoặc đã biết tất cả nội dung hoặc cần biết về tất cả nội dung đó ([[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]]). Nhưng giả định này sẽ không hoạt động trong nhiều ngữ cảnh khác. Các phiên bản tương lai của [[Công cụ ghi nhớ]] sẽ cần trở nên linh hoạt hơn.
+[[Quantum Country]] giả định rằng bạn sẽ trả lời mọi câu hỏi. Đây là giả định hợp lý với một văn bản nhập môn tập trung vào kiến thức nền tảng: đa số độc giả hoặc đã biết toàn bộ nội dung, hoặc cần biết gần như toàn bộ nội dung đó ([[Phương tiện ghi nhớ đặc biệt phù hợp với kiến thức nền tảng]]). Nhưng giả định này sẽ không còn phù hợp trong nhiều ngữ cảnh khác. Các phiên bản tương lai của [[Công cụ ghi nhớ|phương tiện ghi nhớ]] cần linh hoạt hơn.
 
-Ví dụ, nếu bạn đang viết một cuốn sách giáo khoa lớn, độc giả thường sẽ không đọc toàn bộ—họ sẽ tập trung vào các chủ đề cụ thể. Phương tiện này nên phù hợp với sự quan tâm có chọn lọc đối với các phần hoặc tiểu mục nhất định.
+Ví dụ, nếu bạn viết một cuốn sách giáo khoa lớn, độc giả thường sẽ không đọc toàn bộ. Họ sẽ tập trung vào vài chủ đề cụ thể. Phương tiện này nên hỗ trợ kiểu quan tâm có chọn lọc như vậy ở cấp phần hoặc tiểu mục.
 
-Và họ sẽ có nền tảng khác nhau; một số sẽ không cần tất cả các câu hỏi. Nếu chúng ta nhìn về tương lai khi thực hành ghi nhớ trở nên phổ biến, độc giả sẽ thường xuyên gặp các câu hỏi "trùng lặp." Vì vậy phương tiện này phải cho phép độc giả bỏ qua, xóa hoặc chỉnh sửa các câu hỏi, ngay cả khi chúng được coi là "hữu ích theo mặc định" đối với người khác.
+Độc giả cũng có nền tảng khác nhau, nên một số người sẽ không cần tất cả các câu hỏi. Nếu thực hành ghi nhớ trở nên phổ biến hơn trong tương lai, độc giả sẽ thường xuyên gặp các câu hỏi "trùng lặp" với điều họ đã biết. Vì vậy, phương tiện này phải cho phép họ bỏ qua, xóa hoặc chỉnh sửa câu hỏi, ngay cả khi những câu hỏi đó được xem là "hữu ích theo mặc định" với người khác.
 
-Trong văn viết thuyết phục và thảo luận không chính thức, các câu hỏi sẽ có vai trò khác đáng kể. Có thể hợp lý hơn khi đặt các câu hỏi trong các thể loại này là tùy chọn theo mặc định, thay vì mặc định có mặt. Trong loại tác phẩm này, các câu hỏi có thể hoạt động giống như ghi chú bên lề—có sẵn cho những người quan tâm.
+Trong văn bản thuyết phục và thảo luận không chính thức, câu hỏi sẽ đóng vai trò khá khác. Có lẽ hợp lý hơn nếu câu hỏi trong các thể loại này là tùy chọn theo mặc định, thay vì mặc định xuất hiện trong luồng đọc. Trong kiểu tác phẩm này, câu hỏi có thể hoạt động giống ghi chú bên lề: có sẵn cho những người quan tâm.
 
 Xem thêm: [[Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào_]]
 
 #### Các giải pháp tiềm năng (Potential solutions)
 
-- Trong ngữ cảnh mặc định có mặt, các câu hỏi nên có hành động "bỏ qua" hoặc "không phải bây giờ." Cơ chế này có thể tận dụng cơ chế lặp lại ngắt quãng: câu hỏi đó có thể xuất hiện lại trong một phiên ôn tập vài tuần sau. Nếu bạn "bỏ qua" lần nữa, nó có thể biến mất trong vài tháng. Điều này phù hợp với nhu cầu về một thao tác "xóa" hoặc "vô hiệu hóa" có thể gây hủy hoại, nhưng không làm cho nó trở thành một quyết định có rủi ro cao: [[Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]]
-- Trong ngữ cảnh mặc định tùy chọn, các câu hỏi có thể được trình bày giống như ghi chú bên lề hơn. Có thể tốt hơn khi "trải rộng" các thẻ trong ngữ cảnh mặc định tùy chọn (thay vì "xếp chồng" chúng) để độc giả có thể thấy tất cả và chọn một hoặc hai cái có vẻ phù hợp. Sẽ rất khó để truyền đạt sự khác biệt trong hành vi mặc định ở đây.
+- Trong ngữ cảnh câu hỏi mặc định xuất hiện, mỗi câu hỏi nên có hành động "bỏ qua" hoặc "không phải bây giờ". Cơ chế này có thể tận dụng chính lặp lại ngắt quãng: câu hỏi đó xuất hiện lại trong một phiên ôn tập vài tuần sau. Nếu bạn tiếp tục "bỏ qua", nó có thể biến mất trong vài tháng. Cách này đáp ứng nhu cầu có một thao tác "xóa" hoặc "vô hiệu hóa" có tính phá hủy, nhưng không biến nó thành một quyết định rủi ro cao: [[Lặp lại ngắt quãng giúp giảm áp lực khi xóa bỏ trong hộp thư đến]]
+- Trong ngữ cảnh câu hỏi mặc định là tùy chọn, câu hỏi có thể được trình bày giống ghi chú bên lề hơn. Có thể nên "trải" các thẻ ra trong ngữ cảnh này, thay vì "xếp chồng" chúng, để độc giả thấy toàn bộ và chọn một hoặc hai câu phù hợp. Phần khó là truyền đạt rõ sự khác biệt trong hành vi mặc định giữa hai kiểu ngữ cảnh.
 
-#### Các cách mà Quantum Country giả định độc giả sẽ trả lời mọi câu hỏi
+#### Những cách Quantum Country giả định độc giả sẽ trả lời mọi câu hỏi
 
-- Cơ chế tiến trình xoay quanh "phần trăm hoàn thành," và mẫu số là tổng số câu hỏi trong một bài luận.
-    - Tiến trình bị đình trệ hoàn toàn nếu bạn không trả lời tất cả các câu hỏi trong một bài luận: bạn không thể hoàn thành bất kỳ cấp độ sau nào mà không hoàn thành cấp độ trong văn bản.
-    - Cơ chế này có thể được điều chỉnh tương đối dễ dàng để linh hoạt ở cấp độ phần, nhưng sẽ cần thay đổi đáng kể hơn để phù hợp với việc chọn lựa.
-- Khi bạn trả lời một câu hỏi trong một bài luận, nó được thêm vào bộ sưu tập của bạn, và không có cách nào để xóa hoặc bỏ qua nó sau đó.
+- Cơ chế tiến độ xoay quanh "phần trăm hoàn thành", trong đó mẫu số là tổng số câu hỏi trong một bài luận.
+    - Tiến độ sẽ kẹt hoàn toàn nếu bạn không trả lời tất cả câu hỏi trong một bài luận: bạn không thể hoàn thành bất kỳ cấp độ sau nào nếu chưa hoàn thành cấp độ trong văn bản.
+    - Cơ chế này có thể được điều chỉnh tương đối dễ để linh hoạt ở cấp phần, nhưng sẽ cần thay đổi lớn hơn nếu muốn hỗ trợ việc chọn lọc câu hỏi.
+- Khi bạn trả lời một câu hỏi trong bài luận, nó được thêm vào bộ sưu tập của bạn, và sau đó không có cách nào để xóa hoặc bỏ qua nó.

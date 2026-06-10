@@ -2,12 +2,12 @@
 aliases:
   - Evergreen note titles are like APIs
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Khi [[Ghi chú thường xanh]] được tách bạch và đặt tiêu đề tốt, chính tiêu đề trở thành một lớp trừu tượng cho ghi chú. Toàn bộ ý của ghi chú có thể được tham chiếu qua cái "tay cầm" đó (xem [[Mỏ neo khái niệm, theo Alexander]]). Thực ra đặc tính này còn đóng vai trò như một phép thử: khi ý tưởng trong các ghi chú được mài giũa dần và "API" được cải thiện, bạn sẽ viết được các ghi chú đơn lẻ gói gọn được những cây con ngày càng lớn (ví dụ: [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]], [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]).
+Khi [[Ghi chú thường xanh|ghi chú thường xanh]] được tách bạch và đặt tiêu đề tốt, chính tiêu đề trở thành một lớp trừu tượng cho ghi chú. Toàn bộ ý của ghi chú có thể được tham chiếu qua cái "tay cầm" đó (xem [[Mỏ neo khái niệm, theo Alexander]]). Thực ra đặc tính này còn đóng vai trò như một phép thử: khi ý tưởng trong các ghi chú được mài giũa dần và "API" được cải thiện, bạn sẽ viết được các ghi chú đơn lẻ gói gọn những cây con ngày càng lớn (ví dụ: [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]], [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]).
 
-Vài kỹ thuật "thiết kế API" cho ghi chú: tách biệt mối quan tâm ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]), tiêu đề sắc nét ([[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm]]), và cách đặt vấn đề tích cực ([[Ưu tiên tiêu đề ghi chú tích cực để xây lý thuyết có hệ thống]]).
+Một vài kỹ thuật "thiết kế API" cho ghi chú: tách biệt mối quan tâm ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|ghi chú thường xanh nên đủ nhỏ và tập trung]]), tiêu đề sắc nét ([[Ưu tiên tiêu đề ghi chú dạng cụm hoàn chỉnh để làm sắc luận điểm|tiêu đề dạng câu hoàn chỉnh để làm rõ luận điểm]]), và cách đặt vấn đề tích cực ([[Ưu tiên tiêu đề ghi chú tích cực để xây lý thuyết có hệ thống]]).
 
 Liên quan: [[Các khẳng định có cơ sở, theo Qian và cộng sự]]
 

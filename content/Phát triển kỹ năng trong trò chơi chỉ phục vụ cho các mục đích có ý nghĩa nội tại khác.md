@@ -2,14 +2,14 @@
 aliases:
   - Skill development in games is subservient to other intrinsically meaningful purposes
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-[[Trò chơi phát triển kỹ năng người chơi rất hiệu quả]], nhưng đó không phải là mục đích của trải nghiệm. Các kỹ năng chỉ là thứ phụ trợ cho những mục đích có ý nghĩa tự thân: thẩm mỹ, xã hội, tường thuật, v.v. Mục đích thật sự là thẩm mỹ, không phải thực dụng: [[Game là phương tiện thẩm mỹ của hành động]]. Và thẩm mỹ đó thường được dẫn dắt bởi [[Tìm điều thú vị]].
+[[Trò chơi phát triển kỹ năng người chơi rất hiệu quả|Trò chơi phát triển kỹ năng của người chơi rất hiệu quả]], nhưng đó không phải là mục đích chính của trải nghiệm. Kỹ năng chỉ là thứ phục vụ cho những mục đích có ý nghĩa tự thân khác: thẩm mỹ, xã hội, tường thuật, v.v. Mục đích thật sự là thẩm mỹ, không phải thực dụng: [[Game là phương tiện thẩm mỹ của hành động]]. Và thẩm mỹ đó thường được dẫn dắt bởi [[Tìm điều thú vị]].
 
-Phát triển kỹ năng là phương tiện để đạt những mục đích này: tôi muốn học bay vì nó đẹp. Phát triển kỹ năng cũng là sản phẩm phụ tự nhiên của những mục đích đó: tôi giỏi bay hơn vì môi trường có những bệ đỗ khó mà tôi phải vật lộn để chạm tới.
+Phát triển kỹ năng là phương tiện để đạt những mục đích này. Tôi muốn học bay vì bay đẹp. Phát triển kỹ năng cũng là sản phẩm phụ tự nhiên của những mục đích đó. Tôi bay giỏi hơn vì môi trường có những bệ đáp khó, buộc tôi phải vật lộn mới chạm tới được.
 
-Nhà thiết kế [[Trò chơi giáo dục]] bỏ qua quan sát này và biến phát triển kỹ năng thành mục đích chính. Đôi khi người chơi được đưa cho một mục đích bề mặt khác ("đạt điểm cao nhất!"), nhưng đó chỉ là lớp vỏ mỏng, rõ ràng không phải mối bận tâm chính của nhà thiết kế. Những trò chơi như vậy tự phá hoại mục tiêu của chính mình: [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]].
+Nhà thiết kế [[Trò chơi giáo dục|trò chơi giáo dục]] thường bỏ qua quan sát này và biến phát triển kỹ năng thành mục đích chính. Đôi khi người chơi được trao một mục đích bề mặt khác, chẳng hạn "đạt điểm cao nhất!". Nhưng đó chỉ là lớp vỏ mỏng, rõ ràng không phải mối bận tâm chính của nhà thiết kế. Những trò chơi như vậy tự phá hoại mục tiêu của chính mình: [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]].
 
 ---
 

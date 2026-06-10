@@ -2,14 +2,14 @@
 aliases:
   - The mnemonic medium can surface “proof of memory” social signals
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Một "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết, nhưng nếu tôi thấy rằng ai đó tôi tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Công cụ ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
+Một lượt "thích" hay "vỗ tay" không cho tôi biết nhiều về giá trị của một bài viết. Nhưng nếu tôi thấy rằng một người mình tôn trọng đã ghi nhớ bền vững 30 chi tiết từ một bài viết được viết theo [[Công cụ ghi nhớ|phương tiện ghi nhớ]], đó sẽ là một tín hiệu rất mạnh.
 
-Những tín hiệu như vậy cũng có thể tạo ra những áp lực xã hội thú vị: nếu một số người đang thảo luận về một vấn đề khí hậu phức tạp, và bạn có thể thấy rằng tất cả họ đã ghi nhớ bền vững hàng trăm dữ kiện nền tảng về chủ đề đó, bạn có thể có nhiều khả năng tiếp thu kiến thức nền tảng đó trước khi tham gia.
+Những tín hiệu như vậy cũng có thể tạo ra các áp lực xã hội thú vị. Nếu một nhóm người đang thảo luận về một vấn đề khí hậu phức tạp, và bạn thấy rằng tất cả họ đã ghi nhớ bền vững hàng trăm dữ kiện nền tảng về chủ đề đó, bạn có thể sẽ muốn tiếp thu phần kiến thức nền tảng đó trước khi tham gia.
 
-Phương tiện ghi nhớ thiết lập một tiêu chuẩn rõ ràng hơn cho việc đọc tài liệu nền tảng. Nếu bạn đề xuất rằng ai đó nên đọc một bài viết, điều đó không có nghĩa nhiều: có thể họ đọc lướt; có thể họ đọc một lần; có thể họ ghi chú chi tiết. Tất cả những hoạt động đó *cảm thấy* như "đọc bài viết." Nhưng nếu tài liệu tham khảo là một bài luận ghi nhớ, thì "tôi nghĩ bạn sẽ hiểu X tốt hơn nếu bạn hoàn thành bài viết này" thiết lập một tiêu chuẩn cao hơn và rõ ràng hơn.
+Phương tiện ghi nhớ đặt ra một tiêu chuẩn rõ ràng hơn cho việc đọc tài liệu nền tảng. Nếu bạn đề nghị ai đó đọc một bài viết, điều đó không nói lên nhiều: có thể họ đọc lướt, có thể họ đọc một lần, có thể họ ghi chú rất kỹ. Tất cả những hoạt động đó đều *có cảm giác* như "đọc bài viết". Nhưng nếu tài liệu tham khảo là một bài luận ghi nhớ, thì câu "tôi nghĩ bạn sẽ hiểu X tốt hơn nếu hoàn thành bài viết này" đặt ra một tiêu chuẩn cao hơn và rõ ràng hơn.
 
 ---
 

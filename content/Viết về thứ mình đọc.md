@@ -2,27 +2,27 @@
 aliases:
   - Write about what you read
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-10
 ---
 
 Hãy viết về thứ mình đọc:
 
 - vì [[Muốn hiểu thì phải bỏ công]]
-	- cụ thể là [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]]
-	- và nhớ rằng [[Thu thập tài liệu cảm giác hữu ích hơn thực tế]]
-- vì nếu không thì sẽ không [[Suy nghĩ theo cách của bạn]]
+	- cụ thể là [[Viết buộc ta phải hiểu vấn đề sắc bén hơn|viết buộc ta hiểu vấn đề rõ và sâu hơn]]
+	- và nhớ rằng [[Thu thập tài liệu cảm giác hữu ích hơn thực tế|thu thập tài liệu thường có vẻ hữu ích hơn thực tế]]
+- vì nếu không thì ta sẽ không [[Suy nghĩ theo cách của bạn|tự mình suy nghĩ]]
 - vì [[Công việc tri thức nên tích lũy]], và [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 - thực tế là [[Hầu hết mọi người đọc không hiệu quả]]
 
-Gạch chân hay ghi chú bên lề sách thôi không đủ. Không có áp lực để tổng hợp, nối các ý lại, hay đào tới gốc rễ. Chúng cũng không cộng dồn thành cái gì khi bạn đọc thêm sách mới. Thay vào đó, hãy viết [[Ghi chú thường xanh]] trong lúc đọc.
+Chỉ gạch chân hay ghi chú bên lề sách là chưa đủ. Những cách đó không tạo áp lực buộc ta tổng hợp, nối các ý lại với nhau, hay đào tới gốc rễ. Chúng cũng không cộng dồn thành thứ gì rõ ràng khi bạn đọc thêm sách mới. Thay vào đó, hãy viết [[Ghi chú thường xanh|ghi chú thường xanh]] trong lúc đọc.
 
-Cũng nên lưu ý mặt khác: [[Những người đọc và tư duy hiệu quả nhất tôi biết không ghi chú khi đọc]]. Riêng với tôi, kinh nghiệm cho thấy mình cần thêm điểm tựa để bám sát nội dung đang đọc.
+Cũng nên lưu ý chiều ngược lại: [[Những người đọc và tư duy hiệu quả nhất tôi biết không ghi chú khi đọc]]. Riêng với tôi, kinh nghiệm cho thấy mình cần thêm điểm tựa để bám sát nội dung đang đọc.
 
 #### Phương pháp
 Cách làm chung là một vòng lặp xen kẽ:
 
-1. **Thu thập** các đoạn văn thú vị và những suy nghĩ bật ra khi đọc: [[Cách thu thập quan sát khi đọc]]
-2. **Xử lý** các cụm đoạn và suy nghĩ đó thành ghi chú lâu dài: [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]
+1. **Thu thập** các đoạn văn thú vị và những suy nghĩ bật ra khi đọc: [[Cách thu thập quan sát khi đọc|cách ghi lại quan sát trong khi đọc]]
+2. **Xử lý** các đoạn văn và suy nghĩ đó thành ghi chú lâu dài: [[Cách xử lý chú thích đọc thành ghi chú thường xanh|cách chuyển chú thích khi đọc thành ghi chú thường xanh]]
 
 ---
 

@@ -2,12 +2,12 @@
 aliases:
   - Brainstorming may often substitute for missing insight accretion systems
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Động não với người khác tạo ra một bối cảnh xã hội linh hoạt để trao đổi ý tưởng. Nhưng khi động não một mình, ta đang tạo ra một không gian mở rộng để gọi về những gì mình "gần như đã biết". Trong không gian đó, các ý tưởng có được chủ yếu bị giới hạn bởi tư duy và ý tưởng đã có từ trước (xem [[Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]).
+Động não với người khác tạo ra một bối cảnh xã hội linh hoạt để trao đổi ý tưởng. Nhưng khi động não một mình, ta đang tạo ra một không gian mở để gọi về những gì mình "gần như đã biết". Trong không gian đó, các ý tưởng xuất hiện chủ yếu bị giới hạn bởi suy nghĩ và ý tưởng đã có từ trước (xem [[Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]).
 
-Tâm thế sinh tạo, không phán xét của một buổi động não đôi khi cho kết quả bất ngờ. Nhưng phần lớn ta dùng động não như cách thực dụng để dồn hết ý tưởng về một chủ đề vào cùng một chỗ. Đó có thể là dấu hiệu cho thấy hệ thống tri thức của mình chưa được thiết kế theo hướng [[Công việc tri thức nên tích lũy]]. Với [[Ghi chú thường xanh]] và cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]), các ý tưởng được thu thập và chắt lọc liên tục. [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]], nên nhu cầu động não giảm hẳn, vì những hiểu biết đó đã xuất hiện và được ghi lại đều đặn trong công việc thường ngày.
+Tâm thế sinh tạo, không phán xét của một buổi động não đôi khi cho kết quả bất ngờ. Nhưng phần lớn ta dùng động não như một cách thực dụng để dồn hết ý tưởng về một chủ đề vào cùng một chỗ. Đó có thể là dấu hiệu cho thấy hệ thống tri thức của mình chưa được thiết kế theo hướng [[Công việc tri thức nên tích lũy]]. Với [[Ghi chú thường xanh|ghi chú thường xanh]] và cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]), các ý tưởng được thu thập và chắt lọc liên tục. [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]], nên nhu cầu động não giảm hẳn, vì những hiểu biết đó đã xuất hiện và được ghi lại đều đặn trong công việc thường ngày.
 
 Xem thêm: [[Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo]]
 

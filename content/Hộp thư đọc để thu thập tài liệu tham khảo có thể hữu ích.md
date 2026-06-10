@@ -2,7 +2,7 @@
 aliases:
   - A reading inbox to capture possibly-useful references
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
 Để tránh đống tab trình duyệt gây lo lắng và thư mục PDF đáng sợ, cần một quy trình tự động để thu thập tham chiếu đến các bài đọc có thể hữu ích.
@@ -18,9 +18,9 @@ Quan trọng: đây không phải danh sách "một ngày nào đó". Nó không
 
 Khi xây hộp thư đọc, các điểm cần lưu ý:
 
-1. thu thập không ma sát cho sách, bài viết, trang web (để đóng vòng lặp dễ dàng)
-2. không ma sát khi xem bài đọc tương ứng với từng mục
-3. không ma sát khi liệt kê xuyên các loại mục
+1. thu thập sách, bài viết và trang web thật nhanh, ít vướng víu (để đóng vòng lặp dễ dàng)
+2. dễ mở bài đọc tương ứng với từng mục
+3. dễ liệt kê xuyên các loại mục
 4. hộp thư nên khuyến khích loại bỏ các mục tồn đọng (ví dụ: thấy rõ khi một mục đã bị bỏ qua nhiều lần)
 
 Thú vị là không có hệ thống "đọc sau" hay quản lý tham chiếu nào hiện nay đáp ứng được các tiêu chí này. Chúng thường bị tách theo loại nội dung, và không hệ thống nào khuyến khích loại bỏ các mục tồn đọng. Xem thêm: [[Cẩn thận khi tự động đưa vào hộp thư đọc]].

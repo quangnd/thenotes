@@ -2,12 +2,12 @@
 aliases:
   - Games help players make and adapt plans
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-10
 ---
 
 Khi đi qua một trò chơi, bạn thường không phải đoán xem mình đã sẵn sàng đi tiếp hay chưa, hay nên đi đâu. Trò chơi sẽ cho bạn biết (có thể theo cách ngầm).
 
-Đôi khi có một chuỗi cấp độ chặt chẽ phải vượt qua theo đúng thứ tự. Lập kế hoạch lúc đó là chuyện vặt. Xem [[Các tiến trình nhiệm vụ chi tiết như là bộ khung nhận thức]].
+Đôi khi có một chuỗi cấp độ chặt chẽ phải vượt qua theo đúng thứ tự. Lập kế hoạch lúc đó là chuyện vặt. Xem [[Chuỗi nhiệm vụ chia nhỏ như một cấu trúc hỗ trợ nhận thức]].
 
 Tinh tế hơn, bạn có thể nhận ra một trận đấu trùm phụ thuộc vào khả năng dùng cung và tên. Lối ra của ngục tối đã bịt kín, nên không còn nơi nào khác để đi. Vậy là bạn rút ra kết luận hiển nhiên: phải cải thiện kỹ năng bắn cung cho đến khi hạ được trùm. Trong một trò chơi khác, bạn có thể thấy mình thỉnh thoảng bắn trượt, nhưng vẫn luôn có đường đi tiếp, ít nhất là lúc này. Vậy bạn không nhất thiết phải luyện bắn cung, trừ khi bản thân muốn vậy.
 

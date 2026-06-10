@@ -2,22 +2,22 @@
 aliases:
   - Pocket memo pad to capture into writing inbox while out
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
 Tôi dùng một tập giấy A7 có dòng kẻ (Maruman Mnemosyne N193A) để ghi nhanh khi ra ngoài. Ý tưởng hay từ các cuộc trò chuyện, ý tưởng lúc đi bộ, v.v. đều ghi vào đây. Tôi thường thêm chút ngữ cảnh để sau dễ định vị: ngày, địa điểm, người liên quan.
 
-Những ghi chú này không ở lại trong tập giấy. Nó là một hộp thư nạp vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Định kỳ, trong [[Thực hành viết buổi sáng của tôi]], tôi xử lý các ghi chú từ tập giấy: phát triển chúng thành [[Ghi chú thường xanh]], chuyển vào hộp thư viết, hoặc bỏ đi.
+Những ghi chú này không ở lại trong tập giấy. Tập giấy đóng vai trò như một hộp thư nạp vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Định kỳ, trong [[Thực hành viết buổi sáng của tôi]], tôi xử lý các ghi chú từ tập giấy: phát triển chúng thành [[Ghi chú thường xanh|ghi chú thường xanh]], chuyển vào hộp thư viết, hoặc bỏ đi.
 
 **Tôi xé tờ ngay khi xử lý xong, nên luôn biết trạng thái của tập giấy: trang nào còn chữ là trang chưa xử lý.**
 
-Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi tâm thế xử lý rất khác nhau.
+Mỗi ý tưởng có một trang riêng. Điều này giúp việc xử lý dễ hơn ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|mỗi ghi chú đủ nhỏ và tập trung]]). Một cuộc trò chuyện hay có thể sinh ra nửa tá trang, nhưng mỗi trang lại đòi hỏi một tâm thế xử lý rất khác nhau.
 
 Tôi cũng dùng tập giấy này để [[Viết về thứ mình đọc]]. Khi đọc sách, tôi ghi lại những điểm thú vị vào đây. Mỗi ý tưởng một trang, như trên. Tôi thêm cả số trang và ngày.
 
 ![](Attachments/09985A95-428D-49C6-B1B9-9A9126FFC900.png)
 
-Tập giấy gọn, bỏ túi dễ, bìa vinyl bền, nên tôi luôn mang theo một cái cùng với bút.
+Tập giấy gọn, dễ bỏ túi, bìa vinyl bền, nên tôi luôn mang theo một tập cùng với bút.
 
 Mua ở đâu
 - https://www.amazon.com/gp/product/B00T9CHYZO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 (\$22,99 / 10, miễn phí vận chuyển với Prime)
@@ -25,7 +25,7 @@ Mua ở đâu
 
 Mỗi tập có 50 tờ, tính ra 4,5 xu một tờ. Không hẳn là rẻ. Một cuốn sách hay có thể tốn \$2 để xử lý. Chấp nhận được.
 
-Tôi dùng bút Uni-ball Signo UM-151, giá khoảng một đô. Cầm cân, nắp chắc, bền, mực ra đều.
+Tôi dùng bút Uni-ball Signo UM-151, giá khoảng một đô. Cầm cân tay, nắp chắc, bền, mực ra đều.
 
 ---
 

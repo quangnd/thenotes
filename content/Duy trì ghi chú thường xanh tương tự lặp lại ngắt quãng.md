@@ -2,14 +2,14 @@
 aliases:
   - Evergreen note maintenance approximates spaced repetition
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Viết [[Ghi chú thường xanh]] với cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]) buộc ta phải đọc lại và chỉnh sửa những gì đã viết trước đó. Kiểu ghi chú này, vì vậy, tương tự lặp lại ngắt quãng.
+Viết [[Ghi chú thường xanh|ghi chú thường xanh]] với cấu trúc liên kết dày đặc (xem [[Ghi chú thường xanh nên liên kết dày đặc]]) buộc ta phải đọc lại và chỉnh sửa những gì đã viết trước đó. Vì vậy, kiểu ghi chú này khá giống ôn tập lặp lại ngắt quãng.
 
-Cụ thể, việc lặp lại này bám theo mối quan tâm hiện tại của ta. Ngừng đọc hay viết về một chủ đề thì hầu như sẽ không quay lại nó nữa. Đang đọc hay viết về chủ đề nào, ta xem lại tài liệu cũ về chủ đề đó khá thường xuyên.
+Cụ thể, việc lặp lại này bám theo mối quan tâm hiện tại của ta. Nếu ngừng đọc hay viết về một chủ đề, ta hầu như sẽ không quay lại nó nữa. Còn khi đang đọc hay viết về chủ đề nào, ta xem lại tài liệu cũ về chủ đề đó khá thường xuyên.
 
-Đây không phải kiểu lặp lại ngắt quãng tối ưu cho trí nhớ. Ta không tận dụng được hiệu ứng tạo sinh. Nhưng nó là lăng kính hữu ích để nghĩ về cách phân bổ sự chú ý qua kho ý tưởng tích lũy theo thời gian. Phương pháp này đẩy ta liên tục để mắt đến các ý tưởng cũ có liên quan đến việc đang làm. Và vì ta thường chỉnh sửa luôn ghi chú về những ý tưởng cũ đó, sự chú ý ở đây khá tốn công.
+Đây không phải kiểu lặp lại ngắt quãng tối ưu cho trí nhớ. Ta không tận dụng được hiệu ứng tạo sinh. Nhưng nó là một lăng kính hữu ích để nghĩ về cách phân bổ sự chú ý trong kho ý tưởng tích lũy theo thời gian. Phương pháp này liên tục đẩy ta quay lại các ý tưởng cũ có liên quan đến việc đang làm. Và vì ta thường chỉnh sửa luôn ghi chú về những ý tưởng cũ đó, sự chú ý ở đây khá chủ động và tốn công.
 
 Hiệu ứng tương tự cũng xảy ra khi duy trì các hệ thống liên quan đến [[Transclusion bị giới hạn bởi khả năng kết hợp của mô hình dữ liệu]].
 

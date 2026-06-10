@@ -2,11 +2,11 @@
 aliases:
   - Question-writing in the mnemonic medium may help the writer think about their topic
 created: 2026-05-26
-modified: 2026-06-01
+modified: 2026-06-10
 ---
 
-Vì [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]], nhiều nhà tư tưởng sẽ viết một bài luận hoặc một cuốn sách để hiểu sâu hơn về một chủ đề. Vì những lý do tương tự, viết câu hỏi trong phương tiện ghi nhớ có lẽ cũng giúp người viết hiểu chủ đề của họ sâu hơn.
+Vì [[Viết buộc ta phải hiểu vấn đề sắc bén hơn]], nhiều nhà tư tưởng viết bài luận hoặc sách để hiểu sâu hơn về một chủ đề. Vì lý do tương tự, việc viết câu hỏi trong phương tiện ghi nhớ có lẽ cũng giúp người viết hiểu chủ đề của mình sâu hơn.
 
-Viết câu hỏi hiệu quả đòi hỏi bạn phải phát triển các lý thuyết rõ ràng về những gì quan trọng. Nó đòi hỏi bạn phải cấu trúc chính thức hơn kiến thức có thể đã được biểu diễn lỏng lẻo hơn trong văn xuôi. Vì người đọc sẽ ghi nhớ các thẻ bạn viết, nó thúc đẩy các tác giả đóng khung cẩn thận các khẳng định của họ: liệu đó có thực sự là câu trả lời "đúng" theo quy chuẩn cho câu hỏi này không?
+Viết câu hỏi hiệu quả buộc bạn phải hình thành quan điểm rõ ràng về điều gì là quan trọng. Nó cũng buộc bạn cấu trúc kiến thức một cách chặt chẽ hơn so với khi trình bày lỏng hơn trong văn xuôi. Vì người đọc sẽ ghi nhớ các thẻ bạn viết, việc này thúc đẩy tác giả đóng khung khẳng định của mình cẩn thận hơn: liệu đó có thật sự là câu trả lời "đúng" theo chuẩn cho câu hỏi này không?
 
-Tôi có thể tóm tắt tất cả điều đó bằng cách nói rằng các tác giả trong phương tiện ghi nhớ phải phát triển các lý thuyết kiến thức chính thức hơn xung quanh chủ đề của họ.
+Có thể tóm tắt như sau: tác giả trong phương tiện ghi nhớ phải phát triển một lý thuyết rõ ràng và có cấu trúc hơn về tri thức quanh chủ đề của mình.

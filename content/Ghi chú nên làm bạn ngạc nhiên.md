@@ -2,16 +2,16 @@
 aliases:
   - Notes should surprise you
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
 Nếu đọc và viết ghi chú không đem lại bất ngờ nào, thì làm để làm gì?
 
-Chỉ muốn nhớ thì đã có lặp lại ngắt quãng. Chỉ muốn hiểu thấu một ý tưởng cụ thể trong một bối cảnh hẹp thì chẳng ai bận tâm duy trì cả một hệ thống ghi chú theo thời gian.
+Nếu chỉ muốn nhớ, ta đã có lặp lại ngắt quãng. Nếu chỉ muốn hiểu thấu một ý tưởng cụ thể trong một bối cảnh hẹp, chẳng ai cần duy trì cả một hệ thống ghi chú theo thời gian.
 
 Đây là lý do ta cần mạng lưới liên kết dày đặc ([[Ghi chú thường xanh nên liên kết dày đặc]]): để mỗi lần tìm kiếm lại lộ ra những kết nối không ngờ tới.
 
-Đây cũng là lý do ta tạo [[Ghi chú thường xanh nên hướng khái niệm]]: để khi viết về một ý tưởng tưởng như mới, ta vô tình va lại những gì mình đã viết về nó trước đây (đôi khi theo cách rất bất ngờ).
+Đây cũng là lý do ta tạo [[Ghi chú thường xanh nên hướng khái niệm|ghi chú xoay quanh khái niệm]]: để khi viết về một ý tưởng tưởng như mới, ta vô tình gặp lại những gì mình đã viết về nó trước đây, đôi khi theo cách rất bất ngờ.
 
 ---
 

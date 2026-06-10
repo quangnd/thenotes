@@ -2,7 +2,7 @@
 aliases:
   - Spaced repetition systems can be used to program attention
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng giá trị của phần máy tính nằm cụ thể ở việc lên lịch động và chọn câu hỏi để ôn. Hiệu quả của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] đến từ khả năng *lập trình sự chú ý* của bạn ([[Sự chú ý có thể lập trình]]). Cứ nghĩ: "{cron} cho tâm trí bạn".
 
@@ -21,7 +21,7 @@ Một số ví dụ:
 
 Liên quan:
 - Với các ứng dụng dùng được định dạng thẻ SRS đơn giản, xem [[Các ứng dụng lạ của hệ thống ghi nhớ lặp lại ngắt quãng]]
-- [[Hệ thống lặp lại ngắt quãng như giáo lý vấn đáp]]
+- [[Hệ thống ghi nhớ lặp lại ngắt quãng như giáo lý vấn đáp]]
 - [[Hệ thống ghi nhớ lặp lại ngắt quãng cấp hệ điều hành]]
 
 ---

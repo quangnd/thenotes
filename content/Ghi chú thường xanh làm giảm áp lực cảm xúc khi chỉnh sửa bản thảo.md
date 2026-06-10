@@ -2,16 +2,16 @@
 aliases:
   - Evergreen notes lower the emotional stakes in editing manuscripts
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Trong viết lách, việc "giết những đứa con cưng" (kill one's darlings) có thể rất đau. Công sức bỏ ra cho những đoạn đó dễ cảm thấy như đổ sông đổ biển. Nó còn tạo ra các vòng lặp mở (xem [[Đóng các vòng lặp còn mở]]): ta thấy cần xuất bản những ý tưởng đó ở *đâu đó*, nên phải nhớ chúng (hoặc ghim đoạn văn lại) để đưa vào một bản thảo khác sau này.
+Trong viết lách, việc "giết những đứa con cưng" (kill one's darlings) có thể rất đau. Công sức bỏ ra cho những đoạn đó dễ có cảm giác như đổ sông đổ biển. Nó còn tạo ra các vòng lặp mở (xem [[Đóng các vòng lặp còn mở]]): ta thấy cần xuất bản những ý tưởng đó ở *đâu đó*, nên phải nhớ chúng, hoặc ghim đoạn văn lại, để đưa vào một bản thảo khác sau này.
 
-Nhưng nếu dùng [[Chiến lược thực thi cho việc viết]] dựa trên ghi chú, phần lớn công sức nằm ở việc viết [[Ghi chú thường xanh]]. Tài liệu không dùng cho bài viết cụ thể vẫn có thể trở thành một ghi chú thường xanh, gieo thêm mạng lưới liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) và đóng góp cho hiểu biết trong tương lai (xem [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]). Nếu cần phát triển thêm, nó vào hộp thư viết của bạn ([[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]).
+Nhưng nếu dùng [[Chiến lược thực thi cho việc viết|chiến lược viết dựa trên ghi chú]], phần lớn công sức nằm ở việc viết [[Ghi chú thường xanh|ghi chú thường xanh]]. Tài liệu không dùng cho bài viết cụ thể vẫn có thể trở thành một ghi chú thường xanh, làm dày thêm mạng lưới liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]) và đóng góp cho hiểu biết trong tương lai (xem [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]). Nếu cần phát triển thêm, nó đi vào hộp thư viết của bạn ([[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]).
 
 Đây là một trường hợp hẹp của quan sát tổng quát hơn: [[Van xả cho tư duy phi tuyến tính có thể hỗ trợ đầu ra tuyến tính tốt hơn]].
 
-Thực tế, nếu dùng chiến lược "không định hướng" (phần lớn nội dung viết bật ra từ các ghi chú có sẵn), hầu hết văn bản không hề được viết *cho* bản thảo đó. Vậy thì lo gì nếu vài phần bị cắt ra?
+Thực tế, nếu dùng chiến lược "không định hướng", tức phần lớn nội dung viết bật ra từ các ghi chú có sẵn, hầu hết văn bản không hề được viết *cho* bản thảo đó. Vậy thì lo gì nếu vài phần bị cắt ra?
 
 Liên quan: [[Giao diện phần mềm hay khung các thao tác hủy_xóa thành quyết định cuối cùng, thay vì lựa chọn tạm thời]]
 

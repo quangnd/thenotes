@@ -5,7 +5,7 @@ draft: true
 tags:
   - meta
 created: 2026-05-31
-modified: 2026-05-31
+modified: 2026-06-10
 ---
 
 # Heading 1 — The quick brown fox
@@ -23,7 +23,7 @@ modified: 2026-05-31
 A normal paragraph to check the **body font**, line-height, and measure. It mixes
 **bold text**, *italic text*, ***bold italic***, ~~strikethrough~~, `inline code`,
 and ==highlighted text==. Vietnamese diacritics stress the font: Những thuộc tính
-quan trọng nhất của thẻ ghi nhớ lặp lại ngắt quãng tốt là gì? Đây là một câu dài
+quan trọng nhất của thẻ trong hệ thống ghi nhớ lặp lại ngắt quãng tốt là gì? Đây là một câu dài
 để kiểm tra chiều rộng dòng và cách ngắt dòng tự nhiên trên các kích thước màn hình.
 
 ## Links

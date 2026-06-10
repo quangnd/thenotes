@@ -2,16 +2,16 @@
 aliases:
   - Evergreen notes are a safe place to develop wild ideas
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Khi vừa có một linh cảm mơ hồ về ý tưởng mới, ta dễ muốn ghi lại ngay rồi phát triển nó tại chỗ. Nhưng thường thì cách đó không khả thi, cả về mặt thực tế lẫn cảm xúc. Ý tưởng có thể chưa đủ rõ để xử lý trực tiếp. Trang giấy trắng dễ làm ta chùn tay, các luận điểm vẫn còn mơ hồ.
+Khi vừa có một linh cảm mơ hồ về ý tưởng mới, ta dễ muốn ghi lại ngay rồi phát triển nó tại chỗ. Nhưng thường thì cách đó không khả thi, cả về mặt thực tế lẫn cảm xúc. Ý tưởng có thể chưa đủ rõ để xử lý trực tiếp. Trang giấy trắng dễ làm ta chùn tay, trong khi các luận điểm vẫn còn mơ hồ.
 
-Thay vì vậy, hãy nuôi ý tưởng táo bạo từ từ bằng cách viết dần các [[Ghi chú thường xanh]] về từng khía cạnh nhỏ. Những ghi chú này có phạm vi hẹp hơn nhiều, chỉ cần mô tả một khái niệm nguyên tử ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)]], [[Ghi chú thường xanh nên hướng khái niệm]]).
+Thay vì vậy, hãy nuôi ý tưởng táo bạo từ từ bằng cách viết dần các [[Ghi chú thường xanh|ghi chú thường xanh]] về từng khía cạnh nhỏ. Những ghi chú này có phạm vi hẹp hơn nhiều, chỉ cần mô tả một khái niệm nhỏ và rõ ([[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|ghi chú thường xanh nên đủ nhỏ và tập trung]], [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh nên xoay quanh khái niệm]]).
 
 Ban đầu ý tưởng không cần liên quan đến bất kỳ dòng suy nghĩ nào sẵn có. Theo thời gian, ta dần kết nối nó với các khái niệm khác, cũ hoặc mới. Xem thêm: [[Dùng lặp lại ngắt quãng để nuôi dần những ý tưởng mơ hồ]].
 
-Có thể [[Tạo dàn ý suy đoán trong khi viết]] để gắn các mảnh ghép lại. Theo thời gian, chúng dồn lại thành một tổng thể mạch lạc hơn ([[Ghi chú nên làm bạn ngạc nhiên]] và [[Công việc tri thức nên tích lũy]]).
+Có thể [[Tạo dàn ý suy đoán trong khi viết|tạo dàn ý thử trong khi viết]] để gắn các mảnh ghép lại. Theo thời gian, chúng dồn lại thành một tổng thể mạch lạc hơn ([[Ghi chú nên làm bạn ngạc nhiên]] và [[Công việc tri thức nên tích lũy]]).
 
 Ngược lại: [[Động não thường là thứ thay thế cho hệ thống tích lũy hiểu biết sâu sắc còn thiếu]]
 

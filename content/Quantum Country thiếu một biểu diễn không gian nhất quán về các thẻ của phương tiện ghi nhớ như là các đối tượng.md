@@ -2,21 +2,21 @@
 aliases:
   - Quantum Country lacks a coherent spatial representation of the mnemonic medium’s cards as objects
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-10
 ---
 
-Ít nhất trong lần triển khai ban đầu của [[Công cụ ghi nhớ]] trên [[Quantum Country]], biểu diễn không gian của chúng tôi về các câu hỏi được nhúng trong văn bản không nhất quán. Sự thiếu tính vĩnh cửu của đối tượng kết quả tạo ra sự nhầm lẫn và hạn chế.
+Ít nhất trong lần triển khai ban đầu của [[Công cụ ghi nhớ|phương tiện ghi nhớ]] trên [[Quantum Country]], cách chúng tôi biểu diễn không gian của các câu hỏi nhúng trong văn bản chưa nhất quán. Việc thiếu cảm giác về tính bền vững của đối tượng tạo ra nhầm lẫn và giới hạn trải nghiệm.
 
-Bề ngoài, có vẻ như các thẻ hoạt động như một hình trong sách giáo khoa: chúng nằm ở một vị trí cụ thể trong văn bản chứa đựng. Nhưng ngay khi bạn tương tác với một thẻ, nó biến mất. Bạn không thể "lấy lại nó." Nó đi đâu? Không rõ ràng, mặc dù một bộ đếm tăng lên ở góc. Khi bạn hoàn thành tất cả các câu hỏi trong một phần, phần đó thu gọn lại.
+Nhìn bề ngoài, các thẻ có vẻ hoạt động giống hình minh họa trong sách giáo khoa: chúng nằm ở một vị trí cụ thể trong văn bản chứa chúng. Nhưng ngay khi bạn tương tác với một thẻ, nó biến mất. Bạn không thể "lấy lại" nó. Nó đi đâu? Không rõ, dù có một bộ đếm tăng lên ở góc. Khi bạn hoàn thành tất cả câu hỏi trong một phần, phần đó thu gọn lại.
 
-Nhưng sau đó những thẻ tương tự lại xuất hiện ở một "nơi" riêng biệt—trong phiên ôn tập. Chúng tôi không có nỗ lực rõ ràng để liên kết thẻ đó với thẻ như nó ban đầu xuất hiện trong văn bản.
+Nhưng sau đó, chính các thẻ đó lại xuất hiện ở một "nơi" riêng: trong phiên ôn tập. Chúng tôi chưa có cách rõ ràng để liên kết thẻ trong phiên ôn tập với thẻ như nó từng xuất hiện ban đầu trong văn bản.
 
-Gây nhầm lẫn thêm: nếu bạn tình cờ quay lại văn bản trước khi hoàn thành một phiên ôn tập đang chờ xử lý, các câu hỏi quá hạn thực sự sẽ xuất hiện trong văn bản ở vị trí ban đầu của chúng. Nếu các anh chị em của chúng trong một bộ ôn tập chưa đến hạn, những câu hỏi đó sẽ không xuất hiện.
+Điều này còn gây nhầm lẫn hơn trong một trường hợp khác: nếu bạn quay lại văn bản trước khi hoàn thành một phiên ôn tập đang chờ xử lý, các câu hỏi quá hạn sẽ thật sự xuất hiện trong văn bản tại vị trí ban đầu của chúng. Nếu các câu hỏi cùng nhóm trong một bộ ôn tập chưa đến hạn, chúng sẽ không xuất hiện.
 
-Nhiều người đọc đã báo cáo sự nhầm lẫn và khó chịu từ những hành vi này.
+Nhiều người đọc đã nói rằng các hành vi này khiến họ bối rối và khó chịu.
 
-Chúng tôi cũng làm phức tạp thêm một chút bằng cách giới thiệu cơ chế thử lại, làm cho các thẻ từ một bộ ôn tập xuất hiện lại trong một bộ khác khi bị quên. Chúng tôi thêm một dấu hiệu đặc biệt trong trường hợp này, nhưng nó vẫn khá mất kết nối.
+Chúng tôi cũng làm vấn đề phức tạp hơn một chút khi giới thiệu cơ chế thử lại, khiến các thẻ từ một bộ ôn tập xuất hiện lại trong một bộ khác nếu người đọc quên. Chúng tôi thêm một dấu hiệu đặc biệt cho trường hợp này, nhưng nó vẫn khá rời rạc.
 
-Các biến thể được mô tả trong [[Câu hỏi ứng dụng nên thay đổi khi lặp lại]] làm phức tạp thêm vấn đề: các biến thể câu hỏi thuộc về một "tổng thể" vô hình chưa bao giờ được biểu diễn như một đối tượng trong giao diện, thay vào đó được nhìn qua các biểu diễn thay đổi theo thời gian.
+Các biến thể được mô tả trong [[Câu hỏi ứng dụng nên thay đổi khi lặp lại]] còn làm vấn đề phức tạp hơn: các biến thể câu hỏi thuộc về một "tổng thể" vô hình chưa bao giờ được biểu diễn như một đối tượng trong giao diện. Thay vào đó, người đọc chỉ thấy các biểu diễn thay đổi theo thời gian.
 
 Chúng tôi sẽ cần cải thiện tình huống này để thúc đẩy các ý tưởng được mô tả trong [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]].

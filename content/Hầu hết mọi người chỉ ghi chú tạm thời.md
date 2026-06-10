@@ -2,14 +2,14 @@
 aliases:
   - Most people take only transient notes
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Khác với [[Ghi chú thường xanh]], [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]]. Kiểu ghi chú này tiện viết, nhưng sau một năm thì chỉ còn lại một đống ghi chú rời rạc. Chúng không *cộng dồn* thành thứ gì cả. Chúng giống nhiên liệu hơn, viết ra rồi bỏ đi để tác giả xử lý những gì đang xảy ra trong đầu.
+Khác với [[Ghi chú thường xanh|ghi chú thường xanh]], [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]]. Kiểu ghi chú này tiện viết, nhưng sau một năm thì chỉ còn lại một đống ghi chú rời rạc. Chúng không *cộng dồn* thành thứ gì cả. Chúng giống nhiên liệu hơn: được viết ra rồi bỏ đi để người viết xử lý những gì đang diễn ra trong đầu.
 
-Ghi chú tạm thời là bản nháp có ích để hỗ trợ tạm thời cho bộ nhớ làm việc. Nhưng vì [[Công việc tri thức nên tích lũy]], nên xem chúng như đầu vào "suy nghĩ lộn xộn" cho những ghi chú "suy nghĩ gọn gàng" sau này (Khoe).
+Ghi chú tạm thời là bản nháp có ích để hỗ trợ bộ nhớ làm việc trong ngắn hạn. Nhưng vì [[Công việc tri thức nên tích lũy]], nên xem chúng như đầu vào "suy nghĩ lộn xộn" cho những ghi chú "suy nghĩ gọn gàng" sau này (Khoe).
 
-Đây là một lý do tại sao [[Cách viết ghi chú thông thường không hiệu quả]].
+Đây là một lý do khiến [[Cách viết ghi chú thông thường không hiệu quả]].
 
 ---
 

@@ -2,10 +2,10 @@
 aliases:
   - The mnemonic medium may help scaffold prompt-writing through author-provided prompts
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-[[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]], điều này giúp giảm nhẹ [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]]. Nhưng bằng cách bao gồm các câu nhắc, chúng ta cũng giúp những người đọc muốn tự viết một số câu nhắc. Họ được xem các ví dụ chuyên gia về việc viết câu nhắc, mà họ có thể sử dụng như mẫu cho các câu nhắc của riêng mình.
+[[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]], điều này giúp giảm nhẹ [[Viết thẻ tốt cho hệ thống ghi nhớ lặp lại ngắt quãng rất khó]]. Nhưng bằng cách bao gồm các câu nhắc, chúng ta cũng giúp những người đọc muốn tự viết một số câu nhắc. Họ được xem các ví dụ chuyên gia về việc viết câu nhắc, mà họ có thể sử dụng như mẫu cho các câu nhắc của riêng mình.
 
 Một số độc giả [[Quantum Country]] đã cho chúng tôi biết rằng họ đã thử và từ bỏ Anki trước khi đọc Quantum Country, nhưng từ đó họ đã quay lại vì giờ họ đã có ý tưởng rõ ràng hơn về cách viết câu nhắc.
 

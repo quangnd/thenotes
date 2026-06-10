@@ -2,10 +2,10 @@
 aliases:
   - §What’s top of mind
 created: 2026-05-26
-modified: 2026-05-31
+modified: 2026-06-10
 ---
 
-Giống như một [trang /now](https://sivers.org/nowff), nhưng với khung thời gian rộng hơn và tập trung vào những gì tôi đang suy nghĩ.
+Giống một [trang /now](https://sivers.org/nowff), nhưng có khung thời gian rộng hơn và tập trung vào những điều tôi đang suy nghĩ.
 
 - Mở rộng và hiểu [[Công cụ ghi nhớ]]
 - [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]

@@ -2,18 +2,18 @@
 aliases:
   - Executable strategy for writing
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
-Mọi người thường bắt đầu bài viết với một ý tưởng mơ hồ và một trang giấy trắng. Để nhích được vài bước, bạn cần lượng năng lượng khởi động và sức nghĩ rất lớn. Không có gì sẵn bên ngoài, nên phải nhồi nhét mọi thứ trong đầu cùng lúc.
+Mọi người thường bắt đầu bài viết với một ý tưởng mơ hồ và một trang giấy trắng. Để nhích được vài bước, bạn cần rất nhiều năng lượng khởi động và công sức suy nghĩ. Không có gì sẵn bên ngoài, nên phải giữ mọi thứ trong đầu cùng lúc.
 
-Ngược lại, nếu đã có sẵn nhiều [[Ghi chú thường xanh]] xoay quanh chủ đề, công việc giống biên tập hơn là sáng tác. Chỉ cần xáo trộn các tiêu đề ghi chú để dựng dàn ý, viết bù những phần còn thiếu, rồi gọt giũa thành một câu chuyện liền mạch. Thực ra, vì bạn đã [[Tạo dàn ý suy đoán trong khi viết]], bước đầu tiên có khi đã xong từ lâu. Việc viết từng ghi chú cũng không nặng nề: [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]].
+Ngược lại, nếu đã có sẵn nhiều [[Ghi chú thường xanh|ghi chú thường xanh]] xoay quanh chủ đề, công việc giống biên tập hơn là sáng tác. Chỉ cần xáo trộn các tiêu đề ghi chú để dựng dàn ý, viết bù những phần còn thiếu, rồi gọt giũa thành một câu chuyện liền mạch. Thực ra, vì bạn đã [[Tạo dàn ý suy đoán trong khi viết|tạo dàn ý thử trong khi viết]], bước đầu tiên có khi đã xong từ lâu. Việc viết từng ghi chú cũng không nặng nề: [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)|ghi chú thường xanh giúp việc viết tiến triển đều đặn từng bước]].
 
-Thay vì đối mặt với nhiệm vụ kiểu "viết dàn ý cho chương đầu", bạn có nhiệm vụ kiểu "tìm các ghi chú liên quan". Mỗi bước đều khả thi. Đây là một [[Chiến lược thực thi]]).
+Thay vì đối mặt với nhiệm vụ kiểu "viết dàn ý cho chương đầu", bạn có nhiệm vụ kiểu "tìm các ghi chú liên quan". Mỗi bước đều khả thi. Đây là một [[Chiến lược thực thi|chiến lược có thể thực thi]].
 
-Có hai cách tiếp cận: bản **không định hướng**, khi các dự án viết tự nảy sinh từ công việc hàng ngày; và bản **có định hướng**, khi cần viết về một chủ đề cụ thể.
+Có hai cách tiếp cận: bản **không định hướng**, khi các dự án viết tự nảy sinh từ công việc hằng ngày; và bản **có định hướng**, khi cần viết về một chủ đề cụ thể.
 
 #### Bản không định hướng:
-1. Viết ghi chú thường xanh liên tục trong lúc đọc và suy nghĩ. ([[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]])
+1. Viết ghi chú thường xanh liên tục trong lúc đọc và suy nghĩ ([[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]).
 2. Mỗi khi thêm một ghi chú, gắn liên kết của nó vào một dàn ý, tạo dàn ý mới nếu cần ([[Tạo dàn ý suy đoán trong khi viết]]).
 3. Sớm muộn sẽ có một dàn ý làm bạn hứng thú muốn phát triển. ([[Hãy để ý tưởng và niềm tin nảy sinh một cách tự nhiên]])
 4. Viết ghi chú mới để lấp các chỗ trống của dàn ý.

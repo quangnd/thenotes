@@ -2,16 +2,16 @@
 aliases:
   - Evergreen notes should be densely linked
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Ép bản thân tạo thêm liên kết giữa các ghi chú buộc ta phải nghĩ rộng ra: còn khái niệm nào khác liên quan đến điều mình đang nghĩ? Nó tạo sức ép để cân nhắc kỹ cách các ý tưởng gắn với nhau (xem [[Muốn hiểu thì phải bỏ công]] và [[Ghi chú thường xanh nên hướng khái niệm]]). Nó cũng giúp ta nội hóa ý tưởng sâu hơn nhờ [[Mã hóa tinh chế]].
+Ép bản thân tạo thêm liên kết giữa các ghi chú buộc ta phải nghĩ rộng ra: còn khái niệm nào khác liên quan đến điều mình đang nghĩ? Việc này tạo sức ép để ta cân nhắc kỹ cách các ý tưởng gắn với nhau (xem [[Muốn hiểu thì phải bỏ công]] và [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh nên xoay quanh khái niệm]]). Nó cũng giúp ta nội hóa ý tưởng sâu hơn nhờ [[Mã hóa tinh chế]].
 
 Tìm đúng liên kết đòi hỏi đọc lại các ghi chú cũ, nên đây cũng là cơ chế tự nhiên để ôn lại ghi chú theo từng khoảng thời gian ([[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]). Việc này có thể dẫn tới những phát hiện bất ngờ ([[Ghi chú nên làm bạn ngạc nhiên]]).
 
-Ghi lại các kết nối cũng là cách lưu lại lối tư duy đã dẫn ta tới kết luận, hữu ích cho chính ta (hoặc đồng nghiệp) về sau. Càng làm được nhiều càng tốt, nên [[Ưu tiên các liên kết chi tiết]]. Ngược lại, [[Thẻ là cấu trúc liên kết kém hiệu quả]].
+Ghi lại các kết nối cũng là cách lưu lại lối tư duy đã dẫn ta tới kết luận, hữu ích cho chính ta hoặc đồng nghiệp về sau. Càng làm được nhiều càng tốt, nên [[Ưu tiên các liên kết chi tiết]]. Ngược lại, [[Thẻ là cấu trúc liên kết kém hiệu quả]].
 
-Khi lướt qua ghi chú, các kết nối mở ra nhiều lối đi xuyên qua không gian ý tưởng. Ta hay bị cám dỗ điều hướng theo phân cấp, nhưng liên kết thì cắt ngang lĩnh vực và chủ đề. [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp]]
+Khi lướt qua ghi chú, các kết nối mở ra nhiều lối đi xuyên qua không gian ý tưởng. Ta hay bị cám dỗ điều hướng theo phân cấp, nhưng liên kết thì cắt ngang lĩnh vực và chủ đề. [[Ưu tiên bản thể học liên kết hơn phân loại phân cấp|Ưu tiên mạng lưới liên kết hơn phân loại theo tầng bậc]]
 
 Luhmann thậm chí lập luận rằng...
 
@@ -19,7 +19,7 @@ Luhmann thậm chí lập luận rằng...
 >
 > (In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary.)
 
-Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Phải dừng lại viết một ghi chú mới mỗi lần cần thì cảm giác rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều. (xem thêm [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)]]).
+Không nhất thiết phải liên kết tới ghi chú đã có sẵn: [[Liên kết ngược có thể được dùng để định nghĩa ngầm các nút trong hệ thống quản lý tri thức]]. Nếu mỗi lần cần liên kết lại phải dừng để viết một ghi chú mới, cảm giác sẽ rất gượng. Liên kết tới một bản nháp thì thoải mái hơn nhiều (xem thêm [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)|ghi chú thường xanh giúp việc viết tiến triển đều đặn từng bước]]).
 
 Ngoài giá trị lâu dài của các liên kết đã ghi lại, chúng còn giúp dẫn dắt sự chú ý khi viết nháp: [[Van xả cho tư duy phi tuyến tính có thể hỗ trợ đầu ra tuyến tính tốt hơn]].
 

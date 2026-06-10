@@ -2,12 +2,12 @@
 aliases:
   - Timeful text
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-[[Phương tiện đại chúng hầu như thiếu chiều thời gian được tác giả thiết kế vượt quá một ngày]]. Đây có vẻ là một chiều tác giả mạnh mẽ để khám phá, như được minh họa bởi ví dụ [[Ứng dụng thiền có hướng dẫn tự nhiên trải dài theo thời gian]].
+[[Phương tiện đại chúng hầu như thiếu chiều thời gian được tác giả thiết kế vượt quá một ngày]]. Đây có vẻ là một hướng thiết kế mạnh mẽ đáng khám phá, như ví dụ [[Ứng dụng thiền có hướng dẫn tự nhiên trải dài theo thời gian]] cho thấy.
 
-Chúng ta có thể gọi những văn bản có chiều thời gian được tác giả tạo ra là *văn bản có chiều thời gian* (timeful texts).
+Ta có thể gọi những văn bản được tác giả thiết kế để trải ra theo thời gian là *văn bản có chiều thời gian* (timeful texts).
 
 - [[Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]
 - [[Phương tiện ghi nhớ có thể được thiết kế để mở ra trải nghiệm theo thời gian]]

@@ -2,22 +2,23 @@
 aliases:
   - Educational objectives often subvert themselves
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-[[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân]], nhưng trong đa số môi trường giáo dục, mối quan tâm chính lại là *làm cho ai đó (hoặc chính mình) biết một điều gì đó*. Bản thân việc đó thường không phải là mục đích có ý nghĩa nội tại (ngược lại với [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]]).
+[[Một số hoạt động _giáo dục_ có mục đích ý nghĩa tự thân|Một số hoạt động giáo dục có mục đích ý nghĩa tự thân]], nhưng trong phần lớn môi trường giáo dục, mối quan tâm chính lại là *làm cho ai đó, hoặc chính mình, biết một điều gì đó*. Bản thân việc đó thường không phải là một mục đích có ý nghĩa tự thân, trái với [[Hoạt động trong môi trường khai phóng phục vụ trực tiếp một mục đích có ý nghĩa nội tại]].
 
-Bám chặt vào kết quả học tập là bám vào thứ thường chỉ là hệ quả của một nguyên nhân sâu hơn: một mục đích có ý nghĩa nội tại liên quan đến chính tài liệu đó. Khi cố tạo ra hệ quả mà không có nguyên nhân, giáo viên biến học sinh thành người phụ thuộc. Anh ta là nguồn không chỉ của chuyên môn, mà còn của mục đích. Trong mối quan hệ đó, vai trò của giáo viên được định nghĩa bằng chính sự vượt trội của mình. Nó thường lộ ra dưới dạng thái độ kẻ cả (dù không cố ý).
+Bám chặt vào kết quả học tập là bám vào thứ thường chỉ là hệ quả của một nguyên nhân sâu hơn: một mục đích có ý nghĩa tự thân gắn với chính tài liệu đó. Khi cố tạo ra hệ quả mà không có nguyên nhân, giáo viên biến học sinh thành người phụ thuộc. Giáo viên không chỉ là nguồn chuyên môn, mà còn là nguồn mục đích. Trong mối quan hệ đó, vai trò của giáo viên được định nghĩa bằng sự vượt trội của mình. Điều này thường lộ ra thành thái độ kẻ cả, dù không cố ý.
 
-[[Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập được điều chỉnh từ bên ngoài là tự phủ nhận]]. Học sinh cảm nhận được sự phủ nhận đó, và thường phản ứng bằng cách bỏ cuộc, hoặc thu hẹp cảm giác trách nhiệm trí tuệ của mình. Cả hai phản ứng đều khuếch đại tính bất đối xứng giữa giáo viên và học sinh, rồi sự bất đối xứng đó lại khuếch đại cảm giác vượt trội (dù cố ý hay không) mà giáo viên truyền tải.
+[[Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập được điều chỉnh từ bên ngoài là tự phủ nhận|Học tập được điều chỉnh từ bên trong là tự hiện thực hóa; học tập bị điều khiển từ bên ngoài là tự phủ nhận]]. Học sinh cảm nhận được sự phủ nhận đó, và thường phản ứng bằng cách bỏ cuộc hoặc thu hẹp cảm giác trách nhiệm trí tuệ của mình. Cả hai phản ứng đều làm tăng tính bất đối xứng giữa giáo viên và học sinh. Rồi chính sự bất đối xứng đó lại khuếch đại cảm giác vượt trội, dù cố ý hay không, mà giáo viên truyền tải.
 
-[[Hiểu biết sâu sắc đòi hỏi (và là kết quả của) sự kết nối cá nhân mãnh liệt]]. Thái độ kẻ cả và sự phụ thuộc bên ngoài rất khó tạo ra kết nối đó. Thường thì chính giáo viên hoặc tác giả cũng không có kết nối như vậy với tài liệu, khiến thái độ kẻ cả càng tệ thêm (xem [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]]). Theo Bret:
+[[Hiểu biết sâu sắc đòi hỏi (và là kết quả của) sự kết nối cá nhân mãnh liệt|Hiểu biết sâu sắc đòi hỏi sự kết nối cá nhân mạnh mẽ, và cũng là kết quả của kết nối đó]]. Thái độ kẻ cả và sự phụ thuộc vào bên ngoài rất khó tạo ra kết nối này. Thường thì chính giáo viên hoặc tác giả cũng không có kết nối như vậy với tài liệu, khiến thái độ kẻ cả càng nặng hơn. Xem [[Các môi trường do tác giả tạo ra bị ảnh hưởng đáng kể bởi động lực của tác giả]]. Theo Bret:
 
 > Tôi không nghĩ nhiều nhà thiết kế vốn say mê chuyện đếm đến mười, hay phép cộng. Cho nên tài liệu về những chủ đề đó không được tạo ra để trao quyền trực tiếp hay chia sẻ tình yêu với chủ đề, mà từ góc nhìn "Tôi biết khái niệm này, bạn không biết, và tôi nghĩ bạn cần biết điều tôi biết." Cái đó tạo ra một sự mất cân bằng, một sự bất đối xứng, giữa "giáo viên" và "học sinh". Và sự bất đối xứng đó thường biểu hiện ra dưới dạng *thái độ kẻ cả*.
 > 
 > (I don't imagine that many designers are inherently fascinated by counting to ten, or addition. So material on those subjects is created neither for direct empowerment or sharing the love, but from a standpoint of "I know this concept, and you don't this concept, and I think you need to know what I know." That creates an imbalance, an asymmetry, between a "teacher" and a "student". And that asymmetry often expresses itself as *condescension*.)
 
-### Liên quan:
+### Liên quan
+
 - [[Môi trường khai phóng tập trung vào tạo cơ hội phát triển và hành động, không phải xây dựng kỹ năng]]
 - [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng]]
 - [[Môi trường giáo dục thường không đòi hỏi tư duy nguyên bản]]

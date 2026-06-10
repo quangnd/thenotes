@@ -1,6 +1,6 @@
 ---
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-10
 ---
 Readwise là một dịch vụ cố gắng giúp bạn duy trì sự gắn kết với những ý tưởng thú vị mà bạn đã đọc. Nó trích xuất các đoạn đánh dấu từ Kindle, dịch vụ "đọc sau", sách giấy qua ảnh + OCR, v.v. Sau đó nó gửi cho bạn một email hàng ngày với một tập hợp ngẫu nhiên các đoạn đánh dấu đó để chúng được làm mới định kỳ trong tâm trí bạn.
 
@@ -12,7 +12,7 @@ Họ dần dần giới thiệu một số tính năng của [[Hệ thống ghi 
 
 Lưu ý rằng các hành động phản hồi cốt lõi trong Readwise là các nút điều chỉnh thời điểm hiển thị lại đoạn đánh dấu (sớm hơn, muộn hơn, cuối cùng). Bạn không đánh dấu mình đã nhớ đúng hay sai.
 
-Nếu mục tiêu là tạo ra các câu hỏi gợi nhớ SRS tốt, tôi lo rằng cách này sẽ không hoạt động tốt: [[Câu hỏi điền khuyết dường như tạo ra ít hiểu biết hơn so với các cặp câu hỏi-trả lời trong hệ thống trí nhớ lặp lại ngắt quãng]], và hầu hết mọi người sẽ không viết được câu hỏi/trả lời tốt vì [[Viết thẻ ghi nhớ lặp lại ngắt quãng tốt rất khó]]. Giao diện này cũng mã hóa mối quan hệ 1:1 giữa các đoạn văn và câu hỏi, điều này không tốt cho việc học tài liệu kỹ lưỡng: [[Các câu nhắc ghi nhớ lặp lại ngắt quãng nên mã hóa ý tưởng từ nhiều góc độ]].
+Nếu mục tiêu là tạo ra các câu hỏi gợi nhớ SRS tốt, tôi lo rằng cách này sẽ không hoạt động tốt: [[Câu hỏi điền khuyết dường như tạo ra ít hiểu biết hơn so với các cặp câu hỏi-trả lời trong hệ thống ghi nhớ lặp lại ngắt quãng]], và hầu hết mọi người sẽ không viết được câu hỏi/trả lời tốt vì [[Viết thẻ tốt cho hệ thống ghi nhớ lặp lại ngắt quãng rất khó]]. Giao diện này cũng mã hóa mối quan hệ 1:1 giữa các đoạn văn và câu hỏi, điều này không tốt cho việc học tài liệu kỹ lưỡng: [[Các câu nhắc trong hệ thống ghi nhớ lặp lại ngắt quãng nên mã hóa ý tưởng từ nhiều góc độ]].
 
 Nhưng mục tiêu *không phải* là tạo ra trí nhớ chi tiết: nó gần hơn với nguyện vọng được mô tả trong [[Văn bản có chiều thời gian]], tập trung vào hiệu ứng tôi mô tả trong [[Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]. "...mục đích là lập trình lại bộ não của bạn. Để chuẩn bị tâm trí bạn nhận ra các mẫu, hình thành kết nối, và đưa ra ý tưởng đúng vào đúng thời điểm." Cách tiếp cận này có thực sự làm được điều đó không? Khó biết! Bằng chứng cho điều này không rõ ràng như đối với trí nhớ, nhưng đó là một phần thú vị. Vì khó định lượng loại kết quả này, điều này thực sự khiến một doanh nghiệp trở thành nơi tốt hơn để thử nghiệm ý tưởng: nếu mọi người tiếp tục trả tiền cho dịch vụ, họ rõ ràng thấy nó có giá trị.
 

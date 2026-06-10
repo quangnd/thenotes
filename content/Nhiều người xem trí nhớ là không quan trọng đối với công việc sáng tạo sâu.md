@@ -2,12 +2,12 @@
 aliases:
   - Many people view memory as unimportant to deep creative work
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Khi nói với người khác rằng [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], mọi người thường phản ứng khá tiêu cực: "Nhớ tất cả những thứ đó để làm gì? Kiến thức thuộc lòng không phải điều quan trọng: tôi muốn hiểu biết khái niệm, sáng tạo, nghệ thuật, v.v.!"
+Khi tôi nói với người khác rằng [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], họ thường phản ứng khá tiêu cực: "Nhớ tất cả những thứ đó để làm gì? Kiến thức học thuộc lòng đâu phải điều quan trọng. Tôi muốn hiểu khái niệm, sáng tạo, làm nghệ thuật, v.v.!"
 
-Một phản hồi cho điều này là chỉ ra rằng trên thực tế, [[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]]. Nhưng cũng quan trọng để nghiêm túc xem xét các lập luận chống lại giá trị của việc ghi nhớ. Một số phản hồi ở đó:
+Một cách phản hồi là chỉ ra rằng trên thực tế, [[Dùng hệ thống ghi nhớ lặp lại ngắt quãng để hiểu khái niệm sâu hơn]]. Nhưng cũng cần xem xét nghiêm túc các lập luận phản đối giá trị của việc ghi nhớ. Một số phản hồi liên quan:
 
 - [[Hiểu sâu cần kiến thức chi tiết về nền tảng]]
 	- [[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]]

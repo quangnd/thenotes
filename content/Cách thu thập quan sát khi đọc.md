@@ -2,20 +2,20 @@
 aliases:
   - How to collect observations while reading
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-10
 ---
-Quan trọng là phải [[Viết về thứ mình đọc]], nhưng chuyển qua chuyển lại giữa đọc và viết ghi chú hoàn chỉnh rất phân tâm. Thay vào đó, hãy ghi lại các quan sát một cách nhẹ nhàng trong lúc đọc. Bỏ chúng vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Việc đó [[Đóng các vòng lặp còn mở]], và bạn sẽ xử lý chúng sau (xem [[Cách xử lý chú thích đọc thành ghi chú thường xanh]]).
+[[Viết về thứ mình đọc]] là việc quan trọng, nhưng chuyển qua chuyển lại giữa đọc và viết ghi chú hoàn chỉnh rất dễ mất tập trung. Thay vào đó, hãy ghi nhanh các quan sát trong lúc đọc. Bỏ chúng vào [[Hộp thư viết cho ghi chú tạm thời và chưa hoàn thiện]]. Việc đó giúp [[Đóng các vòng lặp còn mở|đóng các vòng lặp còn mở]], rồi bạn sẽ xử lý chúng sau (xem [[Cách xử lý chú thích đọc thành ghi chú thường xanh|cách chuyển chú thích khi đọc thành ghi chú thường xanh]]).
 
-Bản thân các chú thích, kể cả ghi chú bên lề kèm suy nghĩ của bạn, có giá trị thông tin rất thấp. Chúng rời rạc, không liên kết với nhau, không cộng dồn thành cái gì, cực kỳ cô đọng, và phần lớn chưa được biên tập. Không sao cả. Hãy coi chúng như một lời nhắc. Chúng nói "này, nhìn lại đoạn này đi", kèm vài từ ngữ cảnh để gợi nhớ về nội dung của đoạn văn.
+Bản thân các chú thích, kể cả ghi chú bên lề kèm suy nghĩ của bạn, có giá trị thông tin rất thấp. Chúng rời rạc, không liên kết với nhau, không cộng dồn thành thứ gì, rất cô đọng, và phần lớn chưa được biên tập. Không sao cả. Hãy coi chúng như lời nhắc. Chúng nói: "này, nhìn lại đoạn này đi", kèm vài từ ngữ cảnh để gợi nhớ nội dung đoạn văn.
 
-Vì dù sao bạn cũng sẽ viết ghi chú lâu dài, chú thích chỉ cần đủ thông tin để tái tạo bối cảnh tinh thần của bạn lúc đọc. Bạn sẽ không muốn dựa vào chúng lâu dài, vì khi đó bạn chỉ còn một đống móc nối mà phải "lần theo" mỗi lần muốn nghĩ về trải nghiệm đọc cuốn sách đó.
+Vì dù sao bạn cũng sẽ viết ghi chú lâu dài, chú thích chỉ cần đủ thông tin để khôi phục bối cảnh suy nghĩ của bạn lúc đọc. Bạn sẽ không muốn dựa vào chúng lâu dài, vì khi đó mỗi lần muốn nghĩ lại về trải nghiệm đọc cuốn sách đó, bạn chỉ còn một đống dấu vết phải "lần theo".
 
-Khi xử lý các quan sát này, bạn sẽ cần nhìn được bức tranh tổng thể và thấy được các cụm ý tưởng, nên thu thập chú thích theo cách dễ thao tác sẽ rất có ích.
+Khi xử lý các quan sát này, bạn cần nhìn được bức tranh tổng thể và nhận ra các cụm ý tưởng. Vì vậy, thu thập chú thích theo cách dễ thao tác sẽ rất có ích.
 
 Cụ thể, đây là cách tôi đang thử:
 
 - Sách giấy:
-	- Viết vài từ suy nghĩ lên mẩu giấy A7 ([[Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]])
+	- Ghi vài từ về suy nghĩ của mình lên mẩu giấy A7 ([[Sổ tay bỏ túi để ghi vào hộp thư viết khi ra ngoài]])
 	- Vẽ chấm hoặc gạch ở lề các đoạn thú vị và gấp góc trang.
 - Bài viết web:
 	- Copy-paste các đoạn trích thú vị vào một ghi chú làm việc duy nhất trong hộp thư viết.
@@ -24,7 +24,7 @@ Cụ thể, đây là cách tôi đang thử:
 	- Dùng công cụ đánh dấu trong ứng dụng.
 	- Xuất tất cả đánh dấu vào một ghi chú làm việc trong Hộp thư đến để phân cụm ==CẦN LÀM==
 
-Các giải pháp kỹ thuật số khá đáng thất vọng. Duyệt giữa các chú thích trong đó chậm và nặng nề.
+Các giải pháp kỹ thuật số khá đáng thất vọng. Việc duyệt qua các chú thích trong đó chậm và nặng nề.
 
 ---
 
