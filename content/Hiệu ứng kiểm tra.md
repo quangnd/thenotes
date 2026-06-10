@@ -2,18 +2,18 @@
 aliases:
   - Testing effect
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Mỗi lần bạn tự kiểm tra trí nhớ về một chi tiết, trí nhớ về chi tiết đó được củng cố.
+Mỗi lần bạn tự kiểm tra xem mình có nhớ một chi tiết hay không, ký ức về chi tiết đó lại được củng cố.
 
 Thực nghiệm cho thấy hiệu ứng này vẫn xảy ra ngay cả khi không đưa ra đáp án đúng, và ngay cả khi người làm bài được phép "tra sách" để tìm đáp án. Hiệu ứng này đã được chứng minh ở nhiều lĩnh vực và nhiều độ tuổi.
 
-Về bản chất giống với "hiệu ứng tạo ra" (generation effect).
+Về bản chất, nó giống với "hiệu ứng tạo ra" (generation effect).
 
 ==viết nhanh để tham chiếu từ các ghi chú khác, chưa tra tài liệu hay bổ sung chi tiết== (quickly written to reference from other notes, without looking up references or filling in details)
 
-xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]
+Xem thêm [[Những khó khăn đáng mong muốn, theo Bjork]]
 
 ---
 

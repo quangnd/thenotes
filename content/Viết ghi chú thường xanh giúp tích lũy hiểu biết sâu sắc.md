@@ -5,11 +5,11 @@ created: 2026-05-26
 modified: 2026-06-10
 ---
 
-Phần lớn suy nghĩ hằng ngày trong công việc sáng tạo bị cuốn trôi, như lâu đài cát khi thủy triều lên. Tính tạm thời đôi khi có ích cho những suy nghĩ sơ bộ, nhưng thường thì nó chỉ là hệ quả ngẫu nhiên. Với những suy nghĩ nghiêm túc, ta nên ghi lại dưới dạng [[Ghi chú thường xanh|ghi chú thường xanh]] để tư duy có thể tích lũy.
+Phần lớn suy nghĩ hằng ngày trong công việc sáng tạo bị cuốn trôi, như lâu đài cát khi thủy triều lên. Sự tạm thời đôi khi có ích cho những suy nghĩ sơ bộ, nhưng thường thì nó chỉ là hệ quả ngẫu nhiên. Với những suy nghĩ nghiêm túc, ta nên ghi lại dưới dạng [[Ghi chú thường xanh|ghi chú thường xanh]] để tư duy có thể tích lũy.
 
 [[Những bước nhảy hiểu biết sâu sắc nảy sinh từ tư duy trước đó]]. Vậy tư duy đó diễn ra ở đâu? Có thể trong đầu, hoặc trong những bản nháp rời rạc trên sổ tay. Nhưng [[Công việc tri thức nên tích lũy]], và hai cách đó rất dễ thất thoát.
 
-Hãy hình dung một bước nhảy hiểu biết sâu sắc mà bạn muốn đạt tới. Để đến được đó, thường cần phát triển song song nhiều ý tưởng độc lập, mỗi ý hình thành một phần, cho đến khi chúng đột ngột hội tụ trong khoảnh khắc lóe sáng. Khi phải xoay vài mảnh ghép cùng lúc, giữ tất cả trong đầu là gần như không thể.
+Hãy hình dung một bước nhảy hiểu biết sâu sắc mà bạn muốn đạt tới. Để đến được đó, thường cần phát triển song song nhiều ý tưởng độc lập, mỗi ý mới hình thành được một phần, cho đến khi chúng đột ngột hội tụ trong khoảnh khắc lóe sáng. Khi phải xoay vài mảnh ghép cùng lúc, giữ tất cả trong đầu là gần như không thể.
 
 Ngược lại, vì [[Ghi chú thường xanh nên ở mức nguyên tử (atomic)|ghi chú thường xanh nên đủ nhỏ và tập trung]], mỗi ghi chú đủ nhỏ để bắt đầu và hoàn thành trong dưới nửa giờ (xem [[Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)|ghi chú thường xanh giúp việc viết tiến triển đều đặn từng bước]]). Mỗi ghi chú viết ra là một bước tiến trong tư duy về ý tưởng đó, đồng thời làm dày thêm mạng lưới liên kết ([[Ghi chú thường xanh nên liên kết dày đặc]]). Vì là [[Ghi chú thường xanh|ghi chú thường xanh]], lần sau quay lại bạn có một điểm tựa rõ ràng để tiếp tục đào sâu ý tưởng cụ thể đó.
 

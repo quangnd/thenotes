@@ -2,10 +2,10 @@
 aliases:
   - We don’t know how to measure knowledge worker productivity
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Không thể đếm số "sản phẩm" của [[Công việc tri thức]] như đếm sản phẩm ở nhà máy. Cùng lắm chỉ đo được các chỉ báo trễ kiểu OKR, nhưng những thứ đó tách rời khỏi bản thân công việc.
+Không thể đếm số "sản phẩm" của [[Công việc tri thức]] như đếm sản phẩm ở nhà máy. Cùng lắm ta chỉ đo được các chỉ báo trễ kiểu OKR, nhưng chúng vẫn tách rời khỏi bản thân công việc.
 
 ---
 

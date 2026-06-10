@@ -2,13 +2,13 @@
 aliases:
   - Core practices in knowledge work are often ad-hoc
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Công việc thường ngày của người làm [[Công việc tri thức]] thường bao gồm các nhiệm vụ phức tạp, không rõ ràng như tìm hiểu kiến thức cơ bản về một ngành mới hoặc viết một bản ghi nhớ về một vấn đề chiến lược nào đó. Ngay cả khi những trách nhiệm này là cốt lõi trong công việc, cách tiếp cận của người làm công việc tri thức đối với các nhiệm vụ này thường mang tính tùy hứng, có lẽ được tạo ra tại chỗ dựa trên kinh nghiệm trước đó, bản năng, châm ngôn, và cảm hứng nhất thời. Những thực hành này là đối lập của một [[Chiến lược thực thi]].
+Công việc thường ngày của người làm [[Công việc tri thức]] thường gồm những nhiệm vụ phức tạp và không rõ ràng, như tìm hiểu kiến thức cơ bản về một ngành mới hoặc viết một bản ghi nhớ về một vấn đề chiến lược. Ngay cả khi các nhiệm vụ này nằm ở trung tâm công việc, cách tiếp cận của họ vẫn thường rất tùy hứng: nghĩ ra ngay tại chỗ, dựa vào kinh nghiệm trước đó, bản năng, châm ngôn và cảm hứng nhất thời. Những thực hành này trái ngược với một [[Chiến lược thực thi]].
 
-Cách làm việc này phụ thuộc rất nhiều vào cả người thực hành và bối cảnh, vì vậy rất khó để người làm công việc tri thức chia sẻ và xây dựng kiến thức về những thực hành này.
+Cách làm việc này phụ thuộc rất nhiều vào người thực hiện và bối cảnh, nên người làm công việc tri thức khó chia sẻ và xây dựng hiểu biết chung về chúng.
 
-Không có nền tảng nhất quán để đứng vững, người làm công việc tri thức khó có thể đánh giá và phát triển hiệu suất của chính mình liên quan đến những nhiệm vụ cốt lõi này. [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]
+Khi không có nền tảng nhất quán để dựa vào, người làm công việc tri thức cũng khó đánh giá và cải thiện hiệu suất của chính mình trong các nhiệm vụ cốt lõi này. [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]
 
-Bởi vì những quy trình này không được xem xét một cách có hệ thống, người làm công việc tri thức thường không cấu trúc đầu ra của những nhiệm vụ này để chúng tích lũy thành thứ gì đó có giá trị hơn theo thời gian (ngược lại với [[Công việc tri thức nên tích lũy]]).
+Vì các quy trình này không được xem xét có hệ thống, người làm công việc tri thức thường không cấu trúc đầu ra sao cho chúng tích lũy thành thứ có giá trị hơn theo thời gian (ngược lại với [[Công việc tri thức nên tích lũy]]).

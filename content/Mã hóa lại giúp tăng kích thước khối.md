@@ -2,7 +2,7 @@
 aliases:
   - Recoding can increase chunk size
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 [[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]]. Nhưng ta không buộc phải chịu kích thước khối "nội tại" của một kích thích. Có thể tăng kích thước khối hiệu dụng bằng cách *mã hóa lại* kích thích, tức là gom chúng trong tâm trí thành những khối lớn hơn đại diện cho các mẫu rộng hơn. Các lược đồ khối này còn được gọi là [[Biểu diễn tinh thần, theo Ericsson và Pool]].
 
@@ -14,7 +14,7 @@ Các mẫu này (ví dụ hình dạng của bộ ba trưởng) chỉ dùng đư
 
 [[Chase và Simon - Nhận thức trong cờ vua]] ghi nhận dữ liệu thực nghiệm cho thấy kiện tướng cờ vua dùng khối lớn hơn (và có thể tổ chức khối theo cấu trúc phân cấp).
 
-Liên quan: [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]]
+Liên quan: [[Ý tưởng phức tạp khó học vì các thành phần làm quá tải bộ nhớ làm việc]]
 
 ---
 

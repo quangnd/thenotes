@@ -4,7 +4,7 @@ aliases:
 created: 2026-05-26
 modified: 2026-06-10
 ---
-[[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng giá trị của phần máy tính nằm cụ thể ở việc lên lịch động và chọn câu hỏi để ôn. Hiệu quả của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] đến từ khả năng *lập trình sự chú ý* của bạn ([[Sự chú ý có thể lập trình]]). Cứ nghĩ: "{cron} cho tâm trí bạn".
+[[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng giá trị của phần được máy tính hóa nằm cụ thể ở việc lên lịch linh hoạt và chọn câu hỏi để ôn. Hiệu quả của [[Hệ thống ghi nhớ lặp lại ngắt quãng]] đến từ khả năng *lập trình sự chú ý* của bạn ([[Sự chú ý có thể lập trình]]). Hãy hình dung nó như "{cron} cho tâm trí bạn".
 
 Tự quyết định thẻ nào cần ôn thì quá tốn sức. Khi việc đó được giao cho máy, bạn chỉ cần đưa ra quyết định thô. Dành 10 phút cho SRS, rồi để máy điều hướng sự chú ý của bạn trong khoảng thời gian đó.
 
@@ -32,6 +32,6 @@ Liên quan:
 #### Liên quan
 [[Duy trì ghi chú thường xanh tương tự lặp lại ngắt quãng]]
 
-[[Các chiến lược phân loại hộp thư đến (ví dụ Inbox Zero) thường quá mong manh]], so với việc dùng lặp lại ngắt quãng để "xấp xỉ" việc dọn hộp thư.
+[[Các chiến lược sàng lọc hộp thư đến như Inbox Zero thường quá mong manh]], so với việc dùng lặp lại ngắt quãng để "xấp xỉ" việc dọn hộp thư.
 
 Tôi dùng khái niệm này để tương tác với cách tôi triển khai [[Hộp thư đọc để thu thập tài liệu tham khảo có thể hữu ích]]

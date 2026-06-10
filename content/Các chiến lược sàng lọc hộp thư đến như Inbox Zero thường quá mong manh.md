@@ -2,21 +2,21 @@
 aliases:
   - Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
 [[Hộp thư đến chỉ hữu ích khi bạn tin vào cách nó được xử lý]], và [Inbox Zero](http://www.43folders.com/izero) là một cách để đảm bảo điều đó. Nó giảm thời gian chờ của mỗi mục (về lý thuyết là xuống còn một ngày) bằng cách đẩy mạnh tốc độ xử lý.
 
-Trong *Getting Things Done*, David Allen gợi ý rằng bạn có thể tăng tốc độ xử lý hàng đợi bằng cách hoãn, ủy quyền, hoặc bỏ qua nhiệm vụ một cách có chiến lược. "Inbox Zero" là phần bổ sung của Merlin Mann. Nó đảm bảo bạn đẩy tốc độ xử lý lên *đủ* nhanh, bằng cách dọn sạch hộp thư đến về số không mỗi ngày. Cách làm này hơi thô, nhưng giữ cho tốc độ xử lý luôn vượt tốc độ nhận.
+Trong *Getting Things Done*, David Allen gợi ý rằng bạn có thể tăng tốc độ xử lý hàng đợi bằng cách hoãn, ủy quyền, hoặc bỏ qua nhiệm vụ một cách có chiến lược. "Inbox Zero" là phần bổ sung của Merlin Mann. Nó đảm bảo bạn đẩy tốc độ xử lý lên *đủ* nhanh, bằng cách dọn sạch hộp thư đến về số không mỗi ngày. Cách làm này hơi thô, nhưng giữ cho tốc độ xử lý luôn vượt tốc độ tiếp nhận.
 
 ### Thách thức
 Bạn phải ra quyết định cho từng mục trong hộp thư đến. Đây là chi phí không nhỏ, và chỉ hợp lý khi hộp thư đến tương đối nhỏ.
 
-Hoãn một nhiệm vụ một cách dứt khoát tạo ra chi phí cảm xúc không cần thiết. "Inbox zero" chỉ thật sự cần khi tốc độ nhận *luôn luôn* vượt tốc độ xử lý. Nếu tốc độ nhận thay đổi và đôi khi thấp hơn tốc độ xử lý, bạn vẫn xử lý kịp trong khung thời gian hợp lý.
+Hoãn một nhiệm vụ một cách dứt khoát tạo ra chi phí cảm xúc không cần thiết. "Inbox zero" chỉ thật sự cần khi tốc độ tiếp nhận *luôn luôn* vượt tốc độ xử lý. Nếu tốc độ tiếp nhận thay đổi và đôi khi thấp hơn tốc độ xử lý, bạn vẫn xử lý kịp trong khung thời gian hợp lý.
 
-Bỏ qua một nhiệm vụ một cách dứt khoát cũng khó, vì [[Giao diện phần mềm hay khung các thao tác hủy_xóa thành quyết định cuối cùng, thay vì lựa chọn tạm thời]].
+Bỏ qua một nhiệm vụ một cách dứt khoát cũng khó, vì [[Giao diện phần mềm thường biến thao tác xóa thành quyết định cuối cùng thay vì lựa chọn tạm thời]].
 
-Thực tế hơn, Inbox Zero hay dẫn đến tê liệt vì cứ hoãn mãi. Quá dễ để đẩy một nhiệm vụ sang ngày khác, rồi ngày khác nữa. Allen gợi ý nên rà soát định kỳ những nhiệm vụ bị hoãn nhiều lần, nhưng việc rà soát này lại đòi hỏi thêm hàng loạt quyết định. Mức độ tuân thủ thường thấp.
+Thực tế hơn, Inbox Zero hay dẫn đến tê liệt vì cứ hoãn mãi. Quá dễ để đẩy một nhiệm vụ sang ngày khác, rồi ngày khác nữa. Allen gợi ý nên rà soát định kỳ những nhiệm vụ bị hoãn nhiều lần, nhưng việc rà soát này lại đòi hỏi thêm hàng loạt quyết định. Người dùng thường khó duy trì việc này.
 
 Khi xử lý hộp thư đến kiểu này, cũng có áp lực phải *làm* nhiều việc hơn, dù có thể đó không phải là điều bạn thật sự muốn.
 

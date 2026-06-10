@@ -5,9 +5,9 @@ created: 2026-05-26
 modified: 2026-06-10
 ---
 
-Giống một [trang /now](https://sivers.org/nowff), nhưng có khung thời gian rộng hơn và tập trung vào những điều tôi đang suy nghĩ.
+Giống một [trang /now](https://sivers.org/nowff), nhưng nhìn trên khung thời gian rộng hơn và tập trung vào những điều đang chiếm tâm trí tôi.
 
-- Mở rộng và hiểu [[Công cụ ghi nhớ]]
+- Mở rộng và hiểu sâu hơn về [[Công cụ ghi nhớ]]
 - [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]
 	- [[Phương tiện ghi nhớ có thể được mở rộng sang ghi chú cá nhân]]
 - [[MOC Môi trường khai phóng, trò chơi và Cuốn Primer]] / [[Trải nghiệm thể hiện có tiềm năng phi thường khi làm phương tiện đại chúng]]

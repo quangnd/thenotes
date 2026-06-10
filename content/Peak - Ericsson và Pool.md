@@ -2,7 +2,7 @@
 aliases:
   - Peak - Ericsson and Pool
 created: 2026-05-26
-modified: 2026-06-01
+modified: 2026-06-10
 ---
 
 Ericsson, A., & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise* (1 edition). Eamon Dolan/Houghton Mifflin Harcourt.
@@ -30,7 +30,7 @@ Năm xuất bản: {2016}
 - Khái niệm trung tâm: [[Biểu diễn tinh thần, theo Ericsson và Pool]]
 	- Cách đặt tên này xây dựng dựa trên "chunk" ([[Các mảnh trong nhận thức con người]]). Xem ghi chú chi tiết trong [[Miller - Con số kỳ diệu bảy, cộng hoặc trừ hai]].
 - Luận điểm trung tâm: [[Chuyên môn đòi hỏi xây dựng các lược đồ mã hóa lại khối tinh vi]]
-	- (vì [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]])
+	- (vì [[Ý tưởng phức tạp khó học vì các thành phần làm quá tải bộ nhớ làm việc]])
 	- ví dụ để thảo luận chi tiết về chuyên môn cờ vua, xem [[Chase và Simon - Nhận thức trong cờ vua]]
 - Tất cả là về luyện tập: [[Luyện tập tốt mã hóa các sơ đồ tái mã hóa khối hiệu quả hơn]]
 	- [[Các lược đồ khối hiệu quả thường mã hóa các thuộc tính đặc thù theo lĩnh vực]]

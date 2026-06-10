@@ -13,7 +13,7 @@ Nhưng nếu dùng [[Chiến lược thực thi cho việc viết|chiến lượ
 
 Thực tế, nếu dùng chiến lược "không định hướng", tức phần lớn nội dung viết bật ra từ các ghi chú có sẵn, hầu hết văn bản không hề được viết *cho* bản thảo đó. Vậy thì lo gì nếu vài phần bị cắt ra?
 
-Liên quan: [[Giao diện phần mềm hay khung các thao tác hủy_xóa thành quyết định cuối cùng, thay vì lựa chọn tạm thời]]
+Liên quan: [[Giao diện phần mềm thường biến thao tác xóa thành quyết định cuối cùng thay vì lựa chọn tạm thời]]
 
 ---
 

@@ -8,10 +8,10 @@ Nếu phải chọn một chỉ số chính để tự đánh giá mình như m�
 
 [[Viết ghi chú có thể là một kỹ năng điêu luyện]], nhưng [[Hầu hết mọi người dùng ghi chú như một cái xô lưu trữ hoặc suy nghĩ tản mạn]], và [[Cách viết ghi chú thông thường không hiệu quả]].
 
-Một vài lợi ích của các ghi chú thường xanh theo tôi thấy:
+Theo tôi, ghi chú thường xanh có vài lợi ích rõ rệt:
 - [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]
 - [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
-- Viết ghi chú cũng giúp chính việc viết tích lũy dần: ghi chú là chất xúc tác cho [[Chiến lược thực thi cho việc viết|các chiến lược biến việc viết thành hành động cụ thể]], nhất là khi bạn [[Tạo dàn ý suy đoán trong khi viết|tạo dàn ý thử trong khi viết]].
+- Viết ghi chú cũng giúp chính việc viết tích lũy dần: ghi chú là chất xúc tác cho [[Chiến lược thực thi cho việc viết|các chiến lược biến việc viết thành hành động cụ thể]], nhất là khi bạn [[Tạo dàn ý suy đoán trong khi viết|phác dàn ý thử trong lúc viết]].
 
 Một lưu ý: [[Ghi chú tốt hơn không đúng trọng tâm; điều quan trọng là tư duy tốt hơn]]
 

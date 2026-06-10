@@ -4,9 +4,9 @@ aliases:
 created: 2026-05-26
 modified: 2026-06-10
 ---
-Công cụ ghi nhớ nhúng một [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào trong văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng chúng đã gặp phải những rào cản đáng kể trong việc được áp dụng. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số này.
+Công cụ ghi nhớ nhúng [[Hệ thống ghi nhớ lặp lại ngắt quãng]] vào văn xuôi tường thuật. [[Lặp lại ngắt quãng biến việc nhớ thành lựa chọn]], nhưng các hệ thống này vẫn gặp nhiều rào cản khi được áp dụng rộng rãi. Phương tiện ghi nhớ được thiết kế để giải quyết nhiều vấn đề trong số đó.
 
-Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hiện đang làm việc để mở rộng đáng kể phạm vi của nó.
+Nó được sử dụng lần đầu trong [[Quantum Country]]. Hiện tôi đang tìm cách mở rộng đáng kể phạm vi ứng dụng của nó.
 
 - Thuộc tính thiết kế chính:
 	- [[Phương tiện ghi nhớ tạo cấu trúc cho các câu hỏi trong hệ thống ghi nhớ lặp lại ngắt quãng vốn thường bị phân mảnh]]
@@ -18,7 +18,7 @@ Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hi�
 	- [[Phương tiện ghi nhớ tác động thế nào lên trí nhớ người đọc]]
 	- [[Tác động toàn cảnh của phương tiện ghi nhớ đối với người đọc là gì_]]
 	- [[Phương tiện ghi nhớ giữ người đọc tiếp xúc với tài liệu theo thời gian]]
-- Giả thuyết/câu hỏi
+- Giả thuyết và câu hỏi
 	- Mở rộng phạm vi / quy mô:
 		- [[Phương tiện ghi nhớ hiệu quả như thế nào trên các chủ đề kiến thức nền tảng khác nhau_]]
 		- [[Phương tiện ghi nhớ có thể hỗ trợ người đọc trong các thể loại ngoài kiến thức nền tảng như thế nào_]]
@@ -31,7 +31,7 @@ Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hi�
 	- Các loại hiểu biết khác nhau
 		- [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]
 		- [[Phương tiện ghi nhớ có thể hỗ trợ người đọc xây dựng hiểu biết phức tạp hơn như thế nào_]]
-	- Hướng tới sử dụng thuần thục:
+	- Hướng tới việc dùng thành thạo:
 		- [[Một thẻ tốt trong hệ thống ghi nhớ lặp lại ngắt quãng cần có những thuộc tính nào_]]
 		- [[Những ứng dụng chuẩn mực của phương tiện ghi nhớ có thể là gì_]]
 		- [[Các mẫu câu hỏi nhúng có thể chủ động hỗ trợ việc viết câu hỏi cho độc giả phương tiện ghi nhớ]]
@@ -51,11 +51,11 @@ Nó được sử dụng lần đầu tiên trong [[Quantum Country]]. Tôi hi�
 		- [[Video ghi nhớ có thể là lối vào mượt hơn cho việc áp dụng đại trà so với văn bản ghi nhớ]]
 		- [[Các luồng Twitter có thể là bối cảnh thú vị cho phương tiện ghi nhớ]]
 - Thách thức
-	- ... đối với việc áp dụng bởi người dùng cuối:
+	- ... đối với việc được người dùng cuối chấp nhận:
 		- [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]]
 		- [[Làm quen ban đầu với phương tiện ghi nhớ phụ thuộc vào lượng nội dung đủ ngưỡng]]
 			- [[Các phiên ôn tập trong hệ thống ghi nhớ lặp lại ngắt quãng thường trở nên nhàm chán và tách rời nếu không có dòng câu nhắc mới đều đặn]]
-		- [[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web]]
+		- [[Việc áp dụng đại trà phương tiện ghi nhớ dường như đòi hỏi áp dụng đại trà xuất bản web|Để phương tiện ghi nhớ được dùng rộng rãi, xuất bản web có lẽ cũng phải phổ biến rộng rãi]]
 			- [[Đọc văn bản trên máy tính là không dễ chịu]]
 		- [[Thực hành thường xuyên với hệ thống ghi nhớ lặp lại ngắt quãng là một thói quen nặng nề để áp dụng]]
 	- ... đối với các nhà thiết kế:

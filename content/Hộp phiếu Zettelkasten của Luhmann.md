@@ -11,7 +11,7 @@ modified: 2026-06-10
 
 > Nguồn: [deutschlandfunkkultur](https://www.deutschlandfunkkultur.de/niklas-luhmann-archiv-der-blick-in-den-zettelkasten-ist-100.html) 
 
-Chi tiết một phiếu ghi chú
+Chi tiết một phiếu ghi chú:
 
 ![[zettel_note.png]]
 

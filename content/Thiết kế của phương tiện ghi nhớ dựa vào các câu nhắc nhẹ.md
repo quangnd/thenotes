@@ -19,7 +19,7 @@ modified: 2026-06-10
 
 Nếu muốn người đọc nhớ toàn bộ phần quan trọng của một văn bản ghi nhớ, tác giả phải đưa vào nhiều câu nhắc. Ví dụ, [[QCVC]] có 112 câu nhắc và khoảng 20 nghìn từ. Câu nhắc càng nhẹ, người đọc càng chịu được nhiều câu nhắc hơn với cùng một mức quan tâm hoặc cùng một lượng thời gian sẵn sàng bỏ ra. Nếu mỗi câu mất 6 giây, 112 câu nhắc trong QCVC chỉ tốn khoảng 10 phút. Con số đó không quá tệ, vì hầu hết người đọc mất 3-4 giờ để hoàn thành bài luận này.
 
-Nếu chỉ xét thời gian đọc trong bài luận, việc câu nhắc mất gấp đôi thời gian để trả lời cũng chưa có vẻ quá nghiêm trọng. 20 phút thay vì 10 phút trong một trải nghiệm đọc dài 3-4 giờ không phải là khác biệt lớn. Nhưng hiệu quả, hoặc sự kém hiệu quả, sẽ cộng dồn. Hầu hết người đọc cần 5-7 lần lặp để nhớ được trong nhiều tháng. Vì vậy, với tốc độ 6 giây mỗi câu nhắc, việc giữ lại 112 câu nhắc sẽ "tốn" khoảng 90 phút trong những tháng tiếp theo. Nếu con số đó tăng gấp đôi, gánh nặng sẽ đáng kể. (Xem [[Bài luận ghi nhớ đổi 35-50% thời gian đọc thêm để ghi nhớ chi tiết toàn bộ nội dung]])
+Nếu chỉ xét thời gian đọc trong bài luận, việc câu nhắc mất gấp đôi thời gian để trả lời cũng chưa có vẻ quá nghiêm trọng. 20 phút thay vì 10 phút trong một trải nghiệm đọc dài 3-4 giờ không phải là khác biệt lớn. Nhưng hiệu quả, hoặc sự kém hiệu quả, sẽ cộng dồn. Hầu hết người đọc cần 5-7 lần lặp để nhớ được trong nhiều tháng. Vì vậy, với tốc độ 6 giây mỗi câu nhắc, việc giữ lại 112 câu nhắc sẽ "tốn" khoảng 90 phút trong những tháng tiếp theo. Nếu con số đó tăng gấp đôi, gánh nặng sẽ đáng kể. (Xem [[Bài luận ghi nhớ giúp ghi nhớ chi tiết toàn bộ nội dung với 35-50% thời gian đọc thêm]])
 
 #### Câu nhắc nhẹ có thể được xen kẽ thường xuyên hơn
 

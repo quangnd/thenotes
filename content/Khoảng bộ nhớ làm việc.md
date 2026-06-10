@@ -2,7 +2,7 @@
 aliases:
   - Span of working memory
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 *Khoảng bộ nhớ làm việc* của một người là số lượng mục tối đa theo lý thuyết ([[Các mảnh trong nhận thức con người]]) mà họ có thể nhớ đồng thời, mà không cần lưu vào trí nhớ dài hạn.
 
@@ -12,7 +12,7 @@ modified: 2026-05-30
 
 Mặc dù giá trị thay đổi theo nhiệm vụ và bối cảnh, nó dường như nhất quán một cách đáng ngạc nhiên. Có tranh luận đáng kể giữa các nhà tâm lý học nhận thức về giá trị trung bình. Các nhà thí nghiệm đầu đến giữa thế kỷ 20 (ví dụ Crannell và Parrish, 1957) đặt giá trị khoảng 5-7, nhưng các nhà thí nghiệm gần đây hơn gợi ý (ví dụ Cowan, 2001) rằng giá trị gần hơn với {4}, và các giá trị cao hơn cho thấy các đối tượng đang âm thầm mã hóa lại các kích thích thành các khối lớn hơn (xem [[Dung lượng kênh của con người tăng theo số bit trên mỗi khối]]).
 
-Liên quan: [[Ý tưởng phức tạp khó học vì các thành phần làm tràn bộ nhớ làm việc]]
+Liên quan: [[Ý tưởng phức tạp khó học vì các thành phần làm quá tải bộ nhớ làm việc]]
 
 ---
 
