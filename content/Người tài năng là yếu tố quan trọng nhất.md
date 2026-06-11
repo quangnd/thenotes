@@ -2,13 +2,12 @@
 aliases:
   - Talented people are the high-order bit
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-PARC, SRI, Bell Labs, Apple, Netscape, PayPal, v.v. — thật khó nghĩ đến những phát minh đương đại đáng ngưỡng mộ nào mà không đến từ một nhóm người thực sự xuất sắc. Tất cả các tổ chức này tin rằng việc tuyển chọn những người xuất sắc là vô cùng quan trọng, chìa khóa cho thành công của họ. Tìm kiếm nhân tài là ưu tiên hàng đầu, và họ dành nhiều thời gian tìm cách giữ cho đội ngũ của mình hạnh phúc.
+PARC, SRI, Bell Labs, Apple, Netscape, PayPal, v.v. Thật khó nghĩ đến những phát minh đương đại đáng ngưỡng mộ nào mà không đến từ một nhóm người thật sự xuất sắc. Tất cả các tổ chức này đều tin rằng tuyển chọn những người xuất sắc là cực kỳ quan trọng, là chìa khóa cho thành công của họ. Tìm kiếm nhân tài là ưu tiên hàng đầu, và họ dành nhiều thời gian tìm cách giữ cho đội ngũ của mình hạnh phúc.
 
 Xem thêm [[Đầu tư vào người, không phải dự án]].
-
 ----------
 
 > [!info]- Tài liệu tham khảo (References)

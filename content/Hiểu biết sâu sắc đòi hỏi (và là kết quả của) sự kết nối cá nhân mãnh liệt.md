@@ -2,16 +2,16 @@
 aliases:
   - Deep understanding requires (and is a result of) intense personal connection
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-Việc học có ý nghĩa trong chừng mực nó ảnh hưởng đến suy nghĩ và hành động tương lai của chúng ta. Thực tế, bởi vì [[Muốn hiểu thì phải bỏ công]], việc học chỉ là *hệ quả* của một tấm thảm phong phú gồm những suy nghĩ và hành động được dệt với những khái niệm đó.
+Việc học có ý nghĩa khi nó ảnh hưởng đến suy nghĩ và hành động sau này của ta. Thực tế, bởi vì [[Muốn hiểu thì phải bỏ công]], việc học chỉ là *hệ quả* của một mạng lưới phong phú gồm những suy nghĩ và hành động được dệt quanh các khái niệm đó.
 
-Nhìn qua lăng kính này, các hoạt động học tập qua loa ("thôi được, tôi đoán tôi sẽ tham dự buổi hội thảo đó") thường phá hoại mục tiêu của chính chúng. Không có sự kết nối cá nhân với các ý tưởng, sự tham gia trí tuệ của người tham dự sẽ tương đối nông cạn. Tấm thảm sẽ được dệt quá lỏng lẻo; nó sẽ sớm bung ra. Rất ít điều sẽ được hiểu sâu sắc.
+Nhìn qua lăng kính này, các hoạt động học tập hời hợt ("thôi được, chắc tôi sẽ tham dự buổi hội thảo đó") thường tự phá hoại mục tiêu của chính mình. Nếu không có kết nối cá nhân với các ý tưởng, người tham dự sẽ chỉ tham gia về mặt trí tuệ một cách khá nông. Mạng lưới được dệt quá lỏng nên sẽ sớm bung ra. Rất ít điều được hiểu sâu.
 
-Khi mục đích thực sự của một hoạt động là điều gì đó có ý nghĩa nội tại đối với người tham gia, sự tham gia trí tuệ chân thành của họ sẽ tự nhiên tạo ra sự tương tác nỗ lực với các ý tưởng liên quan. Hiểu biết sâu hơn không phải là mục tiêu, nhưng nó có thể sẽ xảy ra dù sao. [[Sự hăng hái vượt qua ý chí và sự tự tin]].
+Khi mục đích thật sự của một hoạt động có ý nghĩa nội tại với người tham gia, sự tham gia trí tuệ chân thành của họ sẽ tự nhiên kéo theo việc vật lộn với các ý tưởng liên quan. Hiểu sâu hơn không phải là mục tiêu trực tiếp, nhưng nhiều khả năng vẫn sẽ xảy ra. [[Sự hăng hái vượt qua ý chí và sự tự tin]].
 
-Đặc biệt đối với các hoạt động được thúc đẩy bởi sự tò mò, kết nối cá nhân là tiền đề theo nghĩa đen; các hoạt động chỉ tiếp tục chừng nào kết nối đó còn tồn tại. Mối liên hệ giữa hoạt động và sự tham gia trí tuệ đặc biệt thuần khiết trong những trường hợp này.
+Đặc biệt với các hoạt động được thúc đẩy bởi sự tò mò, kết nối cá nhân đúng nghĩa là điều kiện tiên quyết: hoạt động chỉ tiếp tục chừng nào kết nối đó còn tồn tại. Trong những trường hợp này, mối liên hệ giữa hoạt động và sự tham gia trí tuệ đặc biệt rõ ràng.
 
 John Littlewood (nhà toán học người Anh) đã viết:
 

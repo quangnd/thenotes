@@ -2,22 +2,21 @@
 aliases:
   - Transcendental narrative
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Những câu chuyện, thực hành và giá trị mang lại cấu trúc và ý nghĩa cho cuộc sống, gợi ý những điều đáng làm, đặt mọi người trong mối quan hệ với những người khác, v.v. Tôn giáo là nguồn gốc truyền thống, nhưng các lựa chọn thay thế thế tục bao gồm:
+Những câu chuyện, thực hành và giá trị mang lại cấu trúc và ý nghĩa cho cuộc sống, gợi ý những điều đáng làm, đặt con người vào quan hệ với người khác, v.v. Tôn giáo là nguồn truyền thống, nhưng các lựa chọn thế tục bao gồm:
 
 - các nguồn "tâm linh" như thiền định, yoga, chiêm tinh học
 - các nguồn chính trị như chủ nghĩa Marx, chủ nghĩa khách quan, woke-ism
 - các nguồn triết học mang tính khoa học xã hội như chủ nghĩa khắc kỷ, chủ nghĩa lãng mạn, Heidegger và những người bạn
 - các nguồn triết học mang tính khoa học như David Deutsch, Carl Sagan, Steven Pinker, Bret Victor
 
-Thuật ngữ được [đặt ra](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need) bởi Neil Postman trong The End of Education.
+Thuật ngữ này được Neil Postman [đặt ra](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need) trong *The End of Education*.
 
 Xem thêm: [[Cộng đồng hành động thường hình thành xung quanh các sản phẩm truyền thông]].
 
 Liên quan: [[Ikigai]]
-
 ---
 
 > [!info]- Tài liệu tham khảo (References)

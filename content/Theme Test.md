@@ -5,7 +5,7 @@ draft: true
 tags:
   - meta
 created: 2026-05-31
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 
 # Heading 1 — The quick brown fox
@@ -30,7 +30,7 @@ quan trọng nhất của thẻ trong hệ thống ghi nhớ lặp lại ngắt 
 
 - Internal: [[Anki]]
 - External: [iA Writer](https://ia.net/writer)
-- Broken: [[This Note Does Not Exist]]
+- Broken-link sample text: `&#91;&#91;This Note Does Not Exist&#93;&#93;`
 
 ## Lists
 

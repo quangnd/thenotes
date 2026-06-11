@@ -2,10 +2,10 @@
 aliases:
   - To what extent can quadratic funding provision tools for thought_
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
-[[Công cụ tư duy]] khó tài trợ, phần lớn vì [[Các ý tưởng giao diện người dùng mới lạ là hàng hóa công]]. Liệu [[Tài trợ bậc hai cho hàng hóa công cộng]] có thể giúp ích không?
+[[Công cụ tư duy]] khó được tài trợ, phần lớn vì [[Các ý tưởng giao diện người dùng mới lạ là hàng hóa công]]. Liệu [[Tài trợ bậc hai cho hàng hóa công cộng]] có thể giúp ích không?
 
 Cơ chế này có vẻ hứa hẹn cho việc tài trợ giai đoạn triển khai và bảo trì của các dự án, nhưng tôi có một số lo ngại:
 

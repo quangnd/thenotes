@@ -2,10 +2,10 @@
 aliases:
   - The bar for virtuosity has risen precipitously in many fields
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Trong một số lĩnh vực, như kế toán, chuyên môn đã tăng lên trong thế kỷ qua nhờ công nghệ mới. Nhưng trong nhiều lĩnh vực khác, như âm nhạc và thể thao, tiêu chuẩn cho màn trình diễn đẳng cấp thế giới dường như đã tăng lên rất nhiều mà không có thêm bất kỳ phát minh bên ngoài nào. Ericsson và Pool (2016) cho rằng sự tăng trưởng này là do thời gian dành cho việc luyện tập ngày càng phức tạp hơn (tr. 8).
+Trong một số lĩnh vực, như kế toán, chuyên môn đã tăng lên trong thế kỷ qua nhờ công nghệ mới. Nhưng trong nhiều lĩnh vực khác, như âm nhạc và thể thao, tiêu chuẩn cho màn trình diễn đẳng cấp thế giới dường như đã tăng rất mạnh mà không cần thêm phát minh bên ngoài nào. Ericsson và Pool (2016) cho rằng sự tăng trưởng này đến từ thời gian dành cho việc luyện tập ngày càng phức tạp hơn (tr. 8).
 
 Liên quan: [[Năng lực thể chất và nhận thức của con người có thể được mở rộng đáng ngạc nhiên thông qua luyện tập]]
 
@@ -14,16 +14,15 @@ Liên quan: [[Năng lực thể chất và nhận thức của con người có 
 Có thể liên quan: [[Vận động viên và nhạc sĩ rèn kỹ năng nền tảng nghiêm túc hơn người làm công việc tri thức nhiều]]
 
 #### Ví dụ
-- Thành tích trong mọi môn Olympic được phân tích (điền kinh, bơi lội) đã cải thiện từ năm 1896–1980, trong một số trường hợp lên đến 90% (Schulz và Curnow, 1988)
-- (Ericsson & Pool, 2016, tr. 6–7)
+- Thành tích trong mọi môn Olympic được phân tích (điền kinh, bơi lội) đều cải thiện từ năm 1896 đến 1980, trong một số trường hợp tới 90% (Schulz và Curnow, 1988)
+- (Ericsson & Pool, 2016, tr. 6-7)
 	- Kỷ lục thế giới marathon năm 1908 (2 giờ 55 phút, Johnny Hayes) ngày nay khó đủ điều kiện tham dự Boston Marathon.
 	- Các bản thu âm của những nhạc sĩ hàng đầu thế giới đầu thế kỷ 20 ngày nay bị coi là có nhiều lỗi kỹ thuật.
-	- Trong môn nhảy cầu, cú nhào lộn kép từng được coi là quá nguy hiểm để thực hiện; giờ đây nó là thường thấy với trẻ mười tuổi trong thi đấu.
+	- Trong môn nhảy cầu, cú nhào lộn kép từng bị xem là quá nguy hiểm để thực hiện; giờ đây nó thường thấy ở trẻ mười tuổi trong thi đấu.
 	- Kỷ lục thế giới về số chữ số của π được ghi nhớ đã tăng từ 511 lên 70.000 trong vòng bốn thập kỷ.
 
-H. Hãy cho một ví dụ về cách tiêu chuẩn xuất sắc đã tăng vọt, không phải do các công cụ mới. (Cho một ví dụ bạn chưa đưa ra gần đây)
+H. Hãy cho một ví dụ về cách tiêu chuẩn xuất sắc đã tăng vọt, không phải do công cụ mới. (Cho một ví dụ bạn chưa đưa ra gần đây)
 Đ. Kỷ lục chạy marathon, màn trình diễn nhạc sĩ, cú nhào lộn kép, các chữ số của pi
-
 ---
 
 > [!info]- Tài liệu tham khảo

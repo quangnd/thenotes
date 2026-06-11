@@ -2,7 +2,7 @@
 aliases:
   - Enabling environment
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 Một *môi trường khai phóng* là môi trường giúp người tham gia mở rộng đáng kể khả năng làm những việc mà họ thấy có ý nghĩa và quan trọng.
 
@@ -10,7 +10,7 @@ Trường học có vẻ cũng hướng tới mục tiêu này, nhưng [[Mục t
 
 Nhiều thiết chế xã hội cũng có thể là môi trường khai phóng mạnh. Các công ty vận hành hiệu quả cao là một ví dụ điển hình. Ở đó, nhân viên mới có thể cảm thấy năng lực của mình tăng vọt so với trước, ngay cả khi họ đã có nhiều năm kinh nghiệm. [[Y Combinator]] cũng là một môi trường khai phóng theo nghĩa này.
 
-Các môi trường phần mềm xuất sắc cũng vậy. Photoshop mở rộng khả năng biểu đạt nghệ thuật của chuyên gia, đồng thời mở ra cho người mới những kỹ thuật chỉnh sửa ảnh mà trước đây họ khó tiếp cận. Công cụ phát triển phần mềm cho phép thiếu niên tạo trò chơi và phân phối đến hàng triệu người với [[chi phí biên]] gần như bằng không. Ngược lại, [[Hầu hết các trò chơi không phải là môi trường hỗ trợ|hầu hết trò chơi không phải là môi trường hỗ trợ theo nghĩa này]], và [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng|trò chơi giáo dục thường là một hướng đi kém hiệu quả nếu mục tiêu là tạo môi trường khai phóng]].
+Các môi trường phần mềm xuất sắc cũng vậy. Photoshop mở rộng khả năng biểu đạt nghệ thuật của chuyên gia, đồng thời mở ra cho người mới những kỹ thuật chỉnh sửa ảnh mà trước đây họ khó tiếp cận. Công cụ phát triển phần mềm cho phép thiếu niên tạo trò chơi và phân phối đến hàng triệu người với [[Chi phí biên|chi phí biên]] gần như bằng không. Ngược lại, [[Hầu hết các trò chơi không phải là môi trường hỗ trợ|hầu hết trò chơi không phải là môi trường hỗ trợ theo nghĩa này]], và [[Trò chơi giáo dục là cách tiếp cận vô vọng để tạo môi trường khai phóng|trò chơi giáo dục thường là một hướng đi kém hiệu quả nếu mục tiêu là tạo môi trường khai phóng]].
 
 Một bộ [[Ghi chú thường xanh|ghi chú thường xanh]] được liên kết dày đặc cũng có thể trở thành môi trường khai phóng, vì [[Viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc|việc viết ghi chú thường xanh giúp tích lũy hiểu biết sâu sắc]]. Xem thêm [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]].
 

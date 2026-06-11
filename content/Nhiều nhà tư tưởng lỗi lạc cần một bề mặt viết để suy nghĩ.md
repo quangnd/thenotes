@@ -2,12 +2,12 @@
 aliases:
   - Many eminent thinkers need a writing surface to think
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Nhiều người làm việc hiệu quả nhất mà tôi biết, cả còn sống và đã mất, dường như không thể tư duy nghiêm túc mà không có bề mặt viết trước mặt. Nó có vẻ mở rộng nhận thức kiểu nào đó. Có thể nó mở rộng hiệu quả [[Khoảng bộ nhớ làm việc]] của một người, hoặc có thể chính việc di chuyển ngón tay đã đóng góp vào tư duy.
+Nhiều người làm việc hiệu quả nhất mà tôi biết, cả còn sống lẫn đã mất, dường như không thể tư duy nghiêm túc nếu không có một bề mặt viết trước mặt. Nó có vẻ mở rộng nhận thức theo một cách nào đó. Có thể nó mở rộng hiệu quả [[Khoảng bộ nhớ làm việc]] của một người, hoặc có thể chính chuyển động của ngón tay cũng góp phần vào tư duy.
 
-Ví dụ, trong một cuộc phỏng vấn với Charles Weiner, Richard Feynman nói rằng với ông (1973), giấy không chỉ là bản ghi công việc đã làm trong đầu:
+Ví dụ, trong một cuộc phỏng vấn với Charles Weiner, Richard Feynman nói rằng với ông, giấy không chỉ là bản ghi lại công việc đã làm trong đầu (1973):
 
 - Weiner: (Đề cập đến nhật ký của Feynman) Và vì vậy đây đại diện cho bản ghi công việc hàng ngày.
 - Feynman: Tôi thực sự làm công việc trên giấy.
@@ -16,10 +16,9 @@ Ví dụ, trong một cuộc phỏng vấn với Charles Weiner, Richard Feynman
 - Weiner: Vâng, công việc được thực hiện trong đầu ông nhưng bản ghi của nó vẫn ở đây.
 - Feynman: Không, nó không phải bản ghi, thực sự không phải, nó là đang làm việc. Bạn phải làm việc trên giấy và đây là giấy. OK?
 
-Grothendieck, một nhà toán học lỗi lạc thế kỷ 20, được cho là không thể tư duy mà không viết (2007):
+Grothendieck, một nhà toán học lỗi lạc thế kỷ 20, được cho là không thể tư duy nếu không viết (2007):
 
 - Ông đang ứng biến, bằng chữ viết tay nhanh và thanh lịch. Ông nói rằng ông không thể tư duy mà không viết. Bản thân tôi thấy thuận tiện hơn khi nhắm mắt và suy nghĩ trước, hoặc có thể chỉ nằm xuống, nhưng ông không thể tư duy theo cách đó, ông phải lấy một tờ giấy, và ông bắt đầu viết. Ông viết X -> S, đưa bút qua lại nhiều lần trên đó, bạn thấy đó, cho đến khi các ký tự và mũi tên trở nên rất đậm. Ông kiểu nào đó thích thú với hình ảnh của những đối tượng này.
-
 ---
 
 > [!info]- Tài liệu tham khảo

@@ -2,13 +2,12 @@
 aliases:
   - Working memory span is mostly independent of item complexity
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Có nhiều chữ cái trong bảng chữ cái hơn gấp đôi so với các chữ số, vì vậy bạn có thể mong đợi rằng chúng ta có thể nhớ các chuỗi chữ số dài hơn khoảng gấp đôi so với chuỗi chữ cái. Nhưng thực tế, [[Khoảng bộ nhớ làm việc]] thông thường là khoảng {sáu} chữ cái và khoảng {bảy} chữ số (ví dụ: Crannell và Parrish, 1957).
+Bảng chữ cái có nhiều hơn gấp đôi số chữ cái so với số chữ số, nên bạn có thể đoán rằng chúng ta sẽ nhớ được chuỗi chữ số dài hơn chuỗi chữ cái khoảng gấp đôi. Nhưng thực tế, [[Khoảng bộ nhớ làm việc]] thông thường là khoảng {sáu} chữ cái và khoảng {bảy} chữ số (ví dụ: Crannell và Parrish, 1957).
 
 Xem: [[Các mảnh trong nhận thức con người]]
-
 ---
 
 > [!info]- Tài liệu tham khảo (References)

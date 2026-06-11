@@ -2,10 +2,10 @@
 aliases:
   - The Primer’s goal is to produce creative, subversive youth
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Người ta hay nhớ Cuốn Primer trong *The Diamond Age* như một thiết bị dạy học kỳ diệu, nhưng đó không phải mục tiêu chính của nó. Finkle-McGraw, người bảo trợ của Cuốn Primer, xuất hiện lần đầu khi đang đọc đoạn thơ Wordsworth này:
+Người ta thường nhớ Cuốn Primer trong *The Diamond Age* như một thiết bị dạy học kỳ diệu, nhưng đó không phải mục tiêu chính của nó. Finkle-McGraw, người bảo trợ cho Cuốn Primer, xuất hiện lần đầu khi đang đọc đoạn thơ Wordsworth này:
 
 > Chúng ta đã ở đâu, hỡi người bạn yêu quý!
 > Nếu trong mùa của sự lựa chọn không nguy hiểm,
@@ -18,10 +18,9 @@ Người ta hay nhớ Cuốn Primer trong *The Diamond Age* như một thiết b
 > Dẫn qua những con ngõ trong sự phục dịch thê lương.
 > (tr. 17)
 
-Ông than rằng trường học của họ đang đào tạo ra một thế hệ đồng nhất, tẻ nhạt. Khát vọng của ông: "để nuôi dưỡng một thế hệ trẻ em có thể đạt đến tiềm năng đầy đủ của mình, chúng ta phải tìm cách làm cho cuộc sống của chúng thú vị." (tr. 24) Ngay sau đó, khi giao cho Hackworth tạo ra Cuốn Primer, chỉ dẫn chính của ông là: "Tôi muốn anh về nhà và suy ngẫm về ý nghĩa của từ *nổi loạn*." (tr. 81)
+Ông than phiền rằng trường học của họ đang đào tạo ra một thế hệ đồng nhất và tẻ nhạt. Khát vọng của ông là: "để nuôi dưỡng một thế hệ trẻ em có thể đạt đến tiềm năng đầy đủ của mình, chúng ta phải tìm cách làm cho cuộc sống của chúng thú vị." (tr. 24) Ngay sau đó, khi giao cho Hackworth tạo ra Cuốn Primer, chỉ dẫn chính của ông là: "Tôi muốn anh về nhà và suy ngẫm về ý nghĩa của từ *nổi loạn*." (tr. 81)
 
-Có một sự mỉa mai ở đây. Hầu hết mọi người nhớ Cuốn Primer vì các tính năng giáo dục của nó và quên mất mục tiêu thật sự. Nhưng theo một nghĩa nào đó, chính Cuốn Primer cũng quên mục tiêu thật sự của mình. Như được mô tả, [[Cuốn Primer về cơ bản là một trò chơi giáo dục]]. [[Các nhiệm vụ học tập tường minh của Cuốn Primer dạy Nell ủy thác sự tò mò và hứng thú của mình]]. [[Nell không thực hiện bất kỳ suy nghĩ gì nguyên bản trong cuốn Primer]].
-
+Có một điểm mỉa mai ở đây. Hầu hết mọi người nhớ Cuốn Primer nhờ các tính năng giáo dục của nó, rồi quên mất mục tiêu thật sự. Nhưng theo một nghĩa nào đó, chính Cuốn Primer cũng quên mất mục tiêu thật sự của mình. Như được mô tả, [[Cuốn Primer về cơ bản là một trò chơi giáo dục]]. [[Các nhiệm vụ học tập tường minh của Cuốn Primer dạy Nell ủy thác sự tò mò và hứng thú của mình]]. [[Nell không thực hiện bất kỳ suy nghĩ gì nguyên bản trong cuốn Primer]].
 ---
 
 > [!info]- Tài liệu tham khảo

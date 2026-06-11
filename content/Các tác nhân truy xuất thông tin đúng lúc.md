@@ -2,17 +2,16 @@
 aliases:
   - Just-in-time information retrieval agents
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Thuật ngữ này mô tả các tác nhân thụ động truy xuất và hiển thị thông tin hữu ích dựa trên hành động của người dùng.
+Thuật ngữ này mô tả các tác nhân thụ động, tự truy xuất và hiển thị thông tin hữu ích dựa trên hành động của người dùng.
 
-Ví dụ, *Remembrance Agent* là một tiện ích mở rộng Emacs xem xét nội dung tài liệu hiện tại (gần con trỏ?) và tìm các tài liệu liên quan, thư email, v.v. có nội dung tương tự.
+Ví dụ, *Remembrance Agent* là một tiện ích mở rộng Emacs xem xét nội dung tài liệu hiện tại (gần con trỏ?) rồi tìm các tài liệu liên quan, email, v.v. có nội dung tương tự.
 
-*Margin Notes* là một tác nhân chú thích các trang web với các liên kết đến các tập tin cá nhân có thể liên quan.
+*Margin Notes* là một tác nhân chú thích các trang web bằng liên kết đến những tệp cá nhân có thể liên quan.
 
 Liên quan: [[Tầm nhìn ngoại vi]]
-
 ---
 
 > [!info]- Tài liệu tham khảo (References)

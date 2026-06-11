@@ -2,7 +2,7 @@
 aliases:
   - In the Cells of the Eggplant - Chapman
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
 #### Siêu lý tính: dẫn nhập (Meta-rationality: an introduction)
@@ -78,13 +78,13 @@ Chapman đặt ra từ {"chủ nghĩa lý tính"} (rationalism) để mô tả n
 
 Những niềm tin kiểu này thường gắn với việc dùng một hệ thống lý tính để giải thích vì sao lý tính hoạt động, ví dụ bằng cách định ra một hàm quyết định cho niềm tin đúng. Chủ nghĩa lý tính có tính quy chuẩn: người tin theo cho rằng người khác cũng nên tin, và họ sẽ thúc đẩy điều đó. Sẽ tốt theo một nghĩa nào đó nếu một biến thể của chủ nghĩa lý tính là đúng, nhưng không có biến thể nào đúng cả. Thế giới quá mơ hồ.
 
-Ngược lại, Chapman định nghĩa {"sự hợp lý"} (reasonableness) là {nghĩa thông thường của "hợp lý": hành động cảm thấy đúng, có khả năng chạy được trong thời điểm} (the everyday meaning of "rational": sensible action that's likely to work in the moment).
+Ngược lại, Chapman định nghĩa {"sự hợp lý"} (reasonableness) là {nghĩa thông thường của "hợp lý": hành động cảm thấy đúng, có khả năng hoạt động được trong thời điểm} (the everyday meaning of "rational": sensible action that's likely to work in the moment).
 
 Chủ nghĩa lý tính coi sự hợp lý là nỗ lực kém cỏi hướng tới lý tính, nhưng quan điểm đó sai. Sự hợp lý cho câu trả lời tốt trong một số tình huống mà lý tính không làm được.
 
-"Siêu lý tính" (meta-rationality) là thực hành {thương lượng} cách dùng lý tính và sự hợp lý phù hợp cho một ngữ cảnh. Nó khác phản lý tính (anti-rationality), tức niềm tin rằng {lý tính hệ thống không chạy ngay cả khi được áp dụng phù hợp}. Nó cũng khác phi lý tính (irrationality), tức {thất bại trong hành động hiệu quả, không hợp lý mà cũng không lý tính}.
+"Siêu lý tính" (meta-rationality) là thực hành {thương lượng} cách dùng lý tính và sự hợp lý phù hợp cho một ngữ cảnh. Nó khác phản lý tính (anti-rationality), tức niềm tin rằng {lý tính hệ thống không hoạt động ngay cả khi được áp dụng phù hợp}. Nó cũng khác phi lý tính (irrationality), tức {thất bại trong hành động hiệu quả, không hợp lý mà cũng không lý tính}.
 
-"Siêu chủ nghĩa lý tính" (meta-rationalism) là thay thế cho chủ nghĩa lý tính: "cách, khi nào, và vì sao sự hợp lý, lý tính, và siêu lý tính chạy được."
+"Siêu chủ nghĩa lý tính" (meta-rationalism) là thay thế cho chủ nghĩa lý tính: "cách, khi nào, và vì sao sự hợp lý, lý tính, và siêu lý tính hoạt động được."
 
 H. Theo nghĩa nào chủ nghĩa lý tính có tính quy chuẩn?
 Đ. Các nhà lý tính cho rằng mọi người *nên* tuân thủ định nghĩa lý tính của họ bất cứ khi nào có thể.
@@ -128,7 +128,7 @@ H. Vì sao lý tính xử lý kém các câu hỏi bản thể học?
 
 Chủ nghĩa thực chứng logic (logical positivism) là nỗ lực kết hợp lập luận suy diễn và trực giác (Chapman gọi là "lý tính") với kinh nghiệm cảm giác (thực nghiệm). Tức là họ muốn cung cấp cơ sở logic cho {phương pháp khoa học: đưa ra các tuyên bố tổng quát dựa trên dữ liệu thực nghiệm} (the scientific method: making general claims based on experimental data).
 
-Cách tiếp cận ban đầu đi theo con đường mà Chapman gọi là "chủ nghĩa logic" (logicism): về cơ bản là logic vị từ toán học áp dụng cho các câu hỏi nhận thức luận rộng hơn. Lý tưởng là dùng logic để chứng minh rằng logic hoạt động như ta kỳ vọng. Cách này không chạy (xem Gödel).
+Cách tiếp cận ban đầu đi theo con đường mà Chapman gọi là "chủ nghĩa logic" (logicism): về cơ bản là logic vị từ toán học áp dụng cho các câu hỏi nhận thức luận rộng hơn. Lý tưởng là dùng logic để chứng minh rằng logic hoạt động như ta kỳ vọng. Cách này không hoạt động (xem Gödel).
 
 Sau đó nó chuyển sang cách tiếp cận Chapman gọi là "chủ nghĩa xác suất" (probabilism), giống lý thuyết xác suất áp dụng cho nhận thức luận. Nếu bạn thấy mặt trời mọc ở phía Đông một nghìn lần, bạn không thể kết luận nó luôn mọc ở phía Đông, nhưng bạn có thể ngày càng chắc rằng nó sẽ mọc ở phía Đông. Các nhà thực chứng logic cố thống nhất lập luận xác suất kiểu này với logic vị từ nhưng (theo Chapman) thất bại. Các bài Less Wrong cổ điển dường như gợi ý nhận thức luận kiểu này.
 
@@ -247,7 +247,7 @@ Cách tiếp cận của kỹ sư với mơ hồ có thể là: tất cả nhữ
 
 Một thách thức liên quan thú vị: với các hiện tượng phi số, xấp xỉ thường là cách không phù hợp để nghĩ về một phát biểu:
 
-> Một đoạn DNA cụ thể không *xấp xỉ* là một gen. Nó chắc chắn là gen hoặc không, và nó có thể là "kiểu kiểu" một gen, nhưng không bao giờ là gen "trong giới hạn sai số." Các cách lập luận chạy được cho sự thật xấp xỉ bằng số không chạy được cho sự thật "thường thường là đủ", nên xấp xỉ không phải mô hình tổng quát phù hợp về tính đủ của mô hình.
+> Một đoạn DNA cụ thể không *xấp xỉ* là một gen. Nó chắc chắn là gen hoặc không, và nó có thể là "kiểu kiểu" một gen, nhưng không bao giờ là gen "trong giới hạn sai số." Các cách lập luận hoạt động được cho sự thật xấp xỉ bằng số không hoạt động được cho sự thật "thường thường là đủ", nên xấp xỉ không phải mô hình tổng quát phù hợp về tính đủ của mô hình.
 
 H. Vì sao không đủ khi các mô hình lý tính là "xấp xỉ đúng"?
 Đ. Điều đó chỉ thực sự đúng với các mô hình kiểu vật lý. Với các câu hỏi quy mô con người, miền áp dụng không rõ ràng, và biên sai số tùy ngữ cảnh.
@@ -279,7 +279,7 @@ Feynman nói hay:
 
 > Đối tượng là gì? Triết gia luôn nói, "Ừ, lấy cái ghế làm ví dụ." Khoảnh khắc họ nói vậy, bạn biết họ không còn biết họ đang nói về cái gì nữa. Các nguyên tử bốc hơi khỏi nó theo thời gian, không nhiều, nhưng có vài cái. Bụi rơi xuống và hòa vào sơn. Vậy nên để xác định một cái ghế chính xác, để nói chính xác nguyên tử nào là ghế, nguyên tử nào là không khí, nguyên tử nào là bụi, nguyên tử nào là sơn thuộc về ghế, là không thể. Khối lượng một cái ghế chỉ có thể xác định gần đúng.
 >
-> Không có vật thể đơn lẻ, biệt lập nào trong thế giới. Nếu ta không quá khắt khe, ta có thể lý tưởng hóa cái ghế thành một vật nhất định. Có người thích định nghĩa toán học, nhưng định nghĩa toán học không bao giờ chạy được trong thế giới thực.
+> Không có vật thể đơn lẻ, biệt lập nào trong thế giới. Nếu ta không quá khắt khe, ta có thể lý tưởng hóa cái ghế thành một vật nhất định. Có người thích định nghĩa toán học, nhưng định nghĩa toán học không bao giờ hoạt động được trong thế giới thực.
 
 Trong thực tế ta vẫn làm việc với các đối tượng không xác định, nhưng luôn theo cách phụ thuộc ngữ cảnh. Thường thì giới hạn của định nghĩa không quan trọng, nhưng "Câu hỏi siêu lý tính là: điều đó có quan trọng không, cho một mục đích cụ thể? Nếu có, thế nào và vì sao? Điều này ngụ ý gì về cách ta nên triển khai lý tính?"
 
@@ -324,7 +324,7 @@ Nếu lý tính là quyết định giữa nhiều lựa chọn thay thế, các
 
 Lý tính có thể tính toán mọi "điều đã biết là đã biết" và "điều đã biết là không biết," nhưng không thể đưa ra suy luận đáng tin về thực tế vì có vô số "điều không biết là không biết."
 
-Trong thực tế, ta *vẫn* đưa ra suy luận chạy được khá thường xuyên, nhưng điều đó phụ thuộc vào các bước siêu lý tính như viện đến kịch bản lý tưởng hóa, làm cho thế giới bớt mơ hồ, hoặc dùng "kiểm tra thực tế" với đầu ra của suy luận lý tính. Nhưng quyết định khi nào, cách nào để áp dụng các chiến lược này đòi hỏi kỹ năng siêu lý tính.
+Trong thực tế, ta *vẫn* đưa ra suy luận hoạt động được khá thường xuyên, nhưng điều đó phụ thuộc vào các bước siêu lý tính như viện đến kịch bản lý tưởng hóa, làm cho thế giới bớt mơ hồ, hoặc dùng "kiểm tra thực tế" với đầu ra của suy luận lý tính. Nhưng quyết định khi nào, cách nào để áp dụng các chiến lược này đòi hỏi kỹ năng siêu lý tính.
 
 #### Chủ nghĩa xác suất (Probabilism)
 

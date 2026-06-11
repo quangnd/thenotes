@@ -2,10 +2,10 @@
 aliases:
   - Bloom’s taxonomy
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
-Phân loại học kinh điển về các nhiệm vụ học tập của [[Benjamin S. Bloom]]. Trong dạng đương đại của nó:
+Phân loại học kinh điển về các nhiệm vụ học tập của [[Benjamin S. Bloom]]. Trong dạng đương đại, nó gồm:
 
 1. Ghi nhớ (Remember)
 2. Hiểu (Understand)

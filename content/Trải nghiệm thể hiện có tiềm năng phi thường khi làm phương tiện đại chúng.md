@@ -2,7 +2,7 @@
 aliases:
   - Enacted experiences have incredible potential as a mass medium
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 
 Tôi tin rằng ta có thể thiết kế một [[Trải nghiệm thể hiện|trải nghiệm thể hiện]] với mục đích chính là truyền tải ý tưởng, giá trị và cách thực hành, tương tự vai trò của một cuốn sách. Đây là một nhận định mạnh, vì [[Trải nghiệm thể hiện tạo kết nối cá nhân sâu với mục tiêu do tác giả tạo|trải nghiệm thể hiện có thể tạo kết nối cá nhân sâu với mục tiêu do tác giả đặt ra]] và [[Trải nghiệm thể hiện kích hoạt tham gia chủ động trong môi trường khai phóng|giúp người tham gia bước vào môi trường khai phóng một cách chủ động]].
@@ -15,4 +15,4 @@ Một vài hướng đáng chú ý:
 
 Tôi xem đây là một trong những ý tưởng cốt lõi của [[Cuốn Primer++]].
 
-Dường như có một mâu thuẫn căn bản giữa ý tưởng này và [[Tương tác là một trung tâm chi phí trong thiết kế giao diện]].
+Dường như có một mâu thuẫn căn bản giữa ý tưởng này và [[Tương tác là một khoản chi phí trong thiết kế giao diện]].

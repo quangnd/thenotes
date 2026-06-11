@@ -2,17 +2,16 @@
 aliases:
   - Grounded claims, after Qian et al
 created: 2026-05-26
-modified: 2026-05-31
+modified: 2026-06-11
 ---
 
-Khi các nhà nghiên cứu tổng hợp kiến thức (chẳng hạn bằng cách đọc tài liệu học thuật), họ phải lắp ráp một mạng lưới kết nối dày đặc gồm các "khẳng định có cơ sở": những phát biểu chính xác bao gồm đủ ngữ cảnh (nguồn, bằng chứng, phạm vi, kết nối) để giúp nhà nghiên cứu sử dụng khẳng định đó một cách thực tế.
+Khi các nhà nghiên cứu tổng hợp tri thức, chẳng hạn bằng cách đọc tài liệu học thuật, họ phải lắp ráp một mạng lưới kết nối dày đặc gồm các "khẳng định có cơ sở": những phát biểu chính xác có đủ ngữ cảnh (nguồn, bằng chứng, phạm vi, kết nối) để nhà nghiên cứu có thể dùng chúng trong thực tế.
 
-Khái niệm này liên quan đến thực hành của tôi trong việc phân tách ghi chú sao cho chúng có thể có tiêu đề sắc bén hoạt động như các API ([[Tiêu đề ghi chú thường xanh giống như API]]). Cả hai khái niệm đều nhấn mạnh tính nguyên tử và sự chính xác. Các khẳng định có cơ sở nhấn mạnh bằng chứng và nguồn gốc ở mức độ cao hơn. Tiêu đề ghi chú thường xanh có phạm vi rộng hơn phần nào, vì chúng không nhất thiết cố gắng trở thành các phát biểu về sự thật (ví dụ: [[Năng lực phi thường di truyền tới mức nào]]).
+Khái niệm này liên quan đến thực hành của tôi trong việc tách ghi chú sao cho chúng có tiêu đề sắc bén, hoạt động như các API ([[Tiêu đề ghi chú thường xanh giống như API]]). Cả hai khái niệm đều nhấn mạnh tính nguyên tử và sự chính xác. Các khẳng định có cơ sở nhấn mạnh bằng chứng và nguồn gốc ở mức cao hơn. Tiêu đề ghi chú thường xanh có phạm vi rộng hơn phần nào, vì chúng không nhất thiết cố trở thành các phát biểu về sự thật (ví dụ: [[Năng lực phi thường di truyền tới mức nào]]).
 
-Hình minh họa này (Qian và cộng sự, 2019) thể hiện một khẳng định với ngữ cảnh cơ sở của nó:
+Hình minh họa này (Qian và cộng sự, 2019) thể hiện một khẳng định cùng ngữ cảnh làm cơ sở cho nó:
 
 ![](Attachments/ABE6921F-3875-4A56-AE08-B8784E108A24.png)
-
 ---
 
 > [!info]- Tài liệu tham khảo

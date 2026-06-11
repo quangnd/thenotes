@@ -2,11 +2,11 @@
 aliases:
   - Where do ideas come from_
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-11
 ---
-Ý tưởng có thể đến từ mọi nơi, từ phòng tắm, nhà bếp nhà bạn; cho tới quán cafe, văn phòng, tiệm giặt là mà bạn thường ghé thăm.
+Ý tưởng có thể đến từ mọi nơi: phòng tắm, nhà bếp của bạn, quán cà phê, văn phòng, tiệm giặt là mà bạn thường ghé.
 
-Ý tưởng cũng có thể đến vào bất kỳ thời điểm nào: khi bạn đang chạy bộ, khi bạn đang tắm, khi bạn đang đợi một nồi nước sôi. Nói chính xác thì là bất cứ thời điểm nào mà bạn [[để cho đầu óc mình lơ đãng]], tránh xa màn hình điện thoại.
+Ý tưởng cũng có thể đến vào bất kỳ thời điểm nào: khi bạn đang chạy bộ, đang tắm, hoặc đang đợi một nồi nước sôi. Nói chính xác hơn, đó là bất cứ thời điểm nào bạn [[Để cho đầu óc mình lơ đãng|để cho đầu óc mình lơ đãng]], tránh xa màn hình điện thoại.
 
 Một vài ghi chú tham khảo:
 - [[Đổi mới mạnh mẽ thường tạo ra mô hình mới, không phải giải vấn đề của bối cảnh hiện tại]]

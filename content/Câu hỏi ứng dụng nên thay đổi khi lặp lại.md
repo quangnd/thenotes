@@ -2,19 +2,19 @@
 aliases:
   - Application prompts should vary when repeated
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]], nhưng [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Giải pháp đơn giản của chúng tôi là đặt cho người đọc những câu hỏi khác nhau mỗi lần, để người đọc luôn phải tính toán câu trả lời từ đầu.
+[[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]], nhưng [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]. Giải pháp đơn giản của chúng tôi là mỗi lần đặt cho người đọc một câu hỏi khác nhau, để họ luôn phải tự tính toán câu trả lời từ đầu.
 
-Về mặt thực tế, sẽ chỉ có một số ít biến thể, vì chúng được viết tay: [[Các biến thể câu hỏi ứng dụng rất khó để tự động hóa]]. Nhưng vì chúng sẽ được trình bày trong nhiều tuần, người đọc khó có khả năng ghi nhớ câu trả lời.
+Trên thực tế, sẽ chỉ có một số ít biến thể, vì chúng được viết thủ công: [[Các biến thể câu hỏi ứng dụng rất khó để tự động hóa]]. Nhưng vì các biến thể này được đưa ra qua nhiều tuần, người đọc khó có khả năng ghi nhớ sẵn câu trả lời.
 
-Chúng tôi nhắm đến khoảng 5 biến thể mỗi câu hỏi, nhưng các triển khai nên hỗ trợ số lượng biến thể linh hoạt.
+Chúng tôi nhắm đến khoảng 5 biến thể cho mỗi câu hỏi, nhưng cách triển khai nên hỗ trợ số lượng biến thể linh hoạt.
 
 ---
 
-H. Điều gì xảy ra nếu câu hỏi được hỏi bởi một câu hỏi ứng dụng trong phương tiện ghi nhớ không thay đổi từ buổi học này sang buổi học khác?
-Đ. Câu hỏi ứng dụng biến thành câu hỏi nhớ lại.
+H. Điều gì xảy ra nếu một câu hỏi ứng dụng trong phương tiện ghi nhớ không thay đổi giữa các buổi học?
+Đ. Câu hỏi ứng dụng sẽ biến thành câu hỏi nhớ lại.
 
 ---
 

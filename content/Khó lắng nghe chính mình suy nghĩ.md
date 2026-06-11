@@ -2,7 +2,7 @@
 aliases:
   - It’s hard to hear yourself think
 created: 2026-05-26
-modified: 2026-06-02
+modified: 2026-06-11
 ---
 
 - [[Suy nghĩ theo cách của bạn]]

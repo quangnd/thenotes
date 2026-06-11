@@ -2,17 +2,16 @@
 aliases:
   - Most explanatory media make participants run their own feedback loops
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-[[Học tập đòi hỏi siêu nhận thức]]. Khi học cái gì mới từ một văn bản, người đọc phải liên tục tự hỏi: tôi có hiểu chỗ đó không? tôi có thể đặt câu hỏi nào để kiểm tra hiểu biết của mình? có nên đọc lại đoạn đó không? có nên tra tài liệu nền không? v.v.
+[[Học tập đòi hỏi siêu nhận thức]]. Khi học điều gì đó mới từ văn bản, người đọc phải liên tục tự hỏi: mình có hiểu đoạn này không? Có thể đặt câu hỏi nào để kiểm tra hiểu biết của mình? Có nên đọc lại đoạn đó không? Có cần tra thêm kiến thức nền không? v.v.
 
-Nói cách khác, người đọc phải tự chạy vòng phản hồi cho chính mình. Khi đang tập trung vào tài liệu khó, họ có thể không thực hiện được loại siêu nhận thức này hiệu quả. Ngược lại, đổ quá nhiều công sức vào đánh giá, lập kế hoạch, và kiểm soát điều hành có thể làm cho việc tiếp cận tài liệu khó trở nên còn khó hơn.
+Nói cách khác, người đọc phải tự vận hành vòng phản hồi của mình. Khi đang tập trung vào tài liệu khó, họ có thể không thực hiện tốt kiểu siêu nhận thức này. Ngược lại, nếu phải dồn quá nhiều công sức vào việc đánh giá, lập kế hoạch và kiểm soát quá trình học, tài liệu khó lại càng khó tiếp cận hơn.
 
-Tình huống có lẽ còn tệ hơn chút ở định dạng video. Trong sách, người đọc kiểm soát tốc độ hoàn toàn. Nhưng trong video, có một tốc độ mặc định, và người xem phải chủ động quyết định lật ngược nó.
+Tình hình có lẽ còn tệ hơn một chút với video. Khi đọc sách, người đọc hoàn toàn kiểm soát tốc độ. Còn video có tốc độ mặc định, nên người xem phải chủ động quyết định tua lại hoặc dừng lại.
 
 Lý thuyết của tôi về lý do điều này đúng: [[Hỗ trợ siêu nhận thức đòi hỏi môi trường động, có tính tham gia]].
-
 ---
 
 > [!info]- Tài liệu tham khảo (References)

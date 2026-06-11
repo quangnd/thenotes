@@ -2,14 +2,14 @@
 aliases:
   - Quizlet adaptively chooses prompt response modalities
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Giao diện ôn tập thẻ của [[Quizlet]] có thể yêu cầu phản hồi theo một vài phương thức khác nhau: trắc nghiệm, nhập văn bản và tự chấm điểm.
+Giao diện ôn tập thẻ của [[Quizlet]] có thể yêu cầu phản hồi theo vài phương thức khác nhau: trắc nghiệm, nhập văn bản và tự chấm điểm.
 
-Lần đầu tiên học sinh ôn tập một thuật ngữ, họ trả lời bằng trắc nghiệm (các lựa chọn nhiễu được tạo ra bằng cách sử dụng câu trả lời của các thẻ khác—một lựa chọn đơn giản nhưng đôi khi hoạt động kỳ lạ). Mục tiêu là cho họ cơ hội thành công cao hơn trong lần thử đầu tiên, sau đó khi ký ức đã được mã hóa phần nào, tăng độ khó.
+Lần đầu học sinh ôn tập một thuật ngữ, họ trả lời bằng trắc nghiệm (các lựa chọn nhiễu được tạo bằng cách dùng câu trả lời của các thẻ khác, một lựa chọn đơn giản nhưng đôi khi hoạt động kỳ lạ). Mục tiêu là cho họ cơ hội thành công cao hơn trong lần thử đầu tiên, rồi tăng độ khó khi ký ức đã được mã hóa phần nào.
 
-Trong các lần trình bày tiếp theo, Quizlet yêu cầu học sinh tạo ra câu trả lời. Điều này thường xảy ra thông qua nhập văn bản, nhưng đôi khi hệ thống sẽ cho phép học sinh tự chấm điểm (ví dụ: nếu câu trả lời rất dài, hoặc nếu nó dựa trên hình ảnh thay vì văn bản). Lý do được đưa ra là việc gõ câu trả lời có thể giúp học sinh nhớ nó chắc hơn.
+Trong các lần trình bày tiếp theo, Quizlet yêu cầu học sinh tự tạo câu trả lời. Điều này thường diễn ra qua nhập văn bản, nhưng đôi khi hệ thống sẽ cho phép học sinh tự chấm điểm, ví dụ nếu câu trả lời rất dài hoặc dựa trên hình ảnh thay vì văn bản. Lý do được đưa ra là việc gõ câu trả lời có thể giúp học sinh nhớ chắc hơn.
 
 ---
 
@@ -21,7 +21,6 @@ H. Quizlet tạo ra các lựa chọn nhiễu cho câu hỏi trắc nghiệm nh�
 
 H. Khi nào Quizlet cho phép học sinh tự chấm điểm?
 Đ. Khi câu trả lời của câu hỏi quá dài, hoặc khi nó dựa trên hình ảnh.
-
 ---
 
 > [!info]- Tài liệu tham khảo

@@ -2,10 +2,10 @@
 aliases:
   - Parallel reading is mostly impossible in digital reading
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
-Theo như tôi biết, không có trình đọc PDF hay EPUB nào cho phép người đọc xem nhiều trang cùng lúc. Nếu bạn muốn tra phần thư mục tương ứng với chương đang đọc, bạn phải lật đi lật lại. LiquidText là ngoại lệ duy nhất trên thị trường đại chúng mà tôi biết.
+Theo như tôi biết, gần như không có trình đọc PDF hay EPUB nào cho phép người đọc xem nhiều trang cùng lúc. Nếu bạn muốn tra phần thư mục tương ứng với chương đang đọc, bạn phải lật đi lật lại. LiquidText là ngoại lệ duy nhất trên thị trường đại chúng mà tôi biết.
 
 Điều này, cùng nhiều thứ khác, làm trầm trọng thêm vấn đề [[Cắt và dán vật lý là một hành động song song liên quan đến các trạng thái trung gian phi chính thức]].
 

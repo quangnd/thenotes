@@ -2,7 +2,7 @@
 aliases:
   - Guided meditation app
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
 Ví dụ: Headspace, Waking Up, v.v.
@@ -15,5 +15,4 @@ Các khóa học kiểu này có vài đặc tính truyền thông khá thú v�
 - [[Ứng dụng thiền có hướng dẫn mang đến môi trường hỗ trợ trong phương tiện đại chúng]]
 
 ---
-
 #### Tài liệu tham khảo

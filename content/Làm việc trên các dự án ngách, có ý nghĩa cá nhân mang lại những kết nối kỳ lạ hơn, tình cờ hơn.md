@@ -2,11 +2,10 @@
 aliases:
   - Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Thật hấp dẫn khi làm việc trên các dự án dành cho đại chúng vì quy mô làm cho kết quả có tác động cao hơn. Những dự án như vậy thường ít nổi bật, cá nhân, đẫm máu hơn, v.v. so với các lựa chọn thay thế "kỳ lạ" hơn. Chúng có thể thu hút được nhiều sự chú ý từ đại chúng hơn nhưng ít sự chú ý hơn từ những người khác thường, độc đáo. Những người này thường là nguồn cung cấp những hiểu biết đáng ngạc nhiên (và có ý nghĩa hơn) cũng như các cơ hội.
-
+Làm việc trên các dự án dành cho đại chúng rất hấp dẫn, vì quy mô khiến kết quả có vẻ tác động hơn. Nhưng những dự án như vậy thường kém nổi bật, kém cá nhân, kém máu thịt hơn, v.v. so với các lựa chọn "kỳ lạ" hơn. Chúng có thể thu hút nhiều sự chú ý từ đại chúng hơn, nhưng lại ít thu hút những người khác thường và độc đáo hơn. Chính những người này thường là nguồn của các hiểu biết bất ngờ, có ý nghĩa hơn, cũng như các cơ hội thú vị.
 ---
 
 > [!info]- Tài liệu tham khảo (References)

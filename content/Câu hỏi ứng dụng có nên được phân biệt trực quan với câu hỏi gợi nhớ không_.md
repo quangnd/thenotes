@@ -2,16 +2,16 @@
 aliases:
   - Should application prompts be visually distinguished from recall prompts_
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Chúng tôi khá không chắc chắn về điều này khi ra mắt các câu hỏi ứng dụng (xem [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]). Tôi vẫn chưa chắc.
+Chúng tôi khá không chắc về điều này khi ra mắt các câu hỏi ứng dụng (xem [[Công cụ ghi nhớ có thể giúp người đọc vận dụng điều đã học bằng các câu hỏi đơn giản]]). Tôi vẫn chưa chắc.
 
-**Mục tiêu của việc luyện tập là khác nhau: người dùng không nên cố nhớ câu trả lời cho các câu hỏi ứng dụng.** Khi bạn thấy câu trả lời cho câu hỏi gợi nhớ, mục tiêu của bạn là ghi nhớ câu trả lời đó. Nhưng hành vi đó thường lãng phí thời gian với các câu hỏi ứng dụng (và tệ nhất, nó thực sự phản tác dụng: [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]). Câu trả lời cho câu hỏi ứng dụng cần một kiểu tương tác khác — giống như nhận ra sự bất ngờ hơn. Một chỉ báo nào đó về loại câu hỏi sẽ giúp mọi người tương tác phù hợp.
+**Mục tiêu luyện tập là khác nhau: người dùng không nên cố nhớ câu trả lời cho câu hỏi ứng dụng.** Khi bạn thấy câu trả lời cho câu hỏi gợi nhớ, mục tiêu của bạn là ghi nhớ câu trả lời đó. Nhưng hành vi đó thường lãng phí thời gian với câu hỏi ứng dụng (và tệ nhất là thật sự phản tác dụng: [[Câu trả lời cho các câu hỏi ứng dụng không nên được rút ra từ trí nhớ]]). Câu trả lời cho câu hỏi ứng dụng cần một kiểu tương tác khác, giống nhận ra một điều bất ngờ hơn. Một chỉ báo nào đó về loại câu hỏi sẽ giúp mọi người tương tác phù hợp.
 
-**Nhưng trong đời thực, các câu hỏi không có nhãn.** Bạn cần tự tìm ra liệu nên nhớ câu trả lời hay suy luận ra nó. Có lẽ một chỉ báo sẽ là một chiếc nạng vô ích.
+**Nhưng trong đời thực, câu hỏi không có nhãn.** Bạn cần tự nhận ra nên nhớ câu trả lời hay suy luận ra nó. Có lẽ một chỉ báo sẽ chỉ là một chiếc nạng vô ích.
 
-Khi chúng tôi ra mắt các câu hỏi ứng dụng, chúng tôi đã gắn nhãn chúng cho một nửa số người dùng. Nghiên cứu người dùng của chúng tôi về các câu hỏi ứng dụng cho thấy rằng điều này dường như không phải là yếu tố quan trọng hàng đầu trong thực tế.
+Khi ra mắt các câu hỏi ứng dụng, chúng tôi gắn nhãn chúng cho một nửa số người dùng. Nghiên cứu người dùng của chúng tôi về các câu hỏi ứng dụng cho thấy điều này dường như không phải là yếu tố quan trọng hàng đầu trong thực tế.
 
 ----------
 

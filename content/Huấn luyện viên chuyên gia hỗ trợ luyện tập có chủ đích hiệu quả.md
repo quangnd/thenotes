@@ -2,12 +2,12 @@
 aliases:
   - Expert coaches facilitate effective deliberate practice
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-[[Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]]; qua một mức hiệu suất nhất định, [[Luyện tập có chủ đích, theo Ericsson]] hiệu quả thường đòi hỏi kiến thức của huấn luyện viên chuyên gia về phương pháp luyện tập, cũng như sự giám sát và phản hồi của họ. Ví dụ, một huấn luyện viên chuyên gia (thường cũng là hoặc từng là người thực hành chuyên gia) sẽ phát minh các bài tập mới (dựa trên kiến thức của họ về phương pháp luyện tập) để khắc phục điểm yếu.
+[[Hiệu quả luyện tập rất nhạy cảm với thiết kế phương pháp]]; qua một mức hiệu suất nhất định, [[Luyện tập có chủ đích, theo Ericsson]] hiệu quả thường đòi hỏi kiến thức của huấn luyện viên chuyên gia về phương pháp luyện tập, cũng như sự giám sát và phản hồi của họ. Ví dụ, một huấn luyện viên chuyên gia, thường là hoặc từng là người thực hành chuyên gia, sẽ phát minh các bài tập mới dựa trên kiến thức của họ về phương pháp luyện tập để khắc phục điểm yếu.
 
-Các học viên nghiêm túc có thể dành hàng chục giờ luyện tập mỗi tuần, nhưng vì hướng dẫn 1-1 rất tốn kém, phần lớn thời gian đó có lẽ sẽ là tự luyện hoặc trong các nhóm. Vì vậy, vai trò chính của huấn luyện viên chuyên gia là hướng dẫn việc luyện tập cá nhân của học viên: học viên gặp huấn luyện viên một hoặc hai lần mỗi tuần trong vài giờ, và huấn luyện viên sẽ đề xuất những gì học viên nên dành 20 giờ còn lại trong tuần để làm.
+Các học viên nghiêm túc có thể dành hàng chục giờ luyện tập mỗi tuần. Nhưng vì hướng dẫn 1-1 rất tốn kém, phần lớn thời gian đó có lẽ sẽ là tự luyện hoặc luyện trong nhóm. Vì vậy, vai trò chính của huấn luyện viên chuyên gia là hướng dẫn việc luyện tập cá nhân của học viên: học viên gặp huấn luyện viên một hoặc hai lần mỗi tuần trong vài giờ, và huấn luyện viên sẽ đề xuất học viên nên dùng 20 giờ còn lại trong tuần để làm gì.
 
 ---
 
@@ -22,7 +22,6 @@ A. Hỗ trợ chuyên gia thường đòi hỏi phát minh phương pháp luyệ
 
 Q. Ngoài kiến thức với tư cách người thực hành trong lĩnh vực, huấn luyện viên chuyên gia mang đến kiến thức gì cho việc luyện tập của học viên?
 A. Kiến thức về phương pháp giảng dạy
-
 ---
 
 > [!info]- Tài liệu tham khảo

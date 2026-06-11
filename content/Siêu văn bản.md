@@ -2,10 +2,10 @@
 aliases:
   - Hypertext
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 
-Văn bản có liên kết đến văn bản khác. Thuật ngữ được đặt ra bởi [[Ted Nelson]].
+Văn bản có liên kết đến văn bản khác. Thuật ngữ này do [[Ted Nelson]] đặt ra.
 
 Ví dụ:
 

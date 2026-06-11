@@ -1,5 +1,5 @@
 ---
 created: 2026-04-16
-modified: 2026-05-26
+modified: 2026-06-11
 ---
-Tác giả của Destroy All Software và [[Execute Program]].
+Gary Bernhardt là tác giả của Destroy All Software và [[Execute Program]].

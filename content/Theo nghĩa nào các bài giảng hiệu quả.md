@@ -2,7 +2,7 @@
 aliases:
   - In what senses are lectures effective_
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
 - [[Bài giảng cho ta thấy một chút về cách một chuyên gia tư duy]]

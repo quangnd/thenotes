@@ -1,6 +1,6 @@
 ---
 created: 2026-05-26
-modified: 2026-05-26
+modified: 2026-06-11
 ---
 Hầu hết các tuần, tôi nướng một chiếc quiche vào Chủ nhật để ăn trưa cả tuần. Món này sang, nấu nhanh (ít nhất là vào ngày đi làm), rẻ, và đủ biến tấu để tôi không ngán.
 

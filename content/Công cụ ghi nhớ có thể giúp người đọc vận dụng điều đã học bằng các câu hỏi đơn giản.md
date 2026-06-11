@@ -2,7 +2,7 @@
 aliases:
   - The mnemonic medium can help readers apply what they’ve learned through simple application prompts
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 > [!info]- Lý giải thêm
 > Trong bài viết này, ý của tác giả là:
@@ -23,7 +23,7 @@ Loại câu hỏi này hữu ích một phần vì nó chỉ cách kiến thức
 
 Chúng tôi đã triển khai prompt ứng dụng trong *Quantum mechanics distilled* trên [[Quantum Country]]. Đến nay, đây là những gì chúng tôi tìm thấy:
 
-- [[Prompt ứng dụng đơn giản có thể trình bày giống prompt gợi nhớ trong phương tiện ghi nhớ]]
+- [[Câu nhắc ứng dụng đơn giản có thể trình bày giống câu nhắc gợi nhớ trong phương tiện ghi nhớ]]
 - [[Câu hỏi ứng dụng khó viết hơn nhiều so với câu hỏi nhớ lại]]
 - Nghiên cứu người dùng về prompt ứng dụng
 

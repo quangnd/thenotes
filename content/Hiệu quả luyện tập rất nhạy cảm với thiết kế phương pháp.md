@@ -2,13 +2,12 @@
 aliases:
   - Practice efficacy is highly sensitive to method design
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Các phương pháp luyện tập thông thường bị giới hạn về phạm vi: [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]]. Nhưng không đơn giản là thay thế các phương pháp thông thường bằng các phương pháp tốt hơn vì [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Các phương pháp luyện tập của một người phải phát triển cùng với hiệu suất của họ vì [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]].
+Các phương pháp luyện tập thông thường bị giới hạn về phạm vi: [[Các cách luyện tập thông thường nhanh chóng đạt đến ngưỡng bão hòa]]. Nhưng không đơn giản là thay các phương pháp thông thường bằng các phương pháp tốt hơn, vì [[Các giai đoạn bình nguyên hiệu suất thường đòi hỏi thay đổi cách tiếp cận để vượt qua]]. Phương pháp luyện tập của một người phải phát triển cùng với hiệu suất của họ, vì [[Phát triển kỹ năng đòi hỏi phải phá vỡ trạng thái quen thuộc]].
 
-Điều này thường có nghĩa là các phương pháp luyện tập phải được thiết kế và duy trì bởi một chuyên gia: [[Huấn luyện viên chuyên gia hỗ trợ luyện tập có chủ đích hiệu quả]].
-
+Điều này thường có nghĩa là phương pháp luyện tập phải được thiết kế và duy trì bởi một chuyên gia: [[Huấn luyện viên chuyên gia hỗ trợ luyện tập có chủ đích hiệu quả]].
 ---
 
 > [!info]- Tài liệu tham khảo

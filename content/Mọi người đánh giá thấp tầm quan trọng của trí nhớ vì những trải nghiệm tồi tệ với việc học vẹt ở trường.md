@@ -2,10 +2,10 @@
 aliases:
   - People underrate the importance of memory because of bad experiences with rote memorization in school
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-[[Hiểu sâu cần kiến thức chi tiết về nền tảng]], nhưng [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]]. Trong nhiều trường hợp, điều này dường như là một hậu quả đáng tiếc của việc học vẹt vô nghĩa ở trường: những trải nghiệm đó cảm thấy khó chịu và vô dụng, nên trí nhớ nói chung hẳn là khó chịu và vô dụng. Nhưng khi theo đuổi để hỗ trợ sự tò mò chân thực hoặc mục đích có ý nghĩa, việc ghi nhớ có thể vừa bổ ích vừa trao quyền.
+[[Hiểu sâu cần kiến thức chi tiết về nền tảng]], nhưng [[Nhiều người xem trí nhớ là không quan trọng đối với công việc sáng tạo sâu]]. Trong nhiều trường hợp, đây dường như là hậu quả đáng tiếc của việc học vẹt vô nghĩa ở trường: những trải nghiệm đó vừa khó chịu vừa vô dụng, nên người ta khái quát rằng trí nhớ nói chung cũng khó chịu và vô dụng. Nhưng khi việc ghi nhớ phục vụ sự tò mò thật sự hoặc một mục đích có ý nghĩa, nó có thể vừa bổ ích vừa trao quyền.
 
 Xem [[Mục tiêu giáo dục thường phản tác dụng chính nó]] để biết thêm về góc nhìn phản giáo dục của ghi chú này.
 
@@ -16,7 +16,6 @@ H. Sự khái quát sai lầm nào mà nhiều người rút ra từ những tr�
 
 H. Những trải nghiệm ở tuổi đi học thường dẫn đến sự ác cảm chung với việc ghi nhớ như thế nào?
 Đ. Việc học vẹt ở trường thường vừa khó chịu vừa vô nghĩa.
-
 ---
 
 > [!info]- Tài liệu tham khảo

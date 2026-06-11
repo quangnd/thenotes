@@ -1,8 +1,8 @@
 ---
 created: 2026-04-15
-modified: 2026-05-30
+modified: 2026-06-11
 ---
-Một dự án của [[Nghiên cứu dài hạn của Khan Academy]] khám phá các biểu diễn động của số lượng.
+Một dự án của [[Nghiên cứu dài hạn của Khan Academy]], khám phá các biểu diễn động của số lượng.
 
 ![](Attachments/D2E093EE-EB9A-480C-9ABE-E2936188A303.png)
 

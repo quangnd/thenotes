@@ -2,10 +2,10 @@
 aliases:
   - Executable books
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-10
 ---
 
-(Xem thảo luận chính trong *[How can we develop transformative tools for thought; subsection "Executable books"](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)*) ==CẦN LÀM (TODO)==
+(Xem thảo luận chính trong *[How can we develop transformative tools for thought; mục "Executable books"](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)*) ==CẦN LÀM (TODO)==
 
 - Một số phương tiện đang đi theo hướng này:
 	- [GitHub - norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes).

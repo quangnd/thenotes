@@ -2,18 +2,17 @@
 aliases:
   - Great creative work is usually the product of a single person
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Dù trong âm nhạc (Bach, Lennon), nghệ thuật (Picasso, Bernini), điện ảnh (Tarantino, Anderson), trò chơi (Blow, Lantz), tiểu thuyết (Kundera, Tolstoy), những tác phẩm lỗi lạc nhất thường là kết quả của nỗ lực sáng tạo của một cá nhân. Đôi khi là một nhóm rất nhỏ (Eames, Wrights).
+Dù trong âm nhạc (Bach, Lennon), nghệ thuật (Picasso, Bernini), điện ảnh (Tarantino, Anderson), trò chơi (Blow, Lantz), hay tiểu thuyết (Kundera, Tolstoy), những tác phẩm lỗi lạc nhất thường là kết quả từ nỗ lực sáng tạo của một cá nhân. Đôi khi là một nhóm rất nhỏ (Eames, Wrights).
 
 Tại sao lại như vậy?
 
 - Mạng lưới đồng thuận dập tắt những ý tưởng cấp tiến
 - [[Khó lắng nghe chính mình suy nghĩ]]
 
-Quan sát này tạo ra thách thức cho [[Công cụ tư duy]] bởi vì [[Những người tạo công cụ giỏi thường không phải người sử dụng công cụ giỏi, và ngược lại]]; xem [[Sự hợp tác sâu giữa người tạo công cụ và người dùng công cụ có thể hỗ trợ cái nhìn sâu sắc thông qua việc tạo ra]].
-
+Quan sát này tạo ra thách thức cho [[Công cụ tư duy]], vì [[Những người tạo công cụ giỏi thường không phải người sử dụng công cụ giỏi, và ngược lại]]; xem [[Sự hợp tác sâu giữa người tạo công cụ và người dùng công cụ có thể hỗ trợ cái nhìn sâu sắc thông qua việc tạo ra]].
 ---
 
 > [!info]- Tài liệu tham khảo

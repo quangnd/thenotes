@@ -2,10 +2,10 @@
 aliases:
   - Narrated explorable
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Thuật ngữ tôi sử dụng để mô tả các phương tiện tương tự như [[Giải thích khám phá]] nhưng tích hợp trải nghiệm tường thuật vào môi trường tương tác, thay vì tách biệt chúng như thường thấy.
+Thuật ngữ tôi dùng để mô tả các phương tiện tương tự [[Giải thích khám phá]], nhưng tích hợp trải nghiệm tường thuật vào môi trường tương tác, thay vì tách chúng ra như thường thấy.
 
 Ví dụ:
 
@@ -15,7 +15,6 @@ Ví dụ:
 - [Cantor](https://early.khanacademy.org/cantor/)
 
 Liên quan: [[Phương tiện động thường thiếu chiều thời gian do tác giả tạo]]
-
 ---
 
 > [!info]- Tài liệu tham khảo (References)

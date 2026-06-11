@@ -2,20 +2,19 @@
 aliases:
   - Live, in-person lectures make it easier to pay attention
 created: 2026-05-26
-modified: 2026-05-30
+modified: 2026-06-11
 ---
 
-Khi bạn tham dự trực tiếp một bài giảng, bạn sẽ được bao quanh bởi những người khác, hầu hết trong số họ sẽ đang chú ý đến người giảng (hoặc ít nhất có vẻ như vậy). Điều này có xu hướng khiến việc chú ý trở thành "mặc định" đối với bạn, vì vậy bạn cần ít ý chí hơn để tự mình tập trung. 
+Khi tham dự trực tiếp một bài giảng, bạn được bao quanh bởi những người khác, phần lớn trong số họ đang chú ý đến người giảng, hoặc ít nhất trông như vậy. Điều này có xu hướng biến việc chú ý thành trạng thái "mặc định" của bạn, nên bạn cần ít ý chí hơn để tự giữ tập trung.
 
-Ngược lại, khi bạn một mình xem bài giảng trực tuyến (hoặc cố đọc sách giáo khoa), bạn phải "tự ép mình chú ý" (Kling, 2020).
+Ngược lại, khi xem bài giảng trực tuyến một mình, hoặc cố đọc sách giáo khoa, bạn phải "tự ép mình chú ý" (Kling, 2020).
 
-Đây là một câu trả lời cho [[Theo nghĩa nào các bài giảng hiệu quả]]
+Đây là một câu trả lời cho [[Theo nghĩa nào các bài giảng hiệu quả]].
 
 ---
 
 H. Tại sao Arnold Kling tin rằng dễ tập trung chú ý hơn trong bài giảng trực tiếp so với bài giảng video?
 Đ. Những người khác đang chú ý đến diễn giả, điều này khiến việc chú ý trở nên bản năng, không đòi hỏi nhiều nỗ lực duy trì chủ động.
-
 ---
 
 > [!info]- Tài liệu tham khảo
