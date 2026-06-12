@@ -16,7 +16,7 @@ Vì năng lực bản thân còn hạn chế, sẽ không tránh khỏi những 
 Một vài lưu ý nhỏ:
 - Cấu trúc lưu trữ các ghi chú là "phẳng", không có sự phân cấp như cấu trúc thư mục. (welcome bạn tìm hiểu lý do *tại sao*)
 - Một ý tưởng hôm nay có thể đúng, ngày mai có thể sai, và ngược lại. Viết ra đôi khi là để xoá.
-- Các ghi chú là quan điểm và trải nghiệm cá nhân của tác giả (Andy và mình), vì vậy rất có khả năng sẽ không phù hợp với hệ thống tư duy của nhiều người. (hãy [[Suy nghĩ theo cách của bạn]])
+- Các ghi chú là quan điểm và trải nghiệm cá nhân của tác giả (Andy và mình), vì vậy rất có khả năng sẽ không phù hợp với hệ thống tư duy của nhiều người. (hãy [[Tự mình suy nghĩ]])
 
 Để giúp cho việc xem các note về cùng một chủ đề, một vài note dạng MOC (Map of content) sau sẽ hữu ích:
 - [[Ghi chú thường xanh]]

@@ -11,7 +11,7 @@ Triển vọng này là điều tôi gọi là [[Văn bản có chiều thời g
 
 ### Sách có chiều thời gian dài hơn, nhưng nhìn chung không được thiết kế
 Sách thường mất nhiều tuần hoặc nhiều tháng để đọc. Nhưng sách hầu như không bao giờ có chiều thời gian *được thiết kế* như phim hay kịch. Tác giả thường không chỉ định các ngày, tuần và tháng theo cách nhà làm phim chỉ định từng phút. Nhiều ý tưởng cần thời gian để thấm: ngoài [[Hiệu ứng ngắt quãng]], mọi người phải tiếp xúc với chúng nhiều lần trước khi ý nghĩa thật sự trở nên rõ ràng.
-
+O
 Hãy xem xét một mối quan hệ chuyên gia và học trò thật sự. Chuyên gia có thể giới thiệu một ý tưởng, rồi quan sát nó nảy nở trong học trò qua những tuần tiếp theo, có lẽ bằng cách nhắc lại ý tưởng đó vài lần theo nhiều cách khác nhau để thúc đẩy sự phát triển của nó. Sau khi học trò đã có đủ thời gian hấp thụ ý tưởng, chuyên gia có thể giới thiệu một hệ quả nào đó của ý tưởng vào thời điểm tạo tác động lớn nhất. Đây không chỉ là vấn đề được mô tả trong [[Hầu hết phương tiện giải thích bắt người tham gia tự chạy vòng phản hồi]]: chuyên gia đang sắp xếp thành phần thời gian trong trải nghiệm của học trò.
 
 Ngược lại, nếu tác giả muốn giới thiệu cả một ý tưởng lẫn một hệ quả tinh tế của nó, hai điểm này chỉ có thể cách nhau bằng vài trang trong cùng một cuốn sách. Đôi khi tác giả viết ghi chú kiểu "đừng đọc chương này cho đến khi…", nhưng cách này rõ ràng khá hạn chế.

@@ -9,7 +9,7 @@ Khi xây dựng một cơ sở tri thức cá nhân được kết nối với n
 
 Các công cụ như vậy có thể hữu ích để hỗ trợ quá trình liên kết, và có thể là nơi thứ hai để tìm liên kết, nhưng ta không nên dựa vào chúng để làm toàn bộ công việc.
 
-Thứ nhất: quá trình suy nghĩ về quan hệ giữa các mục là một phần của cách bạn có thể [[Suy nghĩ theo cách của bạn]]. Nó buộc bạn tương tác sâu hơn với tài liệu mới.
+Thứ nhất: quá trình suy nghĩ về quan hệ giữa các mục là một phần của cách bạn có thể [[Tự mình suy nghĩ]]. Nó buộc bạn tương tác sâu hơn với tài liệu mới.
 
 Thứ hai: bạn muốn các liên kết của mình có tín hiệu cao, để không phải cố đánh giá một danh sách liên kết lộn xộn. Muốn đánh giá nhanh một danh sách như vậy mà không điều hướng giữa các mục, bạn phải nhớ tất cả các mục đó chứa gì. Các liên kết được chọn lọc chặt chẽ sẽ có tín hiệu cao hơn.
 

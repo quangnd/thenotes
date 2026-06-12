@@ -19,7 +19,7 @@ Mọi người coi thẻ ghi nhớ là thứ gì đó tầm thường từ thờ
 
 Thật không may, không rõ ràng khi nào các thẻ bạn đã viết là tệ, vì vậy mọi người thường không nhận ra rằng các thẻ của họ là tệ. Điều này có thể khiến họ đánh giá thấp hiệu suất hoặc đánh giá quá cao sự tẻ nhạt của việc thực hành với hệ thống ghi nhớ lặp lại ngắt quãng.
 
-Một giải pháp: [[Phương tiện ghi nhớ có thể giúp dựng cấu trúc hỗ trợ cho việc viết prompt thông qua các prompt do tác giả cung cấp]]
+Một giải pháp: [[Phương tiện ghi nhớ có thể giúp dựng bộ khung cho việc viết prompt thông qua các prompt do tác giả cung cấp]]
 
 #### Tốn sức ngay cả khi bạn biết cách (It's taxing even if you know how)
 

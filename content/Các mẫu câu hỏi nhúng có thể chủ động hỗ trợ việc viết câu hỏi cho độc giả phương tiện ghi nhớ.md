@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-06-11
 ---
 
-[[Phương tiện ghi nhớ có thể giúp dựng cấu trúc hỗ trợ cho việc viết prompt thông qua các prompt do tác giả cung cấp]], nhưng đôi khi việc người đọc tự viết câu hỏi của mình lại đặc biệt quan trọng. Điều này nhất là đúng khi tác động mong muốn mang tính cá nhân nhiều hơn là trí tuệ, như trong [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Trong những tình huống đó, nếu tác giả có thể giúp người đọc tự viết câu hỏi thì sao? Có lẽ họ có thể cung cấp một bộ mẫu câu hỏi để người đọc tùy chỉnh, rồi xen trực tiếp chúng vào trải nghiệm đọc như trong bản phác thảo này:
+[[Phương tiện ghi nhớ có thể giúp dựng bộ khung cho việc viết prompt thông qua các prompt do tác giả cung cấp]], nhưng đôi khi việc người đọc tự viết câu hỏi của mình lại đặc biệt quan trọng. Điều này nhất là đúng khi tác động mong muốn mang tính cá nhân nhiều hơn là trí tuệ, như trong [[Lặp lại ngắt quãng giúp hình thành và thay đổi thói quen]]. Trong những tình huống đó, nếu tác giả có thể giúp người đọc tự viết câu hỏi thì sao? Có lẽ họ có thể cung cấp một bộ mẫu câu hỏi để người đọc tùy chỉnh, rồi xen trực tiếp chúng vào trải nghiệm đọc như trong bản phác thảo này:
 
 ![](Attachments/habit demo 2.png)
 

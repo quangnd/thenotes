@@ -1,0 +1,25 @@
+filters:
+  and:
+    - draft == true
+properties:
+  file.name:
+    displayName: Notes
+  created:
+    displayName: Created date
+  modified:
+    displayName: Modified date
+  file.tags:
+    displayName: Tag
+views:
+  - type: table
+    name: Drafts
+    order:
+      - file.name
+      - created
+      - modified
+      - file.tags
+    sort:
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 417

@@ -2,14 +2,14 @@
 aliases:
   - Literature notes are secondary and separate
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 
 Vì [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh nên xoay quanh khái niệm]], các ghi chú gắn với tài liệu cụ thể nên ngắn gọn và tách rõ khỏi kho ghi chú chính. Chúng tồn tại chủ yếu để hỗ trợ bạn viết ghi chú lâu dài.
 
 Ghi chú văn liệu thường chỉ là bản tổng hợp nhẹ các quan sát thu thập được khi đọc (xem [[Cách thu thập quan sát khi đọc|cách ghi lại quan sát trong khi đọc]]). Có thể giữ lại một bản tóm tắt nhanh về tác phẩm cùng các quan sát đó để tra cứu sau, nhưng phần lớn giá trị đã được hấp thụ vào ghi chú lâu dài (xem [[Cách xử lý chú thích đọc thành ghi chú thường xanh|cách chuyển chú thích khi đọc thành ghi chú thường xanh]]). Giá trị chính của ghi chú văn liệu nằm ở các liên kết trỏ tới những ghi chú lâu dài đó ([[Ghi chú văn liệu có còn cần thiết khi đã có liên kết ngược toàn cục tự động_]]).
 
-Có một lý do triết học quan trọng để tách ghi chú văn liệu khỏi ghi chú lâu dài. Kho ghi chú lâu dài là nơi bạn [[Suy nghĩ theo cách của bạn|tự mình suy nghĩ]]. Bạn đã diễn giải ý tưởng của người khác vào cấu trúc kiến thức của riêng mình. Trích dẫn trực tiếp khá hiếm. Ghi chú lâu dài được viết bằng lời của chính bạn một cách có chủ đích. Ngược lại, ghi chú văn liệu chủ yếu chứa suy nghĩ của tác giả. Chúng thường dựa vào trích dẫn trực tiếp, và ngay cả khi có phần diễn giải của bạn, phần đó vẫn nằm trong bối cảnh bản thể luận và hệ thống luận điểm của tác giả. [[Khó lắng nghe chính mình suy nghĩ]], nên cần tách rõ không gian cho tư duy của chính mình khỏi nơi chứa suy nghĩ của người khác.
+Có một lý do triết học quan trọng để tách ghi chú văn liệu khỏi ghi chú lâu dài. Kho ghi chú lâu dài là nơi bạn [[Tự mình suy nghĩ|tự mình suy nghĩ]]. Bạn đã diễn giải ý tưởng của người khác vào cấu trúc kiến thức của riêng mình. Trích dẫn trực tiếp khá hiếm. Ghi chú lâu dài được viết bằng lời của chính bạn một cách có chủ đích. Ngược lại, ghi chú văn liệu chủ yếu chứa suy nghĩ của tác giả. Chúng thường dựa vào trích dẫn trực tiếp, và ngay cả khi có phần diễn giải của bạn, phần đó vẫn nằm trong bối cảnh bản thể luận và hệ thống luận điểm của tác giả. [[Khó lắng nghe chính mình suy nghĩ]], nên cần tách rõ không gian cho tư duy của chính mình khỏi nơi chứa suy nghĩ của người khác.
 
 ---
 

@@ -2,11 +2,11 @@
 aliases:
   - How to process reading annotations into evergreen notes
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 [[Viết về thứ mình đọc]] là việc quan trọng. Khi đọc, bạn đã đánh dấu các đoạn có vẻ liên quan và ghi nhanh suy nghĩ của mình ([[Cách thu thập quan sát khi đọc|cách ghi lại quan sát trong khi đọc]]). Giờ là lúc xử lý tất cả thành ghi chú lâu dài.
 
-Trước hết: nên viết những ghi chú nào? Chúng ta sẽ viết [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh xoay quanh khái niệm]], vậy đâu là các khái niệm chính? Cần lùi lại một bước để hình dung cấu trúc tổng thể của các ý tưởng. Cách làm cụ thể: gom các mẩu ghi chú thành cụm và quan sát cấu trúc hiện ra. Hoặc phác thảo sơ đồ tư duy, dàn ý trực quan. Cấu trúc bạn thấy *không nhất thiết khớp với cấu trúc của cuốn sách*. Nó là bất cứ cấu trúc nào hợp lý trong cách bạn hiểu thế giới ([[Suy nghĩ theo cách của bạn|tự mình suy nghĩ]]).
+Trước hết: nên viết những ghi chú nào? Chúng ta sẽ viết [[Ghi chú thường xanh nên hướng khái niệm|ghi chú thường xanh xoay quanh khái niệm]], vậy đâu là các khái niệm chính? Cần lùi lại một bước để hình dung cấu trúc tổng thể của các ý tưởng. Cách làm cụ thể: gom các mẩu ghi chú thành cụm và quan sát cấu trúc hiện ra. Hoặc phác thảo sơ đồ tư duy, dàn ý trực quan. Cấu trúc bạn thấy *không nhất thiết khớp với cấu trúc của cuốn sách*. Nó là bất cứ cấu trúc nào hợp lý trong cách bạn hiểu thế giới ([[Tự mình suy nghĩ|tự mình suy nghĩ]]).
 
 Khi đã có bức tranh về các khái niệm, hãy bắt đầu quy trình viết ghi chú theo vòng lặp. Tôi tóm tắt lại quy trình của Christian Tietze ở đây, đồng thời đang áp dụng và điều chỉnh dần:
 

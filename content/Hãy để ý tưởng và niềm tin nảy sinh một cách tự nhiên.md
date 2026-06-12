@@ -5,7 +5,7 @@ created: 2026-05-26
 modified: 2026-06-11
 ---
 
-Hãy cẩn thận với những quan niệm có sẵn. [[Suy nghĩ theo cách của bạn]].
+Hãy cẩn thận với những quan niệm có sẵn. [[Tự mình suy nghĩ]].
 
 - Tạo ra sản phẩm nhanh hơn bằng cách tận dụng công trình hiện có
 	- [[Viết ghi chú thường xanh là đơn vị cơ bản của công việc tri thức]]

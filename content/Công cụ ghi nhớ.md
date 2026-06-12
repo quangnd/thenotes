@@ -11,7 +11,7 @@ Nó được sử dụng lần đầu trong [[Quantum Country]]. Hiện tôi đa
 - Thuộc tính thiết kế chính:
 	- [[Phương tiện ghi nhớ tạo cấu trúc cho các câu hỏi trong hệ thống ghi nhớ lặp lại ngắt quãng vốn thường bị phân mảnh]]
 	- [[Phương tiện ghi nhớ cung cấp các câu nhắc do chuyên gia viết]]
-	- [[Phương tiện ghi nhớ có thể giúp dựng cấu trúc hỗ trợ cho việc viết prompt thông qua các prompt do tác giả cung cấp]]
+	- [[Phương tiện ghi nhớ có thể giúp dựng bộ khung cho việc viết prompt thông qua các prompt do tác giả cung cấp]]
 	- [[Thiết kế của phương tiện ghi nhớ dựa vào các câu nhắc nhẹ]]
 	- [[Điều quan trọng nhất cần tối ưu hóa trong hệ thống ghi nhớ lặp lại ngắt quãng là kết nối cảm xúc với phiên ôn tập và nội dung của nó]]
 - Tác động

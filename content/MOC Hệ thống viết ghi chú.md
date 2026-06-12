@@ -2,7 +2,7 @@
 aliases:
   - §Note-writing systems
 created: 2026-05-26
-modified: 2026-06-10
+modified: 2026-06-11
 ---
 
 - Nguyên tắc
@@ -15,7 +15,7 @@ modified: 2026-06-10
 	- [[Viết về thứ mình đọc]]
 		- [[Viết ghi chú thường xanh giúp nỗ lực đọc tích lũy]]
 			- [[Thu thập tài liệu cảm giác hữu ích hơn thực tế|Thu thập tài liệu thường có vẻ hữu ích hơn thực tế]]
-		- [[Suy nghĩ theo cách của bạn|Tự mình suy nghĩ để hiểu]]
+		- [[Tự mình suy nghĩ|Tự mình suy nghĩ để hiểu]]
 			- [[Muốn hiểu thì phải bỏ công]]
 			- [[Viết buộc ta phải hiểu vấn đề sắc bén hơn|Viết buộc ta hiểu vấn đề rõ và sâu hơn]]
 	- [[Cách thu thập quan sát khi đọc|Cách ghi lại quan sát trong khi đọc]]
