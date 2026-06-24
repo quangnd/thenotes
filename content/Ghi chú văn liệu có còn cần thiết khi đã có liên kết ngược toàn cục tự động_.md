@@ -14,6 +14,7 @@ Một lý do ủng hộ ghi chú văn liệu là nó tạo cơ hội tuyển ch�
 Nhưng các liên kết được tuyển chọn đó có nhất thiết phải ở dạng văn bản không? Liệu chỉ dựa vào siêu dữ liệu để tạo liên kết có đủ không? [[Ưu và nhược điểm của việc dùng ghi chú để tạo liên kết trong nội dung]]
 
 Liên quan: [[Thực hành gắn thẻ ghi chú nên thay đổi như thế nào với trực quan hóa liên kết xếp hạng_]]
+
 ---
 
 > [!info]- Tài liệu tham khảo

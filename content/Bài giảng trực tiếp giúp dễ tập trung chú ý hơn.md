@@ -15,6 +15,7 @@ Ngược lại, khi xem bài giảng trực tuyến một mình, hoặc cố đ�
 
 H. Tại sao Arnold Kling tin rằng dễ tập trung chú ý hơn trong bài giảng trực tiếp so với bài giảng video?
 Đ. Những người khác đang chú ý đến diễn giả, điều này khiến việc chú ý trở nên bản năng, không đòi hỏi nhiều nỗ lực duy trì chủ động.
+
 ---
 
 > [!info]- Tài liệu tham khảo

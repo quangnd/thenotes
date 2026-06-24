@@ -38,10 +38,11 @@ Với sự trợ giúp của AI trong năm 2026, việc luyện tập có chủ 
 - Tạo benchmark
 - Hỗ trợ tự đánh giá
 
-Rủi ro là, xem thêm [nghiên cứu](https://arxiv.org/abs/2503.24334?utm_source=chatgpt.com)
+Rủi ro là:
 - AI suy nghĩ hộ và khiến con người lười nhác hoặc mất khả năng tư duy nếu quá phụ thuộc
 - Giảm cơ hội thực hành
 - Giảm sự phát triển chuyên môn sau 
+(xem thêm [nghiên cứu](https://arxiv.org/abs/2503.24334?utm_source=chatgpt.com))
 
 > Điều quan trọng nhất là phải biến năng lực trừu tượng thành những kỹ năng nhỏ có đầu ra đánh giá được
 

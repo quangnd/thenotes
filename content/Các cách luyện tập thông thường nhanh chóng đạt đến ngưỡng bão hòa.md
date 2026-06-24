@@ -14,6 +14,7 @@ Các ví dụ thực nghiệm:
 - Trong một loạt thí nghiệm về [[Khoảng bộ nhớ làm việc]], Chase và Ericsson báo cáo rằng các chiến lược thông thường của đối tượng, tức đọc to các chuỗi số để ghi nhớ, luôn dẫn đến ngưỡng bão hòa (1981, tr. 146).
 
 Điều này có thể giải thích một phần tại sao [[Cách viết ghi chú thông thường không hiệu quả]]: theo kinh nghiệm thực tế, hầu hết mọi người chỉ dành một ít nỗ lực không hiệu quả để suy nghĩ về cách ghi chú ở trường, đạt đến mức tự động hóa, rồi ngừng nghĩ về nó. Điều này cũng có thể giải thích một số khía cạnh của [[Các thực hành cốt lõi trong công việc tri thức thường mang tính tùy hứng]] (ví dụ: [[Người làm công việc tri thức hiếm khi có phương pháp rõ ràng để nuôi ý tưởng theo thời gian]]).
+
 ---
 
 > [!info]- Tài liệu tham khảo (References)
