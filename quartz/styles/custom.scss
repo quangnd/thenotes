@@ -9,6 +9,7 @@
 // NOT need to change when switching — leaving it on the default keeps og-image
 // social cards working (they fetch Google fonts, which iA Writer is not).
 @use "./themes/typewriter.scss";
+@use "./mobile-navigation.scss";
 
 // Body-font consistency across <p>/<li>/<ul>/<ol>/<blockquote>/<table> is now
 // handled by the active theme file (themes/default.scss or typewriter.scss),

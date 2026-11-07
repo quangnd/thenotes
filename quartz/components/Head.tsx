@@ -5,6 +5,8 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../../.quartz/plugins"
+// @ts-expect-error - esbuild imports inline browser scripts as strings
+import navigation from "./scripts/mobile-navigation.inline"
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -110,5 +112,6 @@ export default (() => {
     )
   }
 
+  Head.afterDOMLoaded = navigation
   return Head
 }) satisfies QuartzComponentConstructor

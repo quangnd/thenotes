@@ -1,0 +1,741 @@
+{
+  "normal": {
+    "cards": [
+      {
+        "bottom": 296.3828125,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú cầu nối liên hệ hẹp hai thuật ngữ liền kề",
+        "titleSize": "17px",
+        "top": 163.6015625
+      },
+      {
+        "bottom": 406.21875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 109.8359375,
+        "title": "Ghi chú nên làm bạn ngạc nhiên",
+        "titleSize": "17px",
+        "top": 296.3828125
+      },
+      {
+        "bottom": 539,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú sách In the Cells of the Eggplant của Chapman",
+        "titleSize": "17px",
+        "top": 406.21875
+      },
+      {
+        "bottom": 694.7265625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)",
+        "titleSize": "17px",
+        "top": 539
+      },
+      {
+        "bottom": 827.5078125,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh giúp tăng băng thông hội thoại",
+        "titleSize": "17px",
+        "top": 694.7265625
+      },
+      {
+        "bottom": 960.2890625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo",
+        "titleSize": "17px",
+        "top": 827.5078125
+      },
+      {
+        "bottom": 1116.015625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo",
+        "titleSize": "17px",
+        "top": 960.2890625
+      },
+      {
+        "bottom": 1248.796875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh nên hướng khái niệm",
+        "titleSize": "17px",
+        "top": 1116.015625
+      }
+    ],
+    "close": {
+      "bottom": 57,
+      "clientHeight": 42,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 42,
+      "scrollTop": 0,
+      "top": 13
+    },
+    "container": {
+      "bottom": 812,
+      "clientHeight": 812,
+      "flex": "0 1 auto",
+      "height": 812,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 812,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "input": {
+      "bottom": 113,
+      "clientHeight": 43,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "clip",
+      "scrollHeight": 43,
+      "scrollTop": 0,
+      "top": 69
+    },
+    "layout": {
+      "bottom": 799,
+      "clientHeight": 634,
+      "flex": "1 1 0px",
+      "height": 636.3984375,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 634,
+      "scrollTop": 0,
+      "top": 162.6015625
+    },
+    "pageScroll": 0,
+    "results": {
+      "bottom": 798,
+      "clientHeight": 634,
+      "flex": "1 1 0px",
+      "height": 634.3984375,
+      "maxHeight": "none",
+      "overflowY": "auto",
+      "scrollHeight": 1085,
+      "scrollTop": 0,
+      "top": 163.6015625
+    },
+    "space": {
+      "bottom": 812,
+      "clientHeight": 810,
+      "flex": "0 1 auto",
+      "height": 812,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 810,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "viewport": {
+      "height": 812,
+      "offsetTop": 0,
+      "visualHeight": 812,
+      "width": 375
+    }
+  },
+  "reducedTop": {
+    "cards": [
+      {
+        "bottom": 296.3828125,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú cầu nối liên hệ hẹp hai thuật ngữ liền kề",
+        "titleSize": "17px",
+        "top": 163.6015625
+      },
+      {
+        "bottom": 406.21875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 109.8359375,
+        "title": "Ghi chú nên làm bạn ngạc nhiên",
+        "titleSize": "17px",
+        "top": 296.3828125
+      },
+      {
+        "bottom": 539,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú sách In the Cells of the Eggplant của Chapman",
+        "titleSize": "17px",
+        "top": 406.21875
+      },
+      {
+        "bottom": 694.7265625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)",
+        "titleSize": "17px",
+        "top": 539
+      },
+      {
+        "bottom": 827.5078125,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh giúp tăng băng thông hội thoại",
+        "titleSize": "17px",
+        "top": 694.7265625
+      },
+      {
+        "bottom": 960.2890625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo",
+        "titleSize": "17px",
+        "top": 827.5078125
+      },
+      {
+        "bottom": 1116.015625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo",
+        "titleSize": "17px",
+        "top": 960.2890625
+      },
+      {
+        "bottom": 1248.796875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh nên hướng khái niệm",
+        "titleSize": "17px",
+        "top": 1116.015625
+      }
+    ],
+    "close": {
+      "bottom": 57,
+      "clientHeight": 42,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 42,
+      "scrollTop": 0,
+      "top": 13
+    },
+    "container": {
+      "bottom": 400,
+      "clientHeight": 400,
+      "flex": "0 1 auto",
+      "height": 400,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 400,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "input": {
+      "bottom": 113,
+      "clientHeight": 43,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "clip",
+      "scrollHeight": 43,
+      "scrollTop": 0,
+      "top": 69
+    },
+    "layout": {
+      "bottom": 387,
+      "clientHeight": 222,
+      "flex": "1 1 0px",
+      "height": 224.3984375,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 222,
+      "scrollTop": 0,
+      "top": 162.6015625
+    },
+    "pageScroll": 0,
+    "results": {
+      "bottom": 386,
+      "clientHeight": 222,
+      "flex": "1 1 0px",
+      "height": 222.3984375,
+      "maxHeight": "none",
+      "overflowY": "auto",
+      "scrollHeight": 1085,
+      "scrollTop": 0,
+      "top": 163.6015625
+    },
+    "space": {
+      "bottom": 400,
+      "clientHeight": 398,
+      "flex": "0 1 auto",
+      "height": 400,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 398,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "viewport": {
+      "height": 400,
+      "offsetTop": 0,
+      "visualHeight": 400,
+      "width": 375
+    }
+  },
+  "reducedBottom": {
+    "cards": [
+      {
+        "bottom": -566.1171875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú cầu nối liên hệ hẹp hai thuật ngữ liền kề",
+        "titleSize": "17px",
+        "top": -698.8984375
+      },
+      {
+        "bottom": -456.28125,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 109.8359375,
+        "title": "Ghi chú nên làm bạn ngạc nhiên",
+        "titleSize": "17px",
+        "top": -566.1171875
+      },
+      {
+        "bottom": -323.5,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú sách In the Cells of the Eggplant của Chapman",
+        "titleSize": "17px",
+        "top": -456.28125
+      },
+      {
+        "bottom": -167.7734375,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)",
+        "titleSize": "17px",
+        "top": -323.5
+      },
+      {
+        "bottom": -34.9921875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh giúp tăng băng thông hội thoại",
+        "titleSize": "17px",
+        "top": -167.7734375
+      },
+      {
+        "bottom": 97.7890625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo",
+        "titleSize": "17px",
+        "top": -34.9921875
+      },
+      {
+        "bottom": 253.515625,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 155.7265625,
+        "title": "Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo",
+        "titleSize": "17px",
+        "top": 97.7890625
+      },
+      {
+        "bottom": 386.296875,
+        "description": {
+          "fontSize": "14px",
+          "height": 61,
+          "lineHeight": "20.3px",
+          "overflow": "hidden"
+        },
+        "height": 132.78125,
+        "title": "Ghi chú thường xanh nên hướng khái niệm",
+        "titleSize": "17px",
+        "top": 253.515625
+      }
+    ],
+    "close": {
+      "bottom": 57,
+      "clientHeight": 42,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 42,
+      "scrollTop": 0,
+      "top": 13
+    },
+    "container": {
+      "bottom": 400,
+      "clientHeight": 400,
+      "flex": "0 1 auto",
+      "height": 400,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 400,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "input": {
+      "bottom": 113,
+      "clientHeight": 43,
+      "flex": "0 0 auto",
+      "height": 44,
+      "maxHeight": "none",
+      "overflowY": "clip",
+      "scrollHeight": 43,
+      "scrollTop": 0,
+      "top": 69
+    },
+    "layout": {
+      "bottom": 387,
+      "clientHeight": 222,
+      "flex": "1 1 0px",
+      "height": 224.3984375,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 222,
+      "scrollTop": 0,
+      "top": 162.6015625
+    },
+    "pageScroll": 0,
+    "results": {
+      "bottom": 386,
+      "clientHeight": 222,
+      "flex": "1 1 0px",
+      "height": 222.3984375,
+      "maxHeight": "none",
+      "overflowY": "auto",
+      "scrollHeight": 1085,
+      "scrollTop": 862.5,
+      "top": 163.6015625
+    },
+    "space": {
+      "bottom": 400,
+      "clientHeight": 398,
+      "flex": "0 1 auto",
+      "height": 400,
+      "maxHeight": "none",
+      "overflowY": "hidden",
+      "scrollHeight": 398,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "viewport": {
+      "height": 400,
+      "offsetTop": 0,
+      "visualHeight": 400,
+      "width": 375
+    }
+  },
+  "desktop": {
+    "cards": [
+      {
+        "bottom": 264.4375,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 124.9375,
+        "title": "Ghi chú cầu nối liên hệ hẹp hai thuật ngữ liền kề",
+        "titleSize": "21.088px",
+        "top": 139.5
+      },
+      {
+        "bottom": 361.96875,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 97.53125,
+        "title": "Ghi chú nên làm bạn ngạc nhiên",
+        "titleSize": "21.088px",
+        "top": 264.4375
+      },
+      {
+        "bottom": 514.3125,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 152.34375,
+        "title": "Ghi chú sách In the Cells of the Eggplant của Chapman",
+        "titleSize": "21.088px",
+        "top": 361.96875
+      },
+      {
+        "bottom": 694.0625,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 179.75,
+        "title": "Ghi chú thường xanh cho phép tiến độ gia tăng trơn tru khi viết (viết gia tăng)",
+        "titleSize": "21.088px",
+        "top": 514.3125
+      },
+      {
+        "bottom": 819,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 124.9375,
+        "title": "Ghi chú thường xanh giúp tăng băng thông hội thoại",
+        "titleSize": "21.088px",
+        "top": 694.0625
+      },
+      {
+        "bottom": 971.34375,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 152.34375,
+        "title": "Ghi chú thường xanh là nơi an toàn để nuôi ý tưởng táo bạo",
+        "titleSize": "21.088px",
+        "top": 819
+      },
+      {
+        "bottom": 1123.6875,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 152.34375,
+        "title": "Ghi chú thường xanh làm giảm áp lực cảm xúc khi chỉnh sửa bản thảo",
+        "titleSize": "21.088px",
+        "top": 971.34375
+      },
+      {
+        "bottom": 1221.21875,
+        "description": {
+          "clamp": "",
+          "fontSize": "14.4px",
+          "height": 0,
+          "lineHeight": "25.6px",
+          "overflow": "visible"
+        },
+        "height": 97.53125,
+        "title": "Ghi chú thường xanh nên hướng khái niệm",
+        "titleSize": "21.088px",
+        "top": 1123.6875
+      }
+    ],
+    "close": {
+      "bottom": 0,
+      "clientHeight": 0,
+      "flex": "0 1 auto",
+      "height": 0,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 0,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "container": {
+      "bottom": 900,
+      "clientHeight": 900,
+      "flex": "0 1 auto",
+      "height": 900,
+      "maxHeight": "none",
+      "overflowY": "auto",
+      "scrollHeight": 900,
+      "scrollTop": 0,
+      "top": 0
+    },
+    "heightVariable": "",
+    "input": {
+      "bottom": 138.5,
+      "clientHeight": 29,
+      "flex": "0 1 auto",
+      "height": 29.5,
+      "maxHeight": "none",
+      "overflowY": "clip",
+      "scrollHeight": 29,
+      "scrollTop": 0,
+      "top": 109
+    },
+    "layout": {
+      "bottom": 707.5,
+      "clientHeight": 567,
+      "flex": "0 0 100%",
+      "height": 569,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 567,
+      "scrollTop": 0,
+      "top": 138.5
+    },
+    "pageScroll": 0,
+    "results": {
+      "bottom": 706.5,
+      "clientHeight": 567,
+      "flex": "0 0 min(30%, 450px)",
+      "height": 567,
+      "maxHeight": "none",
+      "overflowY": "auto",
+      "scrollHeight": 1082,
+      "scrollTop": 0,
+      "top": 139.5
+    },
+    "space": {
+      "bottom": 708.5,
+      "clientHeight": 599,
+      "flex": "0 1 auto",
+      "height": 600.5,
+      "maxHeight": "none",
+      "overflowY": "visible",
+      "scrollHeight": 599,
+      "scrollTop": 0,
+      "top": 108
+    },
+    "viewport": {
+      "height": 900,
+      "offsetTop": 0,
+      "visualHeight": 900,
+      "width": 1440
+    }
+  },
+  "note": "Responsive desktop browser evidence only; 375x400 is a reduced viewport, not a native iOS keyboard. Owner iPhone Safari smoke test remains required.",
+  "reducedViewportComputedCSS": {
+    "containerHeightVariable": "400px",
+    "containerTopVariable": "0px",
+    "descriptionWebkitLineClamp": "3"
+  }
+}
