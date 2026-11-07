@@ -11,17 +11,21 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' || (github.repository == 'quangnd/thenotes' && github.event_name == 'pull_request') }}
+    name: PR / ${{ matrix.check }} (${{ matrix.os }})
     strategy:
+      fail-fast: false
       matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
+        os: ${{ fromJSON(github.repository == 'jackyzha0/quartz' && '["windows-latest", "macos-latest", "ubuntu-latest"]' || '["ubuntu-latest"]') }}
+        check: [check, test, build]
     runs-on: ${{ matrix.os }}
     permissions:
-      contents: write
+      contents: read
     steps:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -32,31 +36,38 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          key: pr-validation-${{ runner.os }}-node-24-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.os }}-node-
+            pr-validation-${{ runner.os }}-node-24-
 
       - name: Cache Quartz plugins
         uses: actions/cache@v5
         with:
           path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-plugins-
+          key: pr-validation-${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json', 'quartz.config.yaml', 'plugins/**', 'quartz/cli/plugin-git-handlers.js') }}
 
       - run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run quartz -- plugin install
+
+      - name: Apply local Quartz plugin patches
+        shell: bash
+        run: |
+          bash scripts/patch-quartz-plugins.sh
+          node scripts/patch-quartz-slugify.mjs
 
       - name: Check types and style
+        if: matrix.check == 'check'
         run: npm run check
 
       - name: Test
+        if: matrix.check == 'test'
         run: npm test
 
       - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo -d docs
+        if: matrix.check == 'build'
+        run: npm run quartz -- build --bundleInfo -d docs
 
   publish-tag:
     if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}

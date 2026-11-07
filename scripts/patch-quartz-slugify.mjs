@@ -65,7 +65,10 @@ for (const file of collectTargets()) {
     if (src.includes('.normalize("NFKD")')) alreadyOk++
     continue
   }
-  fs.writeFileSync(file, src.replace(ORIGINAL_CHAIN, () => PATCHED_CHAIN))
+  fs.writeFileSync(
+    file,
+    src.replace(ORIGINAL_CHAIN, () => PATCHED_CHAIN),
+  )
   console.log("patched slugify:", path.relative(ROOT, file))
   patched++
 }
