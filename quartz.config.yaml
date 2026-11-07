@@ -201,7 +201,7 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-      display: desktop-only
+      display: all
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
