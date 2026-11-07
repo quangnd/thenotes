@@ -1,3 +1,10 @@
 public
 node_modules
 .quartz-cache
+
+# Authored vault/export content: do not rewrite it to satisfy application CI.
+content/
+MEMORY.md
+themes/
+# Checked-in plugin bundles are generated/vendor output, not editable source.
+plugins/**/dist/
