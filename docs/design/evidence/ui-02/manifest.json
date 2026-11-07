@@ -1,0 +1,542 @@
+[
+  {
+    "file": "before-home-390-dark.jpg",
+    "date": "2026-11-07T04:44:13.749Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 390
+  },
+  {
+    "file": "before-menu-390-dark.jpg",
+    "date": "2026-11-07T04:41:47.740Z",
+    "focus": "theme-dark",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 390
+  },
+  {
+    "file": "before-home-390-light.jpg",
+    "date": "2026-11-07T04:44:18.601Z",
+    "focus": "darkmode",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 390
+  },
+  {
+    "file": "before-menu-390-light.jpg",
+    "date": "2026-11-07T04:44:23.866Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 390
+  },
+  {
+    "file": "before-home-375-light.jpg",
+    "date": "2026-11-07T04:44:27.798Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 375
+  },
+  {
+    "file": "before-menu-375-light.jpg",
+    "date": "2026-11-07T04:44:33.732Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 375
+  },
+  {
+    "file": "before-home-375-dark.jpg",
+    "date": "2026-11-07T04:44:37.883Z",
+    "focus": "darkmode",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 375
+  },
+  {
+    "file": "before-menu-375-dark.jpg",
+    "date": "2026-11-07T04:44:42.680Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 375
+  },
+  {
+    "file": "before-home-1440-dark.jpg",
+    "date": "2026-11-07T04:44:49.492Z",
+    "focus": "theme-dark",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "before-search-1440-dark.jpg",
+    "date": "2026-11-07T04:44:53.356Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "before-results-1440-dark.jpg",
+    "date": "2026-11-07T04:44:58.434Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "before-home-1440-light.jpg",
+    "date": "2026-11-07T04:45:14.291Z",
+    "focus": "darkmode",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "before-search-1440-light.jpg",
+    "date": "2026-11-07T04:45:18.440Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "before-results-1440-light.jpg",
+    "date": "2026-11-07T04:45:22.671Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8765/",
+    "width": 1440
+  },
+  {
+    "file": "after-home-390-dark.jpg",
+    "date": "2026-11-07T05:03:08.909Z",
+    "focus": "darkmode",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-menu-390-dark.jpg",
+    "date": "2026-11-07T05:03:09.419Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-search-390-dark.jpg",
+    "date": "2026-11-07T05:03:09.692Z",
+    "focus": "search-bar",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-results-390-dark.jpg",
+    "date": "2026-11-07T05:03:09.778Z",
+    "focus": "search-bar",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-home-390-light.jpg",
+    "date": "2026-11-07T05:03:07.725Z",
+    "focus": "theme-light",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-menu-390-light.jpg",
+    "date": "2026-11-07T05:03:08.259Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-search-390-light.jpg",
+    "date": "2026-11-07T05:03:08.517Z",
+    "focus": "search-bar",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-results-390-light.jpg",
+    "date": "2026-11-07T05:03:08.616Z",
+    "focus": "search-bar",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 390
+  },
+  {
+    "file": "after-home-375-light.jpg",
+    "date": "2026-11-07T05:03:11.060Z",
+    "focus": "darkmode",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-menu-375-light.jpg",
+    "date": "2026-11-07T05:03:11.610Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-search-375-light.jpg",
+    "date": "2026-11-07T05:03:11.925Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-results-375-light.jpg",
+    "date": "2026-11-07T05:03:12.027Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-home-375-dark.jpg",
+    "date": "2026-11-07T05:03:09.891Z",
+    "focus": "search-button",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-menu-375-dark.jpg",
+    "date": "2026-11-07T05:03:10.378Z",
+    "focus": "explorer-toggle mobile-explorer",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-search-375-dark.jpg",
+    "date": "2026-11-07T05:03:10.674Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-results-375-dark.jpg",
+    "date": "2026-11-07T05:03:10.763Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-no-results-375-dark.jpg",
+    "date": "2026-11-07T04:53:31.638Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-keyboard-height-375-dark.jpg",
+    "date": "2026-11-07T04:53:46.067Z",
+    "focus": "search-bar",
+    "height": 400,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 375
+  },
+  {
+    "file": "after-moc-375-dark.jpg",
+    "date": "2026-11-07T05:02:43.001Z",
+    "focus": "theme-dark",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 375
+  },
+  {
+    "file": "after-article-375-dark.jpg",
+    "date": "2026-11-07T05:02:43.618Z",
+    "focus": "theme-dark",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 375
+  },
+  {
+    "file": "after-moc-375-light.jpg",
+    "date": "2026-11-07T05:02:44.690Z",
+    "focus": "theme-light",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 375
+  },
+  {
+    "file": "after-article-375-light.jpg",
+    "date": "2026-11-07T05:02:45.276Z",
+    "focus": "theme-light",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 375
+  },
+  {
+    "file": "after-moc-390-light.jpg",
+    "date": "2026-11-07T05:02:46.032Z",
+    "focus": "theme-light",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 390
+  },
+  {
+    "file": "after-article-390-light.jpg",
+    "date": "2026-11-07T05:02:46.680Z",
+    "focus": "theme-light",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 390
+  },
+  {
+    "file": "after-moc-390-dark.jpg",
+    "date": "2026-11-07T05:02:47.796Z",
+    "focus": "theme-dark",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 390
+  },
+  {
+    "file": "after-article-390-dark.jpg",
+    "date": "2026-11-07T05:02:48.396Z",
+    "focus": "theme-dark",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 390
+  },
+  {
+    "file": "after-moc-1440-dark.jpg",
+    "date": "2026-11-07T05:02:59.991Z",
+    "focus": "theme-dark",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 1440
+  },
+  {
+    "file": "after-article-1440-dark.jpg",
+    "date": "2026-11-07T05:03:01.753Z",
+    "focus": "theme-dark",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 1440
+  },
+  {
+    "file": "after-moc-1440-light.jpg",
+    "date": "2026-11-07T05:03:04.537Z",
+    "focus": "theme-light",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/moc-he-thong-viet-ghi-chu",
+    "width": 1440
+  },
+  {
+    "file": "after-article-1440-light.jpg",
+    "date": "2026-11-07T05:03:06.137Z",
+    "focus": "theme-light",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/ghi-chu-sach-in-the-cells-of-the-eggplant-cua-chapman",
+    "width": 1440
+  },
+  {
+    "file": "after-home-1440-light.jpg",
+    "date": "2026-11-07T04:54:42.868Z",
+    "focus": "theme-light",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-search-1440-light.jpg",
+    "date": "2026-11-07T04:54:43.535Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-results-1440-light.jpg",
+    "date": "2026-11-07T04:54:44.008Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "light",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-home-1440-dark.jpg",
+    "date": "2026-11-07T04:55:04.283Z",
+    "focus": "darkmode",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-search-1440-dark.jpg",
+    "date": "2026-11-07T04:55:04.853Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-results-1440-dark.jpg",
+    "date": "2026-11-07T04:55:05.339Z",
+    "focus": "search-bar",
+    "height": 900,
+    "scrollWidth": 1440,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/",
+    "width": 1440
+  },
+  {
+    "file": "after-spa-selection-390-dark.jpg",
+    "date": "2026-11-07T04:59:28.280Z",
+    "focus": "article-title",
+    "height": 844,
+    "scrollWidth": 390,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/ghi-chu-thuong-xanh-cho-phep-tien-do-gia-tang-tron-tru-khi-viet-viet-gia-tang",
+    "width": 390
+  },
+  {
+    "file": "after-spa-selection-375-dark.jpg",
+    "date": "2026-11-07T05:01:44.917Z",
+    "focus": "article-title",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8768/ghi-chu-nen-lam-ban-ngac-nhien",
+    "width": 375
+  },
+  {
+    "file": "after-index-error-375-dark.jpg",
+    "date": "2026-11-07T05:01:55.842Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8771/",
+    "width": 375
+  },
+  {
+    "file": "after-index-loading-375-dark.jpg",
+    "date": "2026-11-07T05:02:28.768Z",
+    "focus": "search-bar",
+    "height": 812,
+    "scrollWidth": 375,
+    "theme": "dark",
+    "url": "http://127.0.0.1:8773/",
+    "width": 375
+  }
+]
